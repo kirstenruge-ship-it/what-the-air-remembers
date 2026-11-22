@@ -1,0 +1,62 @@
+[
+  {
+    "left": "3314",
+    "pair_id": "ref-01",
+    "right": "62900",
+    "role": "profile"
+  },
+  {
+    "left": "637566",
+    "pair_id": "ref-02",
+    "right": "240",
+    "role": "profile"
+  },
+  {
+    "left": "2758",
+    "pair_id": "ref-03",
+    "right": "5315892",
+    "role": "profile"
+  },
+  {
+    "left": "5363388",
+    "pair_id": "ref-04",
+    "right": "4133",
+    "role": "profile"
+  },
+  {
+    "left": "264",
+    "pair_id": "ref-05",
+    "right": "6054",
+    "role": "profile"
+  },
+  {
+    "left": "440917",
+    "pair_id": "ref-06",
+    "right": "6448",
+    "role": "profile"
+  },
+  {
+    "left": "6549",
+    "pair_id": "ref-07",
+    "right": "31276",
+    "role": "test"
+  },
+  {
+    "left": "7793",
+    "pair_id": "ref-08",
+    "right": "7762",
+    "role": "test"
+  },
+  {
+    "left": "7559",
+    "pair_id": "ref-09",
+    "right": "439570",
+    "role": "test"
+  },
+  {
+    "left": "165675",
+    "pair_id": "ref-10",
+    "right": "637758",
+    "role": "test"
+  }
+]

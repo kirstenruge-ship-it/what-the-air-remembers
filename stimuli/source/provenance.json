@@ -1,0 +1,26 @@
+{
+  "keller_subset_rows": 83160,
+  "keller_subset_uncompressed_sha256": "9674bffc6037089f6b2bfaa6b6c30a35f8a9073fde02fe577b5f782b9d183ab1",
+  "panel_citation": "Andreas Keller and Leslie B. Vosshall, Olfactory perception of chemically diverse molecules, BMC Neuroscience 17:55 (2016), DOI:10.1186/s12868-016-0287-2.",
+  "pubchem_api_date": "2026-11-22 UTC",
+  "pubchem_source_queries": [
+    "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/property/IUPACName,Title/JSON",
+    "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/synonyms/JSON"
+  ],
+  "raw_verified_repository_revision": "c7147a9362d18e011b6e7a3a5a477d5e4a0a4cbb",
+  "release_assets": [
+    "selected-human-panel.csv.gz",
+    "eligible-cids.txt",
+    "alias-evidence.csv"
+  ],
+  "rights": "The original Keller & Vosshall article is CC BY 4.0; the publisher applies CC0 to its data unless otherwise stated. PubChem names are factual identifiers; see per-record sources. These terms describe source materials only.",
+  "source_base": "https://raw.githubusercontent.com/pyrfume/pyrfume-data/c7147a9362d18e011b6e7a3a5a477d5e4a0a4cbb/keller_2016/",
+  "source_sha256": {
+    "behavior.csv": "ab31c17c475c8b471706822f89aaf9e148bebe5f50f33ff03ebc42b32ac94df8",
+    "molecules.csv": "5f862b6ea62dd3ee0a15138605ea2567d06a527263284348a5982844f9bec81f",
+    "pubchem_properties": "e7c51e78dd2cac5473570d7876ad45c217ef6e8c4f0ea4ea6877cd7dfea5ca62",
+    "pubchem_synonyms": "ebcb6db3fbcc12d18832ec745e92bd8086cfffa8cbe91007630acfe066a8a16d",
+    "stimuli.csv": "49c1a6bfb8c1665a31e13f515add95a95291f29416be1bb0b54d3317efb6665b"
+  },
+  "subset_details": "Targets and landmarks: exact source presentation/subject, original detection and numeric quality rows prior to averaging; free text and demographics excluded."
+}

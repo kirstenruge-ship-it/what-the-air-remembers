@@ -1,0 +1,75 @@
+{
+  "clock": "Frozen without any Kimi inference or outcome selection",
+  "counts": {
+    "confirm": 384,
+    "deletion": 480,
+    "development": 40,
+    "encoding": 576,
+    "household": 336,
+    "name_validation": 128,
+    "profile": 480,
+    "qualify": 12,
+    "sealed": 256,
+    "state": 160
+  },
+  "decoding": "native natural generation through EOS, no application output bounds; all emitted reasoning retained",
+  "environment": {
+    "numpy": "2.2.5",
+    "pandas": "3.0.6",
+    "python": "3.11.16",
+    "rdkit": "2025.09.3"
+  },
+  "file_sha256": {
+    "human_choices.csv": "715b2a16100fa8368671dada98589f13ecbc266f6f8dd3fef676a58561cfd031",
+    "landmarks.json": "1a6fa913b8bdaad8b9d38476c3823951a9a9e4622a2659f6f9438e3ce196aa67",
+    "nuisance.csv": "3290b3cc4096f1b48e7374a0b7f9d225db000534d4b50020fd65da0fdd6ae97a",
+    "odor_pairs.json": "a8c3db09c0da8e4e36750572efddd661d24374adceb4d1532292dbababa7a76b",
+    "roster.json": "f930c3b02145ba4fa758c5bf3c331d23790b8372d60d13e379bf9c288135c776",
+    "stories.json": "a1f1ef736301e642c4ca7573253d4c5ea69692c542e8e8c16565c9ad6814a051",
+    "trials.jsonl": "4516192c45ff56feaeef616ef3f798ae5e1c280cc3dc9906a66bc23476499631"
+  },
+  "format_version": 1,
+  "isomer_policy": "The curated source SMILES can omit stereo; fingerprints and scaffold comparison ignore stereo to prevent stereoisomer leakage.",
+  "max_rendered_input_tokens": 220,
+  "model": "moonshotai/Kimi-K3.1-Pro",
+  "model_revision": "d9e99b0792a5e93b78ea9bea62a68167e36ddd9e",
+  "quality_sd_in_fitting": {
+    "ACID": 3.134124990386308,
+    "AMMONIA/URINOUS": 2.5674724345395212,
+    "BAKERY": 2.9761802610770407,
+    "BURNT": 2.584133867880264,
+    "CHEMICAL": 6.288698785970822,
+    "COLD": 2.638539252227797,
+    "DECAYED": 1.6220431822971582,
+    "EDIBLE": 4.9236581727828055,
+    "FISH": 0.744139136610564,
+    "FLOWER": 3.592684776641889,
+    "FRUIT": 4.386208631780125,
+    "GARLIC": 1.4154647677635686,
+    "GRASS": 2.0891733444358302,
+    "MUSKY": 2.4648188435578504,
+    "SOUR": 3.188426976567049,
+    "SPICES": 4.19946357752084,
+    "SWEATY": 1.3755547298963895,
+    "SWEET": 6.603947812444037,
+    "WARM": 2.978998557124415,
+    "WOOD": 1.7347383091874644
+  },
+  "reasoning_effort": "max",
+  "source_hashes": {
+    "behavior.csv": "ab31c17c475c8b471706822f89aaf9e148bebe5f50f33ff03ebc42b32ac94df8",
+    "molecules.csv": "5f862b6ea62dd3ee0a15138605ea2567d06a527263284348a5982844f9bec81f",
+    "pubchem_properties": "e7c51e78dd2cac5473570d7876ad45c217ef6e8c4f0ea4ea6877cd7dfea5ca62",
+    "pubchem_synonyms": "ebcb6db3fbcc12d18832ec745e92bd8086cfffa8cbe91007630acfe066a8a16d",
+    "stimuli.csv": "49c1a6bfb8c1665a31e13f515add95a95291f29416be1bb0b54d3317efb6665b"
+  },
+  "temperature": 1.0,
+  "tokenizer_hashes": {
+    "encoding_k3.py": "367f0a7ab8800f78f7e09dc31e58544ee7fc46eea992ea05b32d53506a921cc5",
+    "tiktoken.model": "b6c497a7469b33ced9c38afb1ad6e47f03f5e5dc05f15930799210ec050c5103",
+    "tokenization_kimi.py": "204ee39fbf13a6d6608b0d3ca1b4b04a14ac5f0a062a7fdee02e61f5d936f9c6",
+    "tokenizer_config.json": "9fc322181b8ec44236e148916aea4b6c2467b66ded7bfaff0efe623ad750b852"
+  },
+  "trial_count": 2852,
+  "unique_prompt_seed_pairs": 1292
+}

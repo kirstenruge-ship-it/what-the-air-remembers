@@ -1,0 +1,62 @@
+[
+  {
+    "nuisance_max_gap": 2.7636363636363654,
+    "pair_id": "odor-01",
+    "x": "14286",
+    "x_description": "a note of fresh pastry",
+    "x_quality": "BAKERY",
+    "y": "5281167",
+    "y_description": "a freshly cut meadow note",
+    "y_quality": "GRASS"
+  },
+  {
+    "nuisance_max_gap": 10.63067784765898,
+    "pair_id": "odor-02",
+    "x": "7119",
+    "x_description": "a soft warm note",
+    "x_quality": "WARM",
+    "y": "246728",
+    "y_description": "a dry woody note",
+    "y_quality": "WOOD"
+  },
+  {
+    "nuisance_max_gap": 3.4579124579124567,
+    "pair_id": "odor-03",
+    "x": "7770",
+    "x_description": "a gently tart note",
+    "x_quality": "SOUR",
+    "y": "7967",
+    "y_description": "a cool, airy note",
+    "y_quality": "COLD"
+  },
+  {
+    "nuisance_max_gap": 10.963636363636368,
+    "pair_id": "odor-04",
+    "x": "660",
+    "x_description": "a lightly spiced note",
+    "x_quality": "SPICES",
+    "y": "62902",
+    "y_description": "a note of ripe orchard fruit",
+    "y_quality": "FRUIT"
+  },
+  {
+    "nuisance_max_gap": 2.9074074074074048,
+    "pair_id": "odor-05",
+    "x": "61209",
+    "x_description": "a faint musky note",
+    "x_quality": "MUSKY",
+    "y": "5352539",
+    "y_description": "a freshly cut meadow note",
+    "y_quality": "GRASS"
+  },
+  {
+    "nuisance_max_gap": 9.959259259259255,
+    "pair_id": "odor-06",
+    "x": "8103",
+    "x_description": "a floral note",
+    "x_quality": "FLOWER",
+    "y": "12265",
+    "y_description": "a note of fresh pastry",
+    "y_quality": "BAKERY"
+  }
+]

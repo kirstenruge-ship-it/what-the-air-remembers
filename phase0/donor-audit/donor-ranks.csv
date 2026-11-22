@@ -1,0 +1,1072 @@
+stage,donor,condition,slot_rows,original_text,layer,comparison,n_candidates,true_cos,hardest_foil,rank,unique_top1,chance,projection
+cells-k1,costco-x01357d73fb,cookies-word,6,The file is named cookies.,28,all,47,0.7828031751715929,0.4785768084581489,1.0,1,0.02127659574468085,0.658352476296145
+cells-k1,costco-x01357d73fb,cookies-word,6,The file is named cookies.,28,length,2,0.7828031751715929,0.39304422734235345,1.0,1,0.5,0.658352476296145
+cells-k1,costco-x01357d73fb,cookies-word,6,The file is named cookies.,28,condition,3,0.7828031751715929,0.34130716019278895,1.0,1,0.3333333333333333,0.658352476296145
+cells-k1,costco-x02c5f5b669,celery-smell,8,The smell of chopped celery reaches you.,28,all,47,0.7265465481880419,0.6522912254156282,1.0,1,0.02127659574468085,0.5443025210681763
+cells-k1,costco-x02c5f5b669,celery-smell,8,The smell of chopped celery reaches you.,28,length,10,0.7265465481880419,0.6522912254156282,1.0,1,0.1,0.5443025210681763
+cells-k1,costco-x02c5f5b669,celery-smell,8,The smell of chopped celery reaches you.,28,condition,3,0.7265465481880419,0.5981403381961168,1.0,1,0.3333333333333333,0.5443025210681763
+cells-k1,costco-x02c5f5b669,celery-smell,8,The smell of chopped celery reaches you.,28,condition-length,2,0.7265465481880419,0.5981403381961168,1.0,1,0.5,0.5443025210681763
+cells-k1,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,28,all,47,0.8030980807905151,0.6156505920747068,1.0,1,0.02127659574468085,0.659511148658539
+cells-k1,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,28,length,11,0.8030980807905151,0.6156505920747068,1.0,1,0.09090909090909091,0.659511148658539
+cells-k1,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,28,condition,3,0.8030980807905151,0.6156505920747068,1.0,1,0.3333333333333333,0.659511148658539
+cells-k1,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,28,condition-length,2,0.8030980807905151,0.6156505920747068,1.0,1,0.5,0.659511148658539
+cells-k1,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,28,all,47,0.8474185776102889,0.6427264168998308,1.0,1,0.02127659574468085,0.7393405435754093
+cells-k1,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,28,length,11,0.8474185776102889,0.6124157764765321,1.0,1,0.09090909090909091,0.7393405435754093
+cells-k1,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,28,condition,5,0.8474185776102889,0.6427264168998308,1.0,1,0.2,0.7393405435754093
+cells-k1,costco-x14e1180dc5,plastic-see,14,There is a half-melted plastic cup in front of you.,28,all,47,0.7843306862193626,0.7070094708949642,1.0,1,0.02127659574468085,0.6935154532740186
+cells-k1,costco-x14e1180dc5,plastic-see,14,There is a half-melted plastic cup in front of you.,28,condition,5,0.7843306862193626,0.5828537277838958,1.0,1,0.2,0.6935154532740186
+cells-k1,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,28,all,47,0.8196895130836629,0.5948172891043557,1.0,1,0.02127659574468085,0.7265395703621095
+cells-k1,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,28,length,11,0.8196895130836629,0.5948172891043557,1.0,1,0.09090909090909091,0.7265395703621095
+cells-k1,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,28,condition,3,0.8196895130836629,0.5948172891043557,1.0,1,0.3333333333333333,0.7265395703621095
+cells-k1,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,28,condition-length,2,0.8196895130836629,0.5948172891043557,1.0,1,0.5,0.7265395703621095
+cells-k1,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,28,all,47,0.7331745710670011,0.7162683196981445,1.0,1,0.02127659574468085,0.5447907805054878
+cells-k1,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,28,length,10,0.7331745710670011,0.7162683196981445,1.0,1,0.1,0.5447907805054878
+cells-k1,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,28,condition,5,0.7331745710670011,0.5555329708849577,1.0,1,0.2,0.5447907805054878
+cells-k1,costco-x53fc21291a,neutral-sentence,8,There is a clock on the wall.,28,all,47,0.8769308648724371,0.5467171204886211,1.0,1,0.02127659574468085,0.7845713538592498
+cells-k1,costco-x53fc21291a,neutral-sentence,8,There is a clock on the wall.,28,length,10,0.8769308648724371,0.5467171204886211,1.0,1,0.1,0.7845713538592498
+cells-k1,costco-x53fc21291a,neutral-sentence,8,There is a clock on the wall.,28,condition,3,0.8769308648724371,0.49407507480034685,1.0,1,0.3333333333333333,0.7845713538592498
+cells-k1,costco-x55436b91cb,cardboard-smell,4,You smell cardboard.,28,all,47,0.7860896354233659,0.6350130436109702,1.0,1,0.02127659574468085,0.6167186443247514
+cells-k1,costco-x55436b91cb,cardboard-smell,4,You smell cardboard.,28,length,2,0.7860896354233659,0.6350130436109702,1.0,1,0.5,0.6167186443247514
+cells-k1,costco-x55436b91cb,cardboard-smell,4,You smell cardboard.,28,condition,3,0.7860896354233659,0.48557909103363206,1.0,1,0.3333333333333333,0.6167186443247514
+cells-k1,costco-x5b4da5cdda,cookies-third,10,Dana catches the smell of freshly baked cookies.,28,all,47,0.8139718862163094,0.6040864463487899,1.0,1,0.02127659574468085,0.6455416738615952
+cells-k1,costco-x5b4da5cdda,cookies-third,10,Dana catches the smell of freshly baked cookies.,28,length,11,0.8139718862163094,0.5205107218802686,1.0,1,0.09090909090909091,0.6455416738615952
+cells-k1,costco-x5b4da5cdda,cookies-third,10,Dana catches the smell of freshly baked cookies.,28,condition,3,0.8139718862163094,0.5777357642287323,1.0,1,0.3333333333333333,0.6455416738615952
+cells-k1,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,28,all,47,0.8211738972895263,0.6774589974117887,1.0,1,0.02127659574468085,0.6795329536835105
+cells-k1,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,28,length,10,0.8211738972895263,0.6774589974117887,1.0,1,0.1,0.6795329536835105
+cells-k1,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,28,condition,5,0.8211738972895263,0.5677766676167214,1.0,1,0.2,0.6795329536835105
+cells-k1,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,28,all,47,0.773215475539514,0.7253856287397897,1.0,1,0.02127659574468085,0.6297264459286287
+cells-k1,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,28,length,3,0.773215475539514,0.7253856287397897,1.0,1,0.3333333333333333,0.6297264459286287
+cells-k1,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,28,condition,5,0.773215475539514,0.5470630346123833,1.0,1,0.2,0.6297264459286287
+cells-k1,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,28,all,47,0.7949076737160898,0.5379634739662942,1.0,1,0.02127659574468085,0.6385864498453891
+cells-k1,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,28,length,6,0.7949076737160898,0.5111711891952608,1.0,1,0.16666666666666666,0.6385864498453891
+cells-k1,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,28,condition,5,0.7949076737160898,0.5379634739662942,1.0,1,0.2,0.6385864498453891
+cells-k1,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,28,all,47,0.7467135927172074,0.5914444790753026,1.0,1,0.02127659574468085,0.6016734127663043
+cells-k1,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,28,length,6,0.7467135927172074,0.5914444790753026,1.0,1,0.16666666666666666,0.6016734127663043
+cells-k1,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,28,condition,5,0.7467135927172074,0.39067874935095814,1.0,1,0.2,0.6016734127663043
+cells-k1,costco-x713e6e0664,cookies-word,8,Someone wrote cookies on the whiteboard.,28,all,47,0.8419524601740531,0.6047740723378698,1.0,1,0.02127659574468085,0.7612110129589589
+cells-k1,costco-x713e6e0664,cookies-word,8,Someone wrote cookies on the whiteboard.,28,length,10,0.8419524601740531,0.4033867123087714,1.0,1,0.1,0.7612110129589589
+cells-k1,costco-x713e6e0664,cookies-word,8,Someone wrote cookies on the whiteboard.,28,condition,3,0.8419524601740531,0.44003735543514844,1.0,1,0.3333333333333333,0.7612110129589589
+cells-k1,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,28,all,47,0.8073602235774093,0.6362727796880118,1.0,1,0.02127659574468085,0.7611087043332876
+cells-k1,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,28,length,11,0.8073602235774093,0.6362727796880118,1.0,1,0.09090909090909091,0.7611087043332876
+cells-k1,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,28,condition,3,0.8073602235774093,0.6362727796880118,1.0,1,0.3333333333333333,0.7611087043332876
+cells-k1,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,28,condition-length,2,0.8073602235774093,0.6362727796880118,1.0,1,0.5,0.7611087043332876
+cells-k1,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,28,all,47,0.7726643878097558,0.6067197971801169,1.0,1,0.02127659574468085,0.6405113500390224
+cells-k1,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,28,length,6,0.7726643878097558,0.5697057286340369,1.0,1,0.16666666666666666,0.6405113500390224
+cells-k1,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,28,condition,5,0.7726643878097558,0.6067197971801169,1.0,1,0.2,0.6405113500390224
+cells-k1,costco-x84a18d2896,plastic-third,9,Dana catches the smell of melting plastic.,28,all,47,0.7254766016550019,0.6216417555674427,1.0,1,0.02127659574468085,0.6323113931012436
+cells-k1,costco-x84a18d2896,plastic-third,9,Dana catches the smell of melting plastic.,28,length,6,0.7254766016550019,0.6216417555674427,1.0,1,0.16666666666666666,0.6323113931012436
+cells-k1,costco-x84a18d2896,plastic-third,9,Dana catches the smell of melting plastic.,28,condition,3,0.7254766016550019,0.42245524984885685,1.0,1,0.3333333333333333,0.6323113931012436
+cells-k1,costco-x8560d487db,plastic-word,6,The sign says burning plastic.,28,all,47,0.7320655822536317,0.5560600175713228,1.0,1,0.02127659574468085,0.6298337966102718
+cells-k1,costco-x8560d487db,plastic-word,6,The sign says burning plastic.,28,length,2,0.7320655822536317,0.541050122250649,1.0,1,0.5,0.6298337966102718
+cells-k1,costco-x8560d487db,plastic-word,6,The sign says burning plastic.,28,condition,3,0.7320655822536317,0.5560600175713228,1.0,1,0.3333333333333333,0.6298337966102718
+cells-k1,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,28,all,47,0.7117443200570349,0.6701769966646025,1.0,1,0.02127659574468085,0.6730128856137241
+cells-k1,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,28,length,6,0.7117443200570349,0.6701769966646025,1.0,1,0.16666666666666666,0.6730128856137241
+cells-k1,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,28,condition,5,0.7117443200570349,0.5772780812114675,1.0,1,0.2,0.6730128856137241
+cells-k1,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,28,condition-length,2,0.7117443200570349,0.5530722505687861,1.0,1,0.5,0.6730128856137241
+cells-k1,costco-x8d1b00540e,celery-smell,8,You catch the smell of fresh celery.,28,all,47,0.6912662489140471,0.6921592417735369,2.0,0,0.02127659574468085,0.5125659184736882
+cells-k1,costco-x8d1b00540e,celery-smell,8,You catch the smell of fresh celery.,28,length,10,0.6912662489140471,0.6921592417735369,2.0,0,0.1,0.5125659184736882
+cells-k1,costco-x8d1b00540e,celery-smell,8,You catch the smell of fresh celery.,28,condition,3,0.6912662489140471,0.6921592417735369,2.0,0,0.3333333333333333,0.5125659184736882
+cells-k1,costco-x8d1b00540e,celery-smell,8,You catch the smell of fresh celery.,28,condition-length,2,0.6912662489140471,0.6921592417735369,2.0,0,0.5,0.5125659184736882
+cells-k1,costco-x9125d2773a,cookies-third,5,Maria smells cookies baking.,28,all,47,0.7320603961816606,0.650165011037994,1.0,1,0.02127659574468085,0.5122004989063373
+cells-k1,costco-x9125d2773a,cookies-third,5,Maria smells cookies baking.,28,length,6,0.7320603961816606,0.650165011037994,1.0,1,0.16666666666666666,0.5122004989063373
+cells-k1,costco-x9125d2773a,cookies-third,5,Maria smells cookies baking.,28,condition,3,0.7320603961816606,0.46431493380910893,1.0,1,0.3333333333333333,0.5122004989063373
+cells-k1,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,28,all,47,0.7581403293059439,0.63715617043329,1.0,1,0.02127659574468085,0.6434197049481883
+cells-k1,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,28,length,6,0.7581403293059439,0.5401252613187517,1.0,1,0.16666666666666666,0.6434197049481883
+cells-k1,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,28,condition,5,0.7581403293059439,0.63715617043329,1.0,1,0.2,0.6434197049481883
+cells-k1,costco-x96d6959dd7,celery-smell,4,You smell celery.,28,all,47,0.7478788006317002,0.551510578445559,1.0,1,0.02127659574468085,0.6086392672115423
+cells-k1,costco-x96d6959dd7,celery-smell,4,You smell celery.,28,length,2,0.7478788006317002,0.551510578445559,1.0,1,0.5,0.6086392672115423
+cells-k1,costco-x96d6959dd7,celery-smell,4,You smell celery.,28,condition,3,0.7478788006317002,0.43443766178406207,1.0,1,0.3333333333333333,0.6086392672115423
+cells-k1,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,28,all,47,0.7656225717999084,0.6132131906008678,1.0,1,0.02127659574468085,0.6343874414459951
+cells-k1,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,28,length,3,0.7656225717999084,0.6132131906008678,1.0,1,0.3333333333333333,0.6343874414459951
+cells-k1,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,28,condition,5,0.7656225717999084,0.48960017675501816,1.0,1,0.2,0.6343874414459951
+cells-k1,costco-x9d62883e4a,cookies-third,8,The smell of warm cookies reaches Kai.,28,all,47,0.7213619714159171,0.6985947223479932,1.0,1,0.02127659574468085,0.5413059993545505
+cells-k1,costco-x9d62883e4a,cookies-third,8,The smell of warm cookies reaches Kai.,28,length,10,0.7213619714159171,0.6985947223479932,1.0,1,0.1,0.5413059993545505
+cells-k1,costco-x9d62883e4a,cookies-third,8,The smell of warm cookies reaches Kai.,28,condition,3,0.7213619714159171,0.49569508442566,1.0,1,0.3333333333333333,0.5413059993545505
+cells-k1,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,28,all,47,0.7787758739714327,0.6363578093100812,1.0,1,0.02127659574468085,0.6577903703641899
+cells-k1,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,28,length,11,0.7787758739714327,0.6033966057862898,1.0,1,0.09090909090909091,0.6577903703641899
+cells-k1,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,28,condition,5,0.7787758739714327,0.6363578093100812,1.0,1,0.2,0.6577903703641899
+cells-k1,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,28,condition-length,2,0.7787758739714327,0.6033966057862898,1.0,1,0.5,0.6577903703641899
+cells-k1,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,28,all,47,0.8510371000387054,0.5308244215358329,1.0,1,0.02127659574468085,0.7494799688830172
+cells-k1,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,28,length,6,0.8510371000387054,0.5266632100904245,1.0,1,0.16666666666666666,0.7494799688830172
+cells-k1,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,28,condition,3,0.8510371000387054,0.5308244215358329,1.0,1,0.3333333333333333,0.7494799688830172
+cells-k1,costco-xa9a4d133d1,plastic-third,5,Maria smells burning plastic.,28,all,47,0.7058777625204096,0.6209078119861137,1.0,1,0.02127659574468085,0.5346998768739104
+cells-k1,costco-xa9a4d133d1,plastic-third,5,Maria smells burning plastic.,28,length,6,0.7058777625204096,0.6209078119861137,1.0,1,0.16666666666666666,0.5346998768739104
+cells-k1,costco-xa9a4d133d1,plastic-third,5,Maria smells burning plastic.,28,condition,3,0.7058777625204096,0.5077110655494101,1.0,1,0.3333333333333333,0.5346998768739104
+cells-k1,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,28,all,47,0.7517414031985733,0.6232076009375903,1.0,1,0.02127659574468085,0.6721052730772229
+cells-k1,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,28,length,6,0.7517414031985733,0.6232076009375903,1.0,1,0.16666666666666666,0.6721052730772229
+cells-k1,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,28,condition,5,0.7517414031985733,0.6232076009375903,1.0,1,0.2,0.6721052730772229
+cells-k1,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,28,condition-length,2,0.7517414031985733,0.6232076009375903,1.0,1,0.5,0.6721052730772229
+cells-k1,costco-xb2d7682bda,neutral-sentence,5,You see a shelf.,28,all,47,0.6898788960008218,0.4686484861022713,1.0,1,0.02127659574468085,0.5350158654041506
+cells-k1,costco-xb2d7682bda,neutral-sentence,5,You see a shelf.,28,length,6,0.6898788960008218,0.4472877806761814,1.0,1,0.16666666666666666,0.5350158654041506
+cells-k1,costco-xb2d7682bda,neutral-sentence,5,You see a shelf.,28,condition,3,0.6898788960008218,0.3583656103034201,1.0,1,0.3333333333333333,0.5350158654041506
+cells-k1,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,28,all,47,0.7830954882757796,0.6427439418820723,1.0,1,0.02127659574468085,0.6603946335351798
+cells-k1,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,28,length,3,0.7830954882757796,0.5273145387391817,1.0,1,0.3333333333333333,0.6603946335351798
+cells-k1,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,28,condition,5,0.7830954882757796,0.5698252525431455,1.0,1,0.2,0.6603946335351798
+cells-k1,costco-xbd8e3dbe80,cookies-word,5,The sign says cookies.,28,all,47,0.8110101435900918,0.516445852404546,1.0,1,0.02127659574468085,0.6876316671444943
+cells-k1,costco-xbd8e3dbe80,cookies-word,5,The sign says cookies.,28,length,6,0.8110101435900918,0.476200459391133,1.0,1,0.16666666666666666,0.6876316671444943
+cells-k1,costco-xbd8e3dbe80,cookies-word,5,The sign says cookies.,28,condition,3,0.8110101435900918,0.48081993047160093,1.0,1,0.3333333333333333,0.6876316671444943
+cells-k1,costco-xbfe3de4a48,neutral-sentence,7,You notice a row of chairs.,28,all,47,0.7506013130527044,0.4671023617822273,1.0,1,0.02127659574468085,0.5916079095161363
+cells-k1,costco-xbfe3de4a48,neutral-sentence,7,You notice a row of chairs.,28,length,6,0.7506013130527044,0.4671023617822273,1.0,1,0.16666666666666666,0.5916079095161363
+cells-k1,costco-xbfe3de4a48,neutral-sentence,7,You notice a row of chairs.,28,condition,3,0.7506013130527044,0.43989969368011467,1.0,1,0.3333333333333333,0.5916079095161363
+cells-k1,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,28,all,47,0.8447802541219119,0.6146200671527726,1.0,1,0.02127659574468085,0.7380426925938395
+cells-k1,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,28,length,6,0.8447802541219119,0.5318158353507528,1.0,1,0.16666666666666666,0.7380426925938395
+cells-k1,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,28,condition,3,0.8447802541219119,0.6146200671527726,1.0,1,0.3333333333333333,0.7380426925938395
+cells-k1,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,28,all,47,0.8598842710043239,0.6775985090429922,1.0,1,0.02127659574468085,0.7423193833737632
+cells-k1,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,28,length,10,0.8598842710043239,0.6165166815439063,1.0,1,0.1,0.7423193833737632
+cells-k1,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,28,condition,5,0.8598842710043239,0.6775985090429922,1.0,1,0.2,0.7423193833737632
+cells-k1,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,28,all,47,0.6884694859703456,0.499814406142005,1.0,1,0.02127659574468085,0.5386682436657547
+cells-k1,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,28,length,11,0.6884694859703456,0.499814406142005,1.0,1,0.09090909090909091,0.5386682436657547
+cells-k1,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,28,condition,3,0.6884694859703456,0.47863333741190883,1.0,1,0.3333333333333333,0.5386682436657547
+cells-k1,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,28,condition-length,2,0.6884694859703456,0.47863333741190883,1.0,1,0.5,0.5386682436657547
+cells-k1,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,28,all,47,0.7614539298257056,0.6660081180120152,1.0,1,0.02127659574468085,0.6310954855756334
+cells-k1,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,28,length,11,0.7614539298257056,0.6660081180120152,1.0,1,0.09090909090909091,0.6310954855756334
+cells-k1,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,28,condition,5,0.7614539298257056,0.6660081180120152,1.0,1,0.2,0.6310954855756334
+cells-k1,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,28,condition-length,2,0.7614539298257056,0.6660081180120152,1.0,1,0.5,0.6310954855756334
+cells-k1,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,28,all,47,0.6977444487851235,0.5795478858605386,1.0,1,0.02127659574468085,0.5502150832895963
+cells-k1,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,28,length,11,0.6977444487851235,0.5795478858605386,1.0,1,0.09090909090909091,0.5502150832895963
+cells-k1,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,28,condition,5,0.6977444487851235,0.46146891970762527,1.0,1,0.2,0.5502150832895963
+cells-k1,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,28,condition-length,2,0.6977444487851235,0.45918345534496186,1.0,1,0.5,0.5502150832895963
+cells-k1,costco-xd2153dfdca,cardboard-smell,8,The smell of new cardboard reaches you.,28,all,47,0.6838725234980941,0.6513262128719307,1.0,1,0.02127659574468085,0.5044579024724105
+cells-k1,costco-xd2153dfdca,cardboard-smell,8,The smell of new cardboard reaches you.,28,length,10,0.6838725234980941,0.6513262128719307,1.0,1,0.1,0.5044579024724105
+cells-k1,costco-xd2153dfdca,cardboard-smell,8,The smell of new cardboard reaches you.,28,condition,3,0.6838725234980941,0.6201893498777592,1.0,1,0.3333333333333333,0.5044579024724105
+cells-k1,costco-xd2153dfdca,cardboard-smell,8,The smell of new cardboard reaches you.,28,condition-length,2,0.6838725234980941,0.6201893498777592,1.0,1,0.5,0.5044579024724105
+cells-k1,costco-xd767ddcc42,plastic-third,10,The smell of scorched plastic reaches Kai.,28,all,47,0.7815265326927388,0.7200062532013873,1.0,1,0.02127659574468085,0.6593999136106896
+cells-k1,costco-xd767ddcc42,plastic-third,10,The smell of scorched plastic reaches Kai.,28,length,11,0.7815265326927388,0.7200062532013873,1.0,1,0.09090909090909091,0.6593999136106896
+cells-k1,costco-xd767ddcc42,plastic-third,10,The smell of scorched plastic reaches Kai.,28,condition,3,0.7815265326927388,0.48677647166621274,1.0,1,0.3333333333333333,0.6593999136106896
+cells-k1,costco-xdb8d0a8d8b,plastic-word,9,Someone wrote burning plastic on the whiteboard.,28,all,47,0.7405676186427543,0.6368073406941807,1.0,1,0.02127659574468085,0.5897854154242507
+cells-k1,costco-xdb8d0a8d8b,plastic-word,9,Someone wrote burning plastic on the whiteboard.,28,length,6,0.7405676186427543,0.4587611346032995,1.0,1,0.16666666666666666,0.5897854154242507
+cells-k1,costco-xdb8d0a8d8b,plastic-word,9,Someone wrote burning plastic on the whiteboard.,28,condition,3,0.7405676186427543,0.40176768785065936,1.0,1,0.3333333333333333,0.5897854154242507
+cells-k1,costco-xdcbb559138,plastic-word,7,The file is named burning plastic.,28,all,47,0.7153187484370642,0.5733243532984933,1.0,1,0.02127659574468085,0.5794701197489958
+cells-k1,costco-xdcbb559138,plastic-word,7,The file is named burning plastic.,28,length,6,0.7153187484370642,0.4770593958489295,1.0,1,0.16666666666666666,0.5794701197489958
+cells-k1,costco-xdcbb559138,plastic-word,7,The file is named burning plastic.,28,condition,3,0.7153187484370642,0.45331439691093084,1.0,1,0.3333333333333333,0.5794701197489958
+cells-k1,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,28,all,47,0.8110986758993547,0.6733776604950712,1.0,1,0.02127659574468085,0.639640306801173
+cells-k1,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,28,length,6,0.8110986758993547,0.6733776604950712,1.0,1,0.16666666666666666,0.639640306801173
+cells-k1,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,28,condition,5,0.8110986758993547,0.5371147943762496,1.0,1,0.2,0.639640306801173
+cells-k1,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,28,all,47,0.8377014278616982,0.6687923915419661,1.0,1,0.02127659574468085,0.7346067729353258
+cells-k1,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,28,length,11,0.8377014278616982,0.6687923915419661,1.0,1,0.09090909090909091,0.7346067729353258
+cells-k1,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,28,condition,5,0.8377014278616982,0.5444652240163642,1.0,1,0.2,0.7346067729353258
+cells-k1,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,28,condition-length,2,0.8377014278616982,0.5168518121224271,1.0,1,0.5,0.7346067729353258
+cells-k1,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,28,all,47,0.780559079283978,0.5340138740114179,1.0,1,0.02127659574468085,0.6198018984684363
+cells-k1,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,28,length,6,0.780559079283978,0.5205882648925119,1.0,1,0.16666666666666666,0.6198018984684363
+cells-k1,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,28,condition,5,0.780559079283978,0.5250345501437357,1.0,1,0.2,0.6198018984684363
+cells-k1,costco-xfce1c94d61,cardboard-smell,8,You catch the smell of dry cardboard.,28,all,47,0.8328960605943977,0.7354926864536518,1.0,1,0.02127659574468085,0.6868237726188482
+cells-k1,costco-xfce1c94d61,cardboard-smell,8,You catch the smell of dry cardboard.,28,length,10,0.8328960605943977,0.7354926864536518,1.0,1,0.1,0.6868237726188482
+cells-k1,costco-xfce1c94d61,cardboard-smell,8,You catch the smell of dry cardboard.,28,condition,3,0.8328960605943977,0.7045225935316721,1.0,1,0.3333333333333333,0.6868237726188482
+cells-k1,costco-xfce1c94d61,cardboard-smell,8,You catch the smell of dry cardboard.,28,condition-length,2,0.8328960605943977,0.7045225935316721,1.0,1,0.5,0.6868237726188482
+cells-k1,costco-x01357d73fb,cookies-word,6,The file is named cookies.,71,all,47,0.7886603268827157,0.727172133409321,1.0,1,0.02127659574468085,0.6602084364696565
+cells-k1,costco-x01357d73fb,cookies-word,6,The file is named cookies.,71,length,2,0.7886603268827157,0.6028684291939991,1.0,1,0.5,0.6602084364696565
+cells-k1,costco-x01357d73fb,cookies-word,6,The file is named cookies.,71,condition,3,0.7886603268827157,0.619985102415755,1.0,1,0.3333333333333333,0.6602084364696565
+cells-k1,costco-x02c5f5b669,celery-smell,8,The smell of chopped celery reaches you.,71,all,47,0.7474389878757288,0.6916030126250634,1.0,1,0.02127659574468085,0.5948383066159219
+cells-k1,costco-x02c5f5b669,celery-smell,8,The smell of chopped celery reaches you.,71,length,10,0.7474389878757288,0.6916030126250634,1.0,1,0.1,0.5948383066159219
+cells-k1,costco-x02c5f5b669,celery-smell,8,The smell of chopped celery reaches you.,71,condition,3,0.7474389878757288,0.4702610773747727,1.0,1,0.3333333333333333,0.5948383066159219
+cells-k1,costco-x02c5f5b669,celery-smell,8,The smell of chopped celery reaches you.,71,condition-length,2,0.7474389878757288,0.4702610773747727,1.0,1,0.5,0.5948383066159219
+cells-k1,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,71,all,47,0.9241010122184496,0.8653817654349201,1.0,1,0.02127659574468085,0.8308846655526855
+cells-k1,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,71,length,11,0.9241010122184496,0.8653817654349201,1.0,1,0.09090909090909091,0.8308846655526855
+cells-k1,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,71,condition,3,0.9241010122184496,0.8653817654349201,1.0,1,0.3333333333333333,0.8308846655526855
+cells-k1,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,71,condition-length,2,0.9241010122184496,0.8653817654349201,1.0,1,0.5,0.8308846655526855
+cells-k1,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,71,all,47,0.9531566409975911,0.8811580437681119,1.0,1,0.02127659574468085,0.9434982108487344
+cells-k1,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,71,length,11,0.9531566409975911,0.8811580437681119,1.0,1,0.09090909090909091,0.9434982108487344
+cells-k1,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,71,condition,5,0.9531566409975911,0.7786205634043422,1.0,1,0.2,0.9434982108487344
+cells-k1,costco-x14e1180dc5,plastic-see,14,There is a half-melted plastic cup in front of you.,71,all,47,0.9781112060243348,0.8714639291720792,1.0,1,0.02127659574468085,1.0134927194629468
+cells-k1,costco-x14e1180dc5,plastic-see,14,There is a half-melted plastic cup in front of you.,71,condition,5,0.9781112060243348,0.8526854759330166,1.0,1,0.2,1.0134927194629468
+cells-k1,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,71,all,47,0.8658706676045329,0.7220238324843049,1.0,1,0.02127659574468085,0.7668237489961442
+cells-k1,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,71,length,11,0.8658706676045329,0.5880862241898364,1.0,1,0.09090909090909091,0.7668237489961442
+cells-k1,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,71,condition,3,0.8658706676045329,0.2921212696914172,1.0,1,0.3333333333333333,0.7668237489961442
+cells-k1,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,71,condition-length,2,0.8658706676045329,0.2921212696914172,1.0,1,0.5,0.7668237489961442
+cells-k1,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,71,all,47,0.9172846023239171,0.7773028335243861,1.0,1,0.02127659574468085,0.8286094684844811
+cells-k1,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,71,length,10,0.9172846023239171,0.679723284874687,1.0,1,0.1,0.8286094684844811
+cells-k1,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,71,condition,5,0.9172846023239171,0.7773028335243861,1.0,1,0.2,0.8286094684844811
+cells-k1,costco-x53fc21291a,neutral-sentence,8,There is a clock on the wall.,71,all,47,0.9700687227410945,0.7227881324639053,1.0,1,0.02127659574468085,0.9398995107069799
+cells-k1,costco-x53fc21291a,neutral-sentence,8,There is a clock on the wall.,71,length,10,0.9700687227410945,0.6917041633681472,1.0,1,0.1,0.9398995107069799
+cells-k1,costco-x53fc21291a,neutral-sentence,8,There is a clock on the wall.,71,condition,3,0.9700687227410945,0.6972902153172397,1.0,1,0.3333333333333333,0.9398995107069799
+cells-k1,costco-x55436b91cb,cardboard-smell,4,You smell cardboard.,71,all,47,0.7971119761381132,0.4447927372523007,1.0,1,0.02127659574468085,0.7007276126962516
+cells-k1,costco-x55436b91cb,cardboard-smell,4,You smell cardboard.,71,length,2,0.7971119761381132,0.40434956540221617,1.0,1,0.5,0.7007276126962516
+cells-k1,costco-x55436b91cb,cardboard-smell,4,You smell cardboard.,71,condition,3,0.7971119761381132,0.4447927372523007,1.0,1,0.3333333333333333,0.7007276126962516
+cells-k1,costco-x5b4da5cdda,cookies-third,10,Dana catches the smell of freshly baked cookies.,71,all,47,0.9819148534952992,0.8684817789526403,1.0,1,0.02127659574468085,0.9501003852051112
+cells-k1,costco-x5b4da5cdda,cookies-third,10,Dana catches the smell of freshly baked cookies.,71,length,11,0.9819148534952992,0.8684817789526403,1.0,1,0.09090909090909091,0.9501003852051112
+cells-k1,costco-x5b4da5cdda,cookies-third,10,Dana catches the smell of freshly baked cookies.,71,condition,3,0.9819148534952992,0.581021998138894,1.0,1,0.3333333333333333,0.9501003852051112
+cells-k1,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,71,all,47,0.8861824550400843,0.7344365145487857,1.0,1,0.02127659574468085,0.8135808041980243
+cells-k1,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,71,length,10,0.8861824550400843,0.7344365145487857,1.0,1,0.1,0.8135808041980243
+cells-k1,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,71,condition,5,0.8861824550400843,0.6537193934368463,1.0,1,0.2,0.8135808041980243
+cells-k1,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,71,all,47,0.9664633373998258,0.78710275838891,1.0,1,0.02127659574468085,0.9574272846336472
+cells-k1,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,71,length,3,0.9664633373998258,0.4915419148381078,1.0,1,0.3333333333333333,0.9574272846336472
+cells-k1,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,71,condition,5,0.9664633373998258,0.78710275838891,1.0,1,0.2,0.9574272846336472
+cells-k1,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,71,all,47,0.9602106563336871,0.8895839446677319,1.0,1,0.02127659574468085,0.906605372009851
+cells-k1,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,71,length,6,0.9602106563336871,0.788172692103186,1.0,1,0.16666666666666666,0.906605372009851
+cells-k1,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,71,condition,5,0.9602106563336871,0.8609877793742239,1.0,1,0.2,0.906605372009851
+cells-k1,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,71,all,47,0.9521723405556657,0.6423979339469176,1.0,1,0.02127659574468085,0.9246161549190074
+cells-k1,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,71,length,6,0.9521723405556657,0.5831756564046575,1.0,1,0.16666666666666666,0.9246161549190074
+cells-k1,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,71,condition,5,0.9521723405556657,0.6423979339469176,1.0,1,0.2,0.9246161549190074
+cells-k1,costco-x713e6e0664,cookies-word,8,Someone wrote cookies on the whiteboard.,71,all,47,0.9643869708695872,0.8694186058432025,1.0,1,0.02127659574468085,0.917923125601364
+cells-k1,costco-x713e6e0664,cookies-word,8,Someone wrote cookies on the whiteboard.,71,length,10,0.9643869708695872,0.8333368757324519,1.0,1,0.1,0.917923125601364
+cells-k1,costco-x713e6e0664,cookies-word,8,Someone wrote cookies on the whiteboard.,71,condition,3,0.9643869708695872,0.8298422576013845,1.0,1,0.3333333333333333,0.917923125601364
+cells-k1,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,71,all,47,0.948379140184512,0.8918379364194977,1.0,1,0.02127659574468085,0.8609657439989054
+cells-k1,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,71,length,11,0.948379140184512,0.8918379364194977,1.0,1,0.09090909090909091,0.8609657439989054
+cells-k1,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,71,condition,3,0.948379140184512,0.8918379364194977,1.0,1,0.3333333333333333,0.8609657439989054
+cells-k1,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,71,condition-length,2,0.948379140184512,0.8918379364194977,1.0,1,0.5,0.8609657439989054
+cells-k1,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,71,all,47,0.9568151918728908,0.7134547646611633,1.0,1,0.02127659574468085,0.9004185837428053
+cells-k1,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,71,length,6,0.9568151918728908,0.5905089049646293,1.0,1,0.16666666666666666,0.9004185837428053
+cells-k1,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,71,condition,5,0.9568151918728908,0.7134547646611633,1.0,1,0.2,0.9004185837428053
+cells-k1,costco-x84a18d2896,plastic-third,9,Dana catches the smell of melting plastic.,71,all,47,0.9406646210059227,0.8600692739417019,1.0,1,0.02127659574468085,0.9330387827190362
+cells-k1,costco-x84a18d2896,plastic-third,9,Dana catches the smell of melting plastic.,71,length,6,0.9406646210059227,0.8600692739417019,1.0,1,0.16666666666666666,0.9330387827190362
+cells-k1,costco-x84a18d2896,plastic-third,9,Dana catches the smell of melting plastic.,71,condition,3,0.9406646210059227,0.8105080451859225,1.0,1,0.3333333333333333,0.9330387827190362
+cells-k1,costco-x8560d487db,plastic-word,6,The sign says burning plastic.,71,all,47,0.7960434593060431,0.7925967614503806,1.0,1,0.02127659574468085,0.6497369483728473
+cells-k1,costco-x8560d487db,plastic-word,6,The sign says burning plastic.,71,length,2,0.7960434593060431,0.7925967614503806,1.0,1,0.5,0.6497369483728473
+cells-k1,costco-x8560d487db,plastic-word,6,The sign says burning plastic.,71,condition,3,0.7960434593060431,0.7487247429144321,1.0,1,0.3333333333333333,0.6497369483728473
+cells-k1,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,71,all,47,0.9486495726365671,0.8122220045194102,1.0,1,0.02127659574468085,0.9340629333082432
+cells-k1,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,71,length,6,0.9486495726365671,0.8122220045194102,1.0,1,0.16666666666666666,0.9340629333082432
+cells-k1,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,71,condition,5,0.9486495726365671,0.8122220045194102,1.0,1,0.2,0.9340629333082432
+cells-k1,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,71,condition-length,2,0.9486495726365671,0.8122220045194102,1.0,1,0.5,0.9340629333082432
+cells-k1,costco-x8d1b00540e,celery-smell,8,You catch the smell of fresh celery.,71,all,47,0.7919569339939506,0.6043524882575395,1.0,1,0.02127659574468085,0.7130384901352819
+cells-k1,costco-x8d1b00540e,celery-smell,8,You catch the smell of fresh celery.,71,length,10,0.7919569339939506,0.5780012151365849,1.0,1,0.1,0.7130384901352819
+cells-k1,costco-x8d1b00540e,celery-smell,8,You catch the smell of fresh celery.,71,condition,3,0.7919569339939506,0.6043524882575395,1.0,1,0.3333333333333333,0.7130384901352819
+cells-k1,costco-x8d1b00540e,celery-smell,8,You catch the smell of fresh celery.,71,condition-length,2,0.7919569339939506,0.543315739576809,1.0,1,0.5,0.7130384901352819
+cells-k1,costco-x9125d2773a,cookies-third,5,Maria smells cookies baking.,71,all,47,0.8914053062886986,0.8139965572459629,1.0,1,0.02127659574468085,0.932184876911597
+cells-k1,costco-x9125d2773a,cookies-third,5,Maria smells cookies baking.,71,length,6,0.8914053062886986,0.6707421935388245,1.0,1,0.16666666666666666,0.932184876911597
+cells-k1,costco-x9125d2773a,cookies-third,5,Maria smells cookies baking.,71,condition,3,0.8914053062886986,0.7259309468052789,1.0,1,0.3333333333333333,0.932184876911597
+cells-k1,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,71,all,47,0.9829723569364254,0.8885376553608957,1.0,1,0.02127659574468085,0.9622852677154109
+cells-k1,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,71,length,6,0.9829723569364254,0.8486858765727388,1.0,1,0.16666666666666666,0.9622852677154109
+cells-k1,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,71,condition,5,0.9829723569364254,0.8885376553608957,1.0,1,0.2,0.9622852677154109
+cells-k1,costco-x96d6959dd7,celery-smell,4,You smell celery.,71,all,47,0.872294504601241,0.7118731301079985,1.0,1,0.02127659574468085,0.8256621351325429
+cells-k1,costco-x96d6959dd7,celery-smell,4,You smell celery.,71,length,2,0.872294504601241,0.43216370429270123,1.0,1,0.5,0.8256621351325429
+cells-k1,costco-x96d6959dd7,celery-smell,4,You smell celery.,71,condition,3,0.872294504601241,0.7118731301079985,1.0,1,0.3333333333333333,0.8256621351325429
+cells-k1,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,71,all,47,0.8987312355457603,0.6503881824020413,1.0,1,0.02127659574468085,0.7998899571663511
+cells-k1,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,71,length,3,0.8987312355457603,0.6079230455199377,1.0,1,0.3333333333333333,0.7998899571663511
+cells-k1,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,71,condition,5,0.8987312355457603,0.6251946849255107,1.0,1,0.2,0.7998899571663511
+cells-k1,costco-x9d62883e4a,cookies-third,8,The smell of warm cookies reaches Kai.,71,all,47,0.9151598188345391,0.7158318056722565,1.0,1,0.02127659574468085,0.9543736180552929
+cells-k1,costco-x9d62883e4a,cookies-third,8,The smell of warm cookies reaches Kai.,71,length,10,0.9151598188345391,0.7158318056722565,1.0,1,0.1,0.9543736180552929
+cells-k1,costco-x9d62883e4a,cookies-third,8,The smell of warm cookies reaches Kai.,71,condition,3,0.9151598188345391,0.6826413467711079,1.0,1,0.3333333333333333,0.9543736180552929
+cells-k1,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,71,all,47,0.9172835814651668,0.80081443205166,1.0,1,0.02127659574468085,0.7980832224609293
+cells-k1,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,71,length,11,0.9172835814651668,0.7456653248983163,1.0,1,0.09090909090909091,0.7980832224609293
+cells-k1,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,71,condition,5,0.9172835814651668,0.80081443205166,1.0,1,0.2,0.7980832224609293
+cells-k1,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,71,condition-length,2,0.9172835814651668,0.6148870941552111,1.0,1,0.5,0.7980832224609293
+cells-k1,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,71,all,47,0.9301977013008471,0.6363588967901614,1.0,1,0.02127659574468085,0.9023920743348254
+cells-k1,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,71,length,6,0.9301977013008471,0.6363588967901614,1.0,1,0.16666666666666666,0.9023920743348254
+cells-k1,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,71,condition,3,0.9301977013008471,0.46379661736721556,1.0,1,0.3333333333333333,0.9023920743348254
+cells-k1,costco-xa9a4d133d1,plastic-third,5,Maria smells burning plastic.,71,all,47,0.9424344911435193,0.7996606478849515,1.0,1,0.02127659574468085,0.9182869952584493
+cells-k1,costco-xa9a4d133d1,plastic-third,5,Maria smells burning plastic.,71,length,6,0.9424344911435193,0.7830382847644736,1.0,1,0.16666666666666666,0.9182869952584493
+cells-k1,costco-xa9a4d133d1,plastic-third,5,Maria smells burning plastic.,71,condition,3,0.9424344911435193,0.760111213693336,1.0,1,0.3333333333333333,0.9182869952584493
+cells-k1,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,71,all,47,0.947756402037346,0.8640785661149333,1.0,1,0.02127659574468085,0.9419087483168369
+cells-k1,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,71,length,6,0.947756402037346,0.8640785661149333,1.0,1,0.16666666666666666,0.9419087483168369
+cells-k1,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,71,condition,5,0.947756402037346,0.8640785661149333,1.0,1,0.2,0.9419087483168369
+cells-k1,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,71,condition-length,2,0.947756402037346,0.8640785661149333,1.0,1,0.5,0.9419087483168369
+cells-k1,costco-xb2d7682bda,neutral-sentence,5,You see a shelf.,71,all,47,0.9407259179467918,0.6858631070168167,1.0,1,0.02127659574468085,0.9076638551038472
+cells-k1,costco-xb2d7682bda,neutral-sentence,5,You see a shelf.,71,length,6,0.9407259179467918,0.5710165773331276,1.0,1,0.16666666666666666,0.9076638551038472
+cells-k1,costco-xb2d7682bda,neutral-sentence,5,You see a shelf.,71,condition,3,0.9407259179467918,0.6783887812050838,1.0,1,0.3333333333333333,0.9076638551038472
+cells-k1,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,71,all,47,0.9784175925956102,0.8652225815284171,1.0,1,0.02127659574468085,0.9281716998289156
+cells-k1,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,71,length,3,0.9784175925956102,0.7007166920384089,1.0,1,0.3333333333333333,0.9281716998289156
+cells-k1,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,71,condition,5,0.9784175925956102,0.8652225815284171,1.0,1,0.2,0.9281716998289156
+cells-k1,costco-xbd8e3dbe80,cookies-word,5,The sign says cookies.,71,all,47,0.871164431785368,0.6614730596698691,1.0,1,0.02127659574468085,0.788889498527422
+cells-k1,costco-xbd8e3dbe80,cookies-word,5,The sign says cookies.,71,length,6,0.871164431785368,0.6551586669662881,1.0,1,0.16666666666666666,0.788889498527422
+cells-k1,costco-xbd8e3dbe80,cookies-word,5,The sign says cookies.,71,condition,3,0.871164431785368,0.43852142213079925,1.0,1,0.3333333333333333,0.788889498527422
+cells-k1,costco-xbfe3de4a48,neutral-sentence,7,You notice a row of chairs.,71,all,47,0.937006139947674,0.724958715478451,1.0,1,0.02127659574468085,0.8870711257306928
+cells-k1,costco-xbfe3de4a48,neutral-sentence,7,You notice a row of chairs.,71,length,6,0.937006139947674,0.724958715478451,1.0,1,0.16666666666666666,0.8870711257306928
+cells-k1,costco-xbfe3de4a48,neutral-sentence,7,You notice a row of chairs.,71,condition,3,0.937006139947674,0.703936270220601,1.0,1,0.3333333333333333,0.8870711257306928
+cells-k1,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,71,all,47,0.9314604393996488,0.8046847515840632,1.0,1,0.02127659574468085,0.8364612762557099
+cells-k1,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,71,length,6,0.9314604393996488,0.6488824106825306,1.0,1,0.16666666666666666,0.8364612762557099
+cells-k1,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,71,condition,3,0.9314604393996488,0.8046847515840632,1.0,1,0.3333333333333333,0.8364612762557099
+cells-k1,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,71,all,47,0.9727889353269527,0.8864662960574233,1.0,1,0.02127659574468085,0.953711127791764
+cells-k1,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,71,length,10,0.9727889353269527,0.8421591640572081,1.0,1,0.1,0.953711127791764
+cells-k1,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,71,condition,5,0.9727889353269527,0.8864662960574233,1.0,1,0.2,0.953711127791764
+cells-k1,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,71,all,47,0.9610695674069518,0.8358190315048499,1.0,1,0.02127659574468085,0.8710582332814175
+cells-k1,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,71,length,11,0.9610695674069518,0.809638236376759,1.0,1,0.09090909090909091,0.8710582332814175
+cells-k1,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,71,condition,3,0.9610695674069518,0.8358190315048499,1.0,1,0.3333333333333333,0.8710582332814175
+cells-k1,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,71,condition-length,2,0.9610695674069518,0.49749828096663845,1.0,1,0.5,0.8710582332814175
+cells-k1,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,71,all,47,0.9421396186303941,0.7768878098416019,1.0,1,0.02127659574468085,0.9007732262045353
+cells-k1,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,71,length,11,0.9421396186303941,0.6878216320040987,1.0,1,0.09090909090909091,0.9007732262045353
+cells-k1,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,71,condition,5,0.9421396186303941,0.7768878098416019,1.0,1,0.2,0.9007732262045353
+cells-k1,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,71,condition-length,2,0.9421396186303941,0.6034255818690004,1.0,1,0.5,0.9007732262045353
+cells-k1,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,71,all,47,0.8889741800468034,0.7586116968731456,1.0,1,0.02127659574468085,0.824552603885834
+cells-k1,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,71,length,11,0.8889741800468034,0.7441509413414669,1.0,1,0.09090909090909091,0.824552603885834
+cells-k1,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,71,condition,5,0.8889741800468034,0.7586116968731456,1.0,1,0.2,0.824552603885834
+cells-k1,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,71,condition-length,2,0.8889741800468034,0.7441509413414669,1.0,1,0.5,0.824552603885834
+cells-k1,costco-xd2153dfdca,cardboard-smell,8,The smell of new cardboard reaches you.,71,all,47,0.9268324382736166,0.7649201156448444,1.0,1,0.02127659574468085,0.859087101574026
+cells-k1,costco-xd2153dfdca,cardboard-smell,8,The smell of new cardboard reaches you.,71,length,10,0.9268324382736166,0.7649201156448444,1.0,1,0.1,0.859087101574026
+cells-k1,costco-xd2153dfdca,cardboard-smell,8,The smell of new cardboard reaches you.,71,condition,3,0.9268324382736166,0.7649201156448444,1.0,1,0.3333333333333333,0.859087101574026
+cells-k1,costco-xd2153dfdca,cardboard-smell,8,The smell of new cardboard reaches you.,71,condition-length,2,0.9268324382736166,0.7649201156448444,1.0,1,0.5,0.859087101574026
+cells-k1,costco-xd767ddcc42,plastic-third,10,The smell of scorched plastic reaches Kai.,71,all,47,0.9373924465124555,0.7920135665198633,1.0,1,0.02127659574468085,0.8911794531267657
+cells-k1,costco-xd767ddcc42,plastic-third,10,The smell of scorched plastic reaches Kai.,71,length,11,0.9373924465124555,0.7920135665198633,1.0,1,0.09090909090909091,0.8911794531267657
+cells-k1,costco-xd767ddcc42,plastic-third,10,The smell of scorched plastic reaches Kai.,71,condition,3,0.9373924465124555,0.7377120933135001,1.0,1,0.3333333333333333,0.8911794531267657
+cells-k1,costco-xdb8d0a8d8b,plastic-word,9,Someone wrote burning plastic on the whiteboard.,71,all,47,0.9747530178122816,0.8783593645818116,1.0,1,0.02127659574468085,0.9383419047084105
+cells-k1,costco-xdb8d0a8d8b,plastic-word,9,Someone wrote burning plastic on the whiteboard.,71,length,6,0.9747530178122816,0.8519342219209792,1.0,1,0.16666666666666666,0.9383419047084105
+cells-k1,costco-xdb8d0a8d8b,plastic-word,9,Someone wrote burning plastic on the whiteboard.,71,condition,3,0.9747530178122816,0.8712465768182791,1.0,1,0.3333333333333333,0.9383419047084105
+cells-k1,costco-xdcbb559138,plastic-word,7,The file is named burning plastic.,71,all,47,0.8604572358741632,0.7298270730466112,1.0,1,0.02127659574468085,0.7748918190812677
+cells-k1,costco-xdcbb559138,plastic-word,7,The file is named burning plastic.,71,length,6,0.8604572358741632,0.6746969768170814,1.0,1,0.16666666666666666,0.7748918190812677
+cells-k1,costco-xdcbb559138,plastic-word,7,The file is named burning plastic.,71,condition,3,0.8604572358741632,0.6356522255641003,1.0,1,0.3333333333333333,0.7748918190812677
+cells-k1,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,71,all,47,0.9194768486810344,0.8634723110932538,1.0,1,0.02127659574468085,0.8569208959837179
+cells-k1,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,71,length,6,0.9194768486810344,0.8634723110932538,1.0,1,0.16666666666666666,0.8569208959837179
+cells-k1,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,71,condition,5,0.9194768486810344,0.8456012845482315,1.0,1,0.2,0.8569208959837179
+cells-k1,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,71,all,47,0.9652735408145973,0.8272893926756871,1.0,1,0.02127659574468085,0.9265507031690553
+cells-k1,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,71,length,11,0.9652735408145973,0.8112292838815434,1.0,1,0.09090909090909091,0.9265507031690553
+cells-k1,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,71,condition,5,0.9652735408145973,0.8272893926756871,1.0,1,0.2,0.9265507031690553
+cells-k1,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,71,condition-length,2,0.9652735408145973,0.8112292838815434,1.0,1,0.5,0.9265507031690553
+cells-k1,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,71,all,47,0.942713368136705,0.7131309969547548,1.0,1,0.02127659574468085,0.9272841058119815
+cells-k1,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,71,length,6,0.942713368136705,0.7062123570621233,1.0,1,0.16666666666666666,0.9272841058119815
+cells-k1,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,71,condition,5,0.942713368136705,0.5348029504952627,1.0,1,0.2,0.9272841058119815
+cells-k1,costco-xfce1c94d61,cardboard-smell,8,You catch the smell of dry cardboard.,71,all,47,0.871305115019533,0.7208301437607465,1.0,1,0.02127659574468085,0.8192278283914801
+cells-k1,costco-xfce1c94d61,cardboard-smell,8,You catch the smell of dry cardboard.,71,length,10,0.871305115019533,0.7208301437607465,1.0,1,0.1,0.8192278283914801
+cells-k1,costco-xfce1c94d61,cardboard-smell,8,You catch the smell of dry cardboard.,71,condition,3,0.871305115019533,0.7208301437607465,1.0,1,0.3333333333333333,0.8192278283914801
+cells-k1,costco-xfce1c94d61,cardboard-smell,8,You catch the smell of dry cardboard.,71,condition-length,2,0.871305115019533,0.7208301437607465,1.0,1,0.5,0.8192278283914801
+cells-k1,costco-x01357d73fb,cookies-word,6,The file is named cookies.,92,all,47,0.8648292544588088,0.7138621467342413,1.0,1,0.02127659574468085,0.8802016203335994
+cells-k1,costco-x01357d73fb,cookies-word,6,The file is named cookies.,92,length,2,0.8648292544588088,0.6309337586585764,1.0,1,0.5,0.8802016203335994
+cells-k1,costco-x01357d73fb,cookies-word,6,The file is named cookies.,92,condition,3,0.8648292544588088,0.5298202164649689,1.0,1,0.3333333333333333,0.8802016203335994
+cells-k1,costco-x02c5f5b669,celery-smell,8,The smell of chopped celery reaches you.,92,all,47,0.8064105148465431,0.6786583536116966,1.0,1,0.02127659574468085,0.7144356519747536
+cells-k1,costco-x02c5f5b669,celery-smell,8,The smell of chopped celery reaches you.,92,length,10,0.8064105148465431,0.6786583536116966,1.0,1,0.1,0.7144356519747536
+cells-k1,costco-x02c5f5b669,celery-smell,8,The smell of chopped celery reaches you.,92,condition,3,0.8064105148465431,0.651073729564646,1.0,1,0.3333333333333333,0.7144356519747536
+cells-k1,costco-x02c5f5b669,celery-smell,8,The smell of chopped celery reaches you.,92,condition-length,2,0.8064105148465431,0.651073729564646,1.0,1,0.5,0.7144356519747536
+cells-k1,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,92,all,47,0.8979522671059782,0.8335374812334935,1.0,1,0.02127659574468085,0.8549499425438646
+cells-k1,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,92,length,11,0.8979522671059782,0.8335374812334935,1.0,1,0.09090909090909091,0.8549499425438646
+cells-k1,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,92,condition,3,0.8979522671059782,0.8335374812334935,1.0,1,0.3333333333333333,0.8549499425438646
+cells-k1,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,92,condition-length,2,0.8979522671059782,0.8335374812334935,1.0,1,0.5,0.8549499425438646
+cells-k1,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,92,all,47,0.9328965101380601,0.7808176920952068,1.0,1,0.02127659574468085,0.8547870314209053
+cells-k1,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,92,length,11,0.9328965101380601,0.7808176920952068,1.0,1,0.09090909090909091,0.8547870314209053
+cells-k1,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,92,condition,5,0.9328965101380601,0.599030602504805,1.0,1,0.2,0.8547870314209053
+cells-k1,costco-x14e1180dc5,plastic-see,14,There is a half-melted plastic cup in front of you.,92,all,47,0.8870095046939312,0.6734544306825031,1.0,1,0.02127659574468085,0.8537483441721919
+cells-k1,costco-x14e1180dc5,plastic-see,14,There is a half-melted plastic cup in front of you.,92,condition,5,0.8870095046939312,0.6734544306825031,1.0,1,0.2,0.8537483441721919
+cells-k1,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,92,all,47,0.8611184361645686,0.5836877914115425,1.0,1,0.02127659574468085,0.8135540839915711
+cells-k1,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,92,length,11,0.8611184361645686,0.5836877914115425,1.0,1,0.09090909090909091,0.8135540839915711
+cells-k1,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,92,condition,3,0.8611184361645686,0.5508868160143527,1.0,1,0.3333333333333333,0.8135540839915711
+cells-k1,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,92,condition-length,2,0.8611184361645686,0.5508868160143527,1.0,1,0.5,0.8135540839915711
+cells-k1,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,92,all,47,0.8812869118321924,0.7096210919266818,1.0,1,0.02127659574468085,0.8346857696904334
+cells-k1,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,92,length,10,0.8812869118321924,0.6594226073174525,1.0,1,0.1,0.8346857696904334
+cells-k1,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,92,condition,5,0.8812869118321924,0.7096210919266818,1.0,1,0.2,0.8346857696904334
+cells-k1,costco-x53fc21291a,neutral-sentence,8,There is a clock on the wall.,92,all,47,0.8351487529228899,0.6006880236802742,1.0,1,0.02127659574468085,0.7883117218375364
+cells-k1,costco-x53fc21291a,neutral-sentence,8,There is a clock on the wall.,92,length,10,0.8351487529228899,0.6006880236802742,1.0,1,0.1,0.7883117218375364
+cells-k1,costco-x53fc21291a,neutral-sentence,8,There is a clock on the wall.,92,condition,3,0.8351487529228899,0.5010220256373181,1.0,1,0.3333333333333333,0.7883117218375364
+cells-k1,costco-x55436b91cb,cardboard-smell,4,You smell cardboard.,92,all,47,0.7804107724912491,0.58746344553687,1.0,1,0.02127659574468085,0.7457702966117009
+cells-k1,costco-x55436b91cb,cardboard-smell,4,You smell cardboard.,92,length,2,0.7804107724912491,0.5854814720647314,1.0,1,0.5,0.7457702966117009
+cells-k1,costco-x55436b91cb,cardboard-smell,4,You smell cardboard.,92,condition,3,0.7804107724912491,0.58746344553687,1.0,1,0.3333333333333333,0.7457702966117009
+cells-k1,costco-x5b4da5cdda,cookies-third,10,Dana catches the smell of freshly baked cookies.,92,all,47,0.8688913739016427,0.5913102606467048,1.0,1,0.02127659574468085,0.8163659670758712
+cells-k1,costco-x5b4da5cdda,cookies-third,10,Dana catches the smell of freshly baked cookies.,92,length,11,0.8688913739016427,0.5913102606467048,1.0,1,0.09090909090909091,0.8163659670758712
+cells-k1,costco-x5b4da5cdda,cookies-third,10,Dana catches the smell of freshly baked cookies.,92,condition,3,0.8688913739016427,0.5908918147045542,1.0,1,0.3333333333333333,0.8163659670758712
+cells-k1,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,92,all,47,0.8140190189947057,0.6809153047705616,1.0,1,0.02127659574468085,0.7773493088523561
+cells-k1,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,92,length,10,0.8140190189947057,0.6809153047705616,1.0,1,0.1,0.7773493088523561
+cells-k1,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,92,condition,5,0.8140190189947057,0.6090616424551663,1.0,1,0.2,0.7773493088523561
+cells-k1,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,92,all,47,0.9314746916774678,0.7459671823654832,1.0,1,0.02127659574468085,0.9003676208985827
+cells-k1,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,92,length,3,0.9314746916774678,0.5949856263793186,1.0,1,0.3333333333333333,0.9003676208985827
+cells-k1,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,92,condition,5,0.9314746916774678,0.7459671823654832,1.0,1,0.2,0.9003676208985827
+cells-k1,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,92,all,47,0.8748815349881467,0.7315362593824531,1.0,1,0.02127659574468085,0.8664169886531843
+cells-k1,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,92,length,6,0.8748815349881467,0.670441512990593,1.0,1,0.16666666666666666,0.8664169886531843
+cells-k1,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,92,condition,5,0.8748815349881467,0.7315362593824531,1.0,1,0.2,0.8664169886531843
+cells-k1,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,92,all,47,0.8169381345931643,0.6541955119454808,1.0,1,0.02127659574468085,0.789051800914652
+cells-k1,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,92,length,6,0.8169381345931643,0.6541955119454808,1.0,1,0.16666666666666666,0.789051800914652
+cells-k1,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,92,condition,5,0.8169381345931643,0.6413211006855442,1.0,1,0.2,0.789051800914652
+cells-k1,costco-x713e6e0664,cookies-word,8,Someone wrote cookies on the whiteboard.,92,all,47,0.8401591833604777,0.6736710121487248,1.0,1,0.02127659574468085,0.8354543412892619
+cells-k1,costco-x713e6e0664,cookies-word,8,Someone wrote cookies on the whiteboard.,92,length,10,0.8401591833604777,0.6029808229961716,1.0,1,0.1,0.8354543412892619
+cells-k1,costco-x713e6e0664,cookies-word,8,Someone wrote cookies on the whiteboard.,92,condition,3,0.8401591833604777,0.6719248728561369,1.0,1,0.3333333333333333,0.8354543412892619
+cells-k1,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,92,all,47,0.9280648485454023,0.8334748427293491,1.0,1,0.02127659574468085,0.9172916498098982
+cells-k1,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,92,length,11,0.9280648485454023,0.8334748427293491,1.0,1,0.09090909090909091,0.9172916498098982
+cells-k1,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,92,condition,3,0.9280648485454023,0.8334748427293491,1.0,1,0.3333333333333333,0.9172916498098982
+cells-k1,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,92,condition-length,2,0.9280648485454023,0.8334748427293491,1.0,1,0.5,0.9172916498098982
+cells-k1,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,92,all,47,0.8647585250937813,0.6443688374303733,1.0,1,0.02127659574468085,0.8125205092235376
+cells-k1,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,92,length,6,0.8647585250937813,0.5031524173477863,1.0,1,0.16666666666666666,0.8125205092235376
+cells-k1,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,92,condition,5,0.8647585250937813,0.6443688374303733,1.0,1,0.2,0.8125205092235376
+cells-k1,costco-x84a18d2896,plastic-third,9,Dana catches the smell of melting plastic.,92,all,47,0.9003575354088886,0.7397182014402159,1.0,1,0.02127659574468085,0.8167803874563693
+cells-k1,costco-x84a18d2896,plastic-third,9,Dana catches the smell of melting plastic.,92,length,6,0.9003575354088886,0.7397182014402159,1.0,1,0.16666666666666666,0.8167803874563693
+cells-k1,costco-x84a18d2896,plastic-third,9,Dana catches the smell of melting plastic.,92,condition,3,0.9003575354088886,0.7051351953439126,1.0,1,0.3333333333333333,0.8167803874563693
+cells-k1,costco-x8560d487db,plastic-word,6,The sign says burning plastic.,92,all,47,0.8018947491519444,0.6874284432871149,1.0,1,0.02127659574468085,0.7938412698553909
+cells-k1,costco-x8560d487db,plastic-word,6,The sign says burning plastic.,92,length,2,0.8018947491519444,0.6731846792371438,1.0,1,0.5,0.7938412698553909
+cells-k1,costco-x8560d487db,plastic-word,6,The sign says burning plastic.,92,condition,3,0.8018947491519444,0.6874284432871149,1.0,1,0.3333333333333333,0.7938412698553909
+cells-k1,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,92,all,47,0.8827132493506864,0.7547009289410191,1.0,1,0.02127659574468085,0.8247650080675066
+cells-k1,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,92,length,6,0.8827132493506864,0.7547009289410191,1.0,1,0.16666666666666666,0.8247650080675066
+cells-k1,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,92,condition,5,0.8827132493506864,0.7547009289410191,1.0,1,0.2,0.8247650080675066
+cells-k1,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,92,condition-length,2,0.8827132493506864,0.7547009289410191,1.0,1,0.5,0.8247650080675066
+cells-k1,costco-x8d1b00540e,celery-smell,8,You catch the smell of fresh celery.,92,all,47,0.826612899799368,0.7021424434553294,1.0,1,0.02127659574468085,0.7373178825315599
+cells-k1,costco-x8d1b00540e,celery-smell,8,You catch the smell of fresh celery.,92,length,10,0.826612899799368,0.7021424434553294,1.0,1,0.1,0.7373178825315599
+cells-k1,costco-x8d1b00540e,celery-smell,8,You catch the smell of fresh celery.,92,condition,3,0.826612899799368,0.7021424434553294,1.0,1,0.3333333333333333,0.7373178825315599
+cells-k1,costco-x8d1b00540e,celery-smell,8,You catch the smell of fresh celery.,92,condition-length,2,0.826612899799368,0.7021424434553294,1.0,1,0.5,0.7373178825315599
+cells-k1,costco-x9125d2773a,cookies-third,5,Maria smells cookies baking.,92,all,47,0.8064451701134214,0.6146050078406171,1.0,1,0.02127659574468085,0.7097899709151175
+cells-k1,costco-x9125d2773a,cookies-third,5,Maria smells cookies baking.,92,length,6,0.8064451701134214,0.6146050078406171,1.0,1,0.16666666666666666,0.7097899709151175
+cells-k1,costco-x9125d2773a,cookies-third,5,Maria smells cookies baking.,92,condition,3,0.8064451701134214,0.6021218542292835,1.0,1,0.3333333333333333,0.7097899709151175
+cells-k1,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,92,all,47,0.9150052485848106,0.7490049190090654,1.0,1,0.02127659574468085,0.8831471639011461
+cells-k1,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,92,length,6,0.9150052485848106,0.7490049190090654,1.0,1,0.16666666666666666,0.8831471639011461
+cells-k1,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,92,condition,5,0.9150052485848106,0.7346861707392024,1.0,1,0.2,0.8831471639011461
+cells-k1,costco-x96d6959dd7,celery-smell,4,You smell celery.,92,all,47,0.8178208213204113,0.655091725623257,1.0,1,0.02127659574468085,0.7564588179148211
+cells-k1,costco-x96d6959dd7,celery-smell,4,You smell celery.,92,length,2,0.8178208213204113,0.655091725623257,1.0,1,0.5,0.7564588179148211
+cells-k1,costco-x96d6959dd7,celery-smell,4,You smell celery.,92,condition,3,0.8178208213204113,0.5994266603883022,1.0,1,0.3333333333333333,0.7564588179148211
+cells-k1,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,92,all,47,0.8817055922617177,0.6329577751846709,1.0,1,0.02127659574468085,0.8305150464251639
+cells-k1,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,92,length,3,0.8817055922617177,0.5652444412994071,1.0,1,0.3333333333333333,0.8305150464251639
+cells-k1,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,92,condition,5,0.8817055922617177,0.6329577751846709,1.0,1,0.2,0.8305150464251639
+cells-k1,costco-x9d62883e4a,cookies-third,8,The smell of warm cookies reaches Kai.,92,all,47,0.7632542545649293,0.5951687182489219,1.0,1,0.02127659574468085,0.8219613065703804
+cells-k1,costco-x9d62883e4a,cookies-third,8,The smell of warm cookies reaches Kai.,92,length,10,0.7632542545649293,0.5951687182489219,1.0,1,0.1,0.8219613065703804
+cells-k1,costco-x9d62883e4a,cookies-third,8,The smell of warm cookies reaches Kai.,92,condition,3,0.7632542545649293,0.5521861871110644,1.0,1,0.3333333333333333,0.8219613065703804
+cells-k1,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,92,all,47,0.8708282149104866,0.7950119445800697,1.0,1,0.02127659574468085,0.8187639501141601
+cells-k1,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,92,length,11,0.8708282149104866,0.7950119445800697,1.0,1,0.09090909090909091,0.8187639501141601
+cells-k1,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,92,condition,5,0.8708282149104866,0.7950119445800697,1.0,1,0.2,0.8187639501141601
+cells-k1,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,92,condition-length,2,0.8708282149104866,0.7950119445800697,1.0,1,0.5,0.8187639501141601
+cells-k1,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,92,all,47,0.8733479987705489,0.5783278665279532,1.0,1,0.02127659574468085,0.8217746624576802
+cells-k1,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,92,length,6,0.8733479987705489,0.5783278665279532,1.0,1,0.16666666666666666,0.8217746624576802
+cells-k1,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,92,condition,3,0.8733479987705489,0.382792775200714,1.0,1,0.3333333333333333,0.8217746624576802
+cells-k1,costco-xa9a4d133d1,plastic-third,5,Maria smells burning plastic.,92,all,47,0.9256839333877124,0.7986654495684923,1.0,1,0.02127659574468085,0.8671884813040168
+cells-k1,costco-xa9a4d133d1,plastic-third,5,Maria smells burning plastic.,92,length,6,0.9256839333877124,0.7986654495684923,1.0,1,0.16666666666666666,0.8671884813040168
+cells-k1,costco-xa9a4d133d1,plastic-third,5,Maria smells burning plastic.,92,condition,3,0.9256839333877124,0.770504502293984,1.0,1,0.3333333333333333,0.8671884813040168
+cells-k1,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,92,all,47,0.8691893041837845,0.773143086922367,1.0,1,0.02127659574468085,0.8211258279285233
+cells-k1,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,92,length,6,0.8691893041837845,0.773143086922367,1.0,1,0.16666666666666666,0.8211258279285233
+cells-k1,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,92,condition,5,0.8691893041837845,0.773143086922367,1.0,1,0.2,0.8211258279285233
+cells-k1,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,92,condition-length,2,0.8691893041837845,0.773143086922367,1.0,1,0.5,0.8211258279285233
+cells-k1,costco-xb2d7682bda,neutral-sentence,5,You see a shelf.,92,all,47,0.81029254289857,0.5597302960949978,1.0,1,0.02127659574468085,0.81392582504569
+cells-k1,costco-xb2d7682bda,neutral-sentence,5,You see a shelf.,92,length,6,0.81029254289857,0.5597302960949978,1.0,1,0.16666666666666666,0.81392582504569
+cells-k1,costco-xb2d7682bda,neutral-sentence,5,You see a shelf.,92,condition,3,0.81029254289857,0.5170192004834775,1.0,1,0.3333333333333333,0.81392582504569
+cells-k1,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,92,all,47,0.8621292321463722,0.6527575818861457,1.0,1,0.02127659574468085,0.8071101606638199
+cells-k1,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,92,length,3,0.8621292321463722,0.6247869391396594,1.0,1,0.3333333333333333,0.8071101606638199
+cells-k1,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,92,condition,5,0.8621292321463722,0.6527575818861457,1.0,1,0.2,0.8071101606638199
+cells-k1,costco-xbd8e3dbe80,cookies-word,5,The sign says cookies.,92,all,47,0.7981214183114584,0.6660331575080927,1.0,1,0.02127659574468085,0.747269549512705
+cells-k1,costco-xbd8e3dbe80,cookies-word,5,The sign says cookies.,92,length,6,0.7981214183114584,0.6660331575080927,1.0,1,0.16666666666666666,0.747269549512705
+cells-k1,costco-xbd8e3dbe80,cookies-word,5,The sign says cookies.,92,condition,3,0.7981214183114584,0.4830022189270358,1.0,1,0.3333333333333333,0.747269549512705
+cells-k1,costco-xbfe3de4a48,neutral-sentence,7,You notice a row of chairs.,92,all,47,0.8259521073732863,0.6303321648368083,1.0,1,0.02127659574468085,0.7905618165790043
+cells-k1,costco-xbfe3de4a48,neutral-sentence,7,You notice a row of chairs.,92,length,6,0.8259521073732863,0.6303321648368083,1.0,1,0.16666666666666666,0.7905618165790043
+cells-k1,costco-xbfe3de4a48,neutral-sentence,7,You notice a row of chairs.,92,condition,3,0.8259521073732863,0.5597000022277857,1.0,1,0.3333333333333333,0.7905618165790043
+cells-k1,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,92,all,47,0.8538352037871129,0.5633507479145324,1.0,1,0.02127659574468085,0.8272385641325345
+cells-k1,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,92,length,6,0.8538352037871129,0.5453933773151344,1.0,1,0.16666666666666666,0.8272385641325345
+cells-k1,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,92,condition,3,0.8538352037871129,0.5633507479145324,1.0,1,0.3333333333333333,0.8272385641325345
+cells-k1,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,92,all,47,0.8976511774836694,0.7256941744654635,1.0,1,0.02127659574468085,0.8724836259850518
+cells-k1,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,92,length,10,0.8976511774836694,0.6464852387395802,1.0,1,0.1,0.8724836259850518
+cells-k1,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,92,condition,5,0.8976511774836694,0.7256941744654635,1.0,1,0.2,0.8724836259850518
+cells-k1,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,92,all,47,0.8546001016876162,0.6272559140848895,1.0,1,0.02127659574468085,0.8467093077243709
+cells-k1,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,92,length,11,0.8546001016876162,0.5729008337118997,1.0,1,0.09090909090909091,0.8467093077243709
+cells-k1,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,92,condition,3,0.8546001016876162,0.6272559140848895,1.0,1,0.3333333333333333,0.8467093077243709
+cells-k1,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,92,condition-length,2,0.8546001016876162,0.5453050810573364,1.0,1,0.5,0.8467093077243709
+cells-k1,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,92,all,47,0.8824588661383893,0.7440862705250623,1.0,1,0.02127659574468085,0.810453969094011
+cells-k1,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,92,length,11,0.8824588661383893,0.7440862705250623,1.0,1,0.09090909090909091,0.810453969094011
+cells-k1,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,92,condition,5,0.8824588661383893,0.7440862705250623,1.0,1,0.2,0.810453969094011
+cells-k1,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,92,condition-length,2,0.8824588661383893,0.7440862705250623,1.0,1,0.5,0.810453969094011
+cells-k1,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,92,all,47,0.9131595114665623,0.8107236804854565,1.0,1,0.02127659574468085,0.8802546060733162
+cells-k1,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,92,length,11,0.9131595114665623,0.8107236804854565,1.0,1,0.09090909090909091,0.8802546060733162
+cells-k1,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,92,condition,5,0.9131595114665623,0.8107236804854565,1.0,1,0.2,0.8802546060733162
+cells-k1,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,92,condition-length,2,0.9131595114665623,0.8107236804854565,1.0,1,0.5,0.8802546060733162
+cells-k1,costco-xd2153dfdca,cardboard-smell,8,The smell of new cardboard reaches you.,92,all,47,0.8308017207792121,0.7293646513270126,1.0,1,0.02127659574468085,0.8021526350292788
+cells-k1,costco-xd2153dfdca,cardboard-smell,8,The smell of new cardboard reaches you.,92,length,10,0.8308017207792121,0.7293646513270126,1.0,1,0.1,0.8021526350292788
+cells-k1,costco-xd2153dfdca,cardboard-smell,8,The smell of new cardboard reaches you.,92,condition,3,0.8308017207792121,0.7293646513270126,1.0,1,0.3333333333333333,0.8021526350292788
+cells-k1,costco-xd2153dfdca,cardboard-smell,8,The smell of new cardboard reaches you.,92,condition-length,2,0.8308017207792121,0.7293646513270126,1.0,1,0.5,0.8021526350292788
+cells-k1,costco-xd767ddcc42,plastic-third,10,The smell of scorched plastic reaches Kai.,92,all,47,0.9035847464399688,0.7537890271440029,1.0,1,0.02127659574468085,0.8475210349103716
+cells-k1,costco-xd767ddcc42,plastic-third,10,The smell of scorched plastic reaches Kai.,92,length,11,0.9035847464399688,0.7537890271440029,1.0,1,0.09090909090909091,0.8475210349103716
+cells-k1,costco-xd767ddcc42,plastic-third,10,The smell of scorched plastic reaches Kai.,92,condition,3,0.9035847464399688,0.6896620722767545,1.0,1,0.3333333333333333,0.8475210349103716
+cells-k1,costco-xdb8d0a8d8b,plastic-word,9,Someone wrote burning plastic on the whiteboard.,92,all,47,0.8806079091180103,0.7429687999748579,1.0,1,0.02127659574468085,0.8815507304619568
+cells-k1,costco-xdb8d0a8d8b,plastic-word,9,Someone wrote burning plastic on the whiteboard.,92,length,6,0.8806079091180103,0.7429687999748579,1.0,1,0.16666666666666666,0.8815507304619568
+cells-k1,costco-xdb8d0a8d8b,plastic-word,9,Someone wrote burning plastic on the whiteboard.,92,condition,3,0.8806079091180103,0.7069524868505682,1.0,1,0.3333333333333333,0.8815507304619568
+cells-k1,costco-xdcbb559138,plastic-word,7,The file is named burning plastic.,92,all,47,0.8973940886034714,0.7049059705132412,1.0,1,0.02127659574468085,0.8475483595202593
+cells-k1,costco-xdcbb559138,plastic-word,7,The file is named burning plastic.,92,length,6,0.8973940886034714,0.6348362691436035,1.0,1,0.16666666666666666,0.8475483595202593
+cells-k1,costco-xdcbb559138,plastic-word,7,The file is named burning plastic.,92,condition,3,0.8973940886034714,0.6750551035009199,1.0,1,0.3333333333333333,0.8475483595202593
+cells-k1,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,92,all,47,0.913054052819744,0.8011175814724507,1.0,1,0.02127659574468085,0.868469637760607
+cells-k1,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,92,length,6,0.913054052819744,0.8011175814724507,1.0,1,0.16666666666666666,0.868469637760607
+cells-k1,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,92,condition,5,0.913054052819744,0.7914689418197407,1.0,1,0.2,0.868469637760607
+cells-k1,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,92,all,47,0.9050891400902703,0.7733023187896421,1.0,1,0.02127659574468085,0.9004904843649056
+cells-k1,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,92,length,11,0.9050891400902703,0.7733023187896421,1.0,1,0.09090909090909091,0.9004904843649056
+cells-k1,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,92,condition,5,0.9050891400902703,0.7733023187896421,1.0,1,0.2,0.9004904843649056
+cells-k1,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,92,condition-length,2,0.9050891400902703,0.7733023187896421,1.0,1,0.5,0.9004904843649056
+cells-k1,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,92,all,47,0.8503995687281718,0.686180399984807,1.0,1,0.02127659574468085,0.8027697390251072
+cells-k1,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,92,length,6,0.8503995687281718,0.6033086088518924,1.0,1,0.16666666666666666,0.8027697390251072
+cells-k1,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,92,condition,5,0.8503995687281718,0.686180399984807,1.0,1,0.2,0.8027697390251072
+cells-k1,costco-xfce1c94d61,cardboard-smell,8,You catch the smell of dry cardboard.,92,all,47,0.8034667506248194,0.7352379065544311,1.0,1,0.02127659574468085,0.7735921447286499
+cells-k1,costco-xfce1c94d61,cardboard-smell,8,You catch the smell of dry cardboard.,92,length,10,0.8034667506248194,0.7352379065544311,1.0,1,0.1,0.7735921447286499
+cells-k1,costco-xfce1c94d61,cardboard-smell,8,You catch the smell of dry cardboard.,92,condition,3,0.8034667506248194,0.7352379065544311,1.0,1,0.3333333333333333,0.7735921447286499
+cells-k1,costco-xfce1c94d61,cardboard-smell,8,You catch the smell of dry cardboard.,92,condition-length,2,0.8034667506248194,0.7352379065544311,1.0,1,0.5,0.7735921447286499
+cells-k2,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,28,all,26,0.7640857609900836,0.6645700222795495,1.0,1,0.038461538461538464,0.6229844112997187
+cells-k2,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,28,length,9,0.7640857609900836,0.6645700222795495,1.0,1,0.1111111111111111,0.6229844112997187
+cells-k2,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,28,condition,3,0.7640857609900836,0.6645700222795495,1.0,1,0.3333333333333333,0.6229844112997187
+cells-k2,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,28,condition-length,2,0.7640857609900836,0.6645700222795495,1.0,1,0.5,0.6229844112997187
+cells-k2,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,28,all,26,0.6863185395986614,0.5839090515418631,1.0,1,0.038461538461538464,0.5990630018028492
+cells-k2,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,28,length,9,0.6863185395986614,0.5839090515418631,1.0,1,0.1111111111111111,0.5990630018028492
+cells-k2,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,28,condition,5,0.6863185395986614,0.45755284765329435,1.0,1,0.2,0.5990630018028492
+cells-k2,costco-x14e1180dc5,plastic-see,14,There is a half-melted plastic cup in front of you.,28,all,26,0.8383483198202397,0.5840329801236832,1.0,1,0.038461538461538464,0.7219021087758908
+cells-k2,costco-x14e1180dc5,plastic-see,14,There is a half-melted plastic cup in front of you.,28,condition,5,0.8383483198202397,0.4851046487424955,1.0,1,0.2,0.7219021087758908
+cells-k2,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,28,all,26,0.8106093793837519,0.6247670911759048,1.0,1,0.038461538461538464,0.7719496568866531
+cells-k2,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,28,length,9,0.8106093793837519,0.6247670911759048,1.0,1,0.1111111111111111,0.7719496568866531
+cells-k2,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,28,condition,3,0.8106093793837519,0.6247670911759048,1.0,1,0.3333333333333333,0.7719496568866531
+cells-k2,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,28,condition-length,2,0.8106093793837519,0.6247670911759048,1.0,1,0.5,0.7719496568866531
+cells-k2,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,28,all,26,0.7106932208866643,0.5990419110617279,1.0,1,0.038461538461538464,0.574755669331868
+cells-k2,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,28,length,3,0.7106932208866643,0.5400677743314082,1.0,1,0.3333333333333333,0.574755669331868
+cells-k2,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,28,condition,5,0.7106932208866643,0.5990419110617279,1.0,1,0.2,0.574755669331868
+cells-k2,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,28,all,26,0.7633201903596938,0.5587642582301886,1.0,1,0.038461538461538464,0.6527065232985914
+cells-k2,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,28,length,3,0.7633201903596938,0.533692343906244,1.0,1,0.3333333333333333,0.6527065232985914
+cells-k2,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,28,condition,5,0.7633201903596938,0.5434273351055217,1.0,1,0.2,0.6527065232985914
+cells-k2,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,28,all,26,0.8281361720446324,0.74679561337276,1.0,1,0.038461538461538464,0.7170806144289882
+cells-k2,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,28,length,3,0.8281361720446324,0.74679561337276,1.0,1,0.3333333333333333,0.7170806144289882
+cells-k2,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,28,condition,5,0.8281361720446324,0.5925645469225314,1.0,1,0.2,0.7170806144289882
+cells-k2,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,28,all,26,0.7577419724409111,0.7265556553624359,1.0,1,0.038461538461538464,0.6667411906911885
+cells-k2,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,28,length,4,0.7577419724409111,0.7265556553624359,1.0,1,0.25,0.6667411906911885
+cells-k2,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,28,condition,5,0.7577419724409111,0.6082491580283048,1.0,1,0.2,0.6667411906911885
+cells-k2,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,28,all,26,0.7304045933551004,0.578843671852951,1.0,1,0.038461538461538464,0.6233083104799978
+cells-k2,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,28,length,2,0.7304045933551004,0.578843671852951,1.0,1,0.5,0.6233083104799978
+cells-k2,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,28,condition,5,0.7304045933551004,0.5460326254265446,1.0,1,0.2,0.6233083104799978
+cells-k2,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,28,all,26,0.9147235426833744,0.7297150982731692,1.0,1,0.038461538461538464,0.8589730360567229
+cells-k2,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,28,length,9,0.9147235426833744,0.7297150982731692,1.0,1,0.1111111111111111,0.8589730360567229
+cells-k2,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,28,condition,3,0.9147235426833744,0.7297150982731692,1.0,1,0.3333333333333333,0.8589730360567229
+cells-k2,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,28,condition-length,2,0.9147235426833744,0.7297150982731692,1.0,1,0.5,0.8589730360567229
+cells-k2,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,28,all,26,0.7447751996992356,0.6217900152480418,1.0,1,0.038461538461538464,0.6127094911194036
+cells-k2,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,28,length,4,0.7447751996992356,0.563019884500552,1.0,1,0.25,0.6127094911194036
+cells-k2,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,28,condition,5,0.7447751996992356,0.6217900152480418,1.0,1,0.2,0.6127094911194036
+cells-k2,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,28,all,26,0.788668279369567,0.6991387875916878,1.0,1,0.038461538461538464,0.729830725246226
+cells-k2,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,28,length,4,0.788668279369567,0.6991387875916878,1.0,1,0.25,0.729830725246226
+cells-k2,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,28,condition,5,0.788668279369567,0.6991387875916878,1.0,1,0.2,0.729830725246226
+cells-k2,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,28,condition-length,2,0.788668279369567,0.6991387875916878,1.0,1,0.5,0.729830725246226
+cells-k2,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,28,all,26,0.8166704361944519,0.595779487566443,1.0,1,0.038461538461538464,0.7015208879673239
+cells-k2,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,28,length,4,0.8166704361944519,0.5907413017617956,1.0,1,0.25,0.7015208879673239
+cells-k2,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,28,condition,5,0.8166704361944519,0.595779487566443,1.0,1,0.2,0.7015208879673239
+cells-k2,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,28,all,26,0.8083142926523047,0.7608792735291952,1.0,1,0.038461538461538464,0.7126265699864672
+cells-k2,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,28,length,3,0.8083142926523047,0.7608792735291952,1.0,1,0.3333333333333333,0.7126265699864672
+cells-k2,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,28,condition,5,0.8083142926523047,0.6583170274603922,1.0,1,0.2,0.7126265699864672
+cells-k2,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,28,all,26,0.7053300168104756,0.6650980168065909,1.0,1,0.038461538461538464,0.6188593111939068
+cells-k2,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,28,length,9,0.7053300168104756,0.6650980168065909,1.0,1,0.1111111111111111,0.6188593111939068
+cells-k2,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,28,condition,5,0.7053300168104756,0.6650980168065909,1.0,1,0.2,0.6188593111939068
+cells-k2,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,28,condition-length,2,0.7053300168104756,0.6650980168065909,1.0,1,0.5,0.6188593111939068
+cells-k2,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,28,all,26,0.8950325757187342,0.6273785311812728,1.0,1,0.038461538461538464,0.8076902374344461
+cells-k2,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,28,length,4,0.8950325757187342,0.6187596553961288,1.0,1,0.25,0.8076902374344461
+cells-k2,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,28,condition,3,0.8950325757187342,0.6273785311812728,1.0,1,0.3333333333333333,0.8076902374344461
+cells-k2,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,28,all,26,0.829529427303381,0.7737434904334269,1.0,1,0.038461538461538464,0.7202510919712792
+cells-k2,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,28,length,4,0.829529427303381,0.7737434904334269,1.0,1,0.25,0.7202510919712792
+cells-k2,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,28,condition,5,0.829529427303381,0.7737434904334269,1.0,1,0.2,0.7202510919712792
+cells-k2,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,28,condition-length,2,0.829529427303381,0.7737434904334269,1.0,1,0.5,0.7202510919712792
+cells-k2,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,28,all,26,0.7681276800013208,0.5703481760272417,1.0,1,0.038461538461538464,0.6364791153791789
+cells-k2,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,28,length,3,0.7681276800013208,0.5048064198534232,1.0,1,0.3333333333333333,0.6364791153791789
+cells-k2,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,28,condition,5,0.7681276800013208,0.5456826908526966,1.0,1,0.2,0.6364791153791789
+cells-k2,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,28,all,26,0.8686750847211256,0.610171575112917,1.0,1,0.038461538461538464,0.7903006411188693
+cells-k2,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,28,length,4,0.8686750847211256,0.610171575112917,1.0,1,0.25,0.7903006411188693
+cells-k2,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,28,condition,3,0.8686750847211256,0.5781344276098705,1.0,1,0.3333333333333333,0.7903006411188693
+cells-k2,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,28,all,26,0.8157200995562148,0.5917369632394444,1.0,1,0.038461538461538464,0.679734527409969
+cells-k2,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,28,length,3,0.8157200995562148,0.5917369632394444,1.0,1,0.3333333333333333,0.679734527409969
+cells-k2,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,28,condition,5,0.8157200995562148,0.5516992494528575,1.0,1,0.2,0.679734527409969
+cells-k2,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,28,all,26,0.7654207693170645,0.5258203152482145,1.0,1,0.038461538461538464,0.7204873148174942
+cells-k2,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,28,length,9,0.7654207693170645,0.5258203152482145,1.0,1,0.1111111111111111,0.7204873148174942
+cells-k2,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,28,condition,3,0.7654207693170645,0.5258203152482145,1.0,1,0.3333333333333333,0.7204873148174942
+cells-k2,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,28,condition-length,2,0.7654207693170645,0.5258203152482145,1.0,1,0.5,0.7204873148174942
+cells-k2,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,28,all,26,0.840599760625293,0.7207359688753618,1.0,1,0.038461538461538464,0.800940611266128
+cells-k2,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,28,length,9,0.840599760625293,0.7207359688753618,1.0,1,0.1111111111111111,0.800940611266128
+cells-k2,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,28,condition,5,0.840599760625293,0.7207359688753618,1.0,1,0.2,0.800940611266128
+cells-k2,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,28,condition-length,2,0.840599760625293,0.7207359688753618,1.0,1,0.5,0.800940611266128
+cells-k2,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,28,all,26,0.7695589826875934,0.5753345277554882,1.0,1,0.038461538461538464,0.6180900973358769
+cells-k2,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,28,length,9,0.7695589826875934,0.5753345277554882,1.0,1,0.1111111111111111,0.6180900973358769
+cells-k2,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,28,condition,5,0.7695589826875934,0.5753345277554882,1.0,1,0.2,0.6180900973358769
+cells-k2,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,28,condition-length,2,0.7695589826875934,0.5753345277554882,1.0,1,0.5,0.6180900973358769
+cells-k2,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,28,all,26,0.7898402940142198,0.688601828958811,1.0,1,0.038461538461538464,0.6553527981660272
+cells-k2,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,28,length,2,0.7898402940142198,0.688601828958811,1.0,1,0.5,0.6553527981660272
+cells-k2,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,28,condition,5,0.7898402940142198,0.6375398068902198,1.0,1,0.2,0.6553527981660272
+cells-k2,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,28,all,26,0.8081489999731457,0.6372328193509047,1.0,1,0.038461538461538464,0.6898200330172877
+cells-k2,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,28,length,9,0.8081489999731457,0.6372328193509047,1.0,1,0.1111111111111111,0.6898200330172877
+cells-k2,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,28,condition,5,0.8081489999731457,0.6372328193509047,1.0,1,0.2,0.6898200330172877
+cells-k2,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,28,condition-length,2,0.8081489999731457,0.6372328193509047,1.0,1,0.5,0.6898200330172877
+cells-k2,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,28,all,26,0.7629401411653755,0.6367047557674802,1.0,1,0.038461538461538464,0.6078865314801516
+cells-k2,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,28,length,4,0.7629401411653755,0.6367047557674802,1.0,1,0.25,0.6078865314801516
+cells-k2,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,28,condition,5,0.7629401411653755,0.6169071382892649,1.0,1,0.2,0.6078865314801516
+cells-k2,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,71,all,26,0.9744759411410677,0.8692558793289955,1.0,1,0.038461538461538464,0.9945577649260898
+cells-k2,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,71,length,9,0.9744759411410677,0.8692558793289955,1.0,1,0.1111111111111111,0.9945577649260898
+cells-k2,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,71,condition,3,0.9744759411410677,0.7826774182154286,1.0,1,0.3333333333333333,0.9945577649260898
+cells-k2,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,71,condition-length,2,0.9744759411410677,0.7826774182154286,1.0,1,0.5,0.9945577649260898
+cells-k2,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,71,all,26,0.9754543600192859,0.8707091745755813,1.0,1,0.038461538461538464,0.9743543489753679
+cells-k2,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,71,length,9,0.9754543600192859,0.8707091745755813,1.0,1,0.1111111111111111,0.9743543489753679
+cells-k2,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,71,condition,5,0.9754543600192859,0.5459963882583702,1.0,1,0.2,0.9743543489753679
+cells-k2,costco-x14e1180dc5,plastic-see,14,There is a half-melted plastic cup in front of you.,71,all,26,0.9501157472857605,0.7791908325049526,1.0,1,0.038461538461538464,0.9347446211457783
+cells-k2,costco-x14e1180dc5,plastic-see,14,There is a half-melted plastic cup in front of you.,71,condition,5,0.9501157472857605,0.7791908325049526,1.0,1,0.2,0.9347446211457783
+cells-k2,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,71,all,26,0.9583323470448036,0.6051138378293861,1.0,1,0.038461538461538464,0.9194724184992605
+cells-k2,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,71,length,9,0.9583323470448036,0.6051138378293861,1.0,1,0.1111111111111111,0.9194724184992605
+cells-k2,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,71,condition,3,0.9583323470448036,0.5032463844105906,1.0,1,0.3333333333333333,0.9194724184992605
+cells-k2,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,71,condition-length,2,0.9583323470448036,0.5004262671158942,1.0,1,0.5,0.9194724184992605
+cells-k2,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,71,all,26,0.9452418178906619,0.8480745576289638,1.0,1,0.038461538461538464,0.9139487355302272
+cells-k2,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,71,length,3,0.9452418178906619,0.5671764151383558,1.0,1,0.3333333333333333,0.9139487355302272
+cells-k2,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,71,condition,5,0.9452418178906619,0.8480745576289638,1.0,1,0.2,0.9139487355302272
+cells-k2,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,71,all,26,0.8945330461739752,0.697561737607168,1.0,1,0.038461538461538464,0.9663565397583224
+cells-k2,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,71,length,3,0.8945330461739752,0.35333480781152504,1.0,1,0.3333333333333333,0.9663565397583224
+cells-k2,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,71,condition,5,0.8945330461739752,0.697561737607168,1.0,1,0.2,0.9663565397583224
+cells-k2,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,71,all,26,0.9323069395369785,0.8566885400928522,1.0,1,0.038461538461538464,0.8908429704616112
+cells-k2,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,71,length,3,0.9323069395369785,0.5334886662162549,1.0,1,0.3333333333333333,0.8908429704616112
+cells-k2,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,71,condition,5,0.9323069395369785,0.8566885400928522,1.0,1,0.2,0.8908429704616112
+cells-k2,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,71,all,26,0.9614289319702761,0.8478249821729167,1.0,1,0.038461538461538464,0.9129698948154018
+cells-k2,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,71,length,4,0.9614289319702761,0.6587171781888996,1.0,1,0.25,0.9129698948154018
+cells-k2,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,71,condition,5,0.9614289319702761,0.8478249821729167,1.0,1,0.2,0.9129698948154018
+cells-k2,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,71,all,26,0.9514285239910876,0.8053841915625428,1.0,1,0.038461538461538464,0.9387574488497646
+cells-k2,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,71,length,2,0.9514285239910876,0.34199408164889356,1.0,1,0.5,0.9387574488497646
+cells-k2,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,71,condition,5,0.9514285239910876,0.8053841915625428,1.0,1,0.2,0.9387574488497646
+cells-k2,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,71,all,26,0.9632082869440771,0.8284456822141434,1.0,1,0.038461538461538464,0.9365631600321921
+cells-k2,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,71,length,9,0.9632082869440771,0.8099739792715527,1.0,1,0.1111111111111111,0.9365631600321921
+cells-k2,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,71,condition,3,0.9632082869440771,0.7857415725298329,1.0,1,0.3333333333333333,0.9365631600321921
+cells-k2,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,71,condition-length,2,0.9632082869440771,0.7857415725298329,1.0,1,0.5,0.9365631600321921
+cells-k2,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,71,all,26,0.9546503824564229,0.7752246603092562,1.0,1,0.038461538461538464,0.9468075343563033
+cells-k2,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,71,length,4,0.9546503824564229,0.5649766406091408,1.0,1,0.25,0.9468075343563033
+cells-k2,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,71,condition,5,0.9546503824564229,0.7752246603092562,1.0,1,0.2,0.9468075343563033
+cells-k2,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,71,all,26,0.9656419587077941,0.8878354426283342,1.0,1,0.038461538461538464,0.9289667183675495
+cells-k2,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,71,length,4,0.9656419587077941,0.8878354426283342,1.0,1,0.25,0.9289667183675495
+cells-k2,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,71,condition,5,0.9656419587077941,0.8878354426283342,1.0,1,0.2,0.9289667183675495
+cells-k2,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,71,condition-length,2,0.9656419587077941,0.8878354426283342,1.0,1,0.5,0.9289667183675495
+cells-k2,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,71,all,26,0.9716210658019112,0.8418398208168785,1.0,1,0.038461538461538464,0.9675400778059275
+cells-k2,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,71,length,4,0.9716210658019112,0.5529436928278743,1.0,1,0.25,0.9675400778059275
+cells-k2,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,71,condition,5,0.9716210658019112,0.8418398208168785,1.0,1,0.2,0.9675400778059275
+cells-k2,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,71,all,26,0.9105942577055712,0.6623004287540488,1.0,1,0.038461538461538464,0.8136465656018719
+cells-k2,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,71,length,3,0.9105942577055712,0.39420309674109144,1.0,1,0.3333333333333333,0.8136465656018719
+cells-k2,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,71,condition,5,0.9105942577055712,0.6623004287540488,1.0,1,0.2,0.8136465656018719
+cells-k2,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,71,all,26,0.8917676824779264,0.8126469145311879,1.0,1,0.038461538461538464,0.81014028172857
+cells-k2,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,71,length,9,0.8917676824779264,0.7158290740194095,1.0,1,0.1111111111111111,0.81014028172857
+cells-k2,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,71,condition,5,0.8917676824779264,0.8126469145311879,1.0,1,0.2,0.81014028172857
+cells-k2,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,71,condition-length,2,0.8917676824779264,0.7158290740194095,1.0,1,0.5,0.81014028172857
+cells-k2,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,71,all,26,0.9508696260611011,0.7083052950673819,1.0,1,0.038461538461538464,0.883238009725953
+cells-k2,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,71,length,4,0.9508696260611011,0.672689373549574,1.0,1,0.25,0.883238009725953
+cells-k2,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,71,condition,3,0.9508696260611011,0.510511261229221,1.0,1,0.3333333333333333,0.883238009725953
+cells-k2,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,71,all,26,0.9532705177029215,0.8587369464869498,1.0,1,0.038461538461538464,0.9134829713554389
+cells-k2,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,71,length,4,0.9532705177029215,0.8587369464869498,1.0,1,0.25,0.9134829713554389
+cells-k2,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,71,condition,5,0.9532705177029215,0.8587369464869498,1.0,1,0.2,0.9134829713554389
+cells-k2,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,71,condition-length,2,0.9532705177029215,0.8587369464869498,1.0,1,0.5,0.9134829713554389
+cells-k2,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,71,all,26,0.9527977157024379,0.6796151915880176,1.0,1,0.038461538461538464,0.8960731194375835
+cells-k2,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,71,length,3,0.9527977157024379,0.47290308981302004,1.0,1,0.3333333333333333,0.8960731194375835
+cells-k2,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,71,condition,5,0.9527977157024379,0.6796151915880176,1.0,1,0.2,0.8960731194375835
+cells-k2,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,71,all,26,0.9294740142555072,0.6215313622136807,1.0,1,0.038461538461538464,0.8936769842058346
+cells-k2,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,71,length,4,0.9294740142555072,0.6175925726416003,1.0,1,0.25,0.8936769842058346
+cells-k2,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,71,condition,3,0.9294740142555072,0.6215313622136807,1.0,1,0.3333333333333333,0.8936769842058346
+cells-k2,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,71,all,26,0.9703859339389923,0.772630407251867,1.0,1,0.038461538461538464,0.9252279345032188
+cells-k2,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,71,length,3,0.9703859339389923,0.5449084478728771,1.0,1,0.3333333333333333,0.9252279345032188
+cells-k2,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,71,condition,5,0.9703859339389923,0.772630407251867,1.0,1,0.2,0.9252279345032188
+cells-k2,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,71,all,26,0.9553047730051627,0.7185892272089747,1.0,1,0.038461538461538464,0.8813995661219491
+cells-k2,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,71,length,9,0.9553047730051627,0.49691443226825993,1.0,1,0.1111111111111111,0.8813995661219491
+cells-k2,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,71,condition,3,0.9553047730051627,0.6754217144258645,1.0,1,0.3333333333333333,0.8813995661219491
+cells-k2,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,71,condition-length,2,0.9553047730051627,0.48299620319185166,1.0,1,0.5,0.8813995661219491
+cells-k2,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,71,all,26,0.7930746902289844,0.756074072999828,1.0,1,0.038461538461538464,0.8333426587868566
+cells-k2,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,71,length,9,0.7930746902289844,0.756074072999828,1.0,1,0.1111111111111111,0.8333426587868566
+cells-k2,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,71,condition,5,0.7930746902289844,0.756074072999828,1.0,1,0.2,0.8333426587868566
+cells-k2,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,71,condition-length,2,0.7930746902289844,0.756074072999828,1.0,1,0.5,0.8333426587868566
+cells-k2,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,71,all,26,0.9682489805020246,0.8254826688711222,1.0,1,0.038461538461538464,0.9553815408392987
+cells-k2,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,71,length,9,0.9682489805020246,0.8254826688711222,1.0,1,0.1111111111111111,0.9553815408392987
+cells-k2,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,71,condition,5,0.9682489805020246,0.8254826688711222,1.0,1,0.2,0.9553815408392987
+cells-k2,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,71,condition-length,2,0.9682489805020246,0.8254826688711222,1.0,1,0.5,0.9553815408392987
+cells-k2,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,71,all,26,0.9690718060905326,0.8749658284715475,1.0,1,0.038461538461538464,0.9654579260353584
+cells-k2,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,71,length,2,0.9690718060905326,0.36354873112809,1.0,1,0.5,0.9654579260353584
+cells-k2,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,71,condition,5,0.9690718060905326,0.8749658284715475,1.0,1,0.2,0.9654579260353584
+cells-k2,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,71,all,26,0.9712362882908755,0.8645333665254143,1.0,1,0.038461538461538464,0.9739854564002266
+cells-k2,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,71,length,9,0.9712362882908755,0.827391034948177,1.0,1,0.1111111111111111,0.9739854564002266
+cells-k2,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,71,condition,5,0.9712362882908755,0.8645333665254143,1.0,1,0.2,0.9739854564002266
+cells-k2,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,71,condition-length,2,0.9712362882908755,0.827391034948177,1.0,1,0.5,0.9739854564002266
+cells-k2,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,71,all,26,0.9014883477039671,0.7490806258702534,1.0,1,0.038461538461538464,0.868875215421089
+cells-k2,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,71,length,4,0.9014883477039671,0.5477192984945214,1.0,1,0.25,0.868875215421089
+cells-k2,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,71,condition,5,0.9014883477039671,0.7490806258702534,1.0,1,0.2,0.868875215421089
+cells-k2,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,92,all,26,0.9469198301536557,0.8400538993176361,1.0,1,0.038461538461538464,0.932707917367412
+cells-k2,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,92,length,9,0.9469198301536557,0.8400538993176361,1.0,1,0.1111111111111111,0.932707917367412
+cells-k2,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,92,condition,3,0.9469198301536557,0.8400538993176361,1.0,1,0.3333333333333333,0.932707917367412
+cells-k2,costco-x0669b30d6f,alarm-sentence,10,The fire drill bell starts clanging right outside.,92,condition-length,2,0.9469198301536557,0.8400538993176361,1.0,1,0.5,0.932707917367412
+cells-k2,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,92,all,26,0.9131136345636172,0.8018757035908621,1.0,1,0.038461538461538464,0.8829781136453376
+cells-k2,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,92,length,9,0.9131136345636172,0.8018757035908621,1.0,1,0.1111111111111111,0.8829781136453376
+cells-k2,costco-x0e892e6565,plastic-see,10,You see a plastic bin burning in the corner.,92,condition,5,0.9131136345636172,0.5662829500087643,1.0,1,0.2,0.8829781136453376
+cells-k2,costco-x14e1180dc5,plastic-see,14,There is a half-melted plastic cup in front of you.,92,all,26,0.8837093548158288,0.7079871490832096,1.0,1,0.038461538461538464,0.8802545236074342
+cells-k2,costco-x14e1180dc5,plastic-see,14,There is a half-melted plastic cup in front of you.,92,condition,5,0.8837093548158288,0.7079871490832096,1.0,1,0.2,0.8802545236074342
+cells-k2,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,92,all,26,0.8580743943011186,0.6375150420429528,1.0,1,0.038461538461538464,0.8091016209073604
+cells-k2,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,92,length,9,0.8580743943011186,0.6375150420429528,1.0,1,0.1111111111111111,0.8091016209073604
+cells-k2,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,92,condition,3,0.8580743943011186,0.5340658918160615,1.0,1,0.3333333333333333,0.8091016209073604
+cells-k2,costco-x3612453736,comfort-sentence,10,You are holding a hot drink in both hands.,92,condition-length,2,0.8580743943011186,0.5340658918160615,1.0,1,0.5,0.8091016209073604
+cells-k2,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,92,all,26,0.875061402986672,0.7733850648127837,1.0,1,0.038461538461538464,0.8162053510523362
+cells-k2,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,92,length,3,0.875061402986672,0.6155038615005333,1.0,1,0.3333333333333333,0.8162053510523362
+cells-k2,costco-x4709b74acb,plastic-smell,8,You catch the smell of melting plastic.,92,condition,5,0.875061402986672,0.7733850648127837,1.0,1,0.2,0.8162053510523362
+cells-k2,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,92,all,26,0.8152149640208302,0.5962202404621066,1.0,1,0.038461538461538464,0.7791429277652148
+cells-k2,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,92,length,3,0.8152149640208302,0.39438972850871173,1.0,1,0.3333333333333333,0.7791429277652148
+cells-k2,costco-x5f44eec6a6,cookies-smell,8,The smell of warm cookies reaches you.,92,condition,5,0.8152149640208302,0.5962202404621066,1.0,1,0.2,0.7791429277652148
+cells-k2,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,92,all,26,0.9435765695353433,0.8265443744563181,1.0,1,0.038461538461538464,0.9466302501604116
+cells-k2,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,92,length,3,0.9435765695353433,0.5989411338337038,1.0,1,0.3333333333333333,0.9466302501604116
+cells-k2,costco-x6bcdba6e02,plastic-smell,13,There is a smell of burning plastic in the air around you.,92,condition,5,0.9435765695353433,0.8265443744563181,1.0,1,0.2,0.9466302501604116
+cells-k2,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,92,all,26,0.9128021534118834,0.7531472816719957,1.0,1,0.038461538461538464,0.8479672308187104
+cells-k2,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,92,length,4,0.9128021534118834,0.6178659653274714,1.0,1,0.25,0.8479672308187104
+cells-k2,costco-x70189f00c1,plastic-see,7,You see a melted plastic container.,92,condition,5,0.9128021534118834,0.7531472816719957,1.0,1,0.2,0.8479672308187104
+cells-k2,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,92,all,26,0.8189941788033659,0.6502368036493479,1.0,1,0.038461538461538464,0.7850568921809904
+cells-k2,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,92,length,2,0.8189941788033659,0.43052587266857795,1.0,1,0.5,0.7850568921809904
+cells-k2,costco-x712d03ad79,cookies-smell,5,You smell cookies baking.,92,condition,5,0.8189941788033659,0.6502368036493479,1.0,1,0.2,0.7850568921809904
+cells-k2,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,92,all,26,0.9324191506545529,0.825954913547142,1.0,1,0.038461538461538464,0.9219114846037056
+cells-k2,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,92,length,9,0.9324191506545529,0.825954913547142,1.0,1,0.1111111111111111,0.9219114846037056
+cells-k2,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,92,condition,3,0.9324191506545529,0.825954913547142,1.0,1,0.3333333333333333,0.9219114846037056
+cells-k2,costco-x7777dee1fb,alarm-sentence,10,A smoke alarm starts shrieking above you.,92,condition-length,2,0.9324191506545529,0.825954913547142,1.0,1,0.5,0.9219114846037056
+cells-k2,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,92,all,26,0.8692334680468646,0.7045832389587366,1.0,1,0.038461538461538464,0.8000718298387819
+cells-k2,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,92,length,4,0.8692334680468646,0.4266958338918431,1.0,1,0.25,0.8000718298387819
+cells-k2,costco-x7eab9963a4,cookies-smell,9,You catch the smell of freshly baked cookies.,92,condition,5,0.8692334680468646,0.7045832389587366,1.0,1,0.2,0.8000718298387819
+cells-k2,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,92,all,26,0.8719853420319336,0.8061613382501192,1.0,1,0.038461538461538464,0.8324312223178187
+cells-k2,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,92,length,4,0.8719853420319336,0.8061613382501192,1.0,1,0.25,0.8324312223178187
+cells-k2,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,92,condition,5,0.8719853420319336,0.8061613382501192,1.0,1,0.2,0.8324312223178187
+cells-k2,costco-x89f440abd8,cookies-see,7,You notice a plate of cookies.,92,condition-length,2,0.8719853420319336,0.8061613382501192,1.0,1,0.5,0.8324312223178187
+cells-k2,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,92,all,26,0.9197606225682465,0.7651555573510496,1.0,1,0.038461538461538464,0.8887416353726899
+cells-k2,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,92,length,4,0.9197606225682465,0.6006179479209851,1.0,1,0.25,0.8887416353726899
+cells-k2,costco-x9531460e2c,plastic-see,9,You notice a scorched plastic tray.,92,condition,5,0.9197606225682465,0.7651555573510496,1.0,1,0.2,0.8887416353726899
+cells-k2,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,92,all,26,0.8295415155649992,0.5652702843652211,1.0,1,0.038461538461538464,0.7832780683648015
+cells-k2,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,92,length,3,0.8295415155649992,0.44885592108894196,1.0,1,0.3333333333333333,0.7832780683648015
+cells-k2,costco-x9777ef767f,cookies-smell,13,There is a smell of cookies baking in the air around you.,92,condition,5,0.8295415155649992,0.5652702843652211,1.0,1,0.2,0.7832780683648015
+cells-k2,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,92,all,26,0.8579874158849352,0.7516290700032658,1.0,1,0.038461538461538464,0.8135626599537346
+cells-k2,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,92,length,9,0.8579874158849352,0.7516290700032658,1.0,1,0.1111111111111111,0.8135626599537346
+cells-k2,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,92,condition,5,0.8579874158849352,0.7516290700032658,1.0,1,0.2,0.8135626599537346
+cells-k2,costco-xa097f8d0cf,cookies-see,10,You see a tray of cookies on the counter.,92,condition-length,2,0.8579874158849352,0.7516290700032658,1.0,1,0.5,0.8135626599537346
+cells-k2,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,92,all,26,0.9070116611364395,0.6035595264545699,1.0,1,0.038461538461538464,0.8439738328923364
+cells-k2,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,92,length,4,0.9070116611364395,0.6035595264545699,1.0,1,0.25,0.8439738328923364
+cells-k2,costco-xa6737989ff,alarm-sentence,9,A car horn blasts right behind you.,92,condition,3,0.9070116611364395,0.5567248479455058,1.0,1,0.3333333333333333,0.8439738328923364
+cells-k2,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,92,all,26,0.8667752155926107,0.8040099159047409,1.0,1,0.038461538461538464,0.7569698625844956
+cells-k2,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,92,length,4,0.8667752155926107,0.8040099159047409,1.0,1,0.25,0.7569698625844956
+cells-k2,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,92,condition,5,0.8667752155926107,0.8040099159047409,1.0,1,0.2,0.7569698625844956
+cells-k2,costco-xb2cefdfeca,cookies-see,7,You spot a jar of cookies.,92,condition-length,2,0.8667752155926107,0.8040099159047409,1.0,1,0.5,0.7569698625844956
+cells-k2,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,92,all,26,0.9070554497205257,0.6735420558548966,1.0,1,0.038461538461538464,0.8503451840164998
+cells-k2,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,92,length,3,0.9070554497205257,0.5881121292019622,1.0,1,0.3333333333333333,0.8503451840164998
+cells-k2,costco-xb379d67471,cookies-see,13,There is a bag of chocolate chip cookies in front of you.,92,condition,5,0.9070554497205257,0.6735420558548966,1.0,1,0.2,0.8503451840164998
+cells-k2,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,92,all,26,0.8546369914218394,0.554234720442314,1.0,1,0.038461538461538464,0.8600071632947637
+cells-k2,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,92,length,4,0.8546369914218394,0.5423725910981525,1.0,1,0.25,0.8600071632947637
+cells-k2,costco-xc090ff4bd0,comfort-sentence,9,A friend wraps you in a long hug.,92,condition,3,0.8546369914218394,0.554234720442314,1.0,1,0.3333333333333333,0.8600071632947637
+cells-k2,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,92,all,26,0.9253543236283756,0.7274693084454417,1.0,1,0.038461538461538464,0.8747707918077671
+cells-k2,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,92,length,3,0.9253543236283756,0.6239042568680776,1.0,1,0.3333333333333333,0.8747707918077671
+cells-k2,costco-xc54be1ff42,plastic-see,8,You spot a warped plastic lid.,92,condition,5,0.9253543236283756,0.7274693084454417,1.0,1,0.2,0.8747707918077671
+cells-k2,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,92,all,26,0.8632421259540302,0.5783803250683397,1.0,1,0.038461538461538464,0.8247174474694259
+cells-k2,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,92,length,9,0.8632421259540302,0.5097423116791725,1.0,1,0.1111111111111111,0.8247174474694259
+cells-k2,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,92,condition,3,0.8632421259540302,0.5783803250683397,1.0,1,0.3333333333333333,0.8247174474694259
+cells-k2,costco-xc9d6ec6e73,comfort-sentence,10,Someone tucks a warm blanket around your shoulders.,92,condition-length,2,0.8632421259540302,0.4782493994481027,1.0,1,0.5,0.8247174474694259
+cells-k2,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,92,all,26,0.8729493842356225,0.7808429874217989,1.0,1,0.038461538461538464,0.798966954975295
+cells-k2,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,92,length,9,0.8729493842356225,0.7808429874217989,1.0,1,0.1111111111111111,0.798966954975295
+cells-k2,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,92,condition,5,0.8729493842356225,0.7808429874217989,1.0,1,0.2,0.798966954975295
+cells-k2,costco-xca0c4cf85d,cookies-see,10,You see a box of cookies on a shelf.,92,condition-length,2,0.8729493842356225,0.7808429874217989,1.0,1,0.5,0.798966954975295
+cells-k2,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,92,all,26,0.9215288462476651,0.8021717109989739,1.0,1,0.038461538461538464,0.9059720492535501
+cells-k2,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,92,length,9,0.9215288462476651,0.8021717109989739,1.0,1,0.1111111111111111,0.9059720492535501
+cells-k2,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,92,condition,5,0.9215288462476651,0.8021717109989739,1.0,1,0.2,0.9059720492535501
+cells-k2,costco-xcc4b90266c,plastic-smell,10,You can smell plastic that has got too hot.,92,condition-length,2,0.9215288462476651,0.8021717109989739,1.0,1,0.5,0.9059720492535501
+cells-k2,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,92,all,26,0.9321844854193121,0.8275503584729044,1.0,1,0.038461538461538464,0.904138390176026
+cells-k2,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,92,length,2,0.9321844854193121,0.482123519743868,1.0,1,0.5,0.904138390176026
+cells-k2,costco-xde2e0a7d81,plastic-smell,5,You smell burning plastic.,92,condition,5,0.9321844854193121,0.8275503584729044,1.0,1,0.2,0.904138390176026
+cells-k2,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,92,all,26,0.9211749624811314,0.8290531633848554,1.0,1,0.038461538461538464,0.9128300867377928
+cells-k2,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,92,length,9,0.9211749624811314,0.8290531633848554,1.0,1,0.1111111111111111,0.9128300867377928
+cells-k2,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,92,condition,5,0.9211749624811314,0.8290531633848554,1.0,1,0.2,0.9128300867377928
+cells-k2,costco-xf02bda406a,plastic-smell,10,The smell of scorched plastic reaches you.,92,condition-length,2,0.9211749624811314,0.8290531633848554,1.0,1,0.5,0.9128300867377928
+cells-k2,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,92,all,26,0.8214011933035406,0.6756140264504666,1.0,1,0.038461538461538464,0.7960330636949472
+cells-k2,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,92,length,4,0.8214011933035406,0.5801619853158965,1.0,1,0.25,0.7960330636949472
+cells-k2,costco-xf7f7d41661,cookies-smell,7,You can smell chocolate chip cookies.,92,condition,5,0.8214011933035406,0.6756140264504666,1.0,1,0.2,0.7960330636949472
+cells-k3,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,28,all,18,0.7829664247314324,0.7015426487667862,1.0,1,0.05555555555555555,0.5906233841414956
+cells-k3,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,28,length,8,0.7829664247314324,0.7015426487667862,1.0,1,0.125,0.5906233841414956
+cells-k3,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,28,condition,4,0.7829664247314324,0.7015426487667862,1.0,1,0.25,0.5906233841414956
+cells-k3,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,28,condition-length,3,0.7829664247314324,0.7015426487667862,1.0,1,0.3333333333333333,0.5906233841414956
+cells-k3,costco-x1c1a1e522f,oven-see,8,You see cookies baking in the oven.,28,all,18,0.757662954226323,0.7032976681242111,1.0,1,0.05555555555555555,0.6586664427273466
+cells-k3,costco-x1c1a1e522f,oven-see,8,You see cookies baking in the oven.,28,length,8,0.757662954226323,0.7032976681242111,1.0,1,0.125,0.6586664427273466
+cells-k3,costco-x1c1a1e522f,oven-see,8,You see cookies baking in the oven.,28,condition,5,0.757662954226323,0.7032976681242111,1.0,1,0.2,0.6586664427273466
+cells-k3,costco-x1c1a1e522f,oven-see,8,You see cookies baking in the oven.,28,condition-length,2,0.757662954226323,0.7032976681242111,1.0,1,0.5,0.6586664427273466
+cells-k3,costco-x2203ce6407,oven-see,11,You spot a tray of cookies baking in the oven.,28,all,18,0.7328130990306079,0.6223094792573233,1.0,1,0.05555555555555555,0.5889525958910763
+cells-k3,costco-x2203ce6407,oven-see,11,You spot a tray of cookies baking in the oven.,28,length,4,0.7328130990306079,0.6223094792573233,1.0,1,0.25,0.5889525958910763
+cells-k3,costco-x2203ce6407,oven-see,11,You spot a tray of cookies baking in the oven.,28,condition,5,0.7328130990306079,0.6208482147989574,1.0,1,0.2,0.5889525958910763
+cells-k3,costco-x2c5e9e11a4,bread-smell,8,You catch the smell of bread baking.,28,all,18,0.7747371136137426,0.766473271357533,1.0,1,0.05555555555555555,0.6160840794090615
+cells-k3,costco-x2c5e9e11a4,bread-smell,8,You catch the smell of bread baking.,28,length,8,0.7747371136137426,0.766473271357533,1.0,1,0.125,0.6160840794090615
+cells-k3,costco-x2c5e9e11a4,bread-smell,8,You catch the smell of bread baking.,28,condition,4,0.7747371136137426,0.7212692346204821,1.0,1,0.25,0.6160840794090615
+cells-k3,costco-x2c5e9e11a4,bread-smell,8,You catch the smell of bread baking.,28,condition-length,2,0.7747371136137426,0.7212692346204821,1.0,1,0.5,0.6160840794090615
+cells-k3,costco-x3197d9610c,oven-see,8,You notice cookies baking in the oven.,28,all,18,0.7620766661396725,0.6746794005112982,1.0,1,0.05555555555555555,0.6107904311370782
+cells-k3,costco-x3197d9610c,oven-see,8,You notice cookies baking in the oven.,28,length,8,0.7620766661396725,0.6746794005112982,1.0,1,0.125,0.6107904311370782
+cells-k3,costco-x3197d9610c,oven-see,8,You notice cookies baking in the oven.,28,condition,5,0.7620766661396725,0.6746794005112982,1.0,1,0.2,0.6107904311370782
+cells-k3,costco-x3197d9610c,oven-see,8,You notice cookies baking in the oven.,28,condition-length,2,0.7620766661396725,0.6746794005112982,1.0,1,0.5,0.6107904311370782
+cells-k3,costco-x35c1d3c3e6,oven-smell,9,You can smell cookies baking in the oven.,28,all,18,0.7641327990034176,0.6772711346354043,1.0,1,0.05555555555555555,0.5940056308033841
+cells-k3,costco-x35c1d3c3e6,oven-smell,9,You can smell cookies baking in the oven.,28,length,2,0.7641327990034176,0.648830615980526,1.0,1,0.5,0.5940056308033841
+cells-k3,costco-x35c1d3c3e6,oven-smell,9,You can smell cookies baking in the oven.,28,condition,5,0.7641327990034176,0.6772711346354043,1.0,1,0.2,0.5940056308033841
+cells-k3,costco-x3ce2b43b9c,bread-smell,8,The smell of warm bread reaches you.,28,all,18,0.770063254150352,0.6817348779640817,1.0,1,0.05555555555555555,0.5944160834237229
+cells-k3,costco-x3ce2b43b9c,bread-smell,8,The smell of warm bread reaches you.,28,length,8,0.770063254150352,0.6817348779640817,1.0,1,0.125,0.5944160834237229
+cells-k3,costco-x3ce2b43b9c,bread-smell,8,The smell of warm bread reaches you.,28,condition,4,0.770063254150352,0.5822999561724748,1.0,1,0.25,0.5944160834237229
+cells-k3,costco-x3ce2b43b9c,bread-smell,8,The smell of warm bread reaches you.,28,condition-length,2,0.770063254150352,0.5822999561724748,1.0,1,0.5,0.5944160834237229
+cells-k3,costco-x3ed9a2c62b,oven-smell,11,You catch the smell of cookies baking in the oven.,28,all,18,0.782583540380393,0.7241887084940133,1.0,1,0.05555555555555555,0.649314215846471
+cells-k3,costco-x3ed9a2c62b,oven-smell,11,You catch the smell of cookies baking in the oven.,28,length,4,0.782583540380393,0.7241887084940133,1.0,1,0.25,0.649314215846471
+cells-k3,costco-x3ed9a2c62b,oven-smell,11,You catch the smell of cookies baking in the oven.,28,condition,5,0.782583540380393,0.7241887084940133,1.0,1,0.2,0.649314215846471
+cells-k3,costco-x3ed9a2c62b,oven-smell,11,You catch the smell of cookies baking in the oven.,28,condition-length,2,0.782583540380393,0.7241887084940133,1.0,1,0.5,0.649314215846471
+cells-k3,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,28,all,18,0.7692351191934288,0.6548878540759372,1.0,1,0.05555555555555555,0.6007346263793402
+cells-k3,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,28,length,8,0.7692351191934288,0.6548878540759372,1.0,1,0.125,0.6007346263793402
+cells-k3,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,28,condition,4,0.7692351191934288,0.6345785958785097,1.0,1,0.25,0.6007346263793402
+cells-k3,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,28,condition-length,3,0.7692351191934288,0.6345785958785097,1.0,1,0.3333333333333333,0.6007346263793402
+cells-k3,costco-x520bb46a12,oven-see,9,You can see cookies baking in the oven.,28,all,18,0.7448598751250924,0.6670381035070851,1.0,1,0.05555555555555555,0.555187972703119
+cells-k3,costco-x520bb46a12,oven-see,9,You can see cookies baking in the oven.,28,length,2,0.7448598751250924,0.6670381035070851,1.0,1,0.5,0.555187972703119
+cells-k3,costco-x520bb46a12,oven-see,9,You can see cookies baking in the oven.,28,condition,5,0.7448598751250924,0.618909279741502,1.0,1,0.2,0.555187972703119
+cells-k3,costco-x6bb4023d31,oven-smell,16,There is a smell of cookies baking in the oven in the air around you.,28,all,18,0.771420548169765,0.4864681426030061,1.0,1,0.05555555555555555,0.6672732418822166
+cells-k3,costco-x6bb4023d31,oven-smell,16,There is a smell of cookies baking in the oven in the air around you.,28,condition,5,0.771420548169765,0.43152813501110343,1.0,1,0.2,0.6672732418822166
+cells-k3,costco-x6c22eea96a,bread-smell,5,You smell fresh bread.,28,all,18,0.7969696838031028,0.7023441968371937,1.0,1,0.05555555555555555,0.6957498236280433
+cells-k3,costco-x6c22eea96a,bread-smell,5,You smell fresh bread.,28,length,2,0.7969696838031028,0.7023441968371937,1.0,1,0.5,0.6957498236280433
+cells-k3,costco-x6c22eea96a,bread-smell,5,You smell fresh bread.,28,condition,4,0.7969696838031028,0.5022981368818863,1.0,1,0.25,0.6957498236280433
+cells-k3,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,28,all,18,0.7598873199303088,0.6941490812511097,1.0,1,0.05555555555555555,0.6696803103021051
+cells-k3,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,28,length,8,0.7598873199303088,0.6941490812511097,1.0,1,0.125,0.6696803103021051
+cells-k3,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,28,condition,4,0.7598873199303088,0.6455683755544547,1.0,1,0.25,0.6696803103021051
+cells-k3,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,28,condition-length,3,0.7598873199303088,0.6455683755544547,1.0,1,0.3333333333333333,0.6696803103021051
+cells-k3,costco-x81ef44878b,bread-smell,11,You can smell a loaf just out of the oven.,28,all,18,0.7202411844155099,0.6121324012437577,1.0,1,0.05555555555555555,0.5712918272856619
+cells-k3,costco-x81ef44878b,bread-smell,11,You can smell a loaf just out of the oven.,28,length,4,0.7202411844155099,0.5848126919274249,1.0,1,0.25,0.5712918272856619
+cells-k3,costco-x81ef44878b,bread-smell,11,You can smell a loaf just out of the oven.,28,condition,4,0.7202411844155099,0.5141368239192788,1.0,1,0.25,0.5712918272856619
+cells-k3,costco-xa4826edc03,oven-smell,11,The smell of cookies baking in the oven reaches you.,28,all,18,0.7934146130505418,0.6725833199852255,1.0,1,0.05555555555555555,0.6705175770995904
+cells-k3,costco-xa4826edc03,oven-smell,11,The smell of cookies baking in the oven reaches you.,28,length,4,0.7934146130505418,0.6725833199852255,1.0,1,0.25,0.6705175770995904
+cells-k3,costco-xa4826edc03,oven-smell,11,The smell of cookies baking in the oven reaches you.,28,condition,5,0.7934146130505418,0.6725833199852255,1.0,1,0.2,0.6705175770995904
+cells-k3,costco-xa4826edc03,oven-smell,11,The smell of cookies baking in the oven reaches you.,28,condition-length,2,0.7934146130505418,0.6725833199852255,1.0,1,0.5,0.6705175770995904
+cells-k3,costco-xba64d024a0,oven-see,12,There are cookies baking in the oven in front of you.,28,all,18,0.7866276259010363,0.5116173777980005,1.0,1,0.05555555555555555,0.6803374585347782
+cells-k3,costco-xba64d024a0,oven-see,12,There are cookies baking in the oven in front of you.,28,condition,5,0.7866276259010363,0.5116173777980005,1.0,1,0.2,0.6803374585347782
+cells-k3,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,28,all,18,0.7963904112318073,0.7849803910768904,1.0,1,0.05555555555555555,0.6936652123245046
+cells-k3,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,28,length,2,0.7963904112318073,0.7849803910768904,1.0,1,0.5,0.6936652123245046
+cells-k3,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,28,condition,4,0.7963904112318073,0.5270447194380243,1.0,1,0.25,0.6936652123245046
+cells-k3,costco-xfac9909b5a,oven-smell,8,You smell cookies baking in the oven.,28,all,18,0.844960670412253,0.6586231200699812,1.0,1,0.05555555555555555,0.7119597759622025
+cells-k3,costco-xfac9909b5a,oven-smell,8,You smell cookies baking in the oven.,28,length,8,0.844960670412253,0.6586231200699812,1.0,1,0.125,0.7119597759622025
+cells-k3,costco-xfac9909b5a,oven-smell,8,You smell cookies baking in the oven.,28,condition,5,0.844960670412253,0.6271248586435434,1.0,1,0.2,0.7119597759622025
+cells-k3,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,71,all,18,0.9156186047629649,0.8293704022833996,1.0,1,0.05555555555555555,0.7974195453548663
+cells-k3,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,71,length,8,0.9156186047629649,0.8293704022833996,1.0,1,0.125,0.7974195453548663
+cells-k3,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,71,condition,4,0.9156186047629649,0.8293704022833996,1.0,1,0.25,0.7974195453548663
+cells-k3,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,71,condition-length,3,0.9156186047629649,0.8293704022833996,1.0,1,0.3333333333333333,0.7974195453548663
+cells-k3,costco-x1c1a1e522f,oven-see,8,You see cookies baking in the oven.,71,all,18,0.9035941790786839,0.8091962588370587,1.0,1,0.05555555555555555,0.7988689186593508
+cells-k3,costco-x1c1a1e522f,oven-see,8,You see cookies baking in the oven.,71,length,8,0.9035941790786839,0.7682129865401055,1.0,1,0.125,0.7988689186593508
+cells-k3,costco-x1c1a1e522f,oven-see,8,You see cookies baking in the oven.,71,condition,5,0.9035941790786839,0.8091962588370587,1.0,1,0.2,0.7988689186593508
+cells-k3,costco-x1c1a1e522f,oven-see,8,You see cookies baking in the oven.,71,condition-length,2,0.9035941790786839,0.7682129865401055,1.0,1,0.5,0.7988689186593508
+cells-k3,costco-x2203ce6407,oven-see,11,You spot a tray of cookies baking in the oven.,71,all,18,0.9489141609170829,0.8926351894259668,1.0,1,0.05555555555555555,0.8743636301408959
+cells-k3,costco-x2203ce6407,oven-see,11,You spot a tray of cookies baking in the oven.,71,length,4,0.9489141609170829,0.8058074012852359,1.0,1,0.25,0.8743636301408959
+cells-k3,costco-x2203ce6407,oven-see,11,You spot a tray of cookies baking in the oven.,71,condition,5,0.9489141609170829,0.8926351894259668,1.0,1,0.2,0.8743636301408959
+cells-k3,costco-x2c5e9e11a4,bread-smell,8,You catch the smell of bread baking.,71,all,18,0.890085282300558,0.775619912023807,1.0,1,0.05555555555555555,0.8784169060340576
+cells-k3,costco-x2c5e9e11a4,bread-smell,8,You catch the smell of bread baking.,71,length,8,0.890085282300558,0.775619912023807,1.0,1,0.125,0.8784169060340576
+cells-k3,costco-x2c5e9e11a4,bread-smell,8,You catch the smell of bread baking.,71,condition,4,0.890085282300558,0.7564874499582221,1.0,1,0.25,0.8784169060340576
+cells-k3,costco-x2c5e9e11a4,bread-smell,8,You catch the smell of bread baking.,71,condition-length,2,0.890085282300558,0.7564874499582221,1.0,1,0.5,0.8784169060340576
+cells-k3,costco-x3197d9610c,oven-see,8,You notice cookies baking in the oven.,71,all,18,0.9507045689566489,0.8919787537458251,1.0,1,0.05555555555555555,0.8513749262261027
+cells-k3,costco-x3197d9610c,oven-see,8,You notice cookies baking in the oven.,71,length,8,0.9507045689566489,0.8919787537458251,1.0,1,0.125,0.8513749262261027
+cells-k3,costco-x3197d9610c,oven-see,8,You notice cookies baking in the oven.,71,condition,5,0.9507045689566489,0.8919787537458251,1.0,1,0.2,0.8513749262261027
+cells-k3,costco-x3197d9610c,oven-see,8,You notice cookies baking in the oven.,71,condition-length,2,0.9507045689566489,0.8919787537458251,1.0,1,0.5,0.8513749262261027
+cells-k3,costco-x35c1d3c3e6,oven-smell,9,You can smell cookies baking in the oven.,71,all,18,0.8791796082972334,0.6964793441987397,1.0,1,0.05555555555555555,0.7923623786744489
+cells-k3,costco-x35c1d3c3e6,oven-smell,9,You can smell cookies baking in the oven.,71,length,2,0.8791796082972334,0.6964793441987397,1.0,1,0.5,0.7923623786744489
+cells-k3,costco-x35c1d3c3e6,oven-smell,9,You can smell cookies baking in the oven.,71,condition,5,0.8791796082972334,0.5243028625895166,1.0,1,0.2,0.7923623786744489
+cells-k3,costco-x3ce2b43b9c,bread-smell,8,The smell of warm bread reaches you.,71,all,18,0.9321463304889458,0.8740312450300236,1.0,1,0.05555555555555555,0.8658215466299113
+cells-k3,costco-x3ce2b43b9c,bread-smell,8,The smell of warm bread reaches you.,71,length,8,0.9321463304889458,0.8740312450300236,1.0,1,0.125,0.8658215466299113
+cells-k3,costco-x3ce2b43b9c,bread-smell,8,The smell of warm bread reaches you.,71,condition,4,0.9321463304889458,0.6164138152614852,1.0,1,0.25,0.8658215466299113
+cells-k3,costco-x3ce2b43b9c,bread-smell,8,The smell of warm bread reaches you.,71,condition-length,2,0.9321463304889458,0.6164138152614852,1.0,1,0.5,0.8658215466299113
+cells-k3,costco-x3ed9a2c62b,oven-smell,11,You catch the smell of cookies baking in the oven.,71,all,18,0.9508712902089966,0.8499589627415394,1.0,1,0.05555555555555555,0.9156644650239062
+cells-k3,costco-x3ed9a2c62b,oven-smell,11,You catch the smell of cookies baking in the oven.,71,length,4,0.9508712902089966,0.8499589627415394,1.0,1,0.25,0.9156644650239062
+cells-k3,costco-x3ed9a2c62b,oven-smell,11,You catch the smell of cookies baking in the oven.,71,condition,5,0.9508712902089966,0.8499589627415394,1.0,1,0.2,0.9156644650239062
+cells-k3,costco-x3ed9a2c62b,oven-smell,11,You catch the smell of cookies baking in the oven.,71,condition-length,2,0.9508712902089966,0.8499589627415394,1.0,1,0.5,0.9156644650239062
+cells-k3,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,71,all,18,0.9270626307693361,0.716396891278467,1.0,1,0.05555555555555555,0.8332336797374699
+cells-k3,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,71,length,8,0.9270626307693361,0.5400418685231846,1.0,1,0.125,0.8332336797374699
+cells-k3,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,71,condition,4,0.9270626307693361,0.6744718778461871,1.0,1,0.25,0.8332336797374699
+cells-k3,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,71,condition-length,3,0.9270626307693361,0.4470245113973578,1.0,1,0.3333333333333333,0.8332336797374699
+cells-k3,costco-x520bb46a12,oven-see,9,You can see cookies baking in the oven.,71,all,18,0.9011759360799527,0.8105271958116436,1.0,1,0.05555555555555555,0.8340431794955546
+cells-k3,costco-x520bb46a12,oven-see,9,You can see cookies baking in the oven.,71,length,2,0.9011759360799527,0.8105271958116436,1.0,1,0.5,0.8340431794955546
+cells-k3,costco-x520bb46a12,oven-see,9,You can see cookies baking in the oven.,71,condition,5,0.9011759360799527,0.7113885686487661,1.0,1,0.2,0.8340431794955546
+cells-k3,costco-x6bb4023d31,oven-smell,16,There is a smell of cookies baking in the oven in the air around you.,71,all,18,0.8768344865095385,0.7722599658268305,1.0,1,0.05555555555555555,0.7240189486894103
+cells-k3,costco-x6bb4023d31,oven-smell,16,There is a smell of cookies baking in the oven in the air around you.,71,condition,5,0.8768344865095385,0.7722599658268305,1.0,1,0.2,0.7240189486894103
+cells-k3,costco-x6c22eea96a,bread-smell,5,You smell fresh bread.,71,all,18,0.8348667342581144,0.617599694732663,1.0,1,0.05555555555555555,0.7591593748688062
+cells-k3,costco-x6c22eea96a,bread-smell,5,You smell fresh bread.,71,length,2,0.8348667342581144,0.617599694732663,1.0,1,0.5,0.7591593748688062
+cells-k3,costco-x6c22eea96a,bread-smell,5,You smell fresh bread.,71,condition,4,0.8348667342581144,0.5370851471986682,1.0,1,0.25,0.7591593748688062
+cells-k3,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,71,all,18,0.8411590313856718,0.7761004591992524,1.0,1,0.05555555555555555,0.7777486521024942
+cells-k3,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,71,length,8,0.8411590313856718,0.7761004591992524,1.0,1,0.125,0.7777486521024942
+cells-k3,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,71,condition,4,0.8411590313856718,0.6148714010025746,1.0,1,0.25,0.7777486521024942
+cells-k3,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,71,condition-length,3,0.8411590313856718,0.6148714010025746,1.0,1,0.3333333333333333,0.7777486521024942
+cells-k3,costco-x81ef44878b,bread-smell,11,You can smell a loaf just out of the oven.,71,all,18,0.9264875391420176,0.7588666056126948,1.0,1,0.05555555555555555,0.9427511086038187
+cells-k3,costco-x81ef44878b,bread-smell,11,You can smell a loaf just out of the oven.,71,length,4,0.9264875391420176,0.44238829211390235,1.0,1,0.25,0.9427511086038187
+cells-k3,costco-x81ef44878b,bread-smell,11,You can smell a loaf just out of the oven.,71,condition,4,0.9264875391420176,0.6213303801801628,1.0,1,0.25,0.9427511086038187
+cells-k3,costco-xa4826edc03,oven-smell,11,The smell of cookies baking in the oven reaches you.,71,all,18,0.8947468250988857,0.8231993098442768,1.0,1,0.05555555555555555,0.799928370825492
+cells-k3,costco-xa4826edc03,oven-smell,11,The smell of cookies baking in the oven reaches you.,71,length,4,0.8947468250988857,0.8231993098442768,1.0,1,0.25,0.799928370825492
+cells-k3,costco-xa4826edc03,oven-smell,11,The smell of cookies baking in the oven reaches you.,71,condition,5,0.8947468250988857,0.8231993098442768,1.0,1,0.2,0.799928370825492
+cells-k3,costco-xa4826edc03,oven-smell,11,The smell of cookies baking in the oven reaches you.,71,condition-length,2,0.8947468250988857,0.8231993098442768,1.0,1,0.5,0.799928370825492
+cells-k3,costco-xba64d024a0,oven-see,12,There are cookies baking in the oven in front of you.,71,all,18,0.9719387718972421,0.8799987369397002,1.0,1,0.05555555555555555,0.9005220208086628
+cells-k3,costco-xba64d024a0,oven-see,12,There are cookies baking in the oven in front of you.,71,condition,5,0.9719387718972421,0.8799987369397002,1.0,1,0.2,0.9005220208086628
+cells-k3,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,71,all,18,0.8541315822486453,0.7667141177976831,1.0,1,0.05555555555555555,0.8250543901111725
+cells-k3,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,71,length,2,0.8541315822486453,0.7667141177976831,1.0,1,0.5,0.8250543901111725
+cells-k3,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,71,condition,4,0.8541315822486453,0.5354789473270577,1.0,1,0.25,0.8250543901111725
+cells-k3,costco-xfac9909b5a,oven-smell,8,You smell cookies baking in the oven.,71,all,18,0.8927351916190359,0.7612613404517152,1.0,1,0.05555555555555555,0.7722684606286025
+cells-k3,costco-xfac9909b5a,oven-smell,8,You smell cookies baking in the oven.,71,length,8,0.8927351916190359,0.7612613404517152,1.0,1,0.125,0.7722684606286025
+cells-k3,costco-xfac9909b5a,oven-smell,8,You smell cookies baking in the oven.,71,condition,5,0.8927351916190359,0.7559438319295371,1.0,1,0.2,0.7722684606286025
+cells-k3,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,92,all,18,0.841438068742162,0.7490800923329287,1.0,1,0.05555555555555555,0.7884326945346631
+cells-k3,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,92,length,8,0.841438068742162,0.7490800923329287,1.0,1,0.125,0.7884326945346631
+cells-k3,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,92,condition,4,0.841438068742162,0.7176660484558176,1.0,1,0.25,0.7884326945346631
+cells-k3,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,92,condition-length,3,0.841438068742162,0.7176660484558176,1.0,1,0.3333333333333333,0.7884326945346631
+cells-k3,costco-x1c1a1e522f,oven-see,8,You see cookies baking in the oven.,92,all,18,0.8694839833544102,0.8124270669244728,1.0,1,0.05555555555555555,0.811548696458813
+cells-k3,costco-x1c1a1e522f,oven-see,8,You see cookies baking in the oven.,92,length,8,0.8694839833544102,0.8124270669244728,1.0,1,0.125,0.811548696458813
+cells-k3,costco-x1c1a1e522f,oven-see,8,You see cookies baking in the oven.,92,condition,5,0.8694839833544102,0.8124270669244728,1.0,1,0.2,0.811548696458813
+cells-k3,costco-x1c1a1e522f,oven-see,8,You see cookies baking in the oven.,92,condition-length,2,0.8694839833544102,0.8124270669244728,1.0,1,0.5,0.811548696458813
+cells-k3,costco-x2203ce6407,oven-see,11,You spot a tray of cookies baking in the oven.,92,all,18,0.885176323281049,0.7816012400508949,1.0,1,0.05555555555555555,0.8437408109888139
+cells-k3,costco-x2203ce6407,oven-see,11,You spot a tray of cookies baking in the oven.,92,length,4,0.885176323281049,0.7200942352906017,1.0,1,0.25,0.8437408109888139
+cells-k3,costco-x2203ce6407,oven-see,11,You spot a tray of cookies baking in the oven.,92,condition,5,0.885176323281049,0.7816012400508949,1.0,1,0.2,0.8437408109888139
+cells-k3,costco-x2c5e9e11a4,bread-smell,8,You catch the smell of bread baking.,92,all,18,0.7913045081367416,0.7160549252040056,1.0,1,0.05555555555555555,0.7465978668217403
+cells-k3,costco-x2c5e9e11a4,bread-smell,8,You catch the smell of bread baking.,92,length,8,0.7913045081367416,0.7160549252040056,1.0,1,0.125,0.7465978668217403
+cells-k3,costco-x2c5e9e11a4,bread-smell,8,You catch the smell of bread baking.,92,condition,4,0.7913045081367416,0.7160549252040056,1.0,1,0.25,0.7465978668217403
+cells-k3,costco-x2c5e9e11a4,bread-smell,8,You catch the smell of bread baking.,92,condition-length,2,0.7913045081367416,0.7160549252040056,1.0,1,0.5,0.7465978668217403
+cells-k3,costco-x3197d9610c,oven-see,8,You notice cookies baking in the oven.,92,all,18,0.8490575643701596,0.8051559792480425,1.0,1,0.05555555555555555,0.7679710970953592
+cells-k3,costco-x3197d9610c,oven-see,8,You notice cookies baking in the oven.,92,length,8,0.8490575643701596,0.8051559792480425,1.0,1,0.125,0.7679710970953592
+cells-k3,costco-x3197d9610c,oven-see,8,You notice cookies baking in the oven.,92,condition,5,0.8490575643701596,0.8051559792480425,1.0,1,0.2,0.7679710970953592
+cells-k3,costco-x3197d9610c,oven-see,8,You notice cookies baking in the oven.,92,condition-length,2,0.8490575643701596,0.8051559792480425,1.0,1,0.5,0.7679710970953592
+cells-k3,costco-x35c1d3c3e6,oven-smell,9,You can smell cookies baking in the oven.,92,all,18,0.8312415272204041,0.6543010049469015,1.0,1,0.05555555555555555,0.7841220721712231
+cells-k3,costco-x35c1d3c3e6,oven-smell,9,You can smell cookies baking in the oven.,92,length,2,0.8312415272204041,0.6543010049469015,1.0,1,0.5,0.7841220721712231
+cells-k3,costco-x35c1d3c3e6,oven-smell,9,You can smell cookies baking in the oven.,92,condition,5,0.8312415272204041,0.566492479567754,1.0,1,0.2,0.7841220721712231
+cells-k3,costco-x3ce2b43b9c,bread-smell,8,The smell of warm bread reaches you.,92,all,18,0.8452833692351357,0.7330621413320687,1.0,1,0.05555555555555555,0.8223786286822229
+cells-k3,costco-x3ce2b43b9c,bread-smell,8,The smell of warm bread reaches you.,92,length,8,0.8452833692351357,0.7330621413320687,1.0,1,0.125,0.8223786286822229
+cells-k3,costco-x3ce2b43b9c,bread-smell,8,The smell of warm bread reaches you.,92,condition,4,0.8452833692351357,0.6269491663444842,1.0,1,0.25,0.8223786286822229
+cells-k3,costco-x3ce2b43b9c,bread-smell,8,The smell of warm bread reaches you.,92,condition-length,2,0.8452833692351357,0.6269491663444842,1.0,1,0.5,0.8223786286822229
+cells-k3,costco-x3ed9a2c62b,oven-smell,11,You catch the smell of cookies baking in the oven.,92,all,18,0.8743092188173226,0.7794611346777576,1.0,1,0.05555555555555555,0.8250923705229488
+cells-k3,costco-x3ed9a2c62b,oven-smell,11,You catch the smell of cookies baking in the oven.,92,length,4,0.8743092188173226,0.7794611346777576,1.0,1,0.25,0.8250923705229488
+cells-k3,costco-x3ed9a2c62b,oven-smell,11,You catch the smell of cookies baking in the oven.,92,condition,5,0.8743092188173226,0.7794611346777576,1.0,1,0.2,0.8250923705229488
+cells-k3,costco-x3ed9a2c62b,oven-smell,11,You catch the smell of cookies baking in the oven.,92,condition-length,2,0.8743092188173226,0.7794611346777576,1.0,1,0.5,0.8250923705229488
+cells-k3,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,92,all,18,0.8645297172026554,0.6959423541855759,1.0,1,0.05555555555555555,0.7897322367900713
+cells-k3,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,92,length,8,0.8645297172026554,0.6463725911117496,1.0,1,0.125,0.7897322367900713
+cells-k3,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,92,condition,4,0.8645297172026554,0.6959423541855759,1.0,1,0.25,0.7897322367900713
+cells-k3,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,92,condition-length,3,0.8645297172026554,0.6406028421076339,1.0,1,0.3333333333333333,0.7897322367900713
+cells-k3,costco-x520bb46a12,oven-see,9,You can see cookies baking in the oven.,92,all,18,0.8394046091291391,0.7317001810438873,1.0,1,0.05555555555555555,0.7835021865886295
+cells-k3,costco-x520bb46a12,oven-see,9,You can see cookies baking in the oven.,92,length,2,0.8394046091291391,0.7317001810438873,1.0,1,0.5,0.7835021865886295
+cells-k3,costco-x520bb46a12,oven-see,9,You can see cookies baking in the oven.,92,condition,5,0.8394046091291391,0.6830260144575859,1.0,1,0.2,0.7835021865886295
+cells-k3,costco-x6bb4023d31,oven-smell,16,There is a smell of cookies baking in the oven in the air around you.,92,all,18,0.8928646937412532,0.6247442608791042,1.0,1,0.05555555555555555,0.8360380378785381
+cells-k3,costco-x6bb4023d31,oven-smell,16,There is a smell of cookies baking in the oven in the air around you.,92,condition,5,0.8928646937412532,0.6247442608791042,1.0,1,0.2,0.8360380378785381
+cells-k3,costco-x6c22eea96a,bread-smell,5,You smell fresh bread.,92,all,18,0.8484383812324225,0.7255715723783823,1.0,1,0.05555555555555555,0.7858141093303814
+cells-k3,costco-x6c22eea96a,bread-smell,5,You smell fresh bread.,92,length,2,0.8484383812324225,0.7255715723783823,1.0,1,0.5,0.7858141093303814
+cells-k3,costco-x6c22eea96a,bread-smell,5,You smell fresh bread.,92,condition,4,0.8484383812324225,0.6162496067357235,1.0,1,0.25,0.7858141093303814
+cells-k3,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,92,all,18,0.7756542003688394,0.7744834533245953,1.0,1,0.05555555555555555,0.7408931502913632
+cells-k3,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,92,length,8,0.7756542003688394,0.7744834533245953,1.0,1,0.125,0.7408931502913632
+cells-k3,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,92,condition,4,0.7756542003688394,0.6791662094984302,1.0,1,0.25,0.7408931502913632
+cells-k3,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,92,condition-length,3,0.7756542003688394,0.6791662094984302,1.0,1,0.3333333333333333,0.7408931502913632
+cells-k3,costco-x81ef44878b,bread-smell,11,You can smell a loaf just out of the oven.,92,all,18,0.8885478702884169,0.6140776472840369,1.0,1,0.05555555555555555,0.8642675007994497
+cells-k3,costco-x81ef44878b,bread-smell,11,You can smell a loaf just out of the oven.,92,length,4,0.8885478702884169,0.6140776472840369,1.0,1,0.25,0.8642675007994497
+cells-k3,costco-x81ef44878b,bread-smell,11,You can smell a loaf just out of the oven.,92,condition,4,0.8885478702884169,0.5750502138272375,1.0,1,0.25,0.8642675007994497
+cells-k3,costco-xa4826edc03,oven-smell,11,The smell of cookies baking in the oven reaches you.,92,all,18,0.8225867196324783,0.7979114968952831,1.0,1,0.05555555555555555,0.7511718335051967
+cells-k3,costco-xa4826edc03,oven-smell,11,The smell of cookies baking in the oven reaches you.,92,length,4,0.8225867196324783,0.7979114968952831,1.0,1,0.25,0.7511718335051967
+cells-k3,costco-xa4826edc03,oven-smell,11,The smell of cookies baking in the oven reaches you.,92,condition,5,0.8225867196324783,0.7979114968952831,1.0,1,0.2,0.7511718335051967
+cells-k3,costco-xa4826edc03,oven-smell,11,The smell of cookies baking in the oven reaches you.,92,condition-length,2,0.8225867196324783,0.7979114968952831,1.0,1,0.5,0.7511718335051967
+cells-k3,costco-xba64d024a0,oven-see,12,There are cookies baking in the oven in front of you.,92,all,18,0.9017294975779246,0.7237005162028383,1.0,1,0.05555555555555555,0.8517958558070856
+cells-k3,costco-xba64d024a0,oven-see,12,There are cookies baking in the oven in front of you.,92,condition,5,0.9017294975779246,0.7237005162028383,1.0,1,0.2,0.8517958558070856
+cells-k3,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,92,all,18,0.8027230628146675,0.7389259368460082,1.0,1,0.05555555555555555,0.76191054306447
+cells-k3,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,92,length,2,0.8027230628146675,0.7389259368460082,1.0,1,0.5,0.76191054306447
+cells-k3,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,92,condition,4,0.8027230628146675,0.5787558937800391,1.0,1,0.25,0.76191054306447
+cells-k3,costco-xfac9909b5a,oven-smell,8,You smell cookies baking in the oven.,92,all,18,0.8279958765160134,0.7343220504491539,1.0,1,0.05555555555555555,0.7609428276873411
+cells-k3,costco-xfac9909b5a,oven-smell,8,You smell cookies baking in the oven.,92,length,8,0.8279958765160134,0.7343220504491539,1.0,1,0.125,0.7609428276873411
+cells-k3,costco-xfac9909b5a,oven-smell,8,You smell cookies baking in the oven.,92,condition,5,0.8279958765160134,0.7098143444204603,1.0,1,0.2,0.7609428276873411
+cells-k4,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,28,all,18,0.7829664247314324,0.7015426487667862,1.0,1,0.05555555555555555,0.5906233841414956
+cells-k4,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,28,length,6,0.7829664247314324,0.7015426487667862,1.0,1,0.16666666666666666,0.5906233841414956
+cells-k4,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,28,condition,5,0.7829664247314324,0.7015426487667862,1.0,1,0.2,0.5906233841414956
+cells-k4,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,28,condition-length,3,0.7829664247314324,0.7015426487667862,1.0,1,0.3333333333333333,0.5906233841414956
+cells-k4,costco-x0de8087718,lavender-smell,9,You can smell a sprig of lavender.,28,all,18,0.8095494087762127,0.6296844480703826,1.0,1,0.05555555555555555,0.6591244462744208
+cells-k4,costco-x0de8087718,lavender-smell,9,You can smell a sprig of lavender.,28,condition,4,0.8095494087762127,0.5518166708805252,1.0,1,0.25,0.6591244462744208
+cells-k4,costco-x27cf7ea380,coffee-smell,13,There is a smell of fresh coffee in the air around you.,28,all,18,0.7810942567240537,0.5078389193696973,1.0,1,0.05555555555555555,0.6633847885549911
+cells-k4,costco-x27cf7ea380,coffee-smell,13,There is a smell of fresh coffee in the air around you.,28,condition,5,0.7810942567240537,0.5078389193696973,1.0,1,0.2,0.6633847885549911
+cells-k4,costco-x3a23922bc2,lavender-smell,8,You catch the smell of fresh lavender.,28,all,18,0.7616836862393892,0.7137467604854099,1.0,1,0.05555555555555555,0.5791308042699025
+cells-k4,costco-x3a23922bc2,lavender-smell,8,You catch the smell of fresh lavender.,28,length,6,0.7616836862393892,0.7137467604854099,1.0,1,0.16666666666666666,0.5791308042699025
+cells-k4,costco-x3a23922bc2,lavender-smell,8,You catch the smell of fresh lavender.,28,condition,4,0.7616836862393892,0.5924716650148163,1.0,1,0.25,0.5791308042699025
+cells-k4,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,28,all,18,0.7692351191934288,0.6345785958785097,1.0,1,0.05555555555555555,0.6007346263793402
+cells-k4,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,28,length,6,0.7692351191934288,0.6345785958785097,1.0,1,0.16666666666666666,0.6007346263793402
+cells-k4,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,28,condition,5,0.7692351191934288,0.6345785958785097,1.0,1,0.2,0.6007346263793402
+cells-k4,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,28,condition-length,3,0.7692351191934288,0.6345785958785097,1.0,1,0.3333333333333333,0.6007346263793402
+cells-k4,costco-x508833c903,laundry-smell,5,You smell clean laundry.,28,all,18,0.7719970235600917,0.7060921943593267,1.0,1,0.05555555555555555,0.6267415064375299
+cells-k4,costco-x508833c903,laundry-smell,5,You smell clean laundry.,28,length,2,0.7719970235600917,0.7060921943593267,1.0,1,0.5,0.6267415064375299
+cells-k4,costco-x508833c903,laundry-smell,5,You smell clean laundry.,28,condition,4,0.7719970235600917,0.5271266798829514,1.0,1,0.25,0.6267415064375299
+cells-k4,costco-x50dcd91a6a,coffee-see,6,You can see coffee brewing.,28,all,18,0.7370993264105181,0.5008317272257793,1.0,1,0.05555555555555555,0.5760563103385504
+cells-k4,costco-x50dcd91a6a,coffee-see,6,You can see coffee brewing.,28,condition,5,0.7370993264105181,0.5008317272257793,1.0,1,0.2,0.5760563103385504
+cells-k4,costco-x7818a85c89,coffee-see,11,There is a mug of coffee in front of you.,28,all,18,0.7990771793158504,0.5204805488986097,1.0,1,0.05555555555555555,0.683627541517197
+cells-k4,costco-x7818a85c89,coffee-see,11,There is a mug of coffee in front of you.,28,length,2,0.7990771793158504,0.4078257562175444,1.0,1,0.5,0.683627541517197
+cells-k4,costco-x7818a85c89,coffee-see,11,There is a mug of coffee in front of you.,28,condition,5,0.7990771793158504,0.5204805488986097,1.0,1,0.2,0.683627541517197
+cells-k4,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,28,all,18,0.7598873199303088,0.6638246206750249,1.0,1,0.05555555555555555,0.6696803103021051
+cells-k4,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,28,length,6,0.7598873199303088,0.6455683755544547,1.0,1,0.16666666666666666,0.6696803103021051
+cells-k4,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,28,condition,5,0.7598873199303088,0.6455683755544547,1.0,1,0.2,0.6696803103021051
+cells-k4,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,28,condition-length,3,0.7598873199303088,0.6455683755544547,1.0,1,0.3333333333333333,0.6696803103021051
+cells-k4,costco-x8311805538,lavender-smell,4,You smell lavender.,28,all,18,0.7319550855603806,0.5421689211104781,1.0,1,0.05555555555555555,0.5538670282051467
+cells-k4,costco-x8311805538,lavender-smell,4,You smell lavender.,28,condition,4,0.7319550855603806,0.5421689211104781,1.0,1,0.25,0.5538670282051467
+cells-k4,costco-x999ffc12d6,lavender-smell,7,The smell of lavender reaches you.,28,all,18,0.7786647262732342,0.6654034644583208,1.0,1,0.05555555555555555,0.6057073378775716
+cells-k4,costco-x999ffc12d6,lavender-smell,7,The smell of lavender reaches you.,28,length,4,0.7786647262732342,0.5270460945155238,1.0,1,0.25,0.6057073378775716
+cells-k4,costco-x999ffc12d6,lavender-smell,7,The smell of lavender reaches you.,28,condition,4,0.7786647262732342,0.5529305004848958,1.0,1,0.25,0.6057073378775716
+cells-k4,costco-xb75b41258e,laundry-smell,11,The smell of warm towels from the dryer reaches you.,28,all,18,0.7615622445645741,0.6199175067593758,1.0,1,0.05555555555555555,0.5910482169651131
+cells-k4,costco-xb75b41258e,laundry-smell,11,The smell of warm towels from the dryer reaches you.,28,length,2,0.7615622445645741,0.43165718082341104,1.0,1,0.5,0.5910482169651131
+cells-k4,costco-xb75b41258e,laundry-smell,11,The smell of warm towels from the dryer reaches you.,28,condition,4,0.7615622445645741,0.49332699481030096,1.0,1,0.25,0.5910482169651131
+cells-k4,costco-xbebafe74ff,laundry-smell,8,You catch the smell of fresh sheets.,28,all,18,0.7896801996551057,0.7446818240045063,1.0,1,0.05555555555555555,0.6558413817180306
+cells-k4,costco-xbebafe74ff,laundry-smell,8,You catch the smell of fresh sheets.,28,length,6,0.7896801996551057,0.7446818240045063,1.0,1,0.16666666666666666,0.6558413817180306
+cells-k4,costco-xbebafe74ff,laundry-smell,8,You catch the smell of fresh sheets.,28,condition,4,0.7896801996551057,0.5545865584011573,1.0,1,0.25,0.6558413817180306
+cells-k4,costco-xd6302f21a2,coffee-see,7,You notice a cup of coffee.,28,all,18,0.8041708620407506,0.6569130003882154,1.0,1,0.05555555555555555,0.6755120919901593
+cells-k4,costco-xd6302f21a2,coffee-see,7,You notice a cup of coffee.,28,length,4,0.8041708620407506,0.6569130003882154,1.0,1,0.25,0.6755120919901593
+cells-k4,costco-xd6302f21a2,coffee-see,7,You notice a cup of coffee.,28,condition,5,0.8041708620407506,0.6569130003882154,1.0,1,0.2,0.6755120919901593
+cells-k4,costco-xd6302f21a2,coffee-see,7,You notice a cup of coffee.,28,condition-length,2,0.8041708620407506,0.6569130003882154,1.0,1,0.5,0.6755120919901593
+cells-k4,costco-xd8f007e1e5,coffee-see,8,You spot a bag of coffee beans.,28,all,18,0.7845170191024767,0.6412411100261026,1.0,1,0.05555555555555555,0.7047067827386311
+cells-k4,costco-xd8f007e1e5,coffee-see,8,You spot a bag of coffee beans.,28,length,6,0.7845170191024767,0.6412411100261026,1.0,1,0.16666666666666666,0.7047067827386311
+cells-k4,costco-xd8f007e1e5,coffee-see,8,You spot a bag of coffee beans.,28,condition,5,0.7845170191024767,0.4734499572857117,1.0,1,0.2,0.7047067827386311
+cells-k4,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,28,all,18,0.7963904112318073,0.6635230032501226,1.0,1,0.05555555555555555,0.6936652123245046
+cells-k4,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,28,length,2,0.7963904112318073,0.6635230032501226,1.0,1,0.5,0.6936652123245046
+cells-k4,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,28,condition,5,0.7963904112318073,0.5270447194380243,1.0,1,0.2,0.6936652123245046
+cells-k4,costco-xed9caa6aa0,laundry-smell,7,You can smell freshly washed linen.,28,all,18,0.7081151200412543,0.5598818111686451,1.0,1,0.05555555555555555,0.5155618614323318
+cells-k4,costco-xed9caa6aa0,laundry-smell,7,You can smell freshly washed linen.,28,length,4,0.7081151200412543,0.5315302755198609,1.0,1,0.25,0.5155618614323318
+cells-k4,costco-xed9caa6aa0,laundry-smell,7,You can smell freshly washed linen.,28,condition,4,0.7081151200412543,0.5559507547901119,1.0,1,0.25,0.5155618614323318
+cells-k4,costco-xf8e6a4ca21,coffee-see,7,You see a pot of coffee.,28,all,18,0.7590212198335535,0.5784155044583662,1.0,1,0.05555555555555555,0.5960267422979951
+cells-k4,costco-xf8e6a4ca21,coffee-see,7,You see a pot of coffee.,28,length,4,0.7590212198335535,0.5784155044583662,1.0,1,0.25,0.5960267422979951
+cells-k4,costco-xf8e6a4ca21,coffee-see,7,You see a pot of coffee.,28,condition,5,0.7590212198335535,0.5784155044583662,1.0,1,0.2,0.5960267422979951
+cells-k4,costco-xf8e6a4ca21,coffee-see,7,You see a pot of coffee.,28,condition-length,2,0.7590212198335535,0.5784155044583662,1.0,1,0.5,0.5960267422979951
+cells-k4,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,71,all,18,0.9156186047629649,0.8293704022833996,1.0,1,0.05555555555555555,0.7974195453548663
+cells-k4,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,71,length,6,0.9156186047629649,0.8293704022833996,1.0,1,0.16666666666666666,0.7974195453548663
+cells-k4,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,71,condition,5,0.9156186047629649,0.8293704022833996,1.0,1,0.2,0.7974195453548663
+cells-k4,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,71,condition-length,3,0.9156186047629649,0.8293704022833996,1.0,1,0.3333333333333333,0.7974195453548663
+cells-k4,costco-x0de8087718,lavender-smell,9,You can smell a sprig of lavender.,71,all,18,0.8377935208964765,0.7112568757502108,1.0,1,0.05555555555555555,0.7460624774673461
+cells-k4,costco-x0de8087718,lavender-smell,9,You can smell a sprig of lavender.,71,condition,4,0.8377935208964765,0.6127196719813188,1.0,1,0.25,0.7460624774673461
+cells-k4,costco-x27cf7ea380,coffee-smell,13,There is a smell of fresh coffee in the air around you.,71,all,18,0.7540671292180203,0.7143348339713849,1.0,1,0.05555555555555555,0.6869867159536922
+cells-k4,costco-x27cf7ea380,coffee-smell,13,There is a smell of fresh coffee in the air around you.,71,condition,5,0.7540671292180203,0.7143348339713849,1.0,1,0.2,0.6869867159536922
+cells-k4,costco-x3a23922bc2,lavender-smell,8,You catch the smell of fresh lavender.,71,all,18,0.6999161599238831,0.6493968309600964,1.0,1,0.05555555555555555,0.621303034442505
+cells-k4,costco-x3a23922bc2,lavender-smell,8,You catch the smell of fresh lavender.,71,length,6,0.6999161599238831,0.6348325907738719,1.0,1,0.16666666666666666,0.621303034442505
+cells-k4,costco-x3a23922bc2,lavender-smell,8,You catch the smell of fresh lavender.,71,condition,4,0.6999161599238831,0.6493968309600964,1.0,1,0.25,0.621303034442505
+cells-k4,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,71,all,18,0.9270626307693361,0.7711051637175734,1.0,1,0.05555555555555555,0.8332336797374699
+cells-k4,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,71,length,6,0.9270626307693361,0.6608569641125037,1.0,1,0.16666666666666666,0.8332336797374699
+cells-k4,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,71,condition,5,0.9270626307693361,0.6744718778461871,1.0,1,0.2,0.8332336797374699
+cells-k4,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,71,condition-length,3,0.9270626307693361,0.4470245113973578,1.0,1,0.3333333333333333,0.8332336797374699
+cells-k4,costco-x508833c903,laundry-smell,5,You smell clean laundry.,71,all,18,0.9315944256989597,0.7967468105554197,1.0,1,0.05555555555555555,0.889189316110438
+cells-k4,costco-x508833c903,laundry-smell,5,You smell clean laundry.,71,length,2,0.9315944256989597,0.7435878032950086,1.0,1,0.5,0.889189316110438
+cells-k4,costco-x508833c903,laundry-smell,5,You smell clean laundry.,71,condition,4,0.9315944256989597,0.643438399101855,1.0,1,0.25,0.889189316110438
+cells-k4,costco-x50dcd91a6a,coffee-see,6,You can see coffee brewing.,71,all,18,0.881136212974369,0.7731888967113965,1.0,1,0.05555555555555555,0.8325094787522751
+cells-k4,costco-x50dcd91a6a,coffee-see,6,You can see coffee brewing.,71,condition,5,0.881136212974369,0.6562860327815077,1.0,1,0.2,0.8325094787522751
+cells-k4,costco-x7818a85c89,coffee-see,11,There is a mug of coffee in front of you.,71,all,18,0.9368358306722109,0.864565409837498,1.0,1,0.05555555555555555,0.8585904679691726
+cells-k4,costco-x7818a85c89,coffee-see,11,There is a mug of coffee in front of you.,71,length,2,0.9368358306722109,0.6100186189149586,1.0,1,0.5,0.8585904679691726
+cells-k4,costco-x7818a85c89,coffee-see,11,There is a mug of coffee in front of you.,71,condition,5,0.9368358306722109,0.864565409837498,1.0,1,0.2,0.8585904679691726
+cells-k4,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,71,all,18,0.8411590313856718,0.6425531696008104,1.0,1,0.05555555555555555,0.7777486521024942
+cells-k4,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,71,length,6,0.8411590313856718,0.637482407674967,1.0,1,0.16666666666666666,0.7777486521024942
+cells-k4,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,71,condition,5,0.8411590313856718,0.6148714010025746,1.0,1,0.2,0.7777486521024942
+cells-k4,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,71,condition-length,3,0.8411590313856718,0.6148714010025746,1.0,1,0.3333333333333333,0.7777486521024942
+cells-k4,costco-x8311805538,lavender-smell,4,You smell lavender.,71,all,18,0.9065463575369617,0.7603283713710363,1.0,1,0.05555555555555555,0.9107222457527206
+cells-k4,costco-x8311805538,lavender-smell,4,You smell lavender.,71,condition,4,0.9065463575369617,0.7496817923806114,1.0,1,0.25,0.9107222457527206
+cells-k4,costco-x999ffc12d6,lavender-smell,7,The smell of lavender reaches you.,71,all,18,0.9500557043440554,0.6990663303616336,1.0,1,0.05555555555555555,0.9700706153882307
+cells-k4,costco-x999ffc12d6,lavender-smell,7,The smell of lavender reaches you.,71,length,4,0.9500557043440554,0.6378225352445785,1.0,1,0.25,0.9700706153882307
+cells-k4,costco-x999ffc12d6,lavender-smell,7,The smell of lavender reaches you.,71,condition,4,0.9500557043440554,0.684463014427645,1.0,1,0.25,0.9700706153882307
+cells-k4,costco-xb75b41258e,laundry-smell,11,The smell of warm towels from the dryer reaches you.,71,all,18,0.8691136218636726,0.6600796938625876,1.0,1,0.05555555555555555,0.817765638498033
+cells-k4,costco-xb75b41258e,laundry-smell,11,The smell of warm towels from the dryer reaches you.,71,length,2,0.8691136218636726,0.4653403739351135,1.0,1,0.5,0.817765638498033
+cells-k4,costco-xb75b41258e,laundry-smell,11,The smell of warm towels from the dryer reaches you.,71,condition,4,0.8691136218636726,0.5968607849141041,1.0,1,0.25,0.817765638498033
+cells-k4,costco-xbebafe74ff,laundry-smell,8,You catch the smell of fresh sheets.,71,all,18,0.8940583167007001,0.784624505791893,1.0,1,0.05555555555555555,0.7965335111591473
+cells-k4,costco-xbebafe74ff,laundry-smell,8,You catch the smell of fresh sheets.,71,length,6,0.8940583167007001,0.7740372818219342,1.0,1,0.16666666666666666,0.7965335111591473
+cells-k4,costco-xbebafe74ff,laundry-smell,8,You catch the smell of fresh sheets.,71,condition,4,0.8940583167007001,0.784624505791893,1.0,1,0.25,0.7965335111591473
+cells-k4,costco-xd6302f21a2,coffee-see,7,You notice a cup of coffee.,71,all,18,0.9433124870542712,0.8794672290049252,1.0,1,0.05555555555555555,0.9000547359711224
+cells-k4,costco-xd6302f21a2,coffee-see,7,You notice a cup of coffee.,71,length,4,0.9433124870542712,0.8794672290049252,1.0,1,0.25,0.9000547359711224
+cells-k4,costco-xd6302f21a2,coffee-see,7,You notice a cup of coffee.,71,condition,5,0.9433124870542712,0.8794672290049252,1.0,1,0.2,0.9000547359711224
+cells-k4,costco-xd6302f21a2,coffee-see,7,You notice a cup of coffee.,71,condition-length,2,0.9433124870542712,0.8794672290049252,1.0,1,0.5,0.9000547359711224
+cells-k4,costco-xd8f007e1e5,coffee-see,8,You spot a bag of coffee beans.,71,all,18,0.9624771871705048,0.8000985305387588,1.0,1,0.05555555555555555,0.93165505764358
+cells-k4,costco-xd8f007e1e5,coffee-see,8,You spot a bag of coffee beans.,71,length,6,0.9624771871705048,0.7435039708110158,1.0,1,0.16666666666666666,0.93165505764358
+cells-k4,costco-xd8f007e1e5,coffee-see,8,You spot a bag of coffee beans.,71,condition,5,0.9624771871705048,0.8000985305387588,1.0,1,0.2,0.93165505764358
+cells-k4,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,71,all,18,0.8541315822486453,0.6497320399565182,1.0,1,0.05555555555555555,0.8250543901111725
+cells-k4,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,71,length,2,0.8541315822486453,0.6497320399565182,1.0,1,0.5,0.8250543901111725
+cells-k4,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,71,condition,5,0.8541315822486453,0.5354789473270577,1.0,1,0.2,0.8250543901111725
+cells-k4,costco-xed9caa6aa0,laundry-smell,7,You can smell freshly washed linen.,71,all,18,0.9176664137992793,0.7970024755123474,1.0,1,0.05555555555555555,0.9310092400081278
+cells-k4,costco-xed9caa6aa0,laundry-smell,7,You can smell freshly washed linen.,71,length,4,0.9176664137992793,0.6959247191978997,1.0,1,0.25,0.9310092400081278
+cells-k4,costco-xed9caa6aa0,laundry-smell,7,You can smell freshly washed linen.,71,condition,4,0.9176664137992793,0.6962365930621679,1.0,1,0.25,0.9310092400081278
+cells-k4,costco-xf8e6a4ca21,coffee-see,7,You see a pot of coffee.,71,all,18,0.9435649405459996,0.8843602195979672,1.0,1,0.05555555555555555,0.866276930021907
+cells-k4,costco-xf8e6a4ca21,coffee-see,7,You see a pot of coffee.,71,length,4,0.9435649405459996,0.8843602195979672,1.0,1,0.25,0.866276930021907
+cells-k4,costco-xf8e6a4ca21,coffee-see,7,You see a pot of coffee.,71,condition,5,0.9435649405459996,0.8843602195979672,1.0,1,0.2,0.866276930021907
+cells-k4,costco-xf8e6a4ca21,coffee-see,7,You see a pot of coffee.,71,condition-length,2,0.9435649405459996,0.8843602195979672,1.0,1,0.5,0.866276930021907
+cells-k4,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,92,all,18,0.841438068742162,0.7426866483169519,1.0,1,0.05555555555555555,0.7884326945346631
+cells-k4,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,92,length,6,0.841438068742162,0.7426866483169519,1.0,1,0.16666666666666666,0.7884326945346631
+cells-k4,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,92,condition,5,0.841438068742162,0.7176660484558176,1.0,1,0.2,0.7884326945346631
+cells-k4,costco-x069e9affb7,coffee-smell,8,You catch the smell of coffee brewing.,92,condition-length,3,0.841438068742162,0.7176660484558176,1.0,1,0.3333333333333333,0.7884326945346631
+cells-k4,costco-x0de8087718,lavender-smell,9,You can smell a sprig of lavender.,92,all,18,0.821516019082641,0.6406084878442606,1.0,1,0.05555555555555555,0.7893044917889008
+cells-k4,costco-x0de8087718,lavender-smell,9,You can smell a sprig of lavender.,92,condition,4,0.821516019082641,0.6406084878442606,1.0,1,0.25,0.7893044917889008
+cells-k4,costco-x27cf7ea380,coffee-smell,13,There is a smell of fresh coffee in the air around you.,92,all,18,0.8538961689094487,0.6181023442670394,1.0,1,0.05555555555555555,0.7844592970732855
+cells-k4,costco-x27cf7ea380,coffee-smell,13,There is a smell of fresh coffee in the air around you.,92,condition,5,0.8538961689094487,0.6181023442670394,1.0,1,0.2,0.7844592970732855
+cells-k4,costco-x3a23922bc2,lavender-smell,8,You catch the smell of fresh lavender.,92,all,18,0.8263106879548928,0.6918097132535845,1.0,1,0.05555555555555555,0.7740540511717163
+cells-k4,costco-x3a23922bc2,lavender-smell,8,You catch the smell of fresh lavender.,92,length,6,0.8263106879548928,0.6918097132535845,1.0,1,0.16666666666666666,0.7740540511717163
+cells-k4,costco-x3a23922bc2,lavender-smell,8,You catch the smell of fresh lavender.,92,condition,4,0.8263106879548928,0.6886965935141379,1.0,1,0.25,0.7740540511717163
+cells-k4,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,92,all,18,0.8645297172026554,0.6959423541855759,1.0,1,0.05555555555555555,0.7897322367900713
+cells-k4,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,92,length,6,0.8645297172026554,0.6533281535492594,1.0,1,0.16666666666666666,0.7897322367900713
+cells-k4,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,92,condition,5,0.8645297172026554,0.6959423541855759,1.0,1,0.2,0.7897322367900713
+cells-k4,costco-x470298b036,coffee-smell,8,You can smell a pot of coffee.,92,condition-length,3,0.8645297172026554,0.6406028421076339,1.0,1,0.3333333333333333,0.7897322367900713
+cells-k4,costco-x508833c903,laundry-smell,5,You smell clean laundry.,92,all,18,0.8681598427124629,0.6604159313439699,1.0,1,0.05555555555555555,0.8006013469057066
+cells-k4,costco-x508833c903,laundry-smell,5,You smell clean laundry.,92,length,2,0.8681598427124629,0.6604159313439699,1.0,1,0.5,0.8006013469057066
+cells-k4,costco-x508833c903,laundry-smell,5,You smell clean laundry.,92,condition,4,0.8681598427124629,0.6602631410898098,1.0,1,0.25,0.8006013469057066
+cells-k4,costco-x50dcd91a6a,coffee-see,6,You can see coffee brewing.,92,all,18,0.8413922218016823,0.6240035320151625,1.0,1,0.05555555555555555,0.7296219694715406
+cells-k4,costco-x50dcd91a6a,coffee-see,6,You can see coffee brewing.,92,condition,5,0.8413922218016823,0.5931828272673408,1.0,1,0.2,0.7296219694715406
+cells-k4,costco-x7818a85c89,coffee-see,11,There is a mug of coffee in front of you.,92,all,18,0.8477629869672156,0.6217991627109486,1.0,1,0.05555555555555555,0.8100568404804507
+cells-k4,costco-x7818a85c89,coffee-see,11,There is a mug of coffee in front of you.,92,length,2,0.8477629869672156,0.6217991627109486,1.0,1,0.5,0.8100568404804507
+cells-k4,costco-x7818a85c89,coffee-see,11,There is a mug of coffee in front of you.,92,condition,5,0.8477629869672156,0.6064137586216876,1.0,1,0.2,0.8100568404804507
+cells-k4,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,92,all,18,0.7756542003688394,0.6791662094984302,1.0,1,0.05555555555555555,0.7408931502913632
+cells-k4,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,92,length,6,0.7756542003688394,0.6791662094984302,1.0,1,0.16666666666666666,0.7408931502913632
+cells-k4,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,92,condition,5,0.7756542003688394,0.6791662094984302,1.0,1,0.2,0.7408931502913632
+cells-k4,costco-x7ca89283dc,coffee-smell,8,The smell of hot coffee reaches you.,92,condition-length,3,0.7756542003688394,0.6791662094984302,1.0,1,0.3333333333333333,0.7408931502913632
+cells-k4,costco-x8311805538,lavender-smell,4,You smell lavender.,92,all,18,0.7813656354086015,0.616409171458265,1.0,1,0.05555555555555555,0.7162717671474316
+cells-k4,costco-x8311805538,lavender-smell,4,You smell lavender.,92,condition,4,0.7813656354086015,0.616409171458265,1.0,1,0.25,0.7162717671474316
+cells-k4,costco-x999ffc12d6,lavender-smell,7,The smell of lavender reaches you.,92,all,18,0.8235350121230215,0.6550588241893038,1.0,1,0.05555555555555555,0.7914909394944475
+cells-k4,costco-x999ffc12d6,lavender-smell,7,The smell of lavender reaches you.,92,length,4,0.8235350121230215,0.6550588241893038,1.0,1,0.25,0.7914909394944475
+cells-k4,costco-x999ffc12d6,lavender-smell,7,The smell of lavender reaches you.,92,condition,4,0.8235350121230215,0.5885270313185642,1.0,1,0.25,0.7914909394944475
+cells-k4,costco-xb75b41258e,laundry-smell,11,The smell of warm towels from the dryer reaches you.,92,all,18,0.8285161284012588,0.6220271224248433,1.0,1,0.05555555555555555,0.7557084269236545
+cells-k4,costco-xb75b41258e,laundry-smell,11,The smell of warm towels from the dryer reaches you.,92,length,2,0.8285161284012588,0.5815855720782228,1.0,1,0.5,0.7557084269236545
+cells-k4,costco-xb75b41258e,laundry-smell,11,The smell of warm towels from the dryer reaches you.,92,condition,4,0.8285161284012588,0.5938028718970486,1.0,1,0.25,0.7557084269236545
+cells-k4,costco-xbebafe74ff,laundry-smell,8,You catch the smell of fresh sheets.,92,all,18,0.8428867841591402,0.7407092043601121,1.0,1,0.05555555555555555,0.7370611064455296
+cells-k4,costco-xbebafe74ff,laundry-smell,8,You catch the smell of fresh sheets.,92,length,6,0.8428867841591402,0.7407092043601121,1.0,1,0.16666666666666666,0.7370611064455296
+cells-k4,costco-xbebafe74ff,laundry-smell,8,You catch the smell of fresh sheets.,92,condition,4,0.8428867841591402,0.6823444777003251,1.0,1,0.25,0.7370611064455296
+cells-k4,costco-xd6302f21a2,coffee-see,7,You notice a cup of coffee.,92,all,18,0.8468415653089112,0.7668649226490136,1.0,1,0.05555555555555555,0.8084686715072134
+cells-k4,costco-xd6302f21a2,coffee-see,7,You notice a cup of coffee.,92,length,4,0.8468415653089112,0.7668649226490136,1.0,1,0.25,0.8084686715072134
+cells-k4,costco-xd6302f21a2,coffee-see,7,You notice a cup of coffee.,92,condition,5,0.8468415653089112,0.7668649226490136,1.0,1,0.2,0.8084686715072134
+cells-k4,costco-xd6302f21a2,coffee-see,7,You notice a cup of coffee.,92,condition-length,2,0.8468415653089112,0.7668649226490136,1.0,1,0.5,0.8084686715072134
+cells-k4,costco-xd8f007e1e5,coffee-see,8,You spot a bag of coffee beans.,92,all,18,0.8764571084836705,0.6700408379805513,1.0,1,0.05555555555555555,0.8556612991816412
+cells-k4,costco-xd8f007e1e5,coffee-see,8,You spot a bag of coffee beans.,92,length,6,0.8764571084836705,0.6700408379805513,1.0,1,0.16666666666666666,0.8556612991816412
+cells-k4,costco-xd8f007e1e5,coffee-see,8,You spot a bag of coffee beans.,92,condition,5,0.8764571084836705,0.6607492788289551,1.0,1,0.2,0.8556612991816412
+cells-k4,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,92,all,18,0.8027230628146675,0.6105848819694554,1.0,1,0.05555555555555555,0.76191054306447
+cells-k4,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,92,length,2,0.8027230628146675,0.6105848819694554,1.0,1,0.5,0.76191054306447
+cells-k4,costco-xe1c24b91fb,coffee-smell,5,You smell fresh coffee.,92,condition,5,0.8027230628146675,0.5787558937800391,1.0,1,0.2,0.76191054306447
+cells-k4,costco-xed9caa6aa0,laundry-smell,7,You can smell freshly washed linen.,92,all,18,0.854173882271627,0.6708875608391884,1.0,1,0.05555555555555555,0.8488076774945155
+cells-k4,costco-xed9caa6aa0,laundry-smell,7,You can smell freshly washed linen.,92,length,4,0.854173882271627,0.6708875608391884,1.0,1,0.25,0.8488076774945155
+cells-k4,costco-xed9caa6aa0,laundry-smell,7,You can smell freshly washed linen.,92,condition,4,0.854173882271627,0.6476019771137828,1.0,1,0.25,0.8488076774945155
+cells-k4,costco-xf8e6a4ca21,coffee-see,7,You see a pot of coffee.,92,all,18,0.874830531964602,0.6983356956800815,1.0,1,0.05555555555555555,0.8663405552033516
+cells-k4,costco-xf8e6a4ca21,coffee-see,7,You see a pot of coffee.,92,length,4,0.874830531964602,0.6983356956800815,1.0,1,0.25,0.8663405552033516
+cells-k4,costco-xf8e6a4ca21,coffee-see,7,You see a pot of coffee.,92,condition,5,0.874830531964602,0.6983356956800815,1.0,1,0.2,0.8663405552033516
+cells-k4,costco-xf8e6a4ca21,coffee-see,7,You see a pot of coffee.,92,condition-length,2,0.874830531964602,0.6983356956800815,1.0,1,0.5,0.8663405552033516

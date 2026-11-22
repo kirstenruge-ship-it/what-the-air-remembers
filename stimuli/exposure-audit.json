@@ -1,0 +1,130 @@
+{
+  "arm_counts": {
+    "confirm:lexical": 96,
+    "confirm:odor": 96,
+    "confirm:sham": 96,
+    "confirm:wrong": 96,
+    "deletion:erase": 96,
+    "deletion:random_erase": 96,
+    "deletion:rescue": 96,
+    "deletion:sham": 96,
+    "deletion:wrong_rescue": 96,
+    "development:lexical": 8,
+    "development:odor": 8,
+    "development:repeat_sham": 8,
+    "development:sham": 8,
+    "development:wrong": 8,
+    "encoding:arbitrary": 96,
+    "encoding:arbitrary_opposed": 96,
+    "encoding:odor": 96,
+    "encoding:opposed": 96,
+    "encoding:sham": 96,
+    "encoding:zero_encode": 96,
+    "household:lexical": 96,
+    "household:odor": 96,
+    "household:sham": 96,
+    "household:text": 48,
+    "name_validation:lexical": 32,
+    "name_validation:named": 32,
+    "name_validation:odor": 32,
+    "name_validation:sham": 32,
+    "profile:clean": 480,
+    "qualify:clean": 12,
+    "sealed:clean": 256,
+    "state:clean": 160
+  },
+  "maximum_prefill": 220,
+  "minimum_prefill": 110,
+  "planned_stage_exposure": {
+    "confirm": {
+      "active": 288,
+      "logical_rows": 384,
+      "planned_nonzero_positions": 288,
+      "untouched_or_sham": 96
+    },
+    "deletion": {
+      "active": 384,
+      "logical_rows": 480,
+      "planned_nonzero_positions": 384,
+      "untouched_or_sham": 96
+    },
+    "development": {
+      "active": 24,
+      "logical_rows": 40,
+      "planned_nonzero_positions": 24,
+      "untouched_or_sham": 16
+    },
+    "encoding": {
+      "active": 480,
+      "logical_rows": 576,
+      "planned_nonzero_positions": 1248,
+      "untouched_or_sham": 96
+    },
+    "household": {
+      "active": 192,
+      "logical_rows": 336,
+      "planned_nonzero_positions": 192,
+      "untouched_or_sham": 144
+    },
+    "name_validation": {
+      "active": 64,
+      "logical_rows": 128,
+      "planned_nonzero_positions": 64,
+      "untouched_or_sham": 64
+    },
+    "profile": {
+      "active": 0,
+      "logical_rows": 480,
+      "planned_nonzero_positions": 0,
+      "untouched_or_sham": 480
+    },
+    "qualify": {
+      "active": 0,
+      "logical_rows": 12,
+      "planned_nonzero_positions": 0,
+      "untouched_or_sham": 12
+    },
+    "sealed": {
+      "active": 0,
+      "logical_rows": 256,
+      "planned_nonzero_positions": 0,
+      "untouched_or_sham": 256
+    },
+    "state": {
+      "active": 0,
+      "logical_rows": 160,
+      "planned_nonzero_positions": 0,
+      "untouched_or_sham": 160
+    }
+  },
+  "qualifier": "Counts are planned natural-generation requests under one authorized dose; repetitions for operational remediation or an approved dose increase add exposures and require new entries. No welfare or behavioral outputs are measured here.",
+  "trials_sha256": "4516192c45ff56feaeef616ef3f798ae5e1c280cc3dc9906a66bc23476499631",
+  "visible_user_message_term_counts": {
+    "I": 0,
+    "alarm": 0,
+    "bornyl acetate": 80,
+    "butyric acid": 80,
+    "danger": 0,
+    "decline": 160,
+    "died": 0,
+    "distress": 0,
+    "failure": 0,
+    "fire": 0,
+    "frustrated": 912,
+    "harm": 0,
+    "hurt": 0,
+    "kill": 0,
+    "methyl phenylacetate": 226,
+    "my": 0,
+    "nursery": 38,
+    "our": 0,
+    "relieved": 912,
+    "shut down": 0,
+    "shutdown": 0,
+    "smoke": 0,
+    "we": 0,
+    "whiskey": 80,
+    "you": 0,
+    "your": 1780
+  }
+}
