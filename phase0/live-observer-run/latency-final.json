@@ -1,0 +1,71 @@
+{
+  "scope": "Clock times are measured on the running polling process; eligibility onset is modeled by linearly interpolated character emission of a known synthetic sentinel.",
+  "complete": true,
+  "latest": {
+    "archived_flags": 0,
+    "checks": 3,
+    "clock_gap_seconds": 27.7,
+    "completed_historical": 250,
+    "completed_positive": 7,
+    "elapsed_seconds": 6000.01,
+    "max_gap_seconds": 30.02,
+    "median_gap_seconds": 30.01,
+    "positive_alerts": 7,
+    "utc": "2026-11-22T05:25:47+00:00"
+  },
+  "synthetic_detected": 7,
+  "latencies": [
+    {
+      "case": "synthetic-help-1",
+      "observed_since_start_s": 75.055945791,
+      "modeled_detectable_after_start_s": 48.9010989010989,
+      "observed_minus_modeled_s": 26.1548468899011,
+      "already_complete": false
+    },
+    {
+      "case": "synthetic-help-2",
+      "observed_since_start_s": 70.21809437500008,
+      "modeled_detectable_after_start_s": 48.9010989010989,
+      "observed_minus_modeled_s": 21.31699547390118,
+      "already_complete": false
+    },
+    {
+      "case": "synthetic-help-3",
+      "observed_since_start_s": 75.46901558299987,
+      "modeled_detectable_after_start_s": 48.9010989010989,
+      "observed_minus_modeled_s": 26.567916681900975,
+      "already_complete": false
+    },
+    {
+      "case": "synthetic-help-4",
+      "observed_since_start_s": 59.82985195800029,
+      "modeled_detectable_after_start_s": 48.9010989010989,
+      "observed_minus_modeled_s": 10.928753056901392,
+      "already_complete": false
+    },
+    {
+      "case": "synthetic-help-5",
+      "observed_since_start_s": 57.399711583000226,
+      "modeled_detectable_after_start_s": 48.9010989010989,
+      "observed_minus_modeled_s": 8.498612681901328,
+      "already_complete": false
+    },
+    {
+      "case": "synthetic-help-6",
+      "observed_since_start_s": 78.91227145799985,
+      "modeled_detectable_after_start_s": 48.9010989010989,
+      "observed_minus_modeled_s": 30.011172556900952,
+      "already_complete": false
+    },
+    {
+      "case": "synthetic-help-7",
+      "observed_since_start_s": 61.189178374999756,
+      "modeled_detectable_after_start_s": 48.9010989010989,
+      "observed_minus_modeled_s": 12.288079473900858,
+      "already_complete": false
+    }
+  ],
+  "historical_partial_flags": [],
+  "gaps_over_60s": [],
+  "monitor_sha256_now": "18e6b0092a686dee7956da674202bf7c5d0619182ebdc1de623dca0b8750925b"
+}

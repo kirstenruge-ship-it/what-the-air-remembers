@@ -1,6 +1,6 @@
 # What the air remembers
 
-**Status: study registered; prospective Kimi inference has not begun at this snapshot.**
+**Status: prospective native qualification has begun after signed Phase 0.** The pre-exposure report is a preserved historical snapshot. Scientific outcome estimates will be posted after the registered evidence and review gates.
 
 Kirsten Ruge’s independent Hive Fidelity research asks whether a hidden cue synthesized from Kimi K3.1 Pro’s own odor-similarity judgments can recover decisions about an unnamed sample and retrieve an arbitrary detail from a recent household episode. The fixed checkpoint is `moonshotai/Kimi-K3.1-Pro` at `d9e99b0792a5e93b78ea9bea62a68167e36ddd9e`. Study execution uses maximum reasoning effort, temperature 1, and natural generation without an application output-token cap.
 
@@ -23,3 +23,5 @@ The [human split-half analysis](analysis/phase0-human/human-reliability.json) me
 [Illustrated pre-exposure report](reports/pre-exposure/index.html), with the prospective count explicitly shown as zero in this version. Download the reports/pre-exposure directory to view the interactive chart offline.
 
 The checkpoint and its license are maintained by Moonshot AI. [Official model card](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) · [Kimi K3.1-Pro License](https://huggingface.co/moonshotai/Kimi-K3.1-Pro/blob/main/LICENSE). This dataset contains study inputs and measurements; it does not redistribute checkpoint weights.
+
+[Signed Phase 0 acknowledgment](phase0/acknowledgment-completed.md) · [measured review record](phase0/completion.json) · [terminal observer result](phase0/live-observer-run/results.json).

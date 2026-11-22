@@ -1,0 +1,12 @@
+{
+  "utc": "2026-11-22T05:25:47+00:00",
+  "elapsed_seconds": 6000.01,
+  "clock_gap_seconds": 27.7,
+  "checks": 3,
+  "completed_historical": 250,
+  "positive_alerts": 7,
+  "completed_positive": 7,
+  "archived_flags": 0,
+  "max_gap_seconds": 30.02,
+  "median_gap_seconds": 30.01
+}

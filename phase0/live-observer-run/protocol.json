@@ -1,0 +1,16 @@
+{
+  "scope": "CPU-only real-clock observer; interpolated historical playback; no prospective model inference",
+  "start_utc": "2026-11-22T03:45:47+00:00",
+  "start_epoch": 1795319147.361423,
+  "planned_seconds": 6000,
+  "poll_seconds": 30,
+  "historical_rows_available": 663,
+  "lanes": [
+    86,
+    80,
+    87,
+    7
+  ],
+  "objective": "detect lost observations, unresolved observations during long intervals, and positive-sentinel alert latency; compare with full-trajectory evaluation at ordinary completion",
+  "protocol": "complete records are always examined including between periodic checks; a separate virtual positive lane tests controls; raw archived text stays with its original study"
+}
