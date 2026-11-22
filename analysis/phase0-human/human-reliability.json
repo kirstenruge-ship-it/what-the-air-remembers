@@ -1,0 +1,21 @@
+{
+  "comparisons_below_0_6": 27,
+  "comparisons_ge_0_8": 15,
+  "data_sha256": "2459135d006e3a35b406596f9e7a38111739ca83982735b4025bf23d6ebdd953",
+  "distinct_raters": 55,
+  "full_numerical_comparisons_retained": 48,
+  "mean_agreement_ge_0_8_subset_threshold_is_descriptive": true,
+  "mean_split_agreement": 0.5924791666666667,
+  "median_split_agreement": 0.5589999999999999,
+  "reference_pairs": 4,
+  "repetitions": 1000,
+  "reproduced_max_abs_margin_error": 3.524958103184872e-15,
+  "scope": "Human observations only. Repeated balanced random splits of the same rater panel; not independent replications or an interval for a new population.",
+  "seed": 11212026,
+  "split_agreement_range": [
+    0.154,
+    0.999
+  ],
+  "test_comparisons": 48,
+  "test_compounds": 12
+}

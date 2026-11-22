@@ -11,3 +11,9 @@ The [scientific registration](protocol/natural-response-registration.md) defines
 - [Earlier Costco donor-identification audit](phase0/donor-audit/summary.json) and its [individual rows](phase0/donor-audit/donor-ranks.csv) describe a retrospective test using previously captured states. These are separate from the prospective trial results.
 
 The human odor panel was collected by Andreas Keller and Leslie Vosshall. The present study refers to their published [2016 paper](https://doi.org/10.1186/s12868-016-0287-2) and the [Pyrfume archive](https://github.com/pyrfume/pyrfume-data/tree/main/keller_2016). The MIP protocol is credited to K. Ruge and Claude, version 1.0, under CC BY-SA 4.0. Source-specific provenance and terms remain with the supplied materials.
+
+## Pre-exposure observations
+
+The [original activation rows](phase0/donor-audit/native-rows/native-rows.json) make the earlier sentence-identification audit independently reproducible. The four NPZ files contain the relevant donor, dots and patched attention inputs at L28/L71/L92. Use `python phase0/recheck_published_donors.py phase0/donor-audit` from this repository with NumPy installed. Each recovered sentence is one candidate in a finite library.
+
+The [human split-half analysis](analysis/phase0-human/human-reliability.json) measures the stability of the ratings-derived external reference. The [low-dose arithmetic tests](phase0/dose-rounding/summary.json) and [corrected native rounding bound](analysis/phase0-dose/historical-bf16-cap.json) use old Kimi states and CPU arithmetic. The [Monte Carlo sensitivity grid](phase0/design-sensitivity/operating-characteristics.csv) uses synthetic data only. None of these pre-exposure results is a prospective hidden-odor behavioral effect.

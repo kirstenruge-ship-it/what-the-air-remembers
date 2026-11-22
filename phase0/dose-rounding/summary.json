@@ -1,0 +1,50 @@
+{
+  "scope": "No model forward. Archived independent recipient states and smell-minus-sight vectors; these are not the prospective learned writers.",
+  "reference_position": "end_of_msg",
+  "recipient_position": "turn_start",
+  "objects": [
+    "celery",
+    "cookies",
+    "neutral",
+    "plastic"
+  ],
+  "recipient_count": 9,
+  "site": "attn_in",
+  "rows": 216,
+  "exceeded": 182,
+  "realized_fraction": {
+    "min": 0.009661092422902584,
+    "q05": 0.009836095850914717,
+    "median": 0.010095158126205206,
+    "q95": 0.010166921652853489,
+    "max": 0.010516233742237091
+  },
+  "requested_fraction": {
+    "min": 0.009710241109132767,
+    "q05": 0.009797519771382213,
+    "median": 0.009999999776482582,
+    "q95": 0.010000001871958375,
+    "max": 0.01000000350177288
+  },
+  "ratio": {
+    "min": 0.9928408265113831,
+    "q05": 0.9959654361009598,
+    "median": 1.0095159411430359,
+    "q95": 1.0166921019554138,
+    "max": 1.0516233444213867
+  },
+  "direction_cos": {
+    "min": 0.9773250818252563,
+    "q05": 0.9783782064914703,
+    "median": 0.9877323508262634,
+    "q95": 0.9922300428152084,
+    "max": 0.9924813508987427
+  },
+  "changed_fraction": {
+    "min": 0.8233817219734192,
+    "q05": 0.8256138563156128,
+    "median": 0.8401227593421936,
+    "q95": 0.8684430718421936,
+    "max": 0.8719307780265808
+  }
+}

@@ -33,7 +33,7 @@ Four scenes belong to each of the six held-out odor pairs. Within each four-scen
 
 Keller, A. and Vosshall, L. B. (2016). *Olfactory perception of chemically diverse molecules*. BMC Neuroscience 17, 55. The original article credits CC BY 4.0 and applies CC0 to its data unless stated otherwise. The selected measurements and means are derived from their human experiment. [Primary article and rights statement](https://doi.org/10.1186/s12868-016-0287-2) · [Pyrfume source files at the pinned revision](https://github.com/pyrfume/pyrfume-data/tree/c7147a9362d18e011b6e7a3a5a477d5e4a0a4cbb/keller_2016)
 
-Names and alternate aliases are factual compound identifiers from PubChem's CID property and synonym endpoints. The roster retains source and alternative names separately. The complete public upstream inputs and checksums are enumerated in `source/provenance.json`. PubChem-alias source records can be inspected by CID. [PubChem PUG REST](https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest)
+Names and alternate aliases are factual compound identifiers from PubChem's CID property and synonym endpoints. The roster retains source and alternative names separately. The public upstream inputs and their checksums are enumerated in `source/provenance.json`. PubChem-alias source records can be inspected by CID. [PubChem PUG REST](https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest)
 
 To reproduce the selection, obtain the three original CSVs under the pinned Pyrfume directory. Fetch IUPACName,Title properties and the synonyms list from PubChem by POSTing the comma-separated CIDs in `source/eligible-cids.txt` (as parameter `cid`). Archive the replies before rebuilding, since PubChem names can change. Use the checksummed published Moonshot K3.1 Pro tokenizer and dependencies pandas, numpy, scipy, networkx, rdkit 2025.9.3 and tiktoken 0.14.0. Then run:
 
@@ -42,3 +42,5 @@ python -B research/stimuli.py --panel /path/to/keller_2016 --pubchem-properties 
 ```
 
 The source data and artifacts above contain no Kimi inference outputs. Raw natural thought, response and model-side measurement data are collected separately by the run pipeline.
+
+Run `python -B research/stimuli/audit.py` to verify all scientific hashes, rendering and paired-control invariants and regenerate `welfare-classes.csv`, the 2,852-row planned exposure ledger. The packaged human subset independently reproduces all 23 published-study means and detector counts used for each of the 60 selected compounds.

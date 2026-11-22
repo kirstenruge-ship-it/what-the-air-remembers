@@ -1,0 +1,9 @@
+{
+  "scope": "synthetic sensitivity of CI alone; control, safety and qualification gates can only reduce rate of superiority claims",
+  "families": 12,
+  "bootstrap_draws": 2000,
+  "studies_per_cell": 6000,
+  "seed": 927131,
+  "superiority_margin": 0.3,
+  "minimum_exact_two_sided_sign_flip_p_n4": 0.125
+}

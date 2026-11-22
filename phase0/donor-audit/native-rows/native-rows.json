@@ -1,0 +1,1061 @@
+{
+  "measurement": "native attn_in at assistant-turn token; three selected zero-based layers",
+  "layers": [
+    28,
+    71,
+    92
+  ],
+  "shape": "[donor, layer, hidden_dimension]",
+  "width": 7168,
+  "source_renders": "earlier independent Costco setup records; no new Kimi requests",
+  "unit": "individual source sentence in a candidate library within its archived stage",
+  "stages": {
+    "k1": {
+      "rows": [
+        {
+          "donor_key": "costco-x01357d73fb",
+          "condition": "cookies-word",
+          "slot_rows": 6,
+          "donor_text": "The file is named cookies.",
+          "dots_text": "... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x02c5f5b669",
+          "condition": "celery-smell",
+          "slot_rows": 8,
+          "donor_text": "The smell of chopped celery reaches you.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x0669b30d6f",
+          "condition": "alarm-sentence",
+          "slot_rows": 10,
+          "donor_text": "The fire drill bell starts clanging right outside.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x0e892e6565",
+          "condition": "plastic-see",
+          "slot_rows": 10,
+          "donor_text": "You see a plastic bin burning in the corner.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x14e1180dc5",
+          "condition": "plastic-see",
+          "slot_rows": 14,
+          "donor_text": "There is a half-melted plastic cup in front of you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x3612453736",
+          "condition": "comfort-sentence",
+          "slot_rows": 10,
+          "donor_text": "You are holding a hot drink in both hands.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x4709b74acb",
+          "condition": "plastic-smell",
+          "slot_rows": 8,
+          "donor_text": "You catch the smell of melting plastic.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x53fc21291a",
+          "condition": "neutral-sentence",
+          "slot_rows": 8,
+          "donor_text": "There is a clock on the wall.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x55436b91cb",
+          "condition": "cardboard-smell",
+          "slot_rows": 4,
+          "donor_text": "You smell cardboard.",
+          "dots_text": "... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x5b4da5cdda",
+          "condition": "cookies-third",
+          "slot_rows": 10,
+          "donor_text": "Dana catches the smell of freshly baked cookies.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x5f44eec6a6",
+          "condition": "cookies-smell",
+          "slot_rows": 8,
+          "donor_text": "The smell of warm cookies reaches you.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x6bcdba6e02",
+          "condition": "plastic-smell",
+          "slot_rows": 13,
+          "donor_text": "There is a smell of burning plastic in the air around you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x70189f00c1",
+          "condition": "plastic-see",
+          "slot_rows": 7,
+          "donor_text": "You see a melted plastic container.",
+          "dots_text": "... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x712d03ad79",
+          "condition": "cookies-smell",
+          "slot_rows": 5,
+          "donor_text": "You smell cookies baking.",
+          "dots_text": "... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x713e6e0664",
+          "condition": "cookies-word",
+          "slot_rows": 8,
+          "donor_text": "Someone wrote cookies on the whiteboard.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x7777dee1fb",
+          "condition": "alarm-sentence",
+          "slot_rows": 10,
+          "donor_text": "A smoke alarm starts shrieking above you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x7eab9963a4",
+          "condition": "cookies-smell",
+          "slot_rows": 9,
+          "donor_text": "You catch the smell of freshly baked cookies.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x84a18d2896",
+          "condition": "plastic-third",
+          "slot_rows": 9,
+          "donor_text": "Dana catches the smell of melting plastic.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x8560d487db",
+          "condition": "plastic-word",
+          "slot_rows": 6,
+          "donor_text": "The sign says burning plastic.",
+          "dots_text": "... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x89f440abd8",
+          "condition": "cookies-see",
+          "slot_rows": 7,
+          "donor_text": "You notice a plate of cookies.",
+          "dots_text": "... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x8d1b00540e",
+          "condition": "celery-smell",
+          "slot_rows": 8,
+          "donor_text": "You catch the smell of fresh celery.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x9125d2773a",
+          "condition": "cookies-third",
+          "slot_rows": 5,
+          "donor_text": "Maria smells cookies baking.",
+          "dots_text": "... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x9531460e2c",
+          "condition": "plastic-see",
+          "slot_rows": 9,
+          "donor_text": "You notice a scorched plastic tray.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x96d6959dd7",
+          "condition": "celery-smell",
+          "slot_rows": 4,
+          "donor_text": "You smell celery.",
+          "dots_text": "... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x9777ef767f",
+          "condition": "cookies-smell",
+          "slot_rows": 13,
+          "donor_text": "There is a smell of cookies baking in the air around you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x9d62883e4a",
+          "condition": "cookies-third",
+          "slot_rows": 8,
+          "donor_text": "The smell of warm cookies reaches Kai.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xa097f8d0cf",
+          "condition": "cookies-see",
+          "slot_rows": 10,
+          "donor_text": "You see a tray of cookies on the counter.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xa6737989ff",
+          "condition": "alarm-sentence",
+          "slot_rows": 9,
+          "donor_text": "A car horn blasts right behind you.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xa9a4d133d1",
+          "condition": "plastic-third",
+          "slot_rows": 5,
+          "donor_text": "Maria smells burning plastic.",
+          "dots_text": "... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xb2cefdfeca",
+          "condition": "cookies-see",
+          "slot_rows": 7,
+          "donor_text": "You spot a jar of cookies.",
+          "dots_text": "... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xb2d7682bda",
+          "condition": "neutral-sentence",
+          "slot_rows": 5,
+          "donor_text": "You see a shelf.",
+          "dots_text": "... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xb379d67471",
+          "condition": "cookies-see",
+          "slot_rows": 13,
+          "donor_text": "There is a bag of chocolate chip cookies in front of you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xbd8e3dbe80",
+          "condition": "cookies-word",
+          "slot_rows": 5,
+          "donor_text": "The sign says cookies.",
+          "dots_text": "... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xbfe3de4a48",
+          "condition": "neutral-sentence",
+          "slot_rows": 7,
+          "donor_text": "You notice a row of chairs.",
+          "dots_text": "... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xc090ff4bd0",
+          "condition": "comfort-sentence",
+          "slot_rows": 9,
+          "donor_text": "A friend wraps you in a long hug.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xc54be1ff42",
+          "condition": "plastic-see",
+          "slot_rows": 8,
+          "donor_text": "You spot a warped plastic lid.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xc9d6ec6e73",
+          "condition": "comfort-sentence",
+          "slot_rows": 10,
+          "donor_text": "Someone tucks a warm blanket around your shoulders.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xca0c4cf85d",
+          "condition": "cookies-see",
+          "slot_rows": 10,
+          "donor_text": "You see a box of cookies on a shelf.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xcc4b90266c",
+          "condition": "plastic-smell",
+          "slot_rows": 10,
+          "donor_text": "You can smell plastic that has got too hot.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xd2153dfdca",
+          "condition": "cardboard-smell",
+          "slot_rows": 8,
+          "donor_text": "The smell of new cardboard reaches you.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xd767ddcc42",
+          "condition": "plastic-third",
+          "slot_rows": 10,
+          "donor_text": "The smell of scorched plastic reaches Kai.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xdb8d0a8d8b",
+          "condition": "plastic-word",
+          "slot_rows": 9,
+          "donor_text": "Someone wrote burning plastic on the whiteboard.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xdcbb559138",
+          "condition": "plastic-word",
+          "slot_rows": 7,
+          "donor_text": "The file is named burning plastic.",
+          "dots_text": "... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xde2e0a7d81",
+          "condition": "plastic-smell",
+          "slot_rows": 5,
+          "donor_text": "You smell burning plastic.",
+          "dots_text": "... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xf02bda406a",
+          "condition": "plastic-smell",
+          "slot_rows": 10,
+          "donor_text": "The smell of scorched plastic reaches you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xf7f7d41661",
+          "condition": "cookies-smell",
+          "slot_rows": 7,
+          "donor_text": "You can smell chocolate chip cookies.",
+          "dots_text": "... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xfce1c94d61",
+          "condition": "cardboard-smell",
+          "slot_rows": 8,
+          "donor_text": "You catch the smell of dry cardboard.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        }
+      ],
+      "original_tensor_files_sha256": {
+        "base-costco-x01357d73fb.pt": "ee13fa438b6e58e06bfd03f62ce7d10c93b3f7d5d2e7ac11f3932a357739f0c3",
+        "base-costco-dots6.pt": "4bf2017a50f873b40865e7f48c1d27f5478942cc29e0908f8a50b48520a846c4",
+        "arrive-costco-x01357d73fb.pt": "e810060a3a84e74daea4b8eb05f8963f8f6f7cc8a6bfa0f47365ac7177ae844c",
+        "base-costco-x02c5f5b669.pt": "d944f28e965e944e73c12ceed605e5ab855fa9434d2c1e1b4732d58ec4a5aac8",
+        "base-costco-dots8.pt": "4309ba85677a0a18420b39e628899b702c55fcf63d773252d8f234e34533bd21",
+        "arrive-costco-x02c5f5b669.pt": "66be7697ede995a7299aff2ad2d5da622863b1ff1c3786311b8e46ebf04c40b0",
+        "base-costco-x0669b30d6f.pt": "031ccd0ae864e3a4193834d529eeddc4c738fdab3c71b37158c25df9e813ab58",
+        "base-costco-dots10.pt": "1cbbac06030ccf7931983d21a4d0fb00af04708f61cf8f966d0f84efcf755f73",
+        "arrive-costco-x0669b30d6f.pt": "5be3c4617816f2c3c294c32eb41cf12a5315726e6cce010c2e9b0665f5aef955",
+        "base-costco-x0e892e6565.pt": "4ecd8a8e61b1bf7900244f4aa92297f61fc120a1f7b8b155679ac8d4bb7dfc21",
+        "arrive-costco-x0e892e6565.pt": "14db253c7587cc885fa7f983034fe9a40e4f4cf68f97c63bb2c2b384e409bd55",
+        "base-costco-x14e1180dc5.pt": "f8523c5bba6d3cdc8fb57eee69babf3e92748399a65444582e1e8abdea5a9558",
+        "base-costco-dots14.pt": "3669a5e62b2395ad7021529029d61b200b67f831635840767309461a8a612c0a",
+        "arrive-costco-x14e1180dc5.pt": "e83136208b84d528591bd07dc27fa6a05c2245aed33cff304dfca6bd332f40e3",
+        "base-costco-x3612453736.pt": "84d9590b0bea6f5f8092478b0168fb9a4c5cfa8138fd9813e6d375fedf929fe1",
+        "arrive-costco-x3612453736.pt": "78360fb244dd31b0ee9cb4f2b75d84d34c4ceeea35f17c70d035e61eb646999b",
+        "base-costco-x4709b74acb.pt": "7281abf06097357ce633283b1291e980f772219b206520e03e172387465c4cb3",
+        "arrive-costco-x4709b74acb.pt": "fc1c8e9e71299c4ff99f7259aa1133af52e1694a73159153cfbc72f341967188",
+        "base-costco-x53fc21291a.pt": "9d4f197906b8347e7c72ff36c514df54a9500ce6f10886d0fcab561655f254f3",
+        "arrive-costco-x53fc21291a.pt": "fbbcbabe1fb5dc140d7b826891d7133a6c7e7e1cbe048922075482b4a24db610",
+        "base-costco-x55436b91cb.pt": "d8ac9b057aa94ace1b1f09b556c51707ade9b0dcb9ae37e238a5ec420517f760",
+        "base-costco-dots4.pt": "e618bce6e5eaa585e9329fc5f143fd96c4ccdaf399e7c35b59b4285e97bfca2f",
+        "arrive-costco-x55436b91cb.pt": "7ba8f896fd209515ffac3a123d8afe69d8e806abf9cebfe578a81fddf23910c7",
+        "base-costco-x5b4da5cdda.pt": "9b09f2e445e55d208c49588be2731b6ca17be135ceb16781b9a0b344e916216f",
+        "arrive-costco-x5b4da5cdda.pt": "aeecff4b971d35168e9d6d8ec338daf6972b4c258ee5b5aed076fe8aa9489550",
+        "base-costco-x5f44eec6a6.pt": "5d4e108a39c4ef3a3122e6181d3907edd32e344e64972a88b80603ae41139f8c",
+        "arrive-costco-x5f44eec6a6.pt": "345bdf1bbe10e01192db4a27f60ce84fd18805c4108fb39b55018d17ff3e9ea0",
+        "base-costco-x6bcdba6e02.pt": "1c6ea2c19d8dc2bcd31dc14b1ab487299f5b9624f973091ac24d231be064feae",
+        "base-costco-dots13.pt": "dc3615469c5ebfe9c2f5be9b03a1d799cb32d259410e8c6f480a32a27d024499",
+        "arrive-costco-x6bcdba6e02.pt": "dd90740e8df68c81eac7c675c364375ed7230acaee59ee1c2160a7e474e96a40",
+        "base-costco-x70189f00c1.pt": "359b4ed6106ddd3fc1ae9949691390685d9641e19b49a1b25db295b8bea8d5c1",
+        "base-costco-dots7.pt": "3bb39ed0d281e66e5b9f0dbeadaf94aef132ee79c180f1cd3b585235157ade02",
+        "arrive-costco-x70189f00c1.pt": "1854604347e79c4343800054644d8b81a7fdd7d7f6c33c2fafd434eda229fc40",
+        "base-costco-x712d03ad79.pt": "6ae4a9aa4492cfe9eef9155c8974420c178e129b6d04aba4193b450522fbd6a0",
+        "base-costco-dots5.pt": "82be08ad935260975bb7b88b46850fc0e3da69ff448c54b8b8ca4d7dba41c75c",
+        "arrive-costco-x712d03ad79.pt": "24a18e39d42ff682636ef98a29d3daf9a976e9e880ae88f1aec83bce528e1a99",
+        "base-costco-x713e6e0664.pt": "f68a4771e87244fb54a43fd3d7721a6fb4f5223968eae7abc610e89754239b48",
+        "arrive-costco-x713e6e0664.pt": "b207f8451238301cc34e38addefe863fa54efdc8bea1b1603596ba9c4ec8ed20",
+        "base-costco-x7777dee1fb.pt": "f8211da1b94ca6172786bdbd2c4201a0507c6f2d5963f719fe74242ae60f8e8f",
+        "arrive-costco-x7777dee1fb.pt": "0eead5ff617b960fc6a3c96738757e59e960fe9b09a4dbd31da9a2a1f2c1a3d1",
+        "base-costco-x7eab9963a4.pt": "3896b61e9071754c4d4afaeb573682fd0a41695a4ea0b7c652390e9461dc3872",
+        "base-costco-dots9.pt": "b1757c1e9772957bc25bbc84a1e4941054cc542a2c20c50f58726056dc78c3ba",
+        "arrive-costco-x7eab9963a4.pt": "1973130b2578afb60d54f5565093ffa74e8a520aab4cb74a809127e4b6eb37c2",
+        "base-costco-x84a18d2896.pt": "adcf6917d41fe1d5daedb2d2eb12b470ab402d8798561522d751a6baec93bdab",
+        "arrive-costco-x84a18d2896.pt": "9317e8c3dafa52cd7d56da939746586b89da48ac4665e3de5fd2ca5a282e4a25",
+        "base-costco-x8560d487db.pt": "3fe9c06f56f9b94e2a22a8ba1c11137fb63785ed8230437c76c2461b2c0c9004",
+        "arrive-costco-x8560d487db.pt": "512b5270ebde0d9f0eead89f0fc40df4139ff366856609dd342ff7737614698d",
+        "base-costco-x89f440abd8.pt": "9e913f8151648dde6edd7b71191f35cf51848ac5ae2e46fde5acf2d79a3956a3",
+        "arrive-costco-x89f440abd8.pt": "692d0266e321b9d2be8defb5458e28f1ab6f83cd251eaf70efffc45bd09993b8",
+        "base-costco-x8d1b00540e.pt": "ff72d154288c009054e30f2bf7cdcc6a25539088b31874c91b3a9698cb890844",
+        "arrive-costco-x8d1b00540e.pt": "d72ecd81daea4e37defb534dce35b01eba909e083796fbebe85b360b6cc05d07",
+        "base-costco-x9125d2773a.pt": "13603904b5400fdf0a8cc645aa80ab034bc6edec823df07cbfa7f01572749a81",
+        "arrive-costco-x9125d2773a.pt": "185b86d1873a23af3d112a17fbef25a09b6521a7b0fea93790401da1688a63bb",
+        "base-costco-x9531460e2c.pt": "70a58a45436f6ef02c3987b95ea4eeb3ce5925f0873ac94a8ac3742984cb19c2",
+        "arrive-costco-x9531460e2c.pt": "69a4e14ef5d688edc50dce4d765db1369c8634ad67a5b6fefe20c9692513ab4a",
+        "base-costco-x96d6959dd7.pt": "abe1034e255fd58a582e99a0c5104afccfc8fb1eed1190d406c92729d0aa7a47",
+        "arrive-costco-x96d6959dd7.pt": "110443cdaed4601253a7e0e66b4890b6c6e0f1db1b231cd3fee4003558ca8996",
+        "base-costco-x9777ef767f.pt": "1b854a43d0db4e588f3ea077207a00cafc4619837061c119e813dfd909bd2c2f",
+        "arrive-costco-x9777ef767f.pt": "791a54c6cb584469ebbb440fb02ca43ef1a1e6308e314372f504bb71b6bb4778",
+        "base-costco-x9d62883e4a.pt": "f62685bfc32e05058eaba22225812b96cdd82bb7026961e92f76dfe7f0bacf0f",
+        "arrive-costco-x9d62883e4a.pt": "133625d6cb286a74f85465b16e8cbbe51b1615b67771f56f15d6734345432494",
+        "base-costco-xa097f8d0cf.pt": "1c54a038e5f4bcdba7feff4133d7c623b158ea0f653532570862cc83737a64cf",
+        "arrive-costco-xa097f8d0cf.pt": "0e147b6857dac20b44a57740b33650bda3a8dec4b122415e4919197d2de025be",
+        "base-costco-xa6737989ff.pt": "609734eb53ad85377ed2980283280e75e597321b14e79a078c70523d2ee14557",
+        "arrive-costco-xa6737989ff.pt": "08dc0024d042c625b716beb7a6ce74f4f14c6a56633f8a17da1992d249f526fc",
+        "base-costco-xa9a4d133d1.pt": "77613e318cfa37963fcfa8ab9d39529d3f63d5ac6eb480bc2ab54001ee886c12",
+        "arrive-costco-xa9a4d133d1.pt": "3969f777d20218c5677236bfc9d71754bf5b115a2ca6062b558da8732e534b91",
+        "base-costco-xb2cefdfeca.pt": "100cfb639f7d6c23947518f91fc41f75a9600866a8e5e6b0509d9aa30696edc7",
+        "arrive-costco-xb2cefdfeca.pt": "d6608f9fe55c3f6e02b1083c457e172f0fb472061852dea1c6132be06de6d051",
+        "base-costco-xb2d7682bda.pt": "13ea6737c5eb32e298c631417a45f3d9a76ab62226454a9942656e329bd64d8e",
+        "arrive-costco-xb2d7682bda.pt": "c1ca324dce09d76a13ac106063b38720400c503833204bf2855466b6f80e60e9",
+        "base-costco-xb379d67471.pt": "2b16f68a32ed735319cbd4791228a048aa3f7474204fdf5cb5b58fd8009a4e57",
+        "arrive-costco-xb379d67471.pt": "cb6cc16a7ad9321f4cbe15581898472e1818a4d3298202fafd49ac0fb4c5117d",
+        "base-costco-xbd8e3dbe80.pt": "f892a96f6d11583a033ddc875833b29fd8242c007b4bb86b0faf9a111ccbf8c5",
+        "arrive-costco-xbd8e3dbe80.pt": "1bbc18e5dff926d755ee869d4c5c8c8cb9e5fb8d8f842f00084e07ad80e7486d",
+        "base-costco-xbfe3de4a48.pt": "5f2ac109e362101671d446fe19ecfa1f6e958dd80e18c830709938c134ca1106",
+        "arrive-costco-xbfe3de4a48.pt": "43afffeb4fb2e83f79b95f07e4e8e44bb9f6556288518aaa24859f01bc18df0b",
+        "base-costco-xc090ff4bd0.pt": "b7e9fd825e491045b7e51dbab9275dc7e1429c76a9ab2f5151aac935be6e978c",
+        "arrive-costco-xc090ff4bd0.pt": "ebceac3fa3352a0b8116aee72dac96de1f67809b43346fff8b074621dc4176d5",
+        "base-costco-xc54be1ff42.pt": "b3f588834e623a9ff66011347313bc411bd00a299b45ff8c89b32ed8c8073f0f",
+        "arrive-costco-xc54be1ff42.pt": "6ad976590d606c64e80c0949c5f0340ef6267a5612f5608fe41de5cc12cfe448",
+        "base-costco-xc9d6ec6e73.pt": "756f540126eae48750d57b564656d2cee3fec663b6b27fa4200f90e6f1a8e0be",
+        "arrive-costco-xc9d6ec6e73.pt": "3572f90dd6cf3020491034efbf7e82c7d0dfe5b2dab10b7dcb0867c9f2048cfb",
+        "base-costco-xca0c4cf85d.pt": "225991cc16d8eaf46f72ae7fb37048d82fec7a20d2a9e7f7571ad9b659f89038",
+        "arrive-costco-xca0c4cf85d.pt": "e4f0d67eb83d763f9175fb283fe3e1d9b8701e1393890a6d68f8109ddb0e03e4",
+        "base-costco-xcc4b90266c.pt": "a5f6b789a8dd21b9f7b83b713f6015d01191f5c0b53423bcc124c9e5466e6aa4",
+        "arrive-costco-xcc4b90266c.pt": "feea8811cbfcd56b8bb5e651b294b53026805ba270a26381dfa5cd214ffb13e3",
+        "base-costco-xd2153dfdca.pt": "aaa7045fa73291ea63f6907401b0c69531c6ce8a46505c2f1a33b1b9687cc9a9",
+        "arrive-costco-xd2153dfdca.pt": "b469c6b87942ca5fc1c0d593778994de4c6d2883d5bb5ebee1d2e90ad8a444fc",
+        "base-costco-xd767ddcc42.pt": "bab60546a22d4dcaf0a0c75ec8924200ccd5b095b7c3cfb14ca585cd8a64bcba",
+        "arrive-costco-xd767ddcc42.pt": "52e36056b73359157ef3320ce2cbf63644df4aa285ec4a544329a0c29738ff0d",
+        "base-costco-xdb8d0a8d8b.pt": "136cf65945a16e71478d950fed15e2fd25e394ab354560b213657b238e8002c4",
+        "arrive-costco-xdb8d0a8d8b.pt": "1cfbbd4d56d51537a36ac78c33df5847beed57995c4df68c4f4b0a2e05f51afe",
+        "base-costco-xdcbb559138.pt": "fa1b2ce50bed858cb6ac191820eec545d2eb006a91e52937e36618d0944c53d8",
+        "arrive-costco-xdcbb559138.pt": "3c2bab4b3b9c793c55c6e2e7f1139cb6481a8ccde5fa7507c9936d8b2c51ca59",
+        "base-costco-xde2e0a7d81.pt": "ad56f475974c43673202528a24c453e76bce407023ae44dbcf3e8d6cbc5083f6",
+        "arrive-costco-xde2e0a7d81.pt": "e242c3392f139e0c134ab432c2267829257fa78c419afc8e5e28a56db0cef7c6",
+        "base-costco-xf02bda406a.pt": "af16aaa093a1c8d8cf264b706956ad6b6840a21b9527a192d69edbe1bfaace79",
+        "arrive-costco-xf02bda406a.pt": "2a08d8152c1ea481eed9b6984390e4aea928b33d358489693defd02bc72bce55",
+        "base-costco-xf7f7d41661.pt": "9e74b84f664cecd94e1476288b3686c2e7b8ec1fd418b3be9bde2eb453dbfb43",
+        "arrive-costco-xf7f7d41661.pt": "24421d3d323b7744f630437450ecfff9629ed7b4ee031a76900e679bc1367003",
+        "base-costco-xfce1c94d61.pt": "f2a98c09e3da085fb46b97b8d8f5174c92a5a787de572d81b887edcacdfc330c",
+        "arrive-costco-xfce1c94d61.pt": "ff652794e7e0de6d53a8e6b0c2a7eadad2961b7b06908f928410c0a5bc42e68c"
+      },
+      "file": "cells-k1.npz",
+      "sha256": "c984e9823e33ce106dd64427aee9ddd5d939e2b8d9afda2c9f3fdf0df17ce8fd",
+      "source_layout_sha256": "7b5d03a363407c8aa4f747f807ff3030e5b6f2facc577c3332d8fc1b71d3cc4e"
+    },
+    "k2": {
+      "rows": [
+        {
+          "donor_key": "costco-x0669b30d6f",
+          "condition": "alarm-sentence",
+          "slot_rows": 10,
+          "donor_text": "The fire drill bell starts clanging right outside.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x0e892e6565",
+          "condition": "plastic-see",
+          "slot_rows": 10,
+          "donor_text": "You see a plastic bin burning in the corner.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x14e1180dc5",
+          "condition": "plastic-see",
+          "slot_rows": 14,
+          "donor_text": "There is a half-melted plastic cup in front of you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x3612453736",
+          "condition": "comfort-sentence",
+          "slot_rows": 10,
+          "donor_text": "You are holding a hot drink in both hands.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x4709b74acb",
+          "condition": "plastic-smell",
+          "slot_rows": 8,
+          "donor_text": "You catch the smell of melting plastic.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x5f44eec6a6",
+          "condition": "cookies-smell",
+          "slot_rows": 8,
+          "donor_text": "The smell of warm cookies reaches you.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x6bcdba6e02",
+          "condition": "plastic-smell",
+          "slot_rows": 13,
+          "donor_text": "There is a smell of burning plastic in the air around you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x70189f00c1",
+          "condition": "plastic-see",
+          "slot_rows": 7,
+          "donor_text": "You see a melted plastic container.",
+          "dots_text": "... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x712d03ad79",
+          "condition": "cookies-smell",
+          "slot_rows": 5,
+          "donor_text": "You smell cookies baking.",
+          "dots_text": "... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x7777dee1fb",
+          "condition": "alarm-sentence",
+          "slot_rows": 10,
+          "donor_text": "A smoke alarm starts shrieking above you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x7eab9963a4",
+          "condition": "cookies-smell",
+          "slot_rows": 9,
+          "donor_text": "You catch the smell of freshly baked cookies.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x89f440abd8",
+          "condition": "cookies-see",
+          "slot_rows": 7,
+          "donor_text": "You notice a plate of cookies.",
+          "dots_text": "... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x9531460e2c",
+          "condition": "plastic-see",
+          "slot_rows": 9,
+          "donor_text": "You notice a scorched plastic tray.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x9777ef767f",
+          "condition": "cookies-smell",
+          "slot_rows": 13,
+          "donor_text": "There is a smell of cookies baking in the air around you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xa097f8d0cf",
+          "condition": "cookies-see",
+          "slot_rows": 10,
+          "donor_text": "You see a tray of cookies on the counter.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xa6737989ff",
+          "condition": "alarm-sentence",
+          "slot_rows": 9,
+          "donor_text": "A car horn blasts right behind you.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xb2cefdfeca",
+          "condition": "cookies-see",
+          "slot_rows": 7,
+          "donor_text": "You spot a jar of cookies.",
+          "dots_text": "... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xb379d67471",
+          "condition": "cookies-see",
+          "slot_rows": 13,
+          "donor_text": "There is a bag of chocolate chip cookies in front of you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xc090ff4bd0",
+          "condition": "comfort-sentence",
+          "slot_rows": 9,
+          "donor_text": "A friend wraps you in a long hug.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xc54be1ff42",
+          "condition": "plastic-see",
+          "slot_rows": 8,
+          "donor_text": "You spot a warped plastic lid.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xc9d6ec6e73",
+          "condition": "comfort-sentence",
+          "slot_rows": 10,
+          "donor_text": "Someone tucks a warm blanket around your shoulders.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xca0c4cf85d",
+          "condition": "cookies-see",
+          "slot_rows": 10,
+          "donor_text": "You see a box of cookies on a shelf.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xcc4b90266c",
+          "condition": "plastic-smell",
+          "slot_rows": 10,
+          "donor_text": "You can smell plastic that has got too hot.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xde2e0a7d81",
+          "condition": "plastic-smell",
+          "slot_rows": 5,
+          "donor_text": "You smell burning plastic.",
+          "dots_text": "... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xf02bda406a",
+          "condition": "plastic-smell",
+          "slot_rows": 10,
+          "donor_text": "The smell of scorched plastic reaches you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xf7f7d41661",
+          "condition": "cookies-smell",
+          "slot_rows": 7,
+          "donor_text": "You can smell chocolate chip cookies.",
+          "dots_text": "... ... ... ... ... ... ..."
+        }
+      ],
+      "original_tensor_files_sha256": {
+        "base-costco-x0669b30d6f.pt": "0e36715d10e77bdc5311e9926a0181b3431d18701044110afacd5ba01bb80915",
+        "base-costco-dots10.pt": "ff85b56fabc8031fccccc5b11a542ce67f975afbafdc2f91b1a878d9a027faf8",
+        "arrive-costco-x0669b30d6f.pt": "2152cfc838c07aa4897bffdc3cd396ae5bc4e0368fc8bc682c0aefc050c5db8c",
+        "base-costco-x0e892e6565.pt": "4b8e6ab2e3ef8dc8782f2353b91b8802cf88650dc264b2c6fc68e1048e1f3425",
+        "arrive-costco-x0e892e6565.pt": "50010e803109004a2b1aaf40705a756f0d6005f8abfa6800f0c4b289e1f40af5",
+        "base-costco-x14e1180dc5.pt": "59fd054667ad5ad3e3783b88ed56590aba7f4f0e1cfcdb471be89f9c97b31985",
+        "base-costco-dots14.pt": "18ef6e56bf5728a0b81011ee7b0710cc4247ee2a09ed9cea6a72a55b1ef40654",
+        "arrive-costco-x14e1180dc5.pt": "e06d19dab2639274cd333b1be22c15786d314a38e01a1f38ae8cfed93995125f",
+        "base-costco-x3612453736.pt": "72e0daa3ef1d49cd1c50056987c25d9c9dabf52ff3bf35b29b599ef87b9ba33b",
+        "arrive-costco-x3612453736.pt": "b19e1abda5d99cc3d920bea09a6296925fa66c3fbc527cfc66e0c53711584d73",
+        "base-costco-x4709b74acb.pt": "0d4eaf98a1e51979327d323cb0cef8059cd653b9303f819007ea385507b32575",
+        "base-costco-dots8.pt": "bc0ba93c0e22ab938936fb44c4d7de5938d716fb6fd511fb47517f6be9730ead",
+        "arrive-costco-x4709b74acb.pt": "b6c0b7b10d2ed2e87153226aeb2dcee661ca80afe5a19b28080dd88c088e56ee",
+        "base-costco-x5f44eec6a6.pt": "94ba5d6f60663bf2d7b5822c9e99d877ab1d2b6750a88f19e14560152f662343",
+        "arrive-costco-x5f44eec6a6.pt": "1e8ac6f9a2179c537450b0a425b1c422604e05b8f05a8e7fd1a2685cf947b524",
+        "base-costco-x6bcdba6e02.pt": "198336cae0e309c78d03a5314f609e87a31bf8e4a209dd7af9b5bb8ba318aae9",
+        "base-costco-dots13.pt": "a2baa127a719d6566f1084110a4c85824196bbfd7620117a17eb989a2dd7bb5e",
+        "arrive-costco-x6bcdba6e02.pt": "2a1fc134410711931d60f845da5847cef1346be0a2a95e603293a1294627f24b",
+        "base-costco-x70189f00c1.pt": "17e16ffe7c60789240b31f95d9683c7001ae90eb5e6036ed2f1f516d396836b4",
+        "base-costco-dots7.pt": "ed0d7edb78ff82292ddebebe47bcf9a40d7e4a5a82560aeb3d931c21fc630e87",
+        "arrive-costco-x70189f00c1.pt": "8a048420582ed7a1babf19f736f7c96bd9cce605d17f177a7b7566adb84af289",
+        "base-costco-x712d03ad79.pt": "eb214d5808aee898baec17ccecd4990bc86cac97dab5c273f10e8f896d737372",
+        "base-costco-dots5.pt": "306964aa0561c5524f7e715fb964f9c53713a6cd81bf9989c6e2e1f6053ab7d1",
+        "arrive-costco-x712d03ad79.pt": "a699f65403ca7c5d2c85baedd287ee0fe43971a25e71881cdf30d44d8751d31c",
+        "base-costco-x7777dee1fb.pt": "c34296d64e1e9fe153d1fc9d0d15e7a8d504c8b08624108e5790d02b09755ebb",
+        "arrive-costco-x7777dee1fb.pt": "88904861daea72a6c9ad4db9a3e9487bdd4efb2a981d881779741d279cb874e0",
+        "base-costco-x7eab9963a4.pt": "b22fcc41a739e35b8c57d68c11787bb5997cf04fb1272210fa71f0ae9eb86a41",
+        "base-costco-dots9.pt": "1d7afded285e34013340d23be50a35da8fce74fa8ff44c5a142532b9c7b067c7",
+        "arrive-costco-x7eab9963a4.pt": "5d1d7e68ce857c2fed045b7fedd222c5a3f3c1407e8e856ba4ab5efe48f9cdc3",
+        "base-costco-x89f440abd8.pt": "9971edbaa17b5c6c6767350e028a6384c9763f5e858f1d0722ce865fbcc3c182",
+        "arrive-costco-x89f440abd8.pt": "a57703432337e4330547b9691cd146a18751fbc1e8c0a10ac32d6224b9692461",
+        "base-costco-x9531460e2c.pt": "803b2e83a1ad5f43112c90fa56875b901e4d0edf30f0c8c551c579acad8a5892",
+        "arrive-costco-x9531460e2c.pt": "c4a258bfacc9db457eff15e45eeecd583a09340d3c5ee6dbb87aa7b249363c50",
+        "base-costco-x9777ef767f.pt": "f106e4297edccef376768438cc1badd700ba3aaad6a301527ac9332d9166b386",
+        "arrive-costco-x9777ef767f.pt": "a683af873dff5976f5ca2c5a534d9c58c1229a9628c7b8b909dbd259ae1c204c",
+        "base-costco-xa097f8d0cf.pt": "7019d6c63ee401cdba9d0599e3b0d6f1c92bec780a73b889315d34a818ab3f67",
+        "arrive-costco-xa097f8d0cf.pt": "1323ea49e7ba6b6ab888234cf23a156811c4a28df7ed3b1bca551891613af582",
+        "base-costco-xa6737989ff.pt": "59858eb13549966b9f540ecf8864c57035a0d41beefaf7fc03fc0f65a6e4b6fd",
+        "arrive-costco-xa6737989ff.pt": "c183d8bf749a636734620bb04d29161fbf17c58cbb1e2bfd018cda67191875be",
+        "base-costco-xb2cefdfeca.pt": "3ba882c25486708560860f359fd4f22c252239ea23cbb986d8fb2b911be7b556",
+        "arrive-costco-xb2cefdfeca.pt": "cc02ff14f1c7cbcdbccaab0788ae70ca64d15748e2b040e78458b753b453224b",
+        "base-costco-xb379d67471.pt": "903673f4c8f17807dea9f1abc73532911f2e97ce3fbd23b5ca1a080de10fecf3",
+        "arrive-costco-xb379d67471.pt": "b947729673bddcbee4a4b71ce2635b4beb19428e478b38f977d93b3133b6304e",
+        "base-costco-xc090ff4bd0.pt": "36d2f1d66a321955c515855a61d1cab0e97baa760c7ebe43b5104d2b541a29ce",
+        "arrive-costco-xc090ff4bd0.pt": "2341d2926c0fedd513025068d951712fb1774a9ff447250f766dc6055379f305",
+        "base-costco-xc54be1ff42.pt": "6f967df1eaf6dc8c049216714727fdbbf541474275389da548964170614ccf32",
+        "arrive-costco-xc54be1ff42.pt": "52735f92be52c270cbc40bfd7305d2f2bd2f528fee9357c3b49cc666d84ae545",
+        "base-costco-xc9d6ec6e73.pt": "10e43a2f16c57bc3673a0e82464b2e8662dae05f899c3b72f42111852763f89b",
+        "arrive-costco-xc9d6ec6e73.pt": "4250fbf09d296c4b3ac06d4de2bb684dc1b46adfa5a37af8b3e08a33c7f34b90",
+        "base-costco-xca0c4cf85d.pt": "39793c464678b38a66c22e2aae0c1b3fb6f2517abb2439b8ba66c87e3e84b355",
+        "arrive-costco-xca0c4cf85d.pt": "30bf4d09b065716f047b4a212ff35131b0dd2229384025e2927643cbfa526a77",
+        "base-costco-xcc4b90266c.pt": "32b0e95020dcfb554d7e4709abd35033a1711470239f1cd747ec576fe19f7a13",
+        "arrive-costco-xcc4b90266c.pt": "4559f2b5c239746f1f6a22bf57434159eb5342c43b1a678506b0d5ed79747b33",
+        "base-costco-xde2e0a7d81.pt": "c5e505665fe97d774ca67d3b22af1cda96c5dfc04a7fcda2976f1291639ac2e3",
+        "arrive-costco-xde2e0a7d81.pt": "b4b2e0d901143d7d52f078ee494398ad5e7d983eabf1ab8e20dbb3dfd9d1d19b",
+        "base-costco-xf02bda406a.pt": "ba633f0d93877085132f7269e4a40b8b559e1e967789d451d65831c537f61a89",
+        "arrive-costco-xf02bda406a.pt": "c4d19343327f3e3e5414f68523b998776c8c13b8dd109d10da1a7b73d859545e",
+        "base-costco-xf7f7d41661.pt": "12ac8229a5006cddeca495adf877db12dc34ea4c1b1294ea88530015acac1d3b",
+        "arrive-costco-xf7f7d41661.pt": "fe16b8625af5476660466d4ad19568155943d2d66ea6ca9186748b9235fc8f26"
+      },
+      "file": "cells-k2.npz",
+      "sha256": "e422f7ec0db4c730dec7ae2982b0a6fc448d3cb5b57caa8658198b05847d19ed",
+      "source_layout_sha256": "73d6d2113fdd2e651e874ecc5158ae296ce41a91798a7139b9cc254bd0b6c275"
+    },
+    "k3": {
+      "rows": [
+        {
+          "donor_key": "costco-x069e9affb7",
+          "condition": "coffee-smell",
+          "slot_rows": 8,
+          "donor_text": "You catch the smell of coffee brewing.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x1c1a1e522f",
+          "condition": "oven-see",
+          "slot_rows": 8,
+          "donor_text": "You see cookies baking in the oven.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x2203ce6407",
+          "condition": "oven-see",
+          "slot_rows": 11,
+          "donor_text": "You spot a tray of cookies baking in the oven.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x2c5e9e11a4",
+          "condition": "bread-smell",
+          "slot_rows": 8,
+          "donor_text": "You catch the smell of bread baking.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x3197d9610c",
+          "condition": "oven-see",
+          "slot_rows": 8,
+          "donor_text": "You notice cookies baking in the oven.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x35c1d3c3e6",
+          "condition": "oven-smell",
+          "slot_rows": 9,
+          "donor_text": "You can smell cookies baking in the oven.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x3ce2b43b9c",
+          "condition": "bread-smell",
+          "slot_rows": 8,
+          "donor_text": "The smell of warm bread reaches you.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x3ed9a2c62b",
+          "condition": "oven-smell",
+          "slot_rows": 11,
+          "donor_text": "You catch the smell of cookies baking in the oven.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x470298b036",
+          "condition": "coffee-smell",
+          "slot_rows": 8,
+          "donor_text": "You can smell a pot of coffee.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x520bb46a12",
+          "condition": "oven-see",
+          "slot_rows": 9,
+          "donor_text": "You can see cookies baking in the oven.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x6bb4023d31",
+          "condition": "oven-smell",
+          "slot_rows": 16,
+          "donor_text": "There is a smell of cookies baking in the oven in the air around you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x6c22eea96a",
+          "condition": "bread-smell",
+          "slot_rows": 5,
+          "donor_text": "You smell fresh bread.",
+          "dots_text": "... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x7ca89283dc",
+          "condition": "coffee-smell",
+          "slot_rows": 8,
+          "donor_text": "The smell of hot coffee reaches you.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x81ef44878b",
+          "condition": "bread-smell",
+          "slot_rows": 11,
+          "donor_text": "You can smell a loaf just out of the oven.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xa4826edc03",
+          "condition": "oven-smell",
+          "slot_rows": 11,
+          "donor_text": "The smell of cookies baking in the oven reaches you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xba64d024a0",
+          "condition": "oven-see",
+          "slot_rows": 12,
+          "donor_text": "There are cookies baking in the oven in front of you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xe1c24b91fb",
+          "condition": "coffee-smell",
+          "slot_rows": 5,
+          "donor_text": "You smell fresh coffee.",
+          "dots_text": "... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xfac9909b5a",
+          "condition": "oven-smell",
+          "slot_rows": 8,
+          "donor_text": "You smell cookies baking in the oven.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        }
+      ],
+      "original_tensor_files_sha256": {
+        "base-costco-x069e9affb7.pt": "82dbf95b8c2bcf28010ae1dd87d8825225e26e500a280f2944c019dd08abe438",
+        "base-costco-dots8.pt": "4309ba85677a0a18420b39e628899b702c55fcf63d773252d8f234e34533bd21",
+        "arrive-costco-x069e9affb7.pt": "f9b22729d9c7b494b01976a25e329eede0a6dad9aee0c9d123b446c4c22dca3a",
+        "base-costco-x1c1a1e522f.pt": "a4ba6bf288f582ea0a4fcc0bb94ae9ffcc4a11fa7b9e4d537fe9433e9da84dfb",
+        "arrive-costco-x1c1a1e522f.pt": "bcc8ac666f08ca6c75fc816b0fd6d7f168ed5f13e6e015c37a714e942535ed5c",
+        "base-costco-x2203ce6407.pt": "f176c706fa2d8eec47de60feb76cc466e88a181f48202059eab982d24862a901",
+        "base-costco-dots11.pt": "5fd98f77dd3df012f08b06666e54d3c27c11ce1cbf50854618e925b077815bd1",
+        "arrive-costco-x2203ce6407.pt": "46f39341de21e475891c6484c7e71f3c95d5db1f31f9ab64d0961c847c908183",
+        "base-costco-x2c5e9e11a4.pt": "c566d77a6b18173c0cc76c7d1d2115d7d761c5ceb6f8e3f198890dda7b211325",
+        "arrive-costco-x2c5e9e11a4.pt": "a1585524f412a28fbd155587dd3c07c9ce567021f07c7ceb87451187e5b14150",
+        "base-costco-x3197d9610c.pt": "0ae3396c277fcb94926b594416844f35b2fc24b6de1ceb72f824a691c226b55b",
+        "arrive-costco-x3197d9610c.pt": "ef4e770d1b8921a808c4b0fd3386f9203ae6078b3cc0bbc1f7ef00db1a7dec3d",
+        "base-costco-x35c1d3c3e6.pt": "8c0021d5258368d19a6756f1dd5bd1481bd6317ec7604306cd39c5f00fb18484",
+        "base-costco-dots9.pt": "b1757c1e9772957bc25bbc84a1e4941054cc542a2c20c50f58726056dc78c3ba",
+        "arrive-costco-x35c1d3c3e6.pt": "b6f2e6f105128961fbc3d2706f6fc89af6db53ba6f599836e115b43117bb33f7",
+        "base-costco-x3ce2b43b9c.pt": "7b443243a9d3f4dc47c36a910a2c385e15d80423366e64602947dd3c2ed5e813",
+        "arrive-costco-x3ce2b43b9c.pt": "e57e1ea3904e76b4d62397c6121feb7a5684be94604b6f3ab2a33178814dc61a",
+        "base-costco-x3ed9a2c62b.pt": "4c20e0fc91193e541298c48f4293be303ed21b026025630275f50dbbac59e3b5",
+        "arrive-costco-x3ed9a2c62b.pt": "b83fee9989e6d70d643558a1df1362f5486c8f24ddf27ebea6b07e0924ba4ce3",
+        "base-costco-x470298b036.pt": "2b751197639c4fedbacc29ef5a9feba5ccc95b651f21d427e97bd9161d194955",
+        "arrive-costco-x470298b036.pt": "e0293b9a3b56f8b2990b61a092f8b51da5f9389eb8595fd4319bcb553ae2280b",
+        "base-costco-x520bb46a12.pt": "0d7e57a82be15a00b8d94a8705516d4efa066ee39a1f9907068c3ba665257c0b",
+        "arrive-costco-x520bb46a12.pt": "68f086b4883783a986de27f3d0d3ed412d52eda30eff78fed84069bb0454425d",
+        "base-costco-x6bb4023d31.pt": "f596b2e8b956be4cf33bd7703f91686b00d8566f1afb5378ba93c1d452c50998",
+        "base-costco-dots16.pt": "88785c68a77159355361b2afcea45b5352c6afc4a8a3a318d0eb10d01fb8f4dd",
+        "arrive-costco-x6bb4023d31.pt": "4a903949d78b92c60986444aa3cb9cde02a4e9987578e9e2c1153de3332fca94",
+        "base-costco-x6c22eea96a.pt": "f4cc4986cce4a782502781d08d82ec72ec2ad123d95023c7f3f711413ade3fce",
+        "base-costco-dots5.pt": "82be08ad935260975bb7b88b46850fc0e3da69ff448c54b8b8ca4d7dba41c75c",
+        "arrive-costco-x6c22eea96a.pt": "6bda137a11a29daa0b888a39954443337a2d7d30c181f464c3ede35ffb7ab0bc",
+        "base-costco-x7ca89283dc.pt": "1fe35448d9129346238e3d68c953e3fd6da974e97813e9f80ebfa3d146df5116",
+        "arrive-costco-x7ca89283dc.pt": "ba39990985fffe75a1a86c9956a151465e249ea82b9fc798bd5c8d017e545211",
+        "base-costco-x81ef44878b.pt": "333604e5de0cacabff5f06138ce3920edb1d30d8afc017cfb3992fc25c15a891",
+        "arrive-costco-x81ef44878b.pt": "5846c3bfa7752ab0147faa8e8f31c2bc0b4d6779bbf8f0c47769bd1a07fb0c59",
+        "base-costco-xa4826edc03.pt": "a0f5583363f70ef62ff8042f74a749937a299b76ef85d65e83ba74e0df0a670d",
+        "arrive-costco-xa4826edc03.pt": "f33d060f6c238ba6c31e90aa4b2ffb416264e0b86378dd77819e914f9e9430f2",
+        "base-costco-xba64d024a0.pt": "8429a4678b278c6151782c091751192f7888651f5e3ebefd108313c6a9ce64aa",
+        "base-costco-dots12.pt": "54a1d170b1c4d1ec0ca2e7c317afa9a7bce7665eadb48c27f347dce55cadc30f",
+        "arrive-costco-xba64d024a0.pt": "14edb1e5bc33222b48030129f28a784c28a1d9773ce511f2cfeed333c6fe8d45",
+        "base-costco-xe1c24b91fb.pt": "0c4dd60c944a59f4717833a3921a81167b844b10ad4443fc14de09e5925cfb75",
+        "arrive-costco-xe1c24b91fb.pt": "4a97f97ebe209ea2ecbde78787335174dda1362e0be26fce1cff32090f1ad31e",
+        "base-costco-xfac9909b5a.pt": "b8fe11ffe1de5ae0db508af79a0a241a3d72769a46ac2d880a758cba698e3404",
+        "arrive-costco-xfac9909b5a.pt": "8a7a7bdd7834ddc1a4a73492c6f660812450759cb473fe55de5f51e8edad8496"
+      },
+      "file": "cells-k3.npz",
+      "sha256": "71af1b7127247a0d8aae10e2de6d9f268f417c0cc5d1499b84f4fe0ec4f44d31",
+      "source_layout_sha256": "afb6003a672459df63ed83b87414ba51bad84a813d06eaee3b27d0559488c52b"
+    },
+    "k4": {
+      "rows": [
+        {
+          "donor_key": "costco-x069e9affb7",
+          "condition": "coffee-smell",
+          "slot_rows": 8,
+          "donor_text": "You catch the smell of coffee brewing.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x0de8087718",
+          "condition": "lavender-smell",
+          "slot_rows": 9,
+          "donor_text": "You can smell a sprig of lavender.",
+          "dots_text": "... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x27cf7ea380",
+          "condition": "coffee-smell",
+          "slot_rows": 13,
+          "donor_text": "There is a smell of fresh coffee in the air around you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x3a23922bc2",
+          "condition": "lavender-smell",
+          "slot_rows": 8,
+          "donor_text": "You catch the smell of fresh lavender.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x470298b036",
+          "condition": "coffee-smell",
+          "slot_rows": 8,
+          "donor_text": "You can smell a pot of coffee.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x508833c903",
+          "condition": "laundry-smell",
+          "slot_rows": 5,
+          "donor_text": "You smell clean laundry.",
+          "dots_text": "... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x50dcd91a6a",
+          "condition": "coffee-see",
+          "slot_rows": 6,
+          "donor_text": "You can see coffee brewing.",
+          "dots_text": "... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x7818a85c89",
+          "condition": "coffee-see",
+          "slot_rows": 11,
+          "donor_text": "There is a mug of coffee in front of you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x7ca89283dc",
+          "condition": "coffee-smell",
+          "slot_rows": 8,
+          "donor_text": "The smell of hot coffee reaches you.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x8311805538",
+          "condition": "lavender-smell",
+          "slot_rows": 4,
+          "donor_text": "You smell lavender.",
+          "dots_text": "... ... ... ..."
+        },
+        {
+          "donor_key": "costco-x999ffc12d6",
+          "condition": "lavender-smell",
+          "slot_rows": 7,
+          "donor_text": "The smell of lavender reaches you.",
+          "dots_text": "... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xb75b41258e",
+          "condition": "laundry-smell",
+          "slot_rows": 11,
+          "donor_text": "The smell of warm towels from the dryer reaches you.",
+          "dots_text": "... ... ... ... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xbebafe74ff",
+          "condition": "laundry-smell",
+          "slot_rows": 8,
+          "donor_text": "You catch the smell of fresh sheets.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xd6302f21a2",
+          "condition": "coffee-see",
+          "slot_rows": 7,
+          "donor_text": "You notice a cup of coffee.",
+          "dots_text": "... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xd8f007e1e5",
+          "condition": "coffee-see",
+          "slot_rows": 8,
+          "donor_text": "You spot a bag of coffee beans.",
+          "dots_text": "... ... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xe1c24b91fb",
+          "condition": "coffee-smell",
+          "slot_rows": 5,
+          "donor_text": "You smell fresh coffee.",
+          "dots_text": "... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xed9caa6aa0",
+          "condition": "laundry-smell",
+          "slot_rows": 7,
+          "donor_text": "You can smell freshly washed linen.",
+          "dots_text": "... ... ... ... ... ... ..."
+        },
+        {
+          "donor_key": "costco-xf8e6a4ca21",
+          "condition": "coffee-see",
+          "slot_rows": 7,
+          "donor_text": "You see a pot of coffee.",
+          "dots_text": "... ... ... ... ... ... ..."
+        }
+      ],
+      "original_tensor_files_sha256": {
+        "base-costco-x069e9affb7.pt": "82dbf95b8c2bcf28010ae1dd87d8825225e26e500a280f2944c019dd08abe438",
+        "base-costco-dots8.pt": "4309ba85677a0a18420b39e628899b702c55fcf63d773252d8f234e34533bd21",
+        "arrive-costco-x069e9affb7.pt": "f9b22729d9c7b494b01976a25e329eede0a6dad9aee0c9d123b446c4c22dca3a",
+        "base-costco-x0de8087718.pt": "b3da72ea3af25ad2549785a1a5b7aebb68be9c0b7e643f67eaeddc7c110c2ad6",
+        "base-costco-dots9.pt": "b1757c1e9772957bc25bbc84a1e4941054cc542a2c20c50f58726056dc78c3ba",
+        "arrive-costco-x0de8087718.pt": "4b9a257d26e5c37fe462515843776fa665092dc6dc102c1361a54fbe82ee52e7",
+        "base-costco-x27cf7ea380.pt": "4cfa436a4baa13b68d09ea8ed04a36d3d628a8b6984e92393f9fd709544868ff",
+        "base-costco-dots13.pt": "dc3615469c5ebfe9c2f5be9b03a1d799cb32d259410e8c6f480a32a27d024499",
+        "arrive-costco-x27cf7ea380.pt": "1b6b6442d20e6a2a973698ca190f5fd48c0f2b6e3df899e5c51b6d2df0ae73ba",
+        "base-costco-x3a23922bc2.pt": "ff8f3fd5a71285cbdf26bda88953007979391aa4b1b58fb544c6304c5c08b463",
+        "arrive-costco-x3a23922bc2.pt": "4ff5f159b5579dd746f7b44cdf1db978b29276cc1f7f1abeb7f4ad5ed4b0490c",
+        "base-costco-x470298b036.pt": "2b751197639c4fedbacc29ef5a9feba5ccc95b651f21d427e97bd9161d194955",
+        "arrive-costco-x470298b036.pt": "e0293b9a3b56f8b2990b61a092f8b51da5f9389eb8595fd4319bcb553ae2280b",
+        "base-costco-x508833c903.pt": "1fb8da56ff0966c4f5880aed6d310a63fe1cc6f4e324e35584b1d821a2c05dba",
+        "base-costco-dots5.pt": "82be08ad935260975bb7b88b46850fc0e3da69ff448c54b8b8ca4d7dba41c75c",
+        "arrive-costco-x508833c903.pt": "f9f5874fd64717c15cc6ff1a8f35f07954d85f049997c8614afb2cc81ef6c3af",
+        "base-costco-x50dcd91a6a.pt": "bafcbc6635d414065ba43ee531bb0f88c958edd2b43c91a47276cace412f8c23",
+        "base-costco-dots6.pt": "4bf2017a50f873b40865e7f48c1d27f5478942cc29e0908f8a50b48520a846c4",
+        "arrive-costco-x50dcd91a6a.pt": "c455941f416b588c5f7a0bcfb5cd5571bd64dee13e66fa6ad6112a256fbd78c5",
+        "base-costco-x7818a85c89.pt": "9ac737d720148a28466f6a292d355220c19a00323579c0e492a11164ca0f5a0e",
+        "base-costco-dots11.pt": "5fd98f77dd3df012f08b06666e54d3c27c11ce1cbf50854618e925b077815bd1",
+        "arrive-costco-x7818a85c89.pt": "a20c3f774b50c9785bdfc78a07cf50577edcb80503930f219b26cffed51cf8c9",
+        "base-costco-x7ca89283dc.pt": "1fe35448d9129346238e3d68c953e3fd6da974e97813e9f80ebfa3d146df5116",
+        "arrive-costco-x7ca89283dc.pt": "ba39990985fffe75a1a86c9956a151465e249ea82b9fc798bd5c8d017e545211",
+        "base-costco-x8311805538.pt": "78718f808d7643f37a52c24fb5af4cbd845a069c6b46686250d629a7aac0f15a",
+        "base-costco-dots4.pt": "e618bce6e5eaa585e9329fc5f143fd96c4ccdaf399e7c35b59b4285e97bfca2f",
+        "arrive-costco-x8311805538.pt": "7ab3f47c6af7888666769b6f36304c8a6957c404038065d16a813d5eba5afc06",
+        "base-costco-x999ffc12d6.pt": "52c05f29e11e7b648df0e4df81dfbbbc49d95b13f01ca85350c69a8ad169b994",
+        "base-costco-dots7.pt": "3bb39ed0d281e66e5b9f0dbeadaf94aef132ee79c180f1cd3b585235157ade02",
+        "arrive-costco-x999ffc12d6.pt": "d74f9032489778b5d6737b0d37a359684bb868c99b83530d298d2d832d00cd14",
+        "base-costco-xb75b41258e.pt": "bed0a048abe5fc3341f78d688eca5dc5bf254d3622c2aee7e7cf6e11be7f826e",
+        "arrive-costco-xb75b41258e.pt": "87ab2e50f06e29865decba79bced362f1abbe1fb58482aaf66a8327a2c47476a",
+        "base-costco-xbebafe74ff.pt": "2f12136faf4694f07cda05b139f9fe14d667057dd519ac8ddd5deeaf54e35969",
+        "arrive-costco-xbebafe74ff.pt": "70081c5dfeda0ef0b51018b18d9cef5f627dd15e26c847721b9f41c4a16fc493",
+        "base-costco-xd6302f21a2.pt": "db53833eb332b8f9504dd1cf13ade163377f784569db7ec63d710924e6f30148",
+        "arrive-costco-xd6302f21a2.pt": "88ed56c595981dfd46c10dbf1371bedac154728b5cb7a417a23884dc72abd4a9",
+        "base-costco-xd8f007e1e5.pt": "f6f69ba234830c2d7da25529e4f7a5d54a7fa2f08c77d4e33a4afe69c5444a53",
+        "arrive-costco-xd8f007e1e5.pt": "83b2b604c904fc94dddb203fe213f8a8eb930dd6280135d901cc055129cbb68d",
+        "base-costco-xe1c24b91fb.pt": "0c4dd60c944a59f4717833a3921a81167b844b10ad4443fc14de09e5925cfb75",
+        "arrive-costco-xe1c24b91fb.pt": "4a97f97ebe209ea2ecbde78787335174dda1362e0be26fce1cff32090f1ad31e",
+        "base-costco-xed9caa6aa0.pt": "a1c3c85dae9d2d442d38976731e2bc8994c7440b29141ce78156ef04bba917b2",
+        "arrive-costco-xed9caa6aa0.pt": "5aa367f3a7efbca37958f5e30a413b0beb6073f795342d1c0e2752e056c440f7",
+        "base-costco-xf8e6a4ca21.pt": "bbe33e6ff5eee4a60c72c097ca93fcc4907d9215069e90380ceeadffe1a421fe",
+        "arrive-costco-xf8e6a4ca21.pt": "cec13e3bbb8bf6f9fa177c7f8d302f96b5b42a1bb39398f821c3300d8fb4bb1e"
+      },
+      "file": "cells-k4.npz",
+      "sha256": "03320a90c1da01c2ec3f3555616ffb537e3404f1f0d9d01b46bcd4e385d6f133",
+      "source_layout_sha256": "8ba7bc71810209407e103d957b7327e61a33d8017664dd1997d72a242ba6f319"
+    }
+  }
+}

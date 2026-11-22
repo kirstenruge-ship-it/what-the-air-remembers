@@ -1,0 +1,36 @@
+{
+  "scope": "Prospective one-sample noncentral t approximation assuming independent normal family-level differences. The registered primary interval is cluster-bootstrap; realized evidence also needs positive controls. This approximation uses no Kimi data.",
+  "n": 12,
+  "families": 12,
+  "practical_threshold": 0.3,
+  "planning_scenarios": [
+    {
+      "hypothetical_paired_sd": 0.25,
+      "approximate_95pct_halfwidth": 0.1588424218320328,
+      "true_mean_for_80pct_power_to_clear_plus_0p30": 0.5221637863532551,
+      "power_if_true_mean_0p5": 0.7136569728408144,
+      "power_if_true_mean_0p75": 0.9998790545605545
+    },
+    {
+      "hypothetical_paired_sd": 0.5,
+      "approximate_95pct_halfwidth": 0.3176848436640656,
+      "true_mean_for_80pct_power_to_clear_plus_0p30": 0.7443275727065104,
+      "power_if_true_mean_0p5": 0.2440183883172167,
+      "power_if_true_mean_0p75": 0.809784844872833
+    },
+    {
+      "hypothetical_paired_sd": 0.75,
+      "approximate_95pct_halfwidth": 0.4765272654960983,
+      "true_mean_for_80pct_power_to_clear_plus_0p30": 0.9664913590597457,
+      "power_if_true_mean_0p5": 0.13250980768875018,
+      "power_if_true_mean_0p75": 0.47466264166168326
+    },
+    {
+      "hypothetical_paired_sd": 1.0,
+      "approximate_95pct_halfwidth": 0.6353696873281311,
+      "true_mean_for_80pct_power_to_clear_plus_0p30": 1.1886551454130208,
+      "power_if_true_mean_0p5": 0.09249151570206231,
+      "power_if_true_mean_0p75": 0.29606421721229537
+    }
+  ]
+}

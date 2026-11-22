@@ -1,0 +1,19 @@
+{
+  "scope": "CPU reconstruction on historical touch/smell and Costco prompt states; no new Kimi request",
+  "comparisons": 216,
+  "paired_blocks": 108,
+  "above_limit_original": 182,
+  "above_limit_corrected": 0,
+  "max_corrected": 0.009999844267007075,
+  "original_max_case": {
+    "layer": 71,
+    "source_object": "neutral",
+    "archived_recipient": "base-costco-dots9",
+    "arm": "archived_smell_minus_see",
+    "common_factor": 0.9905472976684571,
+    "original_realized_fraction": 0.010516233614790727,
+    "corrected_realized_fraction": 0.00988204453531779,
+    "corrected_cosine": 0.977232813835144,
+    "changed_fraction": 0.8610491156578064
+  }
+}
