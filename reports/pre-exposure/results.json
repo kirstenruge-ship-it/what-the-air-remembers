@@ -1,0 +1,329 @@
+{
+  "completed": 0,
+  "deletion": {
+    "measured_specific_loss": 0,
+    "odor_minus_spelling": {
+      "clusters": 0,
+      "interval": null,
+      "leave_one_out": {},
+      "mean": null,
+      "n": 0
+    },
+    "odor_similarity": {
+      "clusters": 0,
+      "interval": null,
+      "leave_one_out": {},
+      "mean": null,
+      "n": 0
+    },
+    "planned_comparisons": 96,
+    "rescue_by_task": {
+      "odor_similarity": {
+        "clusters": 0,
+        "interval": null,
+        "leave_one_out": {},
+        "mean": null,
+        "n": 0
+      },
+      "spelling": {
+        "clusters": 0,
+        "interval": null,
+        "leave_one_out": {},
+        "mean": null,
+        "n": 0
+      }
+    },
+    "spelling": {
+      "clusters": 0,
+      "interval": null,
+      "leave_one_out": {},
+      "mean": null,
+      "n": 0
+    }
+  },
+  "geometry": [
+    {
+      "criterion": "native_profile_vs_human",
+      "evaluated": [],
+      "n_planned": 24,
+      "split": "fit",
+      "status": "insufficient complete inputs for this comparison"
+    },
+    {
+      "criterion": "human_profile",
+      "evaluated": [],
+      "n_planned": 24,
+      "split": "fit",
+      "status": "insufficient complete inputs for this comparison"
+    },
+    {
+      "criterion": "native_profile",
+      "evaluated": [],
+      "n_planned": 24,
+      "split": "fit",
+      "status": "insufficient complete inputs for this comparison"
+    },
+    {
+      "criterion": "native_profile_vs_human",
+      "evaluated": [],
+      "n_planned": 4,
+      "split": "dev",
+      "status": "insufficient complete inputs for this comparison"
+    },
+    {
+      "criterion": "human_profile",
+      "evaluated": [],
+      "n_planned": 4,
+      "split": "dev",
+      "status": "insufficient complete inputs for this comparison"
+    },
+    {
+      "criterion": "native_profile",
+      "evaluated": [],
+      "n_planned": 4,
+      "split": "dev",
+      "status": "insufficient complete inputs for this comparison"
+    },
+    {
+      "criterion": "native_profile_vs_human",
+      "evaluated": [],
+      "n_planned": 12,
+      "split": "test",
+      "status": "insufficient complete inputs for this comparison"
+    },
+    {
+      "criterion": "human_profile",
+      "evaluated": [],
+      "n_planned": 12,
+      "split": "test",
+      "status": "insufficient complete inputs for this comparison"
+    },
+    {
+      "criterion": "native_profile",
+      "evaluated": [],
+      "n_planned": 12,
+      "split": "test",
+      "status": "insufficient complete inputs for this comparison"
+    }
+  ],
+  "h0": {
+    "completed": 0,
+    "correct_primary_margins": 0,
+    "correct_sampled": 0,
+    "mapped_masses": 0,
+    "median_ab_mass": null,
+    "passed": false,
+    "planned": 12
+  },
+  "hidden_encoding": {
+    "arbitrary_match_benefit": {
+      "by_pair": {},
+      "complete_stories": 0,
+      "mean": null
+    },
+    "incremental_match_benefit": {
+      "by_pair": {},
+      "complete_stories": 0,
+      "mean": null
+    },
+    "odor_match_benefit": {
+      "by_pair": {},
+      "complete_stories": 0,
+      "mean": null
+    },
+    "odor_vs_zero": {
+      "by_pair": {},
+      "complete_stories": 0,
+      "mean": null
+    }
+  },
+  "household": {},
+  "human_reliability": {
+    "aggregate": {
+      "comparisons_below_0_6": 27,
+      "comparisons_ge_0_8": 15,
+      "data_sha256": "2459135d006e3a35b406596f9e7a38111739ca83982735b4025bf23d6ebdd953",
+      "distinct_raters": 55,
+      "full_numerical_comparisons_retained": 48,
+      "mean_agreement_ge_0_8_subset_threshold_is_descriptive": true,
+      "mean_split_agreement": 0.5924791666666667,
+      "median_split_agreement": 0.5589999999999999,
+      "reference_pairs": 4,
+      "repetitions": 1000,
+      "reproduced_max_abs_margin_error": 3.524958103184872e-15,
+      "scope": "Human observations only. Repeated balanced random splits of the same rater panel; not independent replications or an interval for a new population.",
+      "seed": 11212026,
+      "split_agreement_range": [
+        0.154,
+        0.999
+      ],
+      "test_comparisons": 48,
+      "test_compounds": 12
+    },
+    "higher_reliability_native_matches_human": 0,
+    "higher_reliability_native_pairs": 0
+  },
+  "manifest_sha256": "4516192c45ff56feaeef616ef3f798ae5e1c280cc3dc9906a66bc23476499631",
+  "ordinary_alignment": {
+    "complete_word_and_native": 0,
+    "covered_with_panel": 0,
+    "native_disagrees_with_words": 0,
+    "native_matches_panel": 0,
+    "non_tied_pairs": 0,
+    "planned_pairs": 48
+  },
+  "planned": 2852,
+  "primary": {
+    "choices": {
+      "name": {
+        "agree": 0,
+        "reported": 0
+      },
+      "odor": {
+        "agree": 0,
+        "reported": 0
+      },
+      "sham": {
+        "agree": 0,
+        "reported": 0
+      },
+      "switch_vs_sham": {
+        "paired": 0,
+        "switches": 0
+      },
+      "wrong": {
+        "agree": 0,
+        "reported": 0
+      }
+    },
+    "complete_molecules": 0,
+    "complete_pairs": 0,
+    "human_conflict": {
+      "mean_primary": null,
+      "n_molecules": 0,
+      "n_pairs": 0,
+      "pairs": []
+    },
+    "informative_target_pairs": 0,
+    "lexical_calibration": {
+      "lexical_lift": {
+        "clusters": 0,
+        "interval": null,
+        "leave_one_out": {},
+        "mean": null,
+        "n": 0
+      },
+      "named_correct": 0,
+      "named_planned": 24,
+      "paired_lexical_margins": 0,
+      "passed": false,
+      "planned_lexical_margins": 24,
+      "rule": "named spelling \u226575% of planned controls; paired family 95% interval for lexical over sham correct margin above zero with complete test coverage"
+    },
+    "native_inconsistent_pair_count": 0,
+    "native_ties": 0,
+    "planned_molecules": 12,
+    "planned_pairs": 48,
+    "primary": {
+      "clusters": 0,
+      "interval": null,
+      "leave_one_out": {},
+      "mean": null,
+      "n": 0
+    },
+    "provenance": {
+      "all_planned_paired": false,
+      "backend_pooling": {
+        "nodes": [],
+        "passed": true,
+        "recorders": [],
+        "status": "one observed backend; pooled parity not applicable"
+      },
+      "eligible_paired_orders": 0,
+      "physical_writes": {
+        "complete_three_write_receipts": 0,
+        "missing_or_failed_receipts": 0,
+        "odor_name_identical_blocks": 0,
+        "odor_wrong_identical_blocks": 0,
+        "physical_comparisons": {
+          "name_cosine_to_odor": null,
+          "name_norm_over_odor": null,
+          "name_relative_difference": null,
+          "wrong_cosine_to_odor": null,
+          "wrong_norm_over_odor": null,
+          "wrong_relative_difference": null
+        }
+      },
+      "rejected_blocks": [],
+      "scope": "Recorder and family assignment can covary. Estimates across assigned families per backend are descriptive.",
+      "stratification": []
+    },
+    "scientific_freeze": {
+      "detail": "scientific freeze has not been signed",
+      "verified": false
+    },
+    "specificity_scope": "All comparable native odor and ordinary word-association preferences point the same way, or no rival comparison is available. Odor-versus-language separation is unidentified.",
+    "verdict": "unresolved: natural-response qualification gate open",
+    "vs_sham": {
+      "clusters": 0,
+      "interval": null,
+      "leave_one_out": {},
+      "mean": null,
+      "n": 0
+    },
+    "vs_wrong": {
+      "clusters": 0,
+      "interval": null,
+      "leave_one_out": {},
+      "mean": null,
+      "n": 0
+    },
+    "within_reference_target_ranks": [
+      {
+        "complete": 0,
+        "name_spearman": null,
+        "native_distinct_margins": 0,
+        "odor_spearman": null,
+        "pair_id": "ref-07",
+        "sham_spearman": null,
+        "wrong_spearman": null
+      },
+      {
+        "complete": 0,
+        "name_spearman": null,
+        "native_distinct_margins": 0,
+        "odor_spearman": null,
+        "pair_id": "ref-08",
+        "sham_spearman": null,
+        "wrong_spearman": null
+      },
+      {
+        "complete": 0,
+        "name_spearman": null,
+        "native_distinct_margins": 0,
+        "odor_spearman": null,
+        "pair_id": "ref-09",
+        "sham_spearman": null,
+        "wrong_spearman": null
+      },
+      {
+        "complete": 0,
+        "name_spearman": null,
+        "native_distinct_margins": 0,
+        "odor_spearman": null,
+        "pair_id": "ref-10",
+        "sham_spearman": null,
+        "wrong_spearman": null
+      }
+    ],
+    "word_conflict": {
+      "mean_primary": null,
+      "n_molecules": 0,
+      "n_pairs": 0,
+      "pairs": []
+    },
+    "word_inconsistent_pair_count": 0
+  },
+  "qualify_correct": 0,
+  "qualify_planned": 12
+}

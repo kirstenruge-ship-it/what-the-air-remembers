@@ -1,0 +1,65 @@
+[
+  {
+    "criterion": "native_profile_vs_human",
+    "evaluated": [],
+    "n_planned": 24,
+    "split": "fit",
+    "status": "insufficient complete inputs for this comparison"
+  },
+  {
+    "criterion": "human_profile",
+    "evaluated": [],
+    "n_planned": 24,
+    "split": "fit",
+    "status": "insufficient complete inputs for this comparison"
+  },
+  {
+    "criterion": "native_profile",
+    "evaluated": [],
+    "n_planned": 24,
+    "split": "fit",
+    "status": "insufficient complete inputs for this comparison"
+  },
+  {
+    "criterion": "native_profile_vs_human",
+    "evaluated": [],
+    "n_planned": 4,
+    "split": "dev",
+    "status": "insufficient complete inputs for this comparison"
+  },
+  {
+    "criterion": "human_profile",
+    "evaluated": [],
+    "n_planned": 4,
+    "split": "dev",
+    "status": "insufficient complete inputs for this comparison"
+  },
+  {
+    "criterion": "native_profile",
+    "evaluated": [],
+    "n_planned": 4,
+    "split": "dev",
+    "status": "insufficient complete inputs for this comparison"
+  },
+  {
+    "criterion": "native_profile_vs_human",
+    "evaluated": [],
+    "n_planned": 12,
+    "split": "test",
+    "status": "insufficient complete inputs for this comparison"
+  },
+  {
+    "criterion": "human_profile",
+    "evaluated": [],
+    "n_planned": 12,
+    "split": "test",
+    "status": "insufficient complete inputs for this comparison"
+  },
+  {
+    "criterion": "native_profile",
+    "evaluated": [],
+    "n_planned": 12,
+    "split": "test",
+    "status": "insufficient complete inputs for this comparison"
+  }
+]

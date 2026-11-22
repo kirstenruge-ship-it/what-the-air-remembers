@@ -1,0 +1,119 @@
+{
+  "choices": {
+    "name": {
+      "agree": 0,
+      "reported": 0
+    },
+    "odor": {
+      "agree": 0,
+      "reported": 0
+    },
+    "sham": {
+      "agree": 0,
+      "reported": 0
+    },
+    "switch_vs_sham": {
+      "paired": 0,
+      "switches": 0
+    },
+    "wrong": {
+      "agree": 0,
+      "reported": 0
+    }
+  },
+  "complete_molecules": 0,
+  "complete_pairs": 0,
+  "human_conflict": {
+    "mean_primary": null,
+    "n_molecules": 0,
+    "n_pairs": 0,
+    "pairs": []
+  },
+  "informative_target_pairs": 0,
+  "lexical_calibration": {
+    "lexical_lift": {
+      "clusters": 0,
+      "interval": null,
+      "leave_one_out": {},
+      "mean": null,
+      "n": 0
+    },
+    "named_correct": 0,
+    "named_planned": 24,
+    "paired_lexical_margins": 0,
+    "passed": false,
+    "planned_lexical_margins": 24,
+    "rule": "named spelling \u226575% of planned controls; paired family 95% interval for lexical over sham correct margin above zero with complete test coverage"
+  },
+  "native_inconsistent_pair_count": 0,
+  "native_ties": 0,
+  "planned_molecules": 12,
+  "planned_pairs": 48,
+  "primary": {
+    "clusters": 0,
+    "interval": null,
+    "leave_one_out": {},
+    "mean": null,
+    "n": 0
+  },
+  "specificity_scope": "All comparable native odor and ordinary word-association preferences point the same way, or no rival comparison is available. Odor-versus-language separation is unidentified.",
+  "vs_sham": {
+    "clusters": 0,
+    "interval": null,
+    "leave_one_out": {},
+    "mean": null,
+    "n": 0
+  },
+  "vs_wrong": {
+    "clusters": 0,
+    "interval": null,
+    "leave_one_out": {},
+    "mean": null,
+    "n": 0
+  },
+  "within_reference_target_ranks": [
+    {
+      "complete": 0,
+      "name_spearman": null,
+      "native_distinct_margins": 0,
+      "odor_spearman": null,
+      "pair_id": "ref-07",
+      "sham_spearman": null,
+      "wrong_spearman": null
+    },
+    {
+      "complete": 0,
+      "name_spearman": null,
+      "native_distinct_margins": 0,
+      "odor_spearman": null,
+      "pair_id": "ref-08",
+      "sham_spearman": null,
+      "wrong_spearman": null
+    },
+    {
+      "complete": 0,
+      "name_spearman": null,
+      "native_distinct_margins": 0,
+      "odor_spearman": null,
+      "pair_id": "ref-09",
+      "sham_spearman": null,
+      "wrong_spearman": null
+    },
+    {
+      "complete": 0,
+      "name_spearman": null,
+      "native_distinct_margins": 0,
+      "odor_spearman": null,
+      "pair_id": "ref-10",
+      "sham_spearman": null,
+      "wrong_spearman": null
+    }
+  ],
+  "word_conflict": {
+    "mean_primary": null,
+    "n_molecules": 0,
+    "n_pairs": 0,
+    "pairs": []
+  },
+  "word_inconsistent_pair_count": 0
+}

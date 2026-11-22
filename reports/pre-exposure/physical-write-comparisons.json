@@ -1,0 +1,15 @@
+{
+  "blocks": [],
+  "complete_three_write_receipts": 0,
+  "missing_or_failed_receipts": 0,
+  "odor_name_identical_blocks": 0,
+  "odor_wrong_identical_blocks": 0,
+  "physical_comparisons": {
+    "name_cosine_to_odor": null,
+    "name_norm_over_odor": null,
+    "name_relative_difference": null,
+    "wrong_cosine_to_odor": null,
+    "wrong_norm_over_odor": null,
+    "wrong_relative_difference": null
+  }
+}
