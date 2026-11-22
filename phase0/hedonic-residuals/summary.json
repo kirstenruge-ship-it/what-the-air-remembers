@@ -1,0 +1,34 @@
+{
+  "scope": "human panel secondary sensitivity; adjustment also removes genuine shared quality/valence variance",
+  "training": 24,
+  "nuisance": [
+    "intensity",
+    "pleasantness",
+    "familiarity"
+  ],
+  "held_out_tests": 48,
+  "unchanged": 41,
+  "flipped": 7,
+  "family_cv_r2_by_training_quality": {
+    "ACID": -0.1777814311452417,
+    "AMMONIA/URINOUS": -0.15382236312505193,
+    "BAKERY": -0.24214091641005053,
+    "BURNT": -0.181831022070144,
+    "CHEMICAL": -0.2191025441988157,
+    "COLD": -0.22850951566552458,
+    "DECAYED": 0.2311467073273652,
+    "EDIBLE": -0.16701300670141284,
+    "FISH": -0.13363594423104264,
+    "FLOWER": -0.0749230957486231,
+    "FRUIT": 0.003607295829134216,
+    "GARLIC": -0.3576375219379009,
+    "GRASS": -0.14242275793485626,
+    "MUSKY": -0.2646654315931132,
+    "SOUR": 0.0186105756002809,
+    "SPICES": -0.15246180515957541,
+    "SWEATY": 0.21612715372246727,
+    "SWEET": 0.5874289555790635,
+    "WARM": -0.16414048221104127,
+    "WOOD": -0.0008260785502083312
+  }
+}
