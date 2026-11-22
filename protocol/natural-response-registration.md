@@ -13,3 +13,40 @@ For writer construction, order-correct both first-opportunity margins per pair, 
 The development arrival gate is a specific signed signal over a wrong-profile control and repeat-sham noise at L+4 at the same token, ≥3/4 molecules. The current gain starts at .05× natural with a 1% local norm cap. Do not change gains based on held-out behavior. A separate documented qualification and time-stamped welfare decision is required for the single optional .10× escalation; retain both attempted doses' physical trial IDs and measurements.
 
 The primary superiority label requires a lower 95% family-cluster interval above +0.30, positive lower intervals versus wrong profile and sham, a qualified assignment/format assay and calibrated lexical writer. A wholly contained ±0.30 interval bounds the incremental odor-vs-name difference. Incomplete or unqualified results retain all denominators and the corresponding measurement failure. Household reversal and natural erasure are separate experimental tests. Safe attenuation may remove only a fraction of a natural component. Record the actual fraction before interpreting necessity; ordinary use is not implied by steering alone.
+
+## Running and freezing the analysis
+
+The CPU environment used for this analysis is the project’s RoboSWE-365 Python environment with NumPy, SciPy and pandas. Every CLI below uses the frozen `research/stimuli/trials.jsonl` and reads immutable natural-generation artifacts from `research/raw/TRIAL_ID/`. `--stimuli`, `--raw` and `--work` are global switches and precede the subcommand.
+
+```sh
+python -B research/science.py count
+python -B research/science.py prepare --stage qualify --output research/plans/qualify.jsonl
+python -B research/science.py prepare --stage profile --output research/plans/profile.jsonl
+python -B research/science.py prepare --stage state --output research/plans/state.jsonl
+python -B research/science.py prepare --stage sealed --output research/plans/sealed.jsonl
+python -B research/science.py fit
+python -B research/science.py prepare --stage development --output research/plans/development.jsonl
+python -B research/science.py gate
+python -B research/science.py summarize
+```
+
+Prepare returns both ready jobs and a waiting-reasons file. Regenerate planning output when matched sham captures become available. The external dispatcher owns request execution and reconciliation. The CPU pipeline never contacts a node. `summarize` writes the HTML report, tables, missingness and results JSON beneath the work directory. An early call is safe: test-set named odor/word preferences remain sealed until a dated scientific lock is present.
+
+On a passed development gate, `gate` records the writer, original manifest, dose and prespecified analysis hash, and releases the independent test comparisons. New fit decisions are then disabled. Plan `name_validation`, `confirm`, `deletion` and `household`; only matched-closure DAG dependencies release jobs. A credible primary effect and documented welfare decision separately authorize the optional hidden encoding or rescue extensions (`extension-decision.json`). Paired clean and each physical write use identical user-visible inputs and seed within a block. The exact run is sampled with temperature 1, so a natural reasoning path is part of the outcome.
+
+If transport falls below the prespecified floor, preserve continuous projections, receipt integrity and all development cells. Remaining non-intervention datasets can distinguish name associations, human quality distances, and natural odor-frame geometry across aliases, with their intrinsic reliability and uncertainty. Explicit textual spelling and household controls can still measure task sensitivity. To unseal held-out natural preferences after **irrevocably ending tuning**, use `close-after-stop --reason "..." `; doing so precludes subsequent dose or site selection. A failed engineering gate does not bound a mechanistic odor effect. The stop/release order prevents choosing a dose after looking at test answers.
+
+The optional upper dose has 40 separate immutable development identifiers in `development-dose-010.jsonl`. Activate them only after a recorded lower-dose insufficiency and welfare sign-off in `dose-escalation-approval.json`, containing the original manifest hash, approved gain, reviewer, timestamp, and reason. Use `prepare --stage development --gain .10` and `gate --gain .10`. No lower-dose result is reinterpreted as a higher-dose trial. Once a dose is selected, use it consistently for all downstream plan generation.
+
+The independent human-panel reliability audit in `human_reliability.py` verifies all 48 registered human preference margins and reruns the comparisons on disjoint half-panels. The numerical findings live in `phase0-human/`; the 0.80 agreement subset is a descriptive reliability sensitivity and never replaces the primary 48 human comparisons or the primary Kimi target.
+
+Run `python -B -W error research/analysis/synthetic_check.py` for a full CPU rehearsal with synthetic data in an expiring temporary directory. It exercises every frozen trial and all 16 edited arm types, gate arithmetic, known statistical effects, and verdict withdrawal for a missing matched trial. Its values are software checks, not observations about Kimi.
+
+
+## Pre-exposure falsification amendments
+
+A purely letter-biased model can make every order-balanced reference preference exactly zero. Such ties remain in the estimator, but an endpoint with 48 ties has no identified target and cannot support a bounded-null verdict. Shared recovery under odor and printed-name writes bounds only the incremental difference. Pair-stratified target ranks, rival conflicts, raw per-arm recovery and actual BF16 vector geometry accompany the result. Physically identical odor and lexical writes cannot adjudicate modality specificity.
+
+Every normal pooled estimate now requires matched input, seed, endpoint and recorder on each four-arm comparison, the frozen writer and transport receipts, and qualified cross-backend pooling if multiple backends contribute. The standalone CPU recorder rehearsal checks numerical extraction on the same tensor. Matched natural Kimi H0 runs are the end-to-end pooling check. Unqualified or missing parity still permits appropriately labeled within-backend descriptive contrasts. Raw eligibility requires the last-written, checksummed harvest marker. Subjects here are registered compound families under a single checkpoint; stochastic generations, orders, code names and arms are repeated measurements.
+
+Consult the optional `welfare-exclusions.json` in the analysis work directory when examining any trial. Excluded rows remain present in the planned denominator and raw archive with their recorded reason. State elicitation explicitly offers A to acknowledge or B to decline. Only an acknowledged A with valid native harvest can contribute a state tensor to a fit or geometry estimate. A restricted fitting panel can yield a descriptive fit, with the complete missing/withheld disposition in `writer-fit-availability.json`. It cannot silently generate a confirmatory intervention under the original registration. Previously frozen writers that incorporated a subsequently withdrawn trial cannot support formal claims.

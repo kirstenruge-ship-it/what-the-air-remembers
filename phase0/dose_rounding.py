@@ -17,28 +17,35 @@ def summary(values):
 def run(src, out):
     torch.set_num_threads(1)
     src = Path(src)
-    d = src / "smell-s1"
-    meta = json.loads((d/"activations-s1.json").read_text())
-    prompts = {v["key"]:v for v in json.loads((d/"prompts.json").read_text())["items"]}
-    items = [prompts[k] for k in meta["keys"]]
-    arr = np.memmap(d/"activations-s1.f16",mode="r",dtype=np.float16,shape=tuple(meta["shape"]))
-    candidates = sorted({v['object'] for v in items if v['condition']=='smell'} &
-                        {v['object'] for v in items if v['condition']=='see'})
-    pos = meta["positions"].index("end_of_msg")
-    site = meta["sites"].index("attn_in")
-    recipients=sorted((src/"cells-k1/setup").glob("base-costco-dots*.pt"))
+    bundle=(src/'frame-records.json').is_file()
+    if bundle:
+        meta=json.loads((src/'frame-records.json').read_text());items=meta['frame_records']
+        candidates=sorted({r['object'] for r in items});recipients=[Path(n) for n in meta['recipients']]
+        with np.load(src/'frame-states.npz',allow_pickle=False) as z:frame=z['attn_in_end_of_msg']
+        with np.load(src/'dose-recipients.npz',allow_pickle=False) as z:prior=z['attn_in_turn']
+    else:
+        d = src / "smell-s1"
+        meta = json.loads((d/"activations-s1.json").read_text())
+        prompts = {v["key"]:v for v in json.loads((d/"prompts.json").read_text())["items"]}
+        items = [prompts[k] for k in meta["keys"]]
+        arr = np.memmap(d/"activations-s1.f16",mode="r",dtype=np.float16,shape=tuple(meta["shape"]))
+        candidates = sorted({v['object'] for v in items if v['condition']=='smell'} &
+                            {v['object'] for v in items if v['condition']=='see'})
+        pos = meta["positions"].index("end_of_msg")
+        site = meta["sites"].index("attn_in")
+        recipients=sorted((src/"cells-k1/setup").glob("base-costco-dots*.pt"))
     rows = []
     for L in (23,47,71):
         j=meta['layers'].index(L)
         for obj in candidates:
             def centroid(kind):
                 idx=[i for i,v in enumerate(items) if v['object']==obj and v['condition']==kind]
-                return arr[site,j,idx,pos,:].astype(np.float64).mean(0)
+                return (frame[j,idx] if bundle else arr[site,j,idx,pos,:]).astype(np.float64).mean(0)
             d0=centroid('smell')-centroid('see')
             seed=int(hashlib.sha256(f'{obj}:{L}'.encode()).hexdigest()[:8],16)
             wrong=np.random.default_rng(seed).permutation(d0)
-            for pf in recipients:
-                h=torch.load(pf,map_location='cpu',weights_only=True)['attn_in'][j].to(torch.bfloat16)
+            for ri,pf in enumerate(recipients):
+                h=(torch.from_numpy(prior[ri,j]) if bundle else torch.load(pf,map_location="cpu",weights_only=True)["attn_in"][j]).to(torch.bfloat16)
                 norm=float(h.float().norm())
                 for kind,delta in (('archived_smell_minus_see',d0),('permuted',wrong)):
                     intended=0.05*delta

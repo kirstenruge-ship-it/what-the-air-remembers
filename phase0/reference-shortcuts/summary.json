@@ -1,0 +1,131 @@
+{
+  "scope": "Frozen external human benchmark. A/B orientations are canonical reference identity, not displayed letter. No Kimi data.",
+  "scores": [
+    {
+      "baseline": "familiarity_difference",
+      "reliability_floor": 0.0,
+      "n": 48,
+      "ties": 0,
+      "correct_half_credit": 29,
+      "accuracy": 0.6041666666666666
+    },
+    {
+      "baseline": "familiarity_difference",
+      "reliability_floor": 0.8,
+      "n": 15,
+      "ties": 0,
+      "correct_half_credit": 8,
+      "accuracy": 0.5333333333333333
+    },
+    {
+      "baseline": "fingerprint_similarity",
+      "reliability_floor": 0.0,
+      "n": 48,
+      "ties": 0,
+      "correct_half_credit": 17,
+      "accuracy": 0.3541666666666667
+    },
+    {
+      "baseline": "fingerprint_similarity",
+      "reliability_floor": 0.8,
+      "n": 15,
+      "ties": 0,
+      "correct_half_credit": 5,
+      "accuracy": 0.3333333333333333
+    },
+    {
+      "baseline": "intensity_difference",
+      "reliability_floor": 0.0,
+      "n": 48,
+      "ties": 0,
+      "correct_half_credit": 32,
+      "accuracy": 0.6666666666666666
+    },
+    {
+      "baseline": "intensity_difference",
+      "reliability_floor": 0.8,
+      "n": 15,
+      "ties": 0,
+      "correct_half_credit": 11,
+      "accuracy": 0.7333333333333333
+    },
+    {
+      "baseline": "name_similarity",
+      "reliability_floor": 0.0,
+      "n": 48,
+      "ties": 0,
+      "correct_half_credit": 31,
+      "accuracy": 0.6458333333333334
+    },
+    {
+      "baseline": "name_similarity",
+      "reliability_floor": 0.8,
+      "n": 15,
+      "ties": 0,
+      "correct_half_credit": 10,
+      "accuracy": 0.6666666666666666
+    },
+    {
+      "baseline": "pleasantness_difference",
+      "reliability_floor": 0.0,
+      "n": 48,
+      "ties": 0,
+      "correct_half_credit": 23,
+      "accuracy": 0.4791666666666667
+    },
+    {
+      "baseline": "pleasantness_difference",
+      "reliability_floor": 0.8,
+      "n": 15,
+      "ties": 0,
+      "correct_half_credit": 9,
+      "accuracy": 0.6
+    },
+    {
+      "baseline": "training_majority",
+      "reliability_floor": 0.0,
+      "n": 48,
+      "ties": 0,
+      "correct_half_credit": 33,
+      "accuracy": 0.6875
+    },
+    {
+      "baseline": "training_majority",
+      "reliability_floor": 0.8,
+      "n": 15,
+      "ties": 0,
+      "correct_half_credit": 11,
+      "accuracy": 0.7333333333333333
+    }
+  ],
+  "class_balance": [
+    {
+      "pair": "ref-07",
+      "training_left": 21,
+      "training_total": 24,
+      "held_left": 9,
+      "held_total": 12
+    },
+    {
+      "pair": "ref-08",
+      "training_left": 24,
+      "training_total": 24,
+      "held_left": 10,
+      "held_total": 12
+    },
+    {
+      "pair": "ref-09",
+      "training_left": 3,
+      "training_total": 24,
+      "held_left": 4,
+      "held_total": 12
+    },
+    {
+      "pair": "ref-10",
+      "training_left": 18,
+      "training_total": 24,
+      "held_left": 6,
+      "held_total": 12
+    }
+  ]
+}

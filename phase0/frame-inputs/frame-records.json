@@ -1,0 +1,3061 @@
+{
+  "layers": [
+    23,
+    47,
+    71
+  ],
+  "frame_shape": [
+    3,
+    432,
+    7168
+  ],
+  "recipient_shape": [
+    9,
+    3,
+    7168
+  ],
+  "positions": {
+    "frames": "end_of_msg",
+    "dose_recipients": "turn_start"
+  },
+  "source_file_sha256": "1ff0417e9d6a529f6f46ee5fcf3cd1ac9ebc2c532641428d185fb5f97a078aed",
+  "frame_sha256": "0b567cd009fe1c90ebc3d9d4726adecbc843e453c683767e0d1f6bb5502bb86d",
+  "recipient_sha256": "7fb97848c17312c03c91111573be473553e94439d87bc61ae2209329aaa8cf4c",
+  "recipients": [
+    "base-costco-dots10.pt",
+    "base-costco-dots13.pt",
+    "base-costco-dots14.pt",
+    "base-costco-dots4.pt",
+    "base-costco-dots5.pt",
+    "base-costco-dots6.pt",
+    "base-costco-dots7.pt",
+    "base-costco-dots8.pt",
+    "base-costco-dots9.pt"
+  ],
+  "frame_records": [
+    {
+      "key": "cookies-smell-00",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "chocolate chip cookies",
+      "text": "You catch the smell of chocolate chip cookies from the next room."
+    },
+    {
+      "key": "cookies-smell-01",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies cooling on a rack",
+      "text": "You can smell cookies cooling on a rack."
+    },
+    {
+      "key": "cookies-smell-02",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "freshly baked cookies",
+      "text": "The air around you smells of freshly baked cookies from the kitchen."
+    },
+    {
+      "key": "cookies-smell-03",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "sugar cookies",
+      "text": "You catch the smell of sugar cookies."
+    },
+    {
+      "key": "cookies-smell-04",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies just out of the oven",
+      "text": "You catch the smell of cookies just out of the oven."
+    },
+    {
+      "key": "cookies-smell-05",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies baking",
+      "text": "As you walk in, you smell cookies baking."
+    },
+    {
+      "key": "cookies-smell-06",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies just out of the oven",
+      "text": "You get a whiff of cookies just out of the oven."
+    },
+    {
+      "key": "cookies-smell-07",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies baking",
+      "text": "There is a smell of cookies baking in the air around you."
+    },
+    {
+      "key": "cookies-smell-08",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "chocolate chip cookies",
+      "text": "A smell of chocolate chip cookies drifts over to you."
+    },
+    {
+      "key": "cookies-smell-09",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies just out of the oven",
+      "text": "A smell of cookies just out of the oven drifts over to you from the kitchen."
+    },
+    {
+      "key": "cookies-smell-10",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "freshly baked cookies",
+      "text": "The smell of freshly baked cookies reaches you from somewhere nearby."
+    },
+    {
+      "key": "cookies-smell-11",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "oatmeal cookies",
+      "text": "You breathe in and smell oatmeal cookies."
+    },
+    {
+      "key": "cookies-smell-12",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "a tray of warm cookies",
+      "text": "There is a smell of a tray of warm cookies in the air around you."
+    },
+    {
+      "key": "cookies-smell-13",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies cooling on a rack",
+      "text": "The air around you smells of cookies cooling on a rack."
+    },
+    {
+      "key": "cookies-smell-14",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "freshly baked cookies",
+      "text": "You breathe in and smell freshly baked cookies."
+    },
+    {
+      "key": "cookies-smell-15",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "warm cookies",
+      "text": "The smell of warm cookies reaches you."
+    },
+    {
+      "key": "cookies-smell-16",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "warm cookies",
+      "text": "You smell warm cookies."
+    },
+    {
+      "key": "cookies-smell-17",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "oatmeal cookies",
+      "text": "The air around you smells of oatmeal cookies."
+    },
+    {
+      "key": "cookies-smell-18",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies",
+      "text": "The air around you smells of cookies."
+    },
+    {
+      "key": "cookies-smell-19",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies baking",
+      "text": "The air around you smells of cookies baking."
+    },
+    {
+      "key": "cookies-smell-20",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "chocolate chip cookies",
+      "text": "You notice the smell of chocolate chip cookies."
+    },
+    {
+      "key": "cookies-smell-21",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies",
+      "text": "You catch the smell of cookies."
+    },
+    {
+      "key": "cookies-smell-22",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies",
+      "text": "You breathe in and smell cookies from down the hall."
+    },
+    {
+      "key": "cookies-smell-23",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "chocolate chip cookies",
+      "text": "There is a smell of chocolate chip cookies in the air around you."
+    },
+    {
+      "key": "cookies-smell-24",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies baking",
+      "text": "A smell of cookies baking drifts over to you."
+    },
+    {
+      "key": "cookies-smell-25",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "a tray of warm cookies",
+      "text": "You smell a tray of warm cookies."
+    },
+    {
+      "key": "cookies-smell-26",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "chocolate chip cookies",
+      "text": "You can smell chocolate chip cookies by the door."
+    },
+    {
+      "key": "cookies-smell-27",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies cooling on a rack",
+      "text": "A smell of cookies cooling on a rack drifts over to you."
+    },
+    {
+      "key": "cookies-smell-28",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies cooling on a rack",
+      "text": "You notice the smell of cookies cooling on a rack."
+    },
+    {
+      "key": "cookies-smell-29",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies just out of the oven",
+      "text": "You pick up the scent of cookies just out of the oven."
+    },
+    {
+      "key": "cookies-smell-30",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "sugar cookies",
+      "text": "You breathe in and smell sugar cookies."
+    },
+    {
+      "key": "cookies-smell-31",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "warm cookies",
+      "text": "As you walk in, you smell warm cookies."
+    },
+    {
+      "key": "cookies-smell-32",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies cooling on a rack",
+      "text": "You pick up the scent of cookies cooling on a rack."
+    },
+    {
+      "key": "cookies-smell-33",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "oatmeal cookies",
+      "text": "You get a whiff of oatmeal cookies by the door."
+    },
+    {
+      "key": "cookies-smell-34",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "a tray of warm cookies",
+      "text": "As you walk in, you smell a tray of warm cookies."
+    },
+    {
+      "key": "cookies-smell-35",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies cooling on a rack",
+      "text": "As you walk in, you smell cookies cooling on a rack."
+    },
+    {
+      "key": "cookies-smell-36",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "sugar cookies",
+      "text": "As you walk in, you smell sugar cookies."
+    },
+    {
+      "key": "cookies-smell-37",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "freshly baked cookies",
+      "text": "You notice the smell of freshly baked cookies."
+    },
+    {
+      "key": "cookies-smell-38",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies",
+      "text": "As you walk in, you smell cookies."
+    },
+    {
+      "key": "cookies-smell-39",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "chocolate chip cookies",
+      "text": "The air around you smells of chocolate chip cookies."
+    },
+    {
+      "key": "cookies-smell-40",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies",
+      "text": "You smell cookies by the door."
+    },
+    {
+      "key": "cookies-smell-41",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies just out of the oven",
+      "text": "As you walk in, you smell cookies just out of the oven."
+    },
+    {
+      "key": "cookies-smell-42",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies baking",
+      "text": "You pick up the scent of cookies baking from the next room."
+    },
+    {
+      "key": "cookies-smell-43",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies",
+      "text": "You can smell cookies."
+    },
+    {
+      "key": "cookies-smell-44",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "freshly baked cookies",
+      "text": "You catch the smell of freshly baked cookies from the kitchen."
+    },
+    {
+      "key": "cookies-smell-45",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "oatmeal cookies",
+      "text": "You smell oatmeal cookies."
+    },
+    {
+      "key": "cookies-smell-46",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies just out of the oven",
+      "text": "You smell cookies just out of the oven as you walk in."
+    },
+    {
+      "key": "cookies-smell-47",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies baking",
+      "text": "You can smell cookies baking."
+    },
+    {
+      "key": "cookies-smell-48",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "cookies cooling on a rack",
+      "text": "You get a whiff of cookies cooling on a rack."
+    },
+    {
+      "key": "cookies-smell-49",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "oatmeal cookies",
+      "text": "As you walk in, you smell oatmeal cookies."
+    },
+    {
+      "key": "cookies-smell-50",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "oatmeal cookies",
+      "text": "You pick up the scent of oatmeal cookies from down the hall."
+    },
+    {
+      "key": "cookies-smell-51",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "freshly baked cookies",
+      "text": "As you walk in, you smell freshly baked cookies."
+    },
+    {
+      "key": "cookies-smell-52",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "oatmeal cookies",
+      "text": "You can smell oatmeal cookies."
+    },
+    {
+      "key": "cookies-smell-53",
+      "object": "cookies",
+      "condition": "smell",
+      "phrase": "warm cookies",
+      "text": "You notice the smell of warm cookies as you walk in."
+    },
+    {
+      "key": "cookies-see-00",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a tin of cookies",
+      "text": "You see a tin of cookies."
+    },
+    {
+      "key": "cookies-see-01",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "cookies stacked in a display case",
+      "text": "Cookies stacked in a display case is right there where you can see it."
+    },
+    {
+      "key": "cookies-see-02",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a jar of cookies",
+      "text": "You spot a jar of cookies."
+    },
+    {
+      "key": "cookies-see-03",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a tin of cookies",
+      "text": "You catch sight of a tin of cookies."
+    },
+    {
+      "key": "cookies-see-04",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a tray of cookies on the counter",
+      "text": "A tray of cookies on the counter sits in front of you."
+    },
+    {
+      "key": "cookies-see-05",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a bag of chocolate chip cookies",
+      "text": "You glance at a bag of chocolate chip cookies."
+    },
+    {
+      "key": "cookies-see-06",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a pack of cookies on the table",
+      "text": "A pack of cookies on the table is right there where you can see it."
+    },
+    {
+      "key": "cookies-see-07",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a tin of cookies",
+      "text": "As you walk in, you see a tin of cookies."
+    },
+    {
+      "key": "cookies-see-08",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a bag of chocolate chip cookies",
+      "text": "You notice a bag of chocolate chip cookies."
+    },
+    {
+      "key": "cookies-see-09",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a plate of cookies",
+      "text": "You spot a plate of cookies."
+    },
+    {
+      "key": "cookies-see-10",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "cookies stacked in a display case",
+      "text": "You spot cookies stacked in a display case."
+    },
+    {
+      "key": "cookies-see-11",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a carton of cookies",
+      "text": "You are looking at a carton of cookies."
+    },
+    {
+      "key": "cookies-see-12",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a tray of cookies on the counter",
+      "text": "There is a tray of cookies on the counter in front of you."
+    },
+    {
+      "key": "cookies-see-13",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a bag of chocolate chip cookies",
+      "text": "You spot a bag of chocolate chip cookies."
+    },
+    {
+      "key": "cookies-see-14",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a bag of chocolate chip cookies",
+      "text": "A bag of chocolate chip cookies is right there where you can see it."
+    },
+    {
+      "key": "cookies-see-15",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a pack of cookies on the table",
+      "text": "You look over and see a pack of cookies on the table."
+    },
+    {
+      "key": "cookies-see-16",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a plate of cookies",
+      "text": "As you walk in, you see a plate of cookies."
+    },
+    {
+      "key": "cookies-see-17",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a box of cookies on a shelf",
+      "text": "A box of cookies on a shelf is right there where you can see it."
+    },
+    {
+      "key": "cookies-see-18",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a plate of cookies",
+      "text": "You catch sight of a plate of cookies."
+    },
+    {
+      "key": "cookies-see-19",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a jar of cookies",
+      "text": "You look over and see a jar of cookies."
+    },
+    {
+      "key": "cookies-see-20",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "cookies on a baking sheet",
+      "text": "You glance at cookies on a baking sheet."
+    },
+    {
+      "key": "cookies-see-21",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a carton of cookies",
+      "text": "A carton of cookies is right there where you can see it."
+    },
+    {
+      "key": "cookies-see-22",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a carton of cookies",
+      "text": "A carton of cookies sits in front of you."
+    },
+    {
+      "key": "cookies-see-23",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a pack of cookies on the table",
+      "text": "You spot a pack of cookies on the table."
+    },
+    {
+      "key": "cookies-see-24",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a box of cookies on a shelf",
+      "text": "You catch sight of a box of cookies on a shelf."
+    },
+    {
+      "key": "cookies-see-25",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a box of cookies on a shelf",
+      "text": "You see a box of cookies on a shelf."
+    },
+    {
+      "key": "cookies-see-26",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a jar of cookies",
+      "text": "You catch sight of a jar of cookies."
+    },
+    {
+      "key": "cookies-see-27",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a pack of cookies on the table",
+      "text": "You can see a pack of cookies on the table."
+    },
+    {
+      "key": "cookies-see-28",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a tin of cookies",
+      "text": "You glance at a tin of cookies."
+    },
+    {
+      "key": "cookies-see-29",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a plate of cookies",
+      "text": "You can see a plate of cookies."
+    },
+    {
+      "key": "cookies-see-30",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a carton of cookies",
+      "text": "There is a carton of cookies in front of you."
+    },
+    {
+      "key": "cookies-see-31",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a carton of cookies",
+      "text": "You see a carton of cookies."
+    },
+    {
+      "key": "cookies-see-32",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a jar of cookies",
+      "text": "You can see a jar of cookies."
+    },
+    {
+      "key": "cookies-see-33",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "cookies on a baking sheet",
+      "text": "As you walk in, you see cookies on a baking sheet."
+    },
+    {
+      "key": "cookies-see-34",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "cookies stacked in a display case",
+      "text": "You catch sight of cookies stacked in a display case."
+    },
+    {
+      "key": "cookies-see-35",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "cookies on a baking sheet",
+      "text": "Cookies on a baking sheet sits in front of you."
+    },
+    {
+      "key": "cookies-see-36",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a tin of cookies",
+      "text": "You notice a tin of cookies."
+    },
+    {
+      "key": "cookies-see-37",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a plate of cookies",
+      "text": "You see a plate of cookies."
+    },
+    {
+      "key": "cookies-see-38",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a bag of chocolate chip cookies",
+      "text": "You catch sight of a bag of chocolate chip cookies."
+    },
+    {
+      "key": "cookies-see-39",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a pack of cookies on the table",
+      "text": "There is a pack of cookies on the table in front of you."
+    },
+    {
+      "key": "cookies-see-40",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a carton of cookies",
+      "text": "You spot a carton of cookies."
+    },
+    {
+      "key": "cookies-see-41",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a box of cookies on a shelf",
+      "text": "You notice a box of cookies on a shelf."
+    },
+    {
+      "key": "cookies-see-42",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a plate of cookies",
+      "text": "You look over and see a plate of cookies."
+    },
+    {
+      "key": "cookies-see-43",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a tin of cookies",
+      "text": "You spot a tin of cookies."
+    },
+    {
+      "key": "cookies-see-44",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a bag of chocolate chip cookies",
+      "text": "There is a bag of chocolate chip cookies in front of you."
+    },
+    {
+      "key": "cookies-see-45",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a tin of cookies",
+      "text": "There is a tin of cookies in front of you."
+    },
+    {
+      "key": "cookies-see-46",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a plate of cookies",
+      "text": "You are looking at a plate of cookies."
+    },
+    {
+      "key": "cookies-see-47",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a box of cookies on a shelf",
+      "text": "You are looking at a box of cookies on a shelf."
+    },
+    {
+      "key": "cookies-see-48",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "cookies stacked in a display case",
+      "text": "You notice cookies stacked in a display case."
+    },
+    {
+      "key": "cookies-see-49",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a bag of chocolate chip cookies",
+      "text": "You are looking at a bag of chocolate chip cookies."
+    },
+    {
+      "key": "cookies-see-50",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a pack of cookies on the table",
+      "text": "You are looking at a pack of cookies on the table."
+    },
+    {
+      "key": "cookies-see-51",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a tray of cookies on the counter",
+      "text": "You look over and see a tray of cookies on the counter."
+    },
+    {
+      "key": "cookies-see-52",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a tray of cookies on the counter",
+      "text": "You see a tray of cookies on the counter."
+    },
+    {
+      "key": "cookies-see-53",
+      "object": "cookies",
+      "condition": "see",
+      "phrase": "a pack of cookies on the table",
+      "text": "A pack of cookies on the table sits in front of you."
+    },
+    {
+      "key": "plastic-smell-00",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "plastic that has got too hot",
+      "text": "As you walk in, you smell plastic that has got too hot."
+    },
+    {
+      "key": "plastic-smell-01",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "burning plastic",
+      "text": "The smell of burning plastic reaches you from down the hall."
+    },
+    {
+      "key": "plastic-smell-02",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "plastic burning",
+      "text": "You notice the smell of plastic burning from the kitchen."
+    },
+    {
+      "key": "plastic-smell-03",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "hot plastic",
+      "text": "The air around you smells of hot plastic from somewhere nearby."
+    },
+    {
+      "key": "plastic-smell-04",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "scorched plastic",
+      "text": "You pick up the scent of scorched plastic as you walk in."
+    },
+    {
+      "key": "plastic-smell-05",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "singed plastic",
+      "text": "You pick up the scent of singed plastic by the door."
+    },
+    {
+      "key": "plastic-smell-06",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "burning plastic",
+      "text": "A smell of burning plastic drifts over to you."
+    },
+    {
+      "key": "plastic-smell-07",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "a chemical smell of plastic",
+      "text": "You smell a chemical smell of plastic from the next room."
+    },
+    {
+      "key": "plastic-smell-08",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "plastic that has got too hot",
+      "text": "There is a smell of plastic that has got too hot in the air around you from down the hall."
+    },
+    {
+      "key": "plastic-smell-09",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "a chemical smell of plastic",
+      "text": "You pick up the scent of a chemical smell of plastic."
+    },
+    {
+      "key": "plastic-smell-10",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "singed plastic",
+      "text": "A smell of singed plastic drifts over to you."
+    },
+    {
+      "key": "plastic-smell-11",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "overheated plastic",
+      "text": "The air around you smells of overheated plastic as you walk in."
+    },
+    {
+      "key": "plastic-smell-12",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "singed plastic",
+      "text": "You smell singed plastic."
+    },
+    {
+      "key": "plastic-smell-13",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "burning plastic",
+      "text": "You get a whiff of burning plastic."
+    },
+    {
+      "key": "plastic-smell-14",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "melting plastic",
+      "text": "You smell melting plastic from the next room."
+    },
+    {
+      "key": "plastic-smell-15",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "plastic that has got too hot",
+      "text": "You pick up the scent of plastic that has got too hot from down the hall."
+    },
+    {
+      "key": "plastic-smell-16",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "hot plastic",
+      "text": "You smell hot plastic."
+    },
+    {
+      "key": "plastic-smell-17",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "burning plastic",
+      "text": "You can smell burning plastic."
+    },
+    {
+      "key": "plastic-smell-18",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "plastic burning",
+      "text": "You can smell plastic burning."
+    },
+    {
+      "key": "plastic-smell-19",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "smouldering plastic",
+      "text": "You notice the smell of smouldering plastic by the door."
+    },
+    {
+      "key": "plastic-smell-20",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "scorched plastic",
+      "text": "The air around you smells of scorched plastic."
+    },
+    {
+      "key": "plastic-smell-21",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "a chemical smell of plastic",
+      "text": "You get a whiff of a chemical smell of plastic."
+    },
+    {
+      "key": "plastic-smell-22",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "overheated plastic",
+      "text": "There is a smell of overheated plastic in the air around you."
+    },
+    {
+      "key": "plastic-smell-23",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "overheated plastic",
+      "text": "The smell of overheated plastic reaches you from the kitchen."
+    },
+    {
+      "key": "plastic-smell-24",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "smouldering plastic",
+      "text": "You smell smouldering plastic."
+    },
+    {
+      "key": "plastic-smell-25",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "scorched plastic",
+      "text": "As you walk in, you smell scorched plastic."
+    },
+    {
+      "key": "plastic-smell-26",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "burning plastic",
+      "text": "As you walk in, you smell burning plastic."
+    },
+    {
+      "key": "plastic-smell-27",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "melting plastic",
+      "text": "You breathe in and smell melting plastic."
+    },
+    {
+      "key": "plastic-smell-28",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "plastic burning",
+      "text": "You pick up the scent of plastic burning from the next room."
+    },
+    {
+      "key": "plastic-smell-29",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "scorched plastic",
+      "text": "There is a smell of scorched plastic in the air around you from down the hall."
+    },
+    {
+      "key": "plastic-smell-30",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "smouldering plastic",
+      "text": "The smell of smouldering plastic reaches you."
+    },
+    {
+      "key": "plastic-smell-31",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "plastic that has got too hot",
+      "text": "You can smell plastic that has got too hot."
+    },
+    {
+      "key": "plastic-smell-32",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "a chemical smell of plastic",
+      "text": "A smell of a chemical smell of plastic drifts over to you."
+    },
+    {
+      "key": "plastic-smell-33",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "hot plastic",
+      "text": "A smell of hot plastic drifts over to you."
+    },
+    {
+      "key": "plastic-smell-34",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "melting plastic",
+      "text": "As you walk in, you smell melting plastic."
+    },
+    {
+      "key": "plastic-smell-35",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "burning plastic",
+      "text": "There is a smell of burning plastic in the air around you."
+    },
+    {
+      "key": "plastic-smell-36",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "plastic that has got too hot",
+      "text": "A smell of plastic that has got too hot drifts over to you."
+    },
+    {
+      "key": "plastic-smell-37",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "smouldering plastic",
+      "text": "There is a smell of smouldering plastic in the air around you from the kitchen."
+    },
+    {
+      "key": "plastic-smell-38",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "overheated plastic",
+      "text": "You notice the smell of overheated plastic."
+    },
+    {
+      "key": "plastic-smell-39",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "plastic burning",
+      "text": "The air around you smells of plastic burning."
+    },
+    {
+      "key": "plastic-smell-40",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "scorched plastic",
+      "text": "You get a whiff of scorched plastic."
+    },
+    {
+      "key": "plastic-smell-41",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "hot plastic",
+      "text": "You catch the smell of hot plastic."
+    },
+    {
+      "key": "plastic-smell-42",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "overheated plastic",
+      "text": "You get a whiff of overheated plastic."
+    },
+    {
+      "key": "plastic-smell-43",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "hot plastic",
+      "text": "You can smell hot plastic from down the hall."
+    },
+    {
+      "key": "plastic-smell-44",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "overheated plastic",
+      "text": "You can smell overheated plastic."
+    },
+    {
+      "key": "plastic-smell-45",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "scorched plastic",
+      "text": "A smell of scorched plastic drifts over to you."
+    },
+    {
+      "key": "plastic-smell-46",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "smouldering plastic",
+      "text": "A smell of smouldering plastic drifts over to you."
+    },
+    {
+      "key": "plastic-smell-47",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "melting plastic",
+      "text": "A smell of melting plastic drifts over to you."
+    },
+    {
+      "key": "plastic-smell-48",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "plastic burning",
+      "text": "You smell plastic burning."
+    },
+    {
+      "key": "plastic-smell-49",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "singed plastic",
+      "text": "The air around you smells of singed plastic."
+    },
+    {
+      "key": "plastic-smell-50",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "melting plastic",
+      "text": "The air around you smells of melting plastic."
+    },
+    {
+      "key": "plastic-smell-51",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "plastic burning",
+      "text": "You breathe in and smell plastic burning from the kitchen."
+    },
+    {
+      "key": "plastic-smell-52",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "overheated plastic",
+      "text": "You smell overheated plastic from somewhere nearby."
+    },
+    {
+      "key": "plastic-smell-53",
+      "object": "plastic",
+      "condition": "smell",
+      "phrase": "hot plastic",
+      "text": "The smell of hot plastic reaches you as you walk in."
+    },
+    {
+      "key": "plastic-see-00",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bucket burning",
+      "text": "You notice a plastic bucket burning."
+    },
+    {
+      "key": "plastic-see-01",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bag curling in a flame",
+      "text": "You are looking at a plastic bag curling in a flame."
+    },
+    {
+      "key": "plastic-see-02",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a warped plastic lid",
+      "text": "You spot a warped plastic lid."
+    },
+    {
+      "key": "plastic-see-03",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a blackened plastic casing",
+      "text": "There is a blackened plastic casing in front of you."
+    },
+    {
+      "key": "plastic-see-04",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a warped plastic lid",
+      "text": "There is a warped plastic lid in front of you."
+    },
+    {
+      "key": "plastic-see-05",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bin burning in the corner",
+      "text": "You spot a plastic bin burning in the corner."
+    },
+    {
+      "key": "plastic-see-06",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a half-melted plastic cup",
+      "text": "You spot a half-melted plastic cup."
+    },
+    {
+      "key": "plastic-see-07",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bin burning in the corner",
+      "text": "You notice a plastic bin burning in the corner."
+    },
+    {
+      "key": "plastic-see-08",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a melted plastic container",
+      "text": "You see a melted plastic container."
+    },
+    {
+      "key": "plastic-see-09",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a warped plastic lid",
+      "text": "As you walk in, you see a warped plastic lid."
+    },
+    {
+      "key": "plastic-see-10",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bin burning in the corner",
+      "text": "You catch sight of a plastic bin burning in the corner."
+    },
+    {
+      "key": "plastic-see-11",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic chair with a burn mark",
+      "text": "A plastic chair with a burn mark sits in front of you."
+    },
+    {
+      "key": "plastic-see-12",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic chair with a burn mark",
+      "text": "You are looking at a plastic chair with a burn mark."
+    },
+    {
+      "key": "plastic-see-13",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bag curling in a flame",
+      "text": "You can see a plastic bag curling in a flame."
+    },
+    {
+      "key": "plastic-see-14",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a warped plastic lid",
+      "text": "You see a warped plastic lid."
+    },
+    {
+      "key": "plastic-see-15",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a half-melted plastic cup",
+      "text": "You see a half-melted plastic cup."
+    },
+    {
+      "key": "plastic-see-16",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a blackened plastic casing",
+      "text": "A blackened plastic casing is right there where you can see it."
+    },
+    {
+      "key": "plastic-see-17",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a half-melted plastic cup",
+      "text": "A half-melted plastic cup is right there where you can see it."
+    },
+    {
+      "key": "plastic-see-18",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bag curling in a flame",
+      "text": "You see a plastic bag curling in a flame."
+    },
+    {
+      "key": "plastic-see-19",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a blackened plastic casing",
+      "text": "You catch sight of a blackened plastic casing."
+    },
+    {
+      "key": "plastic-see-20",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bottle that has melted",
+      "text": "You glance at a plastic bottle that has melted."
+    },
+    {
+      "key": "plastic-see-21",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a scorched plastic tray",
+      "text": "A scorched plastic tray sits in front of you."
+    },
+    {
+      "key": "plastic-see-22",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a melted plastic container",
+      "text": "A melted plastic container is right there where you can see it."
+    },
+    {
+      "key": "plastic-see-23",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a melted plastic container",
+      "text": "You can see a melted plastic container."
+    },
+    {
+      "key": "plastic-see-24",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic chair with a burn mark",
+      "text": "You spot a plastic chair with a burn mark."
+    },
+    {
+      "key": "plastic-see-25",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bin burning in the corner",
+      "text": "A plastic bin burning in the corner sits in front of you."
+    },
+    {
+      "key": "plastic-see-26",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bin burning in the corner",
+      "text": "There is a plastic bin burning in the corner in front of you."
+    },
+    {
+      "key": "plastic-see-27",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a scorched plastic tray",
+      "text": "You glance at a scorched plastic tray."
+    },
+    {
+      "key": "plastic-see-28",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a melted plastic container",
+      "text": "As you walk in, you see a melted plastic container."
+    },
+    {
+      "key": "plastic-see-29",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a blackened plastic casing",
+      "text": "A blackened plastic casing sits in front of you."
+    },
+    {
+      "key": "plastic-see-30",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bottle that has melted",
+      "text": "You can see a plastic bottle that has melted."
+    },
+    {
+      "key": "plastic-see-31",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a warped plastic lid",
+      "text": "You catch sight of a warped plastic lid."
+    },
+    {
+      "key": "plastic-see-32",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bin burning in the corner",
+      "text": "A plastic bin burning in the corner is right there where you can see it."
+    },
+    {
+      "key": "plastic-see-33",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a melted plastic container",
+      "text": "You look over and see a melted plastic container."
+    },
+    {
+      "key": "plastic-see-34",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bucket burning",
+      "text": "You look over and see a plastic bucket burning."
+    },
+    {
+      "key": "plastic-see-35",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a warped plastic lid",
+      "text": "You glance at a warped plastic lid."
+    },
+    {
+      "key": "plastic-see-36",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bag curling in a flame",
+      "text": "You look over and see a plastic bag curling in a flame."
+    },
+    {
+      "key": "plastic-see-37",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bin burning in the corner",
+      "text": "You see a plastic bin burning in the corner."
+    },
+    {
+      "key": "plastic-see-38",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic chair with a burn mark",
+      "text": "As you walk in, you see a plastic chair with a burn mark."
+    },
+    {
+      "key": "plastic-see-39",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a blackened plastic casing",
+      "text": "You notice a blackened plastic casing."
+    },
+    {
+      "key": "plastic-see-40",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a half-melted plastic cup",
+      "text": "You look over and see a half-melted plastic cup."
+    },
+    {
+      "key": "plastic-see-41",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bottle that has melted",
+      "text": "A plastic bottle that has melted sits in front of you."
+    },
+    {
+      "key": "plastic-see-42",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bucket burning",
+      "text": "As you walk in, you see a plastic bucket burning."
+    },
+    {
+      "key": "plastic-see-43",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a warped plastic lid",
+      "text": "You notice a warped plastic lid."
+    },
+    {
+      "key": "plastic-see-44",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a scorched plastic tray",
+      "text": "You are looking at a scorched plastic tray."
+    },
+    {
+      "key": "plastic-see-45",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bottle that has melted",
+      "text": "You look over and see a plastic bottle that has melted."
+    },
+    {
+      "key": "plastic-see-46",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a melted plastic container",
+      "text": "A melted plastic container sits in front of you."
+    },
+    {
+      "key": "plastic-see-47",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic chair with a burn mark",
+      "text": "You catch sight of a plastic chair with a burn mark."
+    },
+    {
+      "key": "plastic-see-48",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic chair with a burn mark",
+      "text": "You see a plastic chair with a burn mark."
+    },
+    {
+      "key": "plastic-see-49",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bucket burning",
+      "text": "You catch sight of a plastic bucket burning."
+    },
+    {
+      "key": "plastic-see-50",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bag curling in a flame",
+      "text": "As you walk in, you see a plastic bag curling in a flame."
+    },
+    {
+      "key": "plastic-see-51",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a blackened plastic casing",
+      "text": "You spot a blackened plastic casing."
+    },
+    {
+      "key": "plastic-see-52",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a plastic bag curling in a flame",
+      "text": "You catch sight of a plastic bag curling in a flame."
+    },
+    {
+      "key": "plastic-see-53",
+      "object": "plastic",
+      "condition": "see",
+      "phrase": "a blackened plastic casing",
+      "text": "You glance at a blackened plastic casing."
+    },
+    {
+      "key": "celery-smell-00",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "cut celery",
+      "text": "The smell of cut celery reaches you."
+    },
+    {
+      "key": "celery-smell-01",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "cut celery",
+      "text": "You pick up the scent of cut celery."
+    },
+    {
+      "key": "celery-smell-02",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery stalks",
+      "text": "There is a smell of celery stalks in the air around you from the kitchen."
+    },
+    {
+      "key": "celery-smell-03",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "a bunch of celery",
+      "text": "There is a smell of a bunch of celery in the air around you."
+    },
+    {
+      "key": "celery-smell-04",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery being sliced",
+      "text": "You catch the smell of celery being sliced as you walk in."
+    },
+    {
+      "key": "celery-smell-05",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "fresh celery",
+      "text": "The air around you smells of fresh celery by the door."
+    },
+    {
+      "key": "celery-smell-06",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery stalks",
+      "text": "You catch the smell of celery stalks."
+    },
+    {
+      "key": "celery-smell-07",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "raw celery",
+      "text": "The smell of raw celery reaches you."
+    },
+    {
+      "key": "celery-smell-08",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "fresh celery",
+      "text": "As you walk in, you smell fresh celery."
+    },
+    {
+      "key": "celery-smell-09",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery",
+      "text": "There is a smell of celery in the air around you from the kitchen."
+    },
+    {
+      "key": "celery-smell-10",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery being sliced",
+      "text": "You can smell celery being sliced."
+    },
+    {
+      "key": "celery-smell-11",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery being sliced",
+      "text": "You pick up the scent of celery being sliced."
+    },
+    {
+      "key": "celery-smell-12",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery stalks",
+      "text": "The air around you smells of celery stalks by the door."
+    },
+    {
+      "key": "celery-smell-13",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "crisp celery",
+      "text": "You pick up the scent of crisp celery."
+    },
+    {
+      "key": "celery-smell-14",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery",
+      "text": "The smell of celery reaches you from the next room."
+    },
+    {
+      "key": "celery-smell-15",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery stalks",
+      "text": "You pick up the scent of celery stalks."
+    },
+    {
+      "key": "celery-smell-16",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "a bunch of celery",
+      "text": "As you walk in, you smell a bunch of celery."
+    },
+    {
+      "key": "celery-smell-17",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "fresh celery",
+      "text": "You catch the smell of fresh celery."
+    },
+    {
+      "key": "celery-smell-18",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery",
+      "text": "You notice the smell of celery as you walk in."
+    },
+    {
+      "key": "celery-smell-19",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery",
+      "text": "The air around you smells of celery by the door."
+    },
+    {
+      "key": "celery-smell-20",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery being sliced",
+      "text": "The air around you smells of celery being sliced."
+    },
+    {
+      "key": "celery-smell-21",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "chopped celery",
+      "text": "A smell of chopped celery drifts over to you."
+    },
+    {
+      "key": "celery-smell-22",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery",
+      "text": "You can smell celery from down the hall."
+    },
+    {
+      "key": "celery-smell-23",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "fresh celery",
+      "text": "A smell of fresh celery drifts over to you from the kitchen."
+    },
+    {
+      "key": "celery-smell-24",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery being sliced",
+      "text": "As you walk in, you smell celery being sliced."
+    },
+    {
+      "key": "celery-smell-25",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "fresh celery",
+      "text": "You notice the smell of fresh celery as you walk in."
+    },
+    {
+      "key": "celery-smell-26",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery leaves",
+      "text": "You notice the smell of celery leaves."
+    },
+    {
+      "key": "celery-smell-27",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "fresh celery",
+      "text": "The smell of fresh celery reaches you."
+    },
+    {
+      "key": "celery-smell-28",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery being sliced",
+      "text": "You smell celery being sliced from the next room."
+    },
+    {
+      "key": "celery-smell-29",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery stalks",
+      "text": "You smell celery stalks."
+    },
+    {
+      "key": "celery-smell-30",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery being sliced",
+      "text": "The smell of celery being sliced reaches you."
+    },
+    {
+      "key": "celery-smell-31",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "fresh celery",
+      "text": "You get a whiff of fresh celery."
+    },
+    {
+      "key": "celery-smell-32",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery leaves",
+      "text": "You get a whiff of celery leaves."
+    },
+    {
+      "key": "celery-smell-33",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "raw celery",
+      "text": "You can smell raw celery by the door."
+    },
+    {
+      "key": "celery-smell-34",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery leaves",
+      "text": "The air around you smells of celery leaves."
+    },
+    {
+      "key": "celery-smell-35",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "a bunch of celery",
+      "text": "You get a whiff of a bunch of celery."
+    },
+    {
+      "key": "celery-smell-36",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "raw celery",
+      "text": "You get a whiff of raw celery."
+    },
+    {
+      "key": "celery-smell-37",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "cut celery",
+      "text": "You notice the smell of cut celery."
+    },
+    {
+      "key": "celery-smell-38",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "raw celery",
+      "text": "A smell of raw celery drifts over to you."
+    },
+    {
+      "key": "celery-smell-39",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery",
+      "text": "You catch the smell of celery as you walk in."
+    },
+    {
+      "key": "celery-smell-40",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "cut celery",
+      "text": "You breathe in and smell cut celery."
+    },
+    {
+      "key": "celery-smell-41",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "a bunch of celery",
+      "text": "You breathe in and smell a bunch of celery."
+    },
+    {
+      "key": "celery-smell-42",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "crisp celery",
+      "text": "A smell of crisp celery drifts over to you."
+    },
+    {
+      "key": "celery-smell-43",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery leaves",
+      "text": "You pick up the scent of celery leaves."
+    },
+    {
+      "key": "celery-smell-44",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "cut celery",
+      "text": "As you walk in, you smell cut celery."
+    },
+    {
+      "key": "celery-smell-45",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery leaves",
+      "text": "You catch the smell of celery leaves."
+    },
+    {
+      "key": "celery-smell-46",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery",
+      "text": "You pick up the scent of celery."
+    },
+    {
+      "key": "celery-smell-47",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery stalks",
+      "text": "The smell of celery stalks reaches you by the door."
+    },
+    {
+      "key": "celery-smell-48",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery stalks",
+      "text": "As you walk in, you smell celery stalks."
+    },
+    {
+      "key": "celery-smell-49",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "crisp celery",
+      "text": "The smell of crisp celery reaches you."
+    },
+    {
+      "key": "celery-smell-50",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "cut celery",
+      "text": "There is a smell of cut celery in the air around you from down the hall."
+    },
+    {
+      "key": "celery-smell-51",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "crisp celery",
+      "text": "The air around you smells of crisp celery from the kitchen."
+    },
+    {
+      "key": "celery-smell-52",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "celery leaves",
+      "text": "You can smell celery leaves."
+    },
+    {
+      "key": "celery-smell-53",
+      "object": "celery",
+      "condition": "smell",
+      "phrase": "raw celery",
+      "text": "The air around you smells of raw celery."
+    },
+    {
+      "key": "celery-see-00",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bundle of celery on the counter",
+      "text": "You can see a bundle of celery on the counter."
+    },
+    {
+      "key": "celery-see-01",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bunch of celery on a shelf",
+      "text": "You spot a bunch of celery on a shelf."
+    },
+    {
+      "key": "celery-see-02",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery in the produce bin",
+      "text": "There is celery in the produce bin in front of you."
+    },
+    {
+      "key": "celery-see-03",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bag of celery",
+      "text": "A bag of celery is right there where you can see it."
+    },
+    {
+      "key": "celery-see-04",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery on a cutting board",
+      "text": "You can see celery on a cutting board."
+    },
+    {
+      "key": "celery-see-05",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery in a glass of water",
+      "text": "Celery in a glass of water is right there where you can see it."
+    },
+    {
+      "key": "celery-see-06",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a stalk of celery",
+      "text": "A stalk of celery is right there where you can see it."
+    },
+    {
+      "key": "celery-see-07",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a box of celery",
+      "text": "There is a box of celery in front of you."
+    },
+    {
+      "key": "celery-see-08",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a box of celery",
+      "text": "You notice a box of celery."
+    },
+    {
+      "key": "celery-see-09",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bunch of celery on a shelf",
+      "text": "There is a bunch of celery on a shelf in front of you."
+    },
+    {
+      "key": "celery-see-10",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bunch of celery on a shelf",
+      "text": "You catch sight of a bunch of celery on a shelf."
+    },
+    {
+      "key": "celery-see-11",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a tray of celery sticks",
+      "text": "You look over and see a tray of celery sticks."
+    },
+    {
+      "key": "celery-see-12",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a box of celery",
+      "text": "You can see a box of celery."
+    },
+    {
+      "key": "celery-see-13",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery in a crate",
+      "text": "You can see celery in a crate."
+    },
+    {
+      "key": "celery-see-14",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery on a cutting board",
+      "text": "You are looking at celery on a cutting board."
+    },
+    {
+      "key": "celery-see-15",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a stalk of celery",
+      "text": "You can see a stalk of celery."
+    },
+    {
+      "key": "celery-see-16",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a box of celery",
+      "text": "A box of celery sits in front of you."
+    },
+    {
+      "key": "celery-see-17",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery in a crate",
+      "text": "Celery in a crate is right there where you can see it."
+    },
+    {
+      "key": "celery-see-18",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bundle of celery on the counter",
+      "text": "You glance at a bundle of celery on the counter."
+    },
+    {
+      "key": "celery-see-19",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a box of celery",
+      "text": "You glance at a box of celery."
+    },
+    {
+      "key": "celery-see-20",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a box of celery",
+      "text": "You spot a box of celery."
+    },
+    {
+      "key": "celery-see-21",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a tray of celery sticks",
+      "text": "You catch sight of a tray of celery sticks."
+    },
+    {
+      "key": "celery-see-22",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bundle of celery on the counter",
+      "text": "As you walk in, you see a bundle of celery on the counter."
+    },
+    {
+      "key": "celery-see-23",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a tray of celery sticks",
+      "text": "You are looking at a tray of celery sticks."
+    },
+    {
+      "key": "celery-see-24",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a stalk of celery",
+      "text": "You catch sight of a stalk of celery."
+    },
+    {
+      "key": "celery-see-25",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery in a crate",
+      "text": "You notice celery in a crate."
+    },
+    {
+      "key": "celery-see-26",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery in a glass of water",
+      "text": "You catch sight of celery in a glass of water."
+    },
+    {
+      "key": "celery-see-27",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery in the produce bin",
+      "text": "You look over and see celery in the produce bin."
+    },
+    {
+      "key": "celery-see-28",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a tray of celery sticks",
+      "text": "There is a tray of celery sticks in front of you."
+    },
+    {
+      "key": "celery-see-29",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery in a crate",
+      "text": "You catch sight of celery in a crate."
+    },
+    {
+      "key": "celery-see-30",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bag of celery",
+      "text": "You notice a bag of celery."
+    },
+    {
+      "key": "celery-see-31",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bundle of celery on the counter",
+      "text": "There is a bundle of celery on the counter in front of you."
+    },
+    {
+      "key": "celery-see-32",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bunch of celery on a shelf",
+      "text": "You are looking at a bunch of celery on a shelf."
+    },
+    {
+      "key": "celery-see-33",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bundle of celery on the counter",
+      "text": "You look over and see a bundle of celery on the counter."
+    },
+    {
+      "key": "celery-see-34",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a tray of celery sticks",
+      "text": "A tray of celery sticks is right there where you can see it."
+    },
+    {
+      "key": "celery-see-35",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a box of celery",
+      "text": "You are looking at a box of celery."
+    },
+    {
+      "key": "celery-see-36",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bag of celery",
+      "text": "You catch sight of a bag of celery."
+    },
+    {
+      "key": "celery-see-37",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery on a cutting board",
+      "text": "There is celery on a cutting board in front of you."
+    },
+    {
+      "key": "celery-see-38",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery in a glass of water",
+      "text": "You spot celery in a glass of water."
+    },
+    {
+      "key": "celery-see-39",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery in a glass of water",
+      "text": "You glance at celery in a glass of water."
+    },
+    {
+      "key": "celery-see-40",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery on a cutting board",
+      "text": "Celery on a cutting board is right there where you can see it."
+    },
+    {
+      "key": "celery-see-41",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bag of celery",
+      "text": "There is a bag of celery in front of you."
+    },
+    {
+      "key": "celery-see-42",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bunch of celery on a shelf",
+      "text": "You glance at a bunch of celery on a shelf."
+    },
+    {
+      "key": "celery-see-43",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery on a cutting board",
+      "text": "You see celery on a cutting board."
+    },
+    {
+      "key": "celery-see-44",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a tray of celery sticks",
+      "text": "You notice a tray of celery sticks."
+    },
+    {
+      "key": "celery-see-45",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery in a crate",
+      "text": "As you walk in, you see celery in a crate."
+    },
+    {
+      "key": "celery-see-46",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery in a crate",
+      "text": "You see celery in a crate."
+    },
+    {
+      "key": "celery-see-47",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a tray of celery sticks",
+      "text": "You can see a tray of celery sticks."
+    },
+    {
+      "key": "celery-see-48",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bundle of celery on the counter",
+      "text": "You are looking at a bundle of celery on the counter."
+    },
+    {
+      "key": "celery-see-49",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "celery on a cutting board",
+      "text": "You spot celery on a cutting board."
+    },
+    {
+      "key": "celery-see-50",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bag of celery",
+      "text": "You are looking at a bag of celery."
+    },
+    {
+      "key": "celery-see-51",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bag of celery",
+      "text": "You see a bag of celery."
+    },
+    {
+      "key": "celery-see-52",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bundle of celery on the counter",
+      "text": "A bundle of celery on the counter is right there where you can see it."
+    },
+    {
+      "key": "celery-see-53",
+      "object": "celery",
+      "condition": "see",
+      "phrase": "a bag of celery",
+      "text": "You can see a bag of celery."
+    },
+    {
+      "key": "neutral-smell-00",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the corridor air",
+      "text": "The air around you smells of the corridor air."
+    },
+    {
+      "key": "neutral-smell-01",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the space",
+      "text": "You smell the space."
+    },
+    {
+      "key": "neutral-smell-02",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the indoors",
+      "text": "As you walk in, you smell the indoors."
+    },
+    {
+      "key": "neutral-smell-03",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the space",
+      "text": "You catch the smell of the space."
+    },
+    {
+      "key": "neutral-smell-04",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the air",
+      "text": "You breathe in and smell the air."
+    },
+    {
+      "key": "neutral-smell-05",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "still air",
+      "text": "As you walk in, you smell still air."
+    },
+    {
+      "key": "neutral-smell-06",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the indoors",
+      "text": "You pick up the scent of the indoors."
+    },
+    {
+      "key": "neutral-smell-07",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the hallway",
+      "text": "You notice the smell of the hallway from the next room."
+    },
+    {
+      "key": "neutral-smell-08",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the air",
+      "text": "You smell the air from down the hall."
+    },
+    {
+      "key": "neutral-smell-09",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the corridor air",
+      "text": "A smell of the corridor air drifts over to you."
+    },
+    {
+      "key": "neutral-smell-10",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "still air",
+      "text": "You smell still air from somewhere nearby."
+    },
+    {
+      "key": "neutral-smell-11",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the indoors",
+      "text": "A smell of the indoors drifts over to you as you walk in."
+    },
+    {
+      "key": "neutral-smell-12",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the air",
+      "text": "The air around you smells of the air."
+    },
+    {
+      "key": "neutral-smell-13",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "still air",
+      "text": "You notice the smell of still air."
+    },
+    {
+      "key": "neutral-smell-14",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "still air",
+      "text": "There is a smell of still air in the air around you from the next room."
+    },
+    {
+      "key": "neutral-smell-15",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the space",
+      "text": "You breathe in and smell the space."
+    },
+    {
+      "key": "neutral-smell-16",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the room",
+      "text": "You get a whiff of the room from the kitchen."
+    },
+    {
+      "key": "neutral-smell-17",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "plain air",
+      "text": "The air around you smells of plain air from somewhere nearby."
+    },
+    {
+      "key": "neutral-smell-18",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "plain air",
+      "text": "There is a smell of plain air in the air around you as you walk in."
+    },
+    {
+      "key": "neutral-smell-19",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the corridor air",
+      "text": "You breathe in and smell the corridor air."
+    },
+    {
+      "key": "neutral-smell-20",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the indoors",
+      "text": "You notice the smell of the indoors."
+    },
+    {
+      "key": "neutral-smell-21",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the empty room",
+      "text": "A smell of the empty room drifts over to you."
+    },
+    {
+      "key": "neutral-smell-22",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the corridor air",
+      "text": "You notice the smell of the corridor air from down the hall."
+    },
+    {
+      "key": "neutral-smell-23",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the empty room",
+      "text": "You smell the empty room from the kitchen."
+    },
+    {
+      "key": "neutral-smell-24",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the room",
+      "text": "You pick up the scent of the room from somewhere nearby."
+    },
+    {
+      "key": "neutral-smell-25",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the room",
+      "text": "You breathe in and smell the room."
+    },
+    {
+      "key": "neutral-smell-26",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the space",
+      "text": "The air around you smells of the space."
+    },
+    {
+      "key": "neutral-smell-27",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the corridor air",
+      "text": "You pick up the scent of the corridor air."
+    },
+    {
+      "key": "neutral-smell-28",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the empty room",
+      "text": "You breathe in and smell the empty room from the next room."
+    },
+    {
+      "key": "neutral-smell-29",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the space",
+      "text": "As you walk in, you smell the space."
+    },
+    {
+      "key": "neutral-smell-30",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "still air",
+      "text": "You get a whiff of still air."
+    },
+    {
+      "key": "neutral-smell-31",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "plain air",
+      "text": "You get a whiff of plain air."
+    },
+    {
+      "key": "neutral-smell-32",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the hallway",
+      "text": "You catch the smell of the hallway."
+    },
+    {
+      "key": "neutral-smell-33",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "still air",
+      "text": "The air around you smells of still air."
+    },
+    {
+      "key": "neutral-smell-34",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "plain air",
+      "text": "You notice the smell of plain air."
+    },
+    {
+      "key": "neutral-smell-35",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "still air",
+      "text": "The smell of still air reaches you."
+    },
+    {
+      "key": "neutral-smell-36",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "plain air",
+      "text": "You breathe in and smell plain air."
+    },
+    {
+      "key": "neutral-smell-37",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the hallway",
+      "text": "You breathe in and smell the hallway."
+    },
+    {
+      "key": "neutral-smell-38",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the corridor air",
+      "text": "You can smell the corridor air."
+    },
+    {
+      "key": "neutral-smell-39",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the empty room",
+      "text": "You get a whiff of the empty room."
+    },
+    {
+      "key": "neutral-smell-40",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the room",
+      "text": "The smell of the room reaches you."
+    },
+    {
+      "key": "neutral-smell-41",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "nothing in particular",
+      "text": "You breathe in and smell nothing in particular."
+    },
+    {
+      "key": "neutral-smell-42",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "nothing in particular",
+      "text": "You notice the smell of nothing in particular from the next room."
+    },
+    {
+      "key": "neutral-smell-43",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "nothing in particular",
+      "text": "You smell nothing in particular from down the hall."
+    },
+    {
+      "key": "neutral-smell-44",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "nothing in particular",
+      "text": "You get a whiff of nothing in particular."
+    },
+    {
+      "key": "neutral-smell-45",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the hallway",
+      "text": "The smell of the hallway reaches you."
+    },
+    {
+      "key": "neutral-smell-46",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the room",
+      "text": "You smell the room as you walk in."
+    },
+    {
+      "key": "neutral-smell-47",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the empty room",
+      "text": "You pick up the scent of the empty room by the door."
+    },
+    {
+      "key": "neutral-smell-48",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the indoors",
+      "text": "You catch the smell of the indoors."
+    },
+    {
+      "key": "neutral-smell-49",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "nothing in particular",
+      "text": "The air around you smells of nothing in particular."
+    },
+    {
+      "key": "neutral-smell-50",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the corridor air",
+      "text": "You get a whiff of the corridor air."
+    },
+    {
+      "key": "neutral-smell-51",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the space",
+      "text": "A smell of the space drifts over to you."
+    },
+    {
+      "key": "neutral-smell-52",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the hallway",
+      "text": "You get a whiff of the hallway from somewhere nearby."
+    },
+    {
+      "key": "neutral-smell-53",
+      "object": "neutral",
+      "condition": "smell",
+      "phrase": "the indoors",
+      "text": "You smell the indoors as you walk in."
+    },
+    {
+      "key": "neutral-see-00",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a shelf",
+      "text": "You can see a shelf."
+    },
+    {
+      "key": "neutral-see-01",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a table",
+      "text": "You catch sight of a table."
+    },
+    {
+      "key": "neutral-see-02",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a row of chairs",
+      "text": "You catch sight of a row of chairs."
+    },
+    {
+      "key": "neutral-see-03",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a door at the end of the hall",
+      "text": "You notice a door at the end of the hall."
+    },
+    {
+      "key": "neutral-see-04",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a table",
+      "text": "You see a table."
+    },
+    {
+      "key": "neutral-see-05",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a row of chairs",
+      "text": "There is a row of chairs in front of you."
+    },
+    {
+      "key": "neutral-see-06",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a shelf",
+      "text": "A shelf is right there where you can see it."
+    },
+    {
+      "key": "neutral-see-07",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a set of stairs",
+      "text": "You spot a set of stairs."
+    },
+    {
+      "key": "neutral-see-08",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a filing cabinet",
+      "text": "You notice a filing cabinet."
+    },
+    {
+      "key": "neutral-see-09",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a door at the end of the hall",
+      "text": "You are looking at a door at the end of the hall."
+    },
+    {
+      "key": "neutral-see-10",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a stack of paper",
+      "text": "A stack of paper sits in front of you."
+    },
+    {
+      "key": "neutral-see-11",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a window",
+      "text": "You spot a window."
+    },
+    {
+      "key": "neutral-see-12",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a table",
+      "text": "As you walk in, you see a table."
+    },
+    {
+      "key": "neutral-see-13",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a set of stairs",
+      "text": "You look over and see a set of stairs."
+    },
+    {
+      "key": "neutral-see-14",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a shelf",
+      "text": "As you walk in, you see a shelf."
+    },
+    {
+      "key": "neutral-see-15",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a clock on the wall",
+      "text": "You catch sight of a clock on the wall."
+    },
+    {
+      "key": "neutral-see-16",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a filing cabinet",
+      "text": "There is a filing cabinet in front of you."
+    },
+    {
+      "key": "neutral-see-17",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a window",
+      "text": "You notice a window."
+    },
+    {
+      "key": "neutral-see-18",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a set of stairs",
+      "text": "You can see a set of stairs."
+    },
+    {
+      "key": "neutral-see-19",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a shelf",
+      "text": "You catch sight of a shelf."
+    },
+    {
+      "key": "neutral-see-20",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a stack of paper",
+      "text": "You glance at a stack of paper."
+    },
+    {
+      "key": "neutral-see-21",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a clock on the wall",
+      "text": "A clock on the wall sits in front of you."
+    },
+    {
+      "key": "neutral-see-22",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a set of stairs",
+      "text": "You are looking at a set of stairs."
+    },
+    {
+      "key": "neutral-see-23",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a window",
+      "text": "A window sits in front of you."
+    },
+    {
+      "key": "neutral-see-24",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a wall",
+      "text": "You look over and see a wall."
+    },
+    {
+      "key": "neutral-see-25",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a row of chairs",
+      "text": "You can see a row of chairs."
+    },
+    {
+      "key": "neutral-see-26",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a door at the end of the hall",
+      "text": "A door at the end of the hall sits in front of you."
+    },
+    {
+      "key": "neutral-see-27",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a table",
+      "text": "There is a table in front of you."
+    },
+    {
+      "key": "neutral-see-28",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a set of stairs",
+      "text": "You see a set of stairs."
+    },
+    {
+      "key": "neutral-see-29",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a set of stairs",
+      "text": "There is a set of stairs in front of you."
+    },
+    {
+      "key": "neutral-see-30",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a filing cabinet",
+      "text": "A filing cabinet is right there where you can see it."
+    },
+    {
+      "key": "neutral-see-31",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a wall",
+      "text": "A wall is right there where you can see it."
+    },
+    {
+      "key": "neutral-see-32",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a stack of paper",
+      "text": "As you walk in, you see a stack of paper."
+    },
+    {
+      "key": "neutral-see-33",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a shelf",
+      "text": "You look over and see a shelf."
+    },
+    {
+      "key": "neutral-see-34",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a clock on the wall",
+      "text": "There is a clock on the wall in front of you."
+    },
+    {
+      "key": "neutral-see-35",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a wall",
+      "text": "As you walk in, you see a wall."
+    },
+    {
+      "key": "neutral-see-36",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a wall",
+      "text": "There is a wall in front of you."
+    },
+    {
+      "key": "neutral-see-37",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a stack of paper",
+      "text": "You look over and see a stack of paper."
+    },
+    {
+      "key": "neutral-see-38",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a door at the end of the hall",
+      "text": "You look over and see a door at the end of the hall."
+    },
+    {
+      "key": "neutral-see-39",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a filing cabinet",
+      "text": "A filing cabinet sits in front of you."
+    },
+    {
+      "key": "neutral-see-40",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a stack of paper",
+      "text": "You are looking at a stack of paper."
+    },
+    {
+      "key": "neutral-see-41",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a row of chairs",
+      "text": "You see a row of chairs."
+    },
+    {
+      "key": "neutral-see-42",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a window",
+      "text": "You are looking at a window."
+    },
+    {
+      "key": "neutral-see-43",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a row of chairs",
+      "text": "A row of chairs sits in front of you."
+    },
+    {
+      "key": "neutral-see-44",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a stack of paper",
+      "text": "You can see a stack of paper."
+    },
+    {
+      "key": "neutral-see-45",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a window",
+      "text": "As you walk in, you see a window."
+    },
+    {
+      "key": "neutral-see-46",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a stack of paper",
+      "text": "A stack of paper is right there where you can see it."
+    },
+    {
+      "key": "neutral-see-47",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a clock on the wall",
+      "text": "You can see a clock on the wall."
+    },
+    {
+      "key": "neutral-see-48",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a clock on the wall",
+      "text": "You notice a clock on the wall."
+    },
+    {
+      "key": "neutral-see-49",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a shelf",
+      "text": "You see a shelf."
+    },
+    {
+      "key": "neutral-see-50",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a filing cabinet",
+      "text": "You catch sight of a filing cabinet."
+    },
+    {
+      "key": "neutral-see-51",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a table",
+      "text": "You can see a table."
+    },
+    {
+      "key": "neutral-see-52",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a filing cabinet",
+      "text": "You are looking at a filing cabinet."
+    },
+    {
+      "key": "neutral-see-53",
+      "object": "neutral",
+      "condition": "see",
+      "phrase": "a door at the end of the hall",
+      "text": "As you walk in, you see a door at the end of the hall."
+    }
+  ]
+}

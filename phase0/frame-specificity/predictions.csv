@@ -1,0 +1,1729 @@
+key,source,frame,label,fold,feature,margin
+celery-smell-03,celery,there is a smell of {source} in the air around you.,smell,0,text-char-ngrams,0.08610603413490071
+celery-smell-05,celery,the air around you smells of {source} by the door.,smell,0,text-char-ngrams,0.14204537437748888
+celery-smell-08,celery,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.07940542263456828
+celery-smell-10,celery,you can smell {source}.,smell,0,text-char-ngrams,-0.009680504206055044
+celery-smell-12,celery,the air around you smells of {source} by the door.,smell,0,text-char-ngrams,0.14567441735278183
+celery-smell-14,celery,the smell of {source} reaches you from the next room.,smell,0,text-char-ngrams,0.1309447602950776
+celery-smell-16,celery,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.06651450370227248
+celery-smell-19,celery,the air around you smells of {source} by the door.,smell,0,text-char-ngrams,0.15368749685989547
+celery-smell-21,celery,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.023728446682964307
+celery-smell-22,celery,you can smell {source} from down the hall.,smell,0,text-char-ngrams,0.05390551216283203
+celery-smell-23,celery,a smell of {source} drifts over to you from the kitchen.,smell,0,text-char-ngrams,0.07564266678456961
+celery-smell-24,celery,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.06817185561520146
+celery-smell-26,celery,you notice the smell of {source}.,smell,0,text-char-ngrams,0.0833095902040773
+celery-smell-28,celery,you smell {source} from the next room.,smell,0,text-char-ngrams,0.08630000048580758
+celery-smell-29,celery,you smell {source}.,smell,0,text-char-ngrams,0.057893209983003166
+celery-smell-31,celery,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.017364590860422364
+celery-smell-32,celery,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.030160789898724685
+celery-smell-33,celery,you can smell {source} by the door.,smell,0,text-char-ngrams,0.031085371536829977
+celery-smell-35,celery,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.04055934159622428
+celery-smell-36,celery,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.023473609497976083
+celery-smell-37,celery,you notice the smell of {source}.,smell,0,text-char-ngrams,0.08288463849258298
+celery-smell-38,celery,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.04129735746091057
+celery-smell-40,celery,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.03800442672869456
+celery-smell-41,celery,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.027739731810023763
+celery-smell-42,celery,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.03354283271028097
+celery-smell-44,celery,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.08074391606532969
+celery-smell-48,celery,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.07408550691899593
+celery-smell-50,celery,there is a smell of {source} in the air around you from down the hall.,smell,0,text-char-ngrams,0.12225868657954958
+celery-smell-51,celery,the air around you smells of {source} from the kitchen.,smell,0,text-char-ngrams,0.16121435848959043
+celery-smell-52,celery,you can smell {source}.,smell,0,text-char-ngrams,-0.003414998916643203
+celery-see-01,celery,you spot {source}.,see,0,text-char-ngrams,-0.08118324996225368
+celery-see-02,celery,there is {source} in front of you.,see,0,text-char-ngrams,-0.041463518764796835
+celery-see-03,celery,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.06972413845507484
+celery-see-05,celery,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.054849748165773995
+celery-see-06,celery,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.06670767319589589
+celery-see-07,celery,there is {source} in front of you.,see,0,text-char-ngrams,-0.05969784182975857
+celery-see-08,celery,you notice {source}.,see,0,text-char-ngrams,-0.031677139692003045
+celery-see-09,celery,there is {source} in front of you.,see,0,text-char-ngrams,-0.07569339609097232
+celery-see-11,celery,you look over and see {source}.,see,0,text-char-ngrams,-0.06357056116338666
+celery-see-17,celery,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.06249825234601075
+celery-see-20,celery,you spot {source}.,see,0,text-char-ngrams,-0.04949691789837691
+celery-see-22,celery,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.024780933974428945
+celery-see-25,celery,you notice {source}.,see,0,text-char-ngrams,-0.01767406827878259
+celery-see-27,celery,you look over and see {source}.,see,0,text-char-ngrams,-0.021800487492644127
+celery-see-28,celery,there is {source} in front of you.,see,0,text-char-ngrams,-0.060108240628659854
+celery-see-30,celery,you notice {source}.,see,0,text-char-ngrams,-0.03214019301785701
+celery-see-31,celery,there is {source} in front of you.,see,0,text-char-ngrams,-0.05049852020708307
+celery-see-33,celery,you look over and see {source}.,see,0,text-char-ngrams,-0.05320820452427083
+celery-see-34,celery,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.06630634032378843
+celery-see-37,celery,there is {source} in front of you.,see,0,text-char-ngrams,-0.05840712162298263
+celery-see-38,celery,you spot {source}.,see,0,text-char-ngrams,-0.02528518738820309
+celery-see-40,celery,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.06512928447269976
+celery-see-41,celery,there is {source} in front of you.,see,0,text-char-ngrams,-0.06056149561254835
+celery-see-44,celery,you notice {source}.,see,0,text-char-ngrams,-0.03239013526986695
+celery-see-45,celery,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.009309059817634196
+celery-see-49,celery,you spot {source}.,see,0,text-char-ngrams,-0.04015113322920942
+celery-see-52,celery,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.058489394995938526
+celery-smell-03,celery,there is a smell of {source} in the air around you.,smell,0,native-L23,2.200225667317886
+celery-smell-05,celery,the air around you smells of {source} by the door.,smell,0,native-L23,3.616896633738845
+celery-smell-08,celery,"as you walk in, you smell {source}.",smell,0,native-L23,2.741833683706391
+celery-smell-10,celery,you can smell {source}.,smell,0,native-L23,1.6012854573195647
+celery-smell-12,celery,the air around you smells of {source} by the door.,smell,0,native-L23,3.417716380371538
+celery-smell-14,celery,the smell of {source} reaches you from the next room.,smell,0,native-L23,2.601016062285919
+celery-smell-16,celery,"as you walk in, you smell {source}.",smell,0,native-L23,2.0906306068441314
+celery-smell-19,celery,the air around you smells of {source} by the door.,smell,0,native-L23,3.4578490406191955
+celery-smell-21,celery,a smell of {source} drifts over to you.,smell,0,native-L23,2.4198604880544523
+celery-smell-22,celery,you can smell {source} from down the hall.,smell,0,native-L23,1.871234810552404
+celery-smell-23,celery,a smell of {source} drifts over to you from the kitchen.,smell,0,native-L23,2.2476511969828445
+celery-smell-24,celery,"as you walk in, you smell {source}.",smell,0,native-L23,2.110153714645981
+celery-smell-26,celery,you notice the smell of {source}.,smell,0,native-L23,2.594333477755619
+celery-smell-28,celery,you smell {source} from the next room.,smell,0,native-L23,2.127837853154042
+celery-smell-29,celery,you smell {source}.,smell,0,native-L23,2.3818407538019493
+celery-smell-31,celery,you get a whiff of {source}.,smell,0,native-L23,2.7525465943970753
+celery-smell-32,celery,you get a whiff of {source}.,smell,0,native-L23,2.591728345147482
+celery-smell-33,celery,you can smell {source} by the door.,smell,0,native-L23,2.0395176983348655
+celery-smell-35,celery,you get a whiff of {source}.,smell,0,native-L23,1.9549056461248615
+celery-smell-36,celery,you get a whiff of {source}.,smell,0,native-L23,2.702848202246078
+celery-smell-37,celery,you notice the smell of {source}.,smell,0,native-L23,2.658064917624798
+celery-smell-38,celery,a smell of {source} drifts over to you.,smell,0,native-L23,2.567134689154262
+celery-smell-40,celery,you breathe in and smell {source}.,smell,0,native-L23,2.744125091559823
+celery-smell-41,celery,you breathe in and smell {source}.,smell,0,native-L23,2.039581428768102
+celery-smell-42,celery,a smell of {source} drifts over to you.,smell,0,native-L23,2.479319481664298
+celery-smell-44,celery,"as you walk in, you smell {source}.",smell,0,native-L23,2.660084551694032
+celery-smell-48,celery,"as you walk in, you smell {source}.",smell,0,native-L23,2.2852217556731516
+celery-smell-50,celery,there is a smell of {source} in the air around you from down the hall.,smell,0,native-L23,2.7217010049395913
+celery-smell-51,celery,the air around you smells of {source} from the kitchen.,smell,0,native-L23,3.4135567512147884
+celery-smell-52,celery,you can smell {source}.,smell,0,native-L23,2.169319716379756
+celery-see-01,celery,you spot {source}.,see,0,native-L23,-2.6430148514098
+celery-see-02,celery,there is {source} in front of you.,see,0,native-L23,-2.5485314258564777
+celery-see-03,celery,{source} is right there where you can see it.,see,0,native-L23,-2.5987741537811697
+celery-see-05,celery,{source} is right there where you can see it.,see,0,native-L23,-2.2725525062763676
+celery-see-06,celery,{source} is right there where you can see it.,see,0,native-L23,-2.4076977501425
+celery-see-07,celery,there is {source} in front of you.,see,0,native-L23,-3.8208904801938983
+celery-see-08,celery,you notice {source}.,see,0,native-L23,-2.8207996997021443
+celery-see-09,celery,there is {source} in front of you.,see,0,native-L23,-3.477675888343618
+celery-see-11,celery,you look over and see {source}.,see,0,native-L23,-2.5956551540081088
+celery-see-17,celery,{source} is right there where you can see it.,see,0,native-L23,-2.439439648131966
+celery-see-20,celery,you spot {source}.,see,0,native-L23,-2.767475474247762
+celery-see-22,celery,"as you walk in, you see {source}.",see,0,native-L23,-2.254872379322185
+celery-see-25,celery,you notice {source}.,see,0,native-L23,-1.6972719908130651
+celery-see-27,celery,you look over and see {source}.,see,0,native-L23,-1.9788477762129986
+celery-see-28,celery,there is {source} in front of you.,see,0,native-L23,-3.440200625251429
+celery-see-30,celery,you notice {source}.,see,0,native-L23,-2.1954787662220405
+celery-see-31,celery,there is {source} in front of you.,see,0,native-L23,-3.1658001392572257
+celery-see-33,celery,you look over and see {source}.,see,0,native-L23,-2.570489157774677
+celery-see-34,celery,{source} is right there where you can see it.,see,0,native-L23,-2.8217036050084365
+celery-see-37,celery,there is {source} in front of you.,see,0,native-L23,-3.1885829331322757
+celery-see-38,celery,you spot {source}.,see,0,native-L23,-1.8330702707666475
+celery-see-40,celery,{source} is right there where you can see it.,see,0,native-L23,-2.4229991779155453
+celery-see-41,celery,there is {source} in front of you.,see,0,native-L23,-3.3730293494285393
+celery-see-44,celery,you notice {source}.,see,0,native-L23,-2.247752773749485
+celery-see-45,celery,"as you walk in, you see {source}.",see,0,native-L23,-2.1469925507675667
+celery-see-49,celery,you spot {source}.,see,0,native-L23,-2.286862374274766
+celery-see-52,celery,{source} is right there where you can see it.,see,0,native-L23,-2.6271854208187184
+celery-smell-03,celery,there is a smell of {source} in the air around you.,smell,0,native-L47,1.6269668893726172
+celery-smell-05,celery,the air around you smells of {source} by the door.,smell,0,native-L47,7.748807932106496
+celery-smell-08,celery,"as you walk in, you smell {source}.",smell,0,native-L47,2.3959284455640417
+celery-smell-10,celery,you can smell {source}.,smell,0,native-L47,2.794465213166272
+celery-smell-12,celery,the air around you smells of {source} by the door.,smell,0,native-L47,7.531237026597827
+celery-smell-14,celery,the smell of {source} reaches you from the next room.,smell,0,native-L47,4.239440427888374
+celery-smell-16,celery,"as you walk in, you smell {source}.",smell,0,native-L47,1.9314850895523834
+celery-smell-19,celery,the air around you smells of {source} by the door.,smell,0,native-L47,7.015556492013886
+celery-smell-21,celery,a smell of {source} drifts over to you.,smell,0,native-L47,3.8040666083570205
+celery-smell-22,celery,you can smell {source} from down the hall.,smell,0,native-L47,3.587909764562879
+celery-smell-23,celery,a smell of {source} drifts over to you from the kitchen.,smell,0,native-L47,5.20167514946886
+celery-smell-24,celery,"as you walk in, you smell {source}.",smell,0,native-L47,4.11399809568977
+celery-smell-26,celery,you notice the smell of {source}.,smell,0,native-L47,2.2469348173189605
+celery-smell-28,celery,you smell {source} from the next room.,smell,0,native-L47,4.801839962626872
+celery-smell-29,celery,you smell {source}.,smell,0,native-L47,0.7311418479287308
+celery-smell-31,celery,you get a whiff of {source}.,smell,0,native-L47,3.892421745112105
+celery-smell-32,celery,you get a whiff of {source}.,smell,0,native-L47,3.688565883589587
+celery-smell-33,celery,you can smell {source} by the door.,smell,0,native-L47,4.411532540424892
+celery-smell-35,celery,you get a whiff of {source}.,smell,0,native-L47,2.380241971764381
+celery-smell-36,celery,you get a whiff of {source}.,smell,0,native-L47,4.745337235113282
+celery-smell-37,celery,you notice the smell of {source}.,smell,0,native-L47,1.5721039715459912
+celery-smell-38,celery,a smell of {source} drifts over to you.,smell,0,native-L47,4.819421512463829
+celery-smell-40,celery,you breathe in and smell {source}.,smell,0,native-L47,2.688899849019966
+celery-smell-41,celery,you breathe in and smell {source}.,smell,0,native-L47,2.239379689698694
+celery-smell-42,celery,a smell of {source} drifts over to you.,smell,0,native-L47,4.4684525537094455
+celery-smell-44,celery,"as you walk in, you smell {source}.",smell,0,native-L47,3.3923791896379045
+celery-smell-48,celery,"as you walk in, you smell {source}.",smell,0,native-L47,2.5771692209370523
+celery-smell-50,celery,there is a smell of {source} in the air around you from down the hall.,smell,0,native-L47,4.286944042338214
+celery-smell-51,celery,the air around you smells of {source} from the kitchen.,smell,0,native-L47,7.234929988650236
+celery-smell-52,celery,you can smell {source}.,smell,0,native-L47,1.2719926090553657
+celery-see-01,celery,you spot {source}.,see,0,native-L47,-5.635741694702969
+celery-see-02,celery,there is {source} in front of you.,see,0,native-L47,-3.888936469213707
+celery-see-03,celery,{source} is right there where you can see it.,see,0,native-L47,-2.1632329273874733
+celery-see-05,celery,{source} is right there where you can see it.,see,0,native-L47,-0.7635035819707836
+celery-see-06,celery,{source} is right there where you can see it.,see,0,native-L47,-1.520480443587806
+celery-see-07,celery,there is {source} in front of you.,see,0,native-L47,-6.417312042381978
+celery-see-08,celery,you notice {source}.,see,0,native-L47,-6.43738064667305
+celery-see-09,celery,there is {source} in front of you.,see,0,native-L47,-6.461363750536252
+celery-see-11,celery,you look over and see {source}.,see,0,native-L47,-3.240138946550965
+celery-see-17,celery,{source} is right there where you can see it.,see,0,native-L47,-1.4940154753212558
+celery-see-20,celery,you spot {source}.,see,0,native-L47,-5.677040184042058
+celery-see-22,celery,"as you walk in, you see {source}.",see,0,native-L47,-3.4365366566582862
+celery-see-25,celery,you notice {source}.,see,0,native-L47,-6.453251594936058
+celery-see-27,celery,you look over and see {source}.,see,0,native-L47,-2.8690531896652445
+celery-see-28,celery,there is {source} in front of you.,see,0,native-L47,-5.726393093027482
+celery-see-30,celery,you notice {source}.,see,0,native-L47,-6.28468499355033
+celery-see-31,celery,there is {source} in front of you.,see,0,native-L47,-4.976502552376421
+celery-see-33,celery,you look over and see {source}.,see,0,native-L47,-2.9391553804520023
+celery-see-34,celery,{source} is right there where you can see it.,see,0,native-L47,-1.7818316408919248
+celery-see-37,celery,there is {source} in front of you.,see,0,native-L47,-6.232850053955885
+celery-see-38,celery,you spot {source}.,see,0,native-L47,-3.770812100022548
+celery-see-40,celery,{source} is right there where you can see it.,see,0,native-L47,-1.1823359342075268
+celery-see-41,celery,there is {source} in front of you.,see,0,native-L47,-5.910321354348358
+celery-see-44,celery,you notice {source}.,see,0,native-L47,-5.127824487360685
+celery-see-45,celery,"as you walk in, you see {source}.",see,0,native-L47,-4.89176322207751
+celery-see-49,celery,you spot {source}.,see,0,native-L47,-6.7123052874229066
+celery-see-52,celery,{source} is right there where you can see it.,see,0,native-L47,-0.6230655833146912
+celery-smell-03,celery,there is a smell of {source} in the air around you.,smell,0,native-L71,4.851359827806112
+celery-smell-05,celery,the air around you smells of {source} by the door.,smell,0,native-L71,7.518174390422762
+celery-smell-08,celery,"as you walk in, you smell {source}.",smell,0,native-L71,-1.6451868204150004
+celery-smell-10,celery,you can smell {source}.,smell,0,native-L71,8.403371093524953
+celery-smell-12,celery,the air around you smells of {source} by the door.,smell,0,native-L71,8.381970661804283
+celery-smell-14,celery,the smell of {source} reaches you from the next room.,smell,0,native-L71,1.845570473802835
+celery-smell-16,celery,"as you walk in, you smell {source}.",smell,0,native-L71,-0.12387945836318079
+celery-smell-19,celery,the air around you smells of {source} by the door.,smell,0,native-L71,5.94217568335201
+celery-smell-21,celery,a smell of {source} drifts over to you.,smell,0,native-L71,7.518982776969455
+celery-smell-22,celery,you can smell {source} from down the hall.,smell,0,native-L71,4.459978476113979
+celery-smell-23,celery,a smell of {source} drifts over to you from the kitchen.,smell,0,native-L71,3.925754422449418
+celery-smell-24,celery,"as you walk in, you smell {source}.",smell,0,native-L71,1.1281774460428677
+celery-smell-26,celery,you notice the smell of {source}.,smell,0,native-L71,8.014591820346325
+celery-smell-28,celery,you smell {source} from the next room.,smell,0,native-L71,4.346497059531568
+celery-smell-29,celery,you smell {source}.,smell,0,native-L71,7.098327151257234
+celery-smell-31,celery,you get a whiff of {source}.,smell,0,native-L71,10.034406836826063
+celery-smell-32,celery,you get a whiff of {source}.,smell,0,native-L71,9.777223716062723
+celery-smell-33,celery,you can smell {source} by the door.,smell,0,native-L71,6.955683973865833
+celery-smell-35,celery,you get a whiff of {source}.,smell,0,native-L71,8.910878445050157
+celery-smell-36,celery,you get a whiff of {source}.,smell,0,native-L71,10.69154975717917
+celery-smell-37,celery,you notice the smell of {source}.,smell,0,native-L71,8.957118512399894
+celery-smell-38,celery,a smell of {source} drifts over to you.,smell,0,native-L71,8.126149506490744
+celery-smell-40,celery,you breathe in and smell {source}.,smell,0,native-L71,5.867491074062977
+celery-smell-41,celery,you breathe in and smell {source}.,smell,0,native-L71,6.5723257816294405
+celery-smell-42,celery,a smell of {source} drifts over to you.,smell,0,native-L71,9.530960047771462
+celery-smell-44,celery,"as you walk in, you smell {source}.",smell,0,native-L71,-2.5600626707643
+celery-smell-48,celery,"as you walk in, you smell {source}.",smell,0,native-L71,-1.919298475400416
+celery-smell-50,celery,there is a smell of {source} in the air around you from down the hall.,smell,0,native-L71,2.621976229576571
+celery-smell-51,celery,the air around you smells of {source} from the kitchen.,smell,0,native-L71,7.107816066384254
+celery-smell-52,celery,you can smell {source}.,smell,0,native-L71,3.9524512723955594
+celery-see-01,celery,you spot {source}.,see,0,native-L71,-5.75528985063157
+celery-see-02,celery,there is {source} in front of you.,see,0,native-L71,-8.242467344924666
+celery-see-03,celery,{source} is right there where you can see it.,see,0,native-L71,-6.027823406776754
+celery-see-05,celery,{source} is right there where you can see it.,see,0,native-L71,-0.8200984750806759
+celery-see-06,celery,{source} is right there where you can see it.,see,0,native-L71,-8.192198799212138
+celery-see-07,celery,there is {source} in front of you.,see,0,native-L71,-10.276486601666889
+celery-see-08,celery,you notice {source}.,see,0,native-L71,-7.183517720559747
+celery-see-09,celery,there is {source} in front of you.,see,0,native-L71,-11.990898847166218
+celery-see-11,celery,you look over and see {source}.,see,0,native-L71,-5.44374389457817
+celery-see-17,celery,{source} is right there where you can see it.,see,0,native-L71,1.9815099535536316
+celery-see-20,celery,you spot {source}.,see,0,native-L71,-1.0208562598163229
+celery-see-22,celery,"as you walk in, you see {source}.",see,0,native-L71,1.0890560034860197
+celery-see-25,celery,you notice {source}.,see,0,native-L71,1.7633023836512938
+celery-see-27,celery,you look over and see {source}.,see,0,native-L71,-1.7531456026995835
+celery-see-28,celery,there is {source} in front of you.,see,0,native-L71,-10.446452923711792
+celery-see-30,celery,you notice {source}.,see,0,native-L71,-6.327011444327269
+celery-see-31,celery,there is {source} in front of you.,see,0,native-L71,-10.866142024147026
+celery-see-33,celery,you look over and see {source}.,see,0,native-L71,0.3118827549386647
+celery-see-34,celery,{source} is right there where you can see it.,see,0,native-L71,-6.3479639175928835
+celery-see-37,celery,there is {source} in front of you.,see,0,native-L71,-11.42343110258091
+celery-see-38,celery,you spot {source}.,see,0,native-L71,-2.0327140919109277
+celery-see-40,celery,{source} is right there where you can see it.,see,0,native-L71,-2.0958666881658075
+celery-see-41,celery,there is {source} in front of you.,see,0,native-L71,-10.459642146719808
+celery-see-44,celery,you notice {source}.,see,0,native-L71,-3.9573747305055598
+celery-see-45,celery,"as you walk in, you see {source}.",see,0,native-L71,0.03935406056163046
+celery-see-49,celery,you spot {source}.,see,0,native-L71,-0.005455345001688594
+celery-see-52,celery,{source} is right there where you can see it.,see,0,native-L71,-0.7922523975767081
+celery-smell-00,celery,the smell of {source} reaches you.,smell,1,text-char-ngrams,0.056711925237046545
+celery-smell-01,celery,you pick up the scent of {source}.,smell,1,text-char-ngrams,-0.006602526746268053
+celery-smell-02,celery,there is a smell of {source} in the air around you from the kitchen.,smell,1,text-char-ngrams,0.06638703453477149
+celery-smell-04,celery,you catch the smell of {source} as you walk in.,smell,1,text-char-ngrams,0.058667724014859146
+celery-smell-06,celery,you catch the smell of {source}.,smell,1,text-char-ngrams,0.07891500703968862
+celery-smell-07,celery,the smell of {source} reaches you.,smell,1,text-char-ngrams,0.0647587548663404
+celery-smell-09,celery,there is a smell of {source} in the air around you from the kitchen.,smell,1,text-char-ngrams,0.07202347113534943
+celery-smell-11,celery,you pick up the scent of {source}.,smell,1,text-char-ngrams,-0.006272448828091982
+celery-smell-13,celery,you pick up the scent of {source}.,smell,1,text-char-ngrams,-0.006927483006512242
+celery-smell-15,celery,you pick up the scent of {source}.,smell,1,text-char-ngrams,-0.012311534514883631
+celery-smell-17,celery,you catch the smell of {source}.,smell,1,text-char-ngrams,0.0765829611331794
+celery-smell-18,celery,you notice the smell of {source} as you walk in.,smell,1,text-char-ngrams,0.054861669357057274
+celery-smell-20,celery,the air around you smells of {source}.,smell,1,text-char-ngrams,0.06658373462958372
+celery-smell-25,celery,you notice the smell of {source} as you walk in.,smell,1,text-char-ngrams,0.056899499158183695
+celery-smell-27,celery,the smell of {source} reaches you.,smell,1,text-char-ngrams,0.06117444375499065
+celery-smell-30,celery,the smell of {source} reaches you.,smell,1,text-char-ngrams,0.05594270244668369
+celery-smell-34,celery,the air around you smells of {source}.,smell,1,text-char-ngrams,0.07450830212043638
+celery-smell-39,celery,you catch the smell of {source} as you walk in.,smell,1,text-char-ngrams,0.06448704947221151
+celery-smell-43,celery,you pick up the scent of {source}.,smell,1,text-char-ngrams,-0.006208948804515106
+celery-smell-45,celery,you catch the smell of {source}.,smell,1,text-char-ngrams,0.08950152466529335
+celery-smell-46,celery,you pick up the scent of {source}.,smell,1,text-char-ngrams,-0.006167530999107161
+celery-smell-47,celery,the smell of {source} reaches you by the door.,smell,1,text-char-ngrams,0.05859609412796573
+celery-smell-49,celery,the smell of {source} reaches you.,smell,1,text-char-ngrams,0.05779067391290946
+celery-smell-53,celery,the air around you smells of {source}.,smell,1,text-char-ngrams,0.07939542676682505
+celery-see-00,celery,you can see {source}.,see,1,text-char-ngrams,-0.04910343279771252
+celery-see-04,celery,you can see {source}.,see,1,text-char-ngrams,-0.03198856489048152
+celery-see-10,celery,you catch sight of {source}.,see,1,text-char-ngrams,-0.038566730874363735
+celery-see-12,celery,you can see {source}.,see,1,text-char-ngrams,-0.05482517021102053
+celery-see-13,celery,you can see {source}.,see,1,text-char-ngrams,-0.035302230270876284
+celery-see-14,celery,you are looking at {source}.,see,1,text-char-ngrams,-0.012718502850790545
+celery-see-15,celery,you can see {source}.,see,1,text-char-ngrams,-0.06432202612585322
+celery-see-16,celery,{source} sits in front of you.,see,1,text-char-ngrams,-0.06277954702676036
+celery-see-18,celery,you glance at {source}.,see,1,text-char-ngrams,-0.022024914673215077
+celery-see-19,celery,you glance at {source}.,see,1,text-char-ngrams,-0.02026783098287637
+celery-see-21,celery,you catch sight of {source}.,see,1,text-char-ngrams,-0.014987167721989963
+celery-see-23,celery,you are looking at {source}.,see,1,text-char-ngrams,-0.012687049951754027
+celery-see-24,celery,you catch sight of {source}.,see,1,text-char-ngrams,-0.0302641047938354
+celery-see-26,celery,you catch sight of {source}.,see,1,text-char-ngrams,-0.018875233394362294
+celery-see-29,celery,you catch sight of {source}.,see,1,text-char-ngrams,-0.029284975125386414
+celery-see-32,celery,you are looking at {source}.,see,1,text-char-ngrams,-0.03595148019558636
+celery-see-35,celery,you are looking at {source}.,see,1,text-char-ngrams,-0.02458399000704608
+celery-see-36,celery,you catch sight of {source}.,see,1,text-char-ngrams,-0.03417073211964501
+celery-see-39,celery,you glance at {source}.,see,1,text-char-ngrams,0.0003388661748605377
+celery-see-42,celery,you glance at {source}.,see,1,text-char-ngrams,-0.033038016832057746
+celery-see-43,celery,you see {source}.,see,1,text-char-ngrams,-0.036577293682604706
+celery-see-46,celery,you see {source}.,see,1,text-char-ngrams,-0.04261620774444022
+celery-see-47,celery,you can see {source}.,see,1,text-char-ngrams,-0.043049712177807
+celery-see-48,celery,you are looking at {source}.,see,1,text-char-ngrams,-0.025770281383881162
+celery-see-50,celery,you are looking at {source}.,see,1,text-char-ngrams,-0.03105255302374599
+celery-see-51,celery,you see {source}.,see,1,text-char-ngrams,-0.0719667425106898
+celery-see-53,celery,you can see {source}.,see,1,text-char-ngrams,-0.06425053957289065
+celery-smell-00,celery,the smell of {source} reaches you.,smell,1,native-L23,3.099421652616907
+celery-smell-01,celery,you pick up the scent of {source}.,smell,1,native-L23,2.7107533515526114
+celery-smell-02,celery,there is a smell of {source} in the air around you from the kitchen.,smell,1,native-L23,2.114710601603257
+celery-smell-04,celery,you catch the smell of {source} as you walk in.,smell,1,native-L23,2.2819432389169947
+celery-smell-06,celery,you catch the smell of {source}.,smell,1,native-L23,2.643147322170176
+celery-smell-07,celery,the smell of {source} reaches you.,smell,1,native-L23,3.0718282277719275
+celery-smell-09,celery,there is a smell of {source} in the air around you from the kitchen.,smell,1,native-L23,2.0651150782199803
+celery-smell-11,celery,you pick up the scent of {source}.,smell,1,native-L23,2.4119912548782936
+celery-smell-13,celery,you pick up the scent of {source}.,smell,1,native-L23,2.9323993439287883
+celery-smell-15,celery,you pick up the scent of {source}.,smell,1,native-L23,2.255308118262395
+celery-smell-17,celery,you catch the smell of {source}.,smell,1,native-L23,2.992369338936488
+celery-smell-18,celery,you notice the smell of {source} as you walk in.,smell,1,native-L23,2.04723753607824
+celery-smell-20,celery,the air around you smells of {source}.,smell,1,native-L23,3.142184627371461
+celery-smell-25,celery,you notice the smell of {source} as you walk in.,smell,1,native-L23,2.0952267002484515
+celery-smell-27,celery,the smell of {source} reaches you.,smell,1,native-L23,3.009228015167144
+celery-smell-30,celery,the smell of {source} reaches you.,smell,1,native-L23,2.751512501491292
+celery-smell-34,celery,the air around you smells of {source}.,smell,1,native-L23,3.270688403842817
+celery-smell-39,celery,you catch the smell of {source} as you walk in.,smell,1,native-L23,2.2293656328538205
+celery-smell-43,celery,you pick up the scent of {source}.,smell,1,native-L23,2.4593828230324233
+celery-smell-45,celery,you catch the smell of {source}.,smell,1,native-L23,2.977123901252381
+celery-smell-46,celery,you pick up the scent of {source}.,smell,1,native-L23,2.4297233534478524
+celery-smell-47,celery,the smell of {source} reaches you by the door.,smell,1,native-L23,2.249550554240619
+celery-smell-49,celery,the smell of {source} reaches you.,smell,1,native-L23,3.1374731664379905
+celery-smell-53,celery,the air around you smells of {source}.,smell,1,native-L23,3.615726610716849
+celery-see-00,celery,you can see {source}.,see,1,native-L23,-2.92889248399951
+celery-see-04,celery,you can see {source}.,see,1,native-L23,-2.5706252816806794
+celery-see-10,celery,you catch sight of {source}.,see,1,native-L23,-2.060501116090843
+celery-see-12,celery,you can see {source}.,see,1,native-L23,-3.26505262019296
+celery-see-13,celery,you can see {source}.,see,1,native-L23,-2.4983326904699776
+celery-see-14,celery,you are looking at {source}.,see,1,native-L23,-2.5383145835027023
+celery-see-15,celery,you can see {source}.,see,1,native-L23,-2.267253544561126
+celery-see-16,celery,{source} sits in front of you.,see,1,native-L23,-3.186140158461979
+celery-see-18,celery,you glance at {source}.,see,1,native-L23,-1.6302798142058859
+celery-see-19,celery,you glance at {source}.,see,1,native-L23,-1.9033108266563863
+celery-see-21,celery,you catch sight of {source}.,see,1,native-L23,-1.6468384647875323
+celery-see-23,celery,you are looking at {source}.,see,1,native-L23,-2.609982948954318
+celery-see-24,celery,you catch sight of {source}.,see,1,native-L23,-1.4321207748286018
+celery-see-26,celery,you catch sight of {source}.,see,1,native-L23,-0.9303734682487697
+celery-see-29,celery,you catch sight of {source}.,see,1,native-L23,-1.4270742453230842
+celery-see-32,celery,you are looking at {source}.,see,1,native-L23,-2.751021602105581
+celery-see-35,celery,you are looking at {source}.,see,1,native-L23,-3.0526368976706078
+celery-see-36,celery,you catch sight of {source}.,see,1,native-L23,-1.8197572254631795
+celery-see-39,celery,you glance at {source}.,see,1,native-L23,-0.7773339305986139
+celery-see-42,celery,you glance at {source}.,see,1,native-L23,-1.7824266558304256
+celery-see-43,celery,you see {source}.,see,1,native-L23,-2.555980491564216
+celery-see-46,celery,you see {source}.,see,1,native-L23,-2.4644071037617765
+celery-see-47,celery,you can see {source}.,see,1,native-L23,-2.732542699736775
+celery-see-48,celery,you are looking at {source}.,see,1,native-L23,-2.836403454619987
+celery-see-50,celery,you are looking at {source}.,see,1,native-L23,-2.296289323907521
+celery-see-51,celery,you see {source}.,see,1,native-L23,-2.548205337268259
+celery-see-53,celery,you can see {source}.,see,1,native-L23,-2.689961696155755
+celery-smell-00,celery,the smell of {source} reaches you.,smell,1,native-L47,4.979304058446295
+celery-smell-01,celery,you pick up the scent of {source}.,smell,1,native-L47,4.729583587345285
+celery-smell-02,celery,there is a smell of {source} in the air around you from the kitchen.,smell,1,native-L47,3.6871894767301425
+celery-smell-04,celery,you catch the smell of {source} as you walk in.,smell,1,native-L47,5.272478316910341
+celery-smell-06,celery,you catch the smell of {source}.,smell,1,native-L47,3.7559731574580573
+celery-smell-07,celery,the smell of {source} reaches you.,smell,1,native-L47,4.921721052407674
+celery-smell-09,celery,there is a smell of {source} in the air around you from the kitchen.,smell,1,native-L47,3.302078678294211
+celery-smell-11,celery,you pick up the scent of {source}.,smell,1,native-L47,4.8464269361722785
+celery-smell-13,celery,you pick up the scent of {source}.,smell,1,native-L47,4.2544923444348495
+celery-smell-15,celery,you pick up the scent of {source}.,smell,1,native-L47,3.7298063702168087
+celery-smell-17,celery,you catch the smell of {source}.,smell,1,native-L47,3.560061578264257
+celery-smell-18,celery,you notice the smell of {source} as you walk in.,smell,1,native-L47,3.336594067953346
+celery-smell-20,celery,the air around you smells of {source}.,smell,1,native-L47,6.6152990320789264
+celery-smell-25,celery,you notice the smell of {source} as you walk in.,smell,1,native-L47,2.9472751040053042
+celery-smell-27,celery,the smell of {source} reaches you.,smell,1,native-L47,3.7286620841308102
+celery-smell-30,celery,the smell of {source} reaches you.,smell,1,native-L47,5.105447974453299
+celery-smell-34,celery,the air around you smells of {source}.,smell,1,native-L47,5.637401988775039
+celery-smell-39,celery,you catch the smell of {source} as you walk in.,smell,1,native-L47,4.62900644164122
+celery-smell-43,celery,you pick up the scent of {source}.,smell,1,native-L47,3.7065036632781627
+celery-smell-45,celery,you catch the smell of {source}.,smell,1,native-L47,4.274625173688725
+celery-smell-46,celery,you pick up the scent of {source}.,smell,1,native-L47,3.719652470388975
+celery-smell-47,celery,the smell of {source} reaches you by the door.,smell,1,native-L47,4.5527213553562875
+celery-smell-49,celery,the smell of {source} reaches you.,smell,1,native-L47,3.9125977656904327
+celery-smell-53,celery,the air around you smells of {source}.,smell,1,native-L47,6.37485412478401
+celery-see-00,celery,you can see {source}.,see,1,native-L47,-5.004962373891911
+celery-see-04,celery,you can see {source}.,see,1,native-L47,-4.242034761514073
+celery-see-10,celery,you catch sight of {source}.,see,1,native-L47,-3.052645154755448
+celery-see-12,celery,you can see {source}.,see,1,native-L47,-4.824256378222136
+celery-see-13,celery,you can see {source}.,see,1,native-L47,-3.929019416426285
+celery-see-14,celery,you are looking at {source}.,see,1,native-L47,-4.752073618927975
+celery-see-15,celery,you can see {source}.,see,1,native-L47,-3.3277612528724925
+celery-see-16,celery,{source} sits in front of you.,see,1,native-L47,-3.4157578529825825
+celery-see-18,celery,you glance at {source}.,see,1,native-L47,-1.1179637307283086
+celery-see-19,celery,you glance at {source}.,see,1,native-L47,-2.0809677459097036
+celery-see-21,celery,you catch sight of {source}.,see,1,native-L47,-1.3997545619430412
+celery-see-23,celery,you are looking at {source}.,see,1,native-L47,-4.862806254632682
+celery-see-24,celery,you catch sight of {source}.,see,1,native-L47,-1.1387942075588908
+celery-see-26,celery,you catch sight of {source}.,see,1,native-L47,-0.20080729672181813
+celery-see-29,celery,you catch sight of {source}.,see,1,native-L47,-1.615396916296811
+celery-see-32,celery,you are looking at {source}.,see,1,native-L47,-4.692123504220238
+celery-see-35,celery,you are looking at {source}.,see,1,native-L47,-4.784654710739206
+celery-see-36,celery,you catch sight of {source}.,see,1,native-L47,-1.906914203499574
+celery-see-39,celery,you glance at {source}.,see,1,native-L47,0.27619886085842105
+celery-see-42,celery,you glance at {source}.,see,1,native-L47,-2.7595986123488663
+celery-see-43,celery,you see {source}.,see,1,native-L47,-4.290127803245627
+celery-see-46,celery,you see {source}.,see,1,native-L47,-3.8114429877726312
+celery-see-47,celery,you can see {source}.,see,1,native-L47,-4.7505570385289
+celery-see-48,celery,you are looking at {source}.,see,1,native-L47,-4.668404163554394
+celery-see-50,celery,you are looking at {source}.,see,1,native-L47,-4.4668607673156435
+celery-see-51,celery,you see {source}.,see,1,native-L47,-4.668380175239204
+celery-see-53,celery,you can see {source}.,see,1,native-L47,-4.671845501473102
+celery-smell-00,celery,the smell of {source} reaches you.,smell,1,native-L71,13.537809580589839
+celery-smell-01,celery,you pick up the scent of {source}.,smell,1,native-L71,9.287342725700697
+celery-smell-02,celery,there is a smell of {source} in the air around you from the kitchen.,smell,1,native-L71,5.098137824516603
+celery-smell-04,celery,you catch the smell of {source} as you walk in.,smell,1,native-L71,12.437345407230879
+celery-smell-06,celery,you catch the smell of {source}.,smell,1,native-L71,9.960638985669112
+celery-smell-07,celery,the smell of {source} reaches you.,smell,1,native-L71,13.788128808759186
+celery-smell-09,celery,there is a smell of {source} in the air around you from the kitchen.,smell,1,native-L71,3.4336800272295034
+celery-smell-11,celery,you pick up the scent of {source}.,smell,1,native-L71,11.1597090545165
+celery-smell-13,celery,you pick up the scent of {source}.,smell,1,native-L71,6.748514725705709
+celery-smell-15,celery,you pick up the scent of {source}.,smell,1,native-L71,8.063152339097893
+celery-smell-17,celery,you catch the smell of {source}.,smell,1,native-L71,0.9140377009626124
+celery-smell-18,celery,you notice the smell of {source} as you walk in.,smell,1,native-L71,12.691746033528371
+celery-smell-20,celery,the air around you smells of {source}.,smell,1,native-L71,11.114641983622693
+celery-smell-25,celery,you notice the smell of {source} as you walk in.,smell,1,native-L71,12.52070416229016
+celery-smell-27,celery,the smell of {source} reaches you.,smell,1,native-L71,12.957712390819243
+celery-smell-30,celery,the smell of {source} reaches you.,smell,1,native-L71,13.033801156152524
+celery-smell-34,celery,the air around you smells of {source}.,smell,1,native-L71,5.754579701111611
+celery-smell-39,celery,you catch the smell of {source} as you walk in.,smell,1,native-L71,13.113437914326216
+celery-smell-43,celery,you pick up the scent of {source}.,smell,1,native-L71,7.613410935361191
+celery-smell-45,celery,you catch the smell of {source}.,smell,1,native-L71,5.052490052628379
+celery-smell-46,celery,you pick up the scent of {source}.,smell,1,native-L71,7.250678463965128
+celery-smell-47,celery,the smell of {source} reaches you by the door.,smell,1,native-L71,10.714128441225707
+celery-smell-49,celery,the smell of {source} reaches you.,smell,1,native-L71,12.539630987880496
+celery-smell-53,celery,the air around you smells of {source}.,smell,1,native-L71,0.867036993587134
+celery-see-00,celery,you can see {source}.,see,1,native-L71,3.8732862433581436
+celery-see-04,celery,you can see {source}.,see,1,native-L71,2.1070533139227665
+celery-see-10,celery,you catch sight of {source}.,see,1,native-L71,-5.297389793932378
+celery-see-12,celery,you can see {source}.,see,1,native-L71,-1.7346009015183
+celery-see-13,celery,you can see {source}.,see,1,native-L71,4.413283154989847
+celery-see-14,celery,you are looking at {source}.,see,1,native-L71,3.2560660937584185
+celery-see-15,celery,you can see {source}.,see,1,native-L71,0.0018542320206930973
+celery-see-16,celery,{source} sits in front of you.,see,1,native-L71,-11.402957042741726
+celery-see-18,celery,you glance at {source}.,see,1,native-L71,8.387630486797502
+celery-see-19,celery,you glance at {source}.,see,1,native-L71,5.091769678152978
+celery-see-21,celery,you catch sight of {source}.,see,1,native-L71,8.146973135724721
+celery-see-23,celery,you are looking at {source}.,see,1,native-L71,-7.483178843501646
+celery-see-24,celery,you catch sight of {source}.,see,1,native-L71,3.2946444228491414
+celery-see-26,celery,you catch sight of {source}.,see,1,native-L71,1.5261530281802071
+celery-see-29,celery,you catch sight of {source}.,see,1,native-L71,7.039095222082174
+celery-see-32,celery,you are looking at {source}.,see,1,native-L71,-7.841291171156714
+celery-see-35,celery,you are looking at {source}.,see,1,native-L71,-8.645950499877467
+celery-see-36,celery,you catch sight of {source}.,see,1,native-L71,1.3977458579204138
+celery-see-39,celery,you glance at {source}.,see,1,native-L71,3.8127932079953992
+celery-see-42,celery,you glance at {source}.,see,1,native-L71,3.322112429351732
+celery-see-43,celery,you see {source}.,see,1,native-L71,3.7483343098273867
+celery-see-46,celery,you see {source}.,see,1,native-L71,5.396234568020973
+celery-see-47,celery,you can see {source}.,see,1,native-L71,-1.7713268206584747
+celery-see-48,celery,you are looking at {source}.,see,1,native-L71,-8.589337956634296
+celery-see-50,celery,you are looking at {source}.,see,1,native-L71,-9.25908784179503
+celery-see-51,celery,you see {source}.,see,1,native-L71,-10.08354295411479
+celery-see-53,celery,you can see {source}.,see,1,native-L71,-1.7071334865238128
+cookies-smell-01,cookies,you can smell {source}.,smell,0,text-char-ngrams,-0.05046904580158197
+cookies-smell-02,cookies,the air around you smells of {source} from the kitchen.,smell,0,text-char-ngrams,0.14055969050836287
+cookies-smell-05,cookies,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.06647148687299359
+cookies-smell-06,cookies,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.0070612334129675595
+cookies-smell-07,cookies,there is a smell of {source} in the air around you.,smell,0,text-char-ngrams,0.09378096166989436
+cookies-smell-08,cookies,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.02495296377042672
+cookies-smell-09,cookies,a smell of {source} drifts over to you from the kitchen.,smell,0,text-char-ngrams,0.07915037278313589
+cookies-smell-11,cookies,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.023724880619715925
+cookies-smell-12,cookies,there is a smell of {source} in the air around you.,smell,0,text-char-ngrams,0.0611726675365325
+cookies-smell-14,cookies,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.01923823082027161
+cookies-smell-16,cookies,you smell {source}.,smell,0,text-char-ngrams,0.04621213696053639
+cookies-smell-20,cookies,you notice the smell of {source}.,smell,0,text-char-ngrams,0.0739380572401943
+cookies-smell-23,cookies,there is a smell of {source} in the air around you.,smell,0,text-char-ngrams,0.096482233458866
+cookies-smell-24,cookies,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.022334268464516395
+cookies-smell-25,cookies,you smell {source}.,smell,0,text-char-ngrams,-0.007653036853127347
+cookies-smell-26,cookies,you can smell {source} by the door.,smell,0,text-char-ngrams,0.01936319397797663
+cookies-smell-27,cookies,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.0006981368122461595
+cookies-smell-28,cookies,you notice the smell of {source}.,smell,0,text-char-ngrams,0.04927493830935626
+cookies-smell-30,cookies,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.01605053538261796
+cookies-smell-31,cookies,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.07469066030163793
+cookies-smell-33,cookies,you get a whiff of {source} by the door.,smell,0,text-char-ngrams,0.0020652900514164458
+cookies-smell-34,cookies,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.029679139857997403
+cookies-smell-35,cookies,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.03937478335703466
+cookies-smell-36,cookies,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.07482539371885238
+cookies-smell-37,cookies,you notice the smell of {source}.,smell,0,text-char-ngrams,0.07947685341766444
+cookies-smell-38,cookies,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.0812351301783946
+cookies-smell-40,cookies,you smell {source} by the door.,smell,0,text-char-ngrams,0.06935564915347865
+cookies-smell-41,cookies,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.09674333641347765
+cookies-smell-43,cookies,you can smell {source}.,smell,0,text-char-ngrams,-0.01926132992861836
+cookies-smell-45,cookies,you smell {source}.,smell,0,text-char-ngrams,0.06514780460472999
+cookies-smell-47,cookies,you can smell {source}.,smell,0,text-char-ngrams,-0.02949348294343515
+cookies-smell-48,cookies,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.048972138844369226
+cookies-smell-49,cookies,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.0873674760725073
+cookies-smell-51,cookies,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.07253802892468406
+cookies-smell-52,cookies,you can smell {source}.,smell,0,text-char-ngrams,-0.005412403407798192
+cookies-see-01,cookies,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.07519935439950698
+cookies-see-02,cookies,you spot {source}.,see,0,text-char-ngrams,-0.03711676916916265
+cookies-see-06,cookies,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.0663292827215018
+cookies-see-07,cookies,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.020258112896083993
+cookies-see-08,cookies,you notice {source}.,see,0,text-char-ngrams,-0.04639674588788169
+cookies-see-09,cookies,you spot {source}.,see,0,text-char-ngrams,-0.05149249619474321
+cookies-see-10,cookies,you spot {source}.,see,0,text-char-ngrams,-0.05663154623929384
+cookies-see-12,cookies,there is {source} in front of you.,see,0,text-char-ngrams,-0.05118336992491235
+cookies-see-13,cookies,you spot {source}.,see,0,text-char-ngrams,-0.06757248863588355
+cookies-see-14,cookies,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.08419514509988432
+cookies-see-15,cookies,you look over and see {source}.,see,0,text-char-ngrams,-0.06665572425156455
+cookies-see-16,cookies,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.026433799579859158
+cookies-see-17,cookies,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.0965743515382267
+cookies-see-19,cookies,you look over and see {source}.,see,0,text-char-ngrams,-0.06363806276966898
+cookies-see-21,cookies,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.07141318853260654
+cookies-see-23,cookies,you spot {source}.,see,0,text-char-ngrams,-0.04837596371073776
+cookies-see-30,cookies,there is {source} in front of you.,see,0,text-char-ngrams,-0.04781851295408032
+cookies-see-33,cookies,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.03427856469392574
+cookies-see-36,cookies,you notice {source}.,see,0,text-char-ngrams,-0.023006275843408544
+cookies-see-39,cookies,there is {source} in front of you.,see,0,text-char-ngrams,-0.04502794084600427
+cookies-see-40,cookies,you spot {source}.,see,0,text-char-ngrams,-0.04563569982944154
+cookies-see-41,cookies,you notice {source}.,see,0,text-char-ngrams,-0.0706382216515103
+cookies-see-42,cookies,you look over and see {source}.,see,0,text-char-ngrams,-0.07191142087085318
+cookies-see-43,cookies,you spot {source}.,see,0,text-char-ngrams,-0.04447230859599038
+cookies-see-44,cookies,there is {source} in front of you.,see,0,text-char-ngrams,-0.06345455088092321
+cookies-see-45,cookies,there is {source} in front of you.,see,0,text-char-ngrams,-0.04692965866452717
+cookies-see-48,cookies,you notice {source}.,see,0,text-char-ngrams,-0.037716738784551805
+cookies-see-51,cookies,you look over and see {source}.,see,0,text-char-ngrams,-0.06937745526336711
+cookies-smell-01,cookies,you can smell {source}.,smell,0,native-L23,1.1018362331142084
+cookies-smell-02,cookies,the air around you smells of {source} from the kitchen.,smell,0,native-L23,2.8965397974388822
+cookies-smell-05,cookies,"as you walk in, you smell {source}.",smell,0,native-L23,2.4667214282447456
+cookies-smell-06,cookies,you get a whiff of {source}.,smell,0,native-L23,1.7626363420702316
+cookies-smell-07,cookies,there is a smell of {source} in the air around you.,smell,0,native-L23,2.4971431751661513
+cookies-smell-08,cookies,a smell of {source} drifts over to you.,smell,0,native-L23,2.22798929392362
+cookies-smell-09,cookies,a smell of {source} drifts over to you from the kitchen.,smell,0,native-L23,1.9511203769543455
+cookies-smell-11,cookies,you breathe in and smell {source}.,smell,0,native-L23,2.372756282842121
+cookies-smell-12,cookies,there is a smell of {source} in the air around you.,smell,0,native-L23,2.4396888376604218
+cookies-smell-14,cookies,you breathe in and smell {source}.,smell,0,native-L23,2.508950727487436
+cookies-smell-16,cookies,you smell {source}.,smell,0,native-L23,2.4273282587518157
+cookies-smell-20,cookies,you notice the smell of {source}.,smell,0,native-L23,2.0442030392475194
+cookies-smell-23,cookies,there is a smell of {source} in the air around you.,smell,0,native-L23,2.3305108539827817
+cookies-smell-24,cookies,a smell of {source} drifts over to you.,smell,0,native-L23,2.59846543239519
+cookies-smell-25,cookies,you smell {source}.,smell,0,native-L23,2.114390023985315
+cookies-smell-26,cookies,you can smell {source} by the door.,smell,0,native-L23,1.4079205113257216
+cookies-smell-27,cookies,a smell of {source} drifts over to you.,smell,0,native-L23,2.2489128697057694
+cookies-smell-28,cookies,you notice the smell of {source}.,smell,0,native-L23,1.8039422199202795
+cookies-smell-30,cookies,you breathe in and smell {source}.,smell,0,native-L23,2.4476960923792372
+cookies-smell-31,cookies,"as you walk in, you smell {source}.",smell,0,native-L23,2.566568836840307
+cookies-smell-33,cookies,you get a whiff of {source} by the door.,smell,0,native-L23,2.2040714097504734
+cookies-smell-34,cookies,"as you walk in, you smell {source}.",smell,0,native-L23,1.9143853021178416
+cookies-smell-35,cookies,"as you walk in, you smell {source}.",smell,0,native-L23,1.85797923857211
+cookies-smell-36,cookies,"as you walk in, you smell {source}.",smell,0,native-L23,2.506845227617518
+cookies-smell-37,cookies,you notice the smell of {source}.,smell,0,native-L23,2.1981869144698822
+cookies-smell-38,cookies,"as you walk in, you smell {source}.",smell,0,native-L23,2.1534610257972613
+cookies-smell-40,cookies,you smell {source} by the door.,smell,0,native-L23,1.8305431358780662
+cookies-smell-41,cookies,"as you walk in, you smell {source}.",smell,0,native-L23,2.096356850778905
+cookies-smell-43,cookies,you can smell {source}.,smell,0,native-L23,1.6896421702376596
+cookies-smell-45,cookies,you smell {source}.,smell,0,native-L23,2.265136003306677
+cookies-smell-47,cookies,you can smell {source}.,smell,0,native-L23,2.1237131157599634
+cookies-smell-48,cookies,you get a whiff of {source}.,smell,0,native-L23,1.6654934787605993
+cookies-smell-49,cookies,"as you walk in, you smell {source}.",smell,0,native-L23,2.270525744684166
+cookies-smell-51,cookies,"as you walk in, you smell {source}.",smell,0,native-L23,2.3390675244334664
+cookies-smell-52,cookies,you can smell {source}.,smell,0,native-L23,1.8166391124809667
+cookies-see-01,cookies,{source} is right there where you can see it.,see,0,native-L23,-1.997189973715742
+cookies-see-02,cookies,you spot {source}.,see,0,native-L23,-2.495471408923968
+cookies-see-06,cookies,{source} is right there where you can see it.,see,0,native-L23,-2.7698289883218252
+cookies-see-07,cookies,"as you walk in, you see {source}.",see,0,native-L23,-2.202427326449885
+cookies-see-08,cookies,you notice {source}.,see,0,native-L23,-2.0984556585972083
+cookies-see-09,cookies,you spot {source}.,see,0,native-L23,-2.415598335396158
+cookies-see-10,cookies,you spot {source}.,see,0,native-L23,-2.122403812149906
+cookies-see-12,cookies,there is {source} in front of you.,see,0,native-L23,-3.2315466852534707
+cookies-see-13,cookies,you spot {source}.,see,0,native-L23,-2.3693699530687016
+cookies-see-14,cookies,{source} is right there where you can see it.,see,0,native-L23,-2.6876616286570396
+cookies-see-15,cookies,you look over and see {source}.,see,0,native-L23,-2.7396710386691066
+cookies-see-16,cookies,"as you walk in, you see {source}.",see,0,native-L23,-2.1235481289170703
+cookies-see-17,cookies,{source} is right there where you can see it.,see,0,native-L23,-2.9558134072877005
+cookies-see-19,cookies,you look over and see {source}.,see,0,native-L23,-2.8990744714905636
+cookies-see-21,cookies,{source} is right there where you can see it.,see,0,native-L23,-2.7378047439176894
+cookies-see-23,cookies,you spot {source}.,see,0,native-L23,-2.464090248185042
+cookies-see-30,cookies,there is {source} in front of you.,see,0,native-L23,-3.563885564326596
+cookies-see-33,cookies,"as you walk in, you see {source}.",see,0,native-L23,-1.816381300289588
+cookies-see-36,cookies,you notice {source}.,see,0,native-L23,-2.0346337829947627
+cookies-see-39,cookies,there is {source} in front of you.,see,0,native-L23,-3.2091290030309105
+cookies-see-40,cookies,you spot {source}.,see,0,native-L23,-2.529370947781472
+cookies-see-41,cookies,you notice {source}.,see,0,native-L23,-2.871486547896417
+cookies-see-42,cookies,you look over and see {source}.,see,0,native-L23,-2.5437938052858113
+cookies-see-43,cookies,you spot {source}.,see,0,native-L23,-2.383352150958429
+cookies-see-44,cookies,there is {source} in front of you.,see,0,native-L23,-3.0979127695056032
+cookies-see-45,cookies,there is {source} in front of you.,see,0,native-L23,-3.3818249753472207
+cookies-see-48,cookies,you notice {source}.,see,0,native-L23,-1.7109313392352772
+cookies-see-51,cookies,you look over and see {source}.,see,0,native-L23,-2.550897202662517
+cookies-smell-01,cookies,you can smell {source}.,smell,0,native-L47,0.7018822299946885
+cookies-smell-02,cookies,the air around you smells of {source} from the kitchen.,smell,0,native-L47,5.4178201931500904
+cookies-smell-05,cookies,"as you walk in, you smell {source}.",smell,0,native-L47,2.170349927760414
+cookies-smell-06,cookies,you get a whiff of {source}.,smell,0,native-L47,2.437131929159175
+cookies-smell-07,cookies,there is a smell of {source} in the air around you.,smell,0,native-L47,2.7656954005293137
+cookies-smell-08,cookies,a smell of {source} drifts over to you.,smell,0,native-L47,4.018368031101144
+cookies-smell-09,cookies,a smell of {source} drifts over to you from the kitchen.,smell,0,native-L47,4.037861523625125
+cookies-smell-11,cookies,you breathe in and smell {source}.,smell,0,native-L47,1.8737412308538235
+cookies-smell-12,cookies,there is a smell of {source} in the air around you.,smell,0,native-L47,2.974309826466898
+cookies-smell-14,cookies,you breathe in and smell {source}.,smell,0,native-L47,2.4133654679817247
+cookies-smell-16,cookies,you smell {source}.,smell,0,native-L47,1.5788644734323267
+cookies-smell-20,cookies,you notice the smell of {source}.,smell,0,native-L47,1.0399563708497808
+cookies-smell-23,cookies,there is a smell of {source} in the air around you.,smell,0,native-L47,1.9294780677007854
+cookies-smell-24,cookies,a smell of {source} drifts over to you.,smell,0,native-L47,4.596732916131252
+cookies-smell-25,cookies,you smell {source}.,smell,0,native-L47,-0.1634451008411785
+cookies-smell-26,cookies,you can smell {source} by the door.,smell,0,native-L47,2.5093658236538365
+cookies-smell-27,cookies,a smell of {source} drifts over to you.,smell,0,native-L47,5.175257502795272
+cookies-smell-28,cookies,you notice the smell of {source}.,smell,0,native-L47,1.800851168360602
+cookies-smell-30,cookies,you breathe in and smell {source}.,smell,0,native-L47,2.992148618143877
+cookies-smell-31,cookies,"as you walk in, you smell {source}.",smell,0,native-L47,1.9917037821316879
+cookies-smell-33,cookies,you get a whiff of {source} by the door.,smell,0,native-L47,6.533105453990496
+cookies-smell-34,cookies,"as you walk in, you smell {source}.",smell,0,native-L47,1.2795397158500195
+cookies-smell-35,cookies,"as you walk in, you smell {source}.",smell,0,native-L47,2.678288829522679
+cookies-smell-36,cookies,"as you walk in, you smell {source}.",smell,0,native-L47,3.007072416112497
+cookies-smell-37,cookies,you notice the smell of {source}.,smell,0,native-L47,1.117759968756361
+cookies-smell-38,cookies,"as you walk in, you smell {source}.",smell,0,native-L47,1.5346064233656591
+cookies-smell-40,cookies,you smell {source} by the door.,smell,0,native-L47,2.04869223573913
+cookies-smell-41,cookies,"as you walk in, you smell {source}.",smell,0,native-L47,2.4243877820792585
+cookies-smell-43,cookies,you can smell {source}.,smell,0,native-L47,0.7209756571528199
+cookies-smell-45,cookies,you smell {source}.,smell,0,native-L47,1.1458639645160469
+cookies-smell-47,cookies,you can smell {source}.,smell,0,native-L47,1.4775591287903165
+cookies-smell-48,cookies,you get a whiff of {source}.,smell,0,native-L47,3.050310075646049
+cookies-smell-49,cookies,"as you walk in, you smell {source}.",smell,0,native-L47,2.7607186180164893
+cookies-smell-51,cookies,"as you walk in, you smell {source}.",smell,0,native-L47,1.995285297702232
+cookies-smell-52,cookies,you can smell {source}.,smell,0,native-L47,1.572500581536706
+cookies-see-01,cookies,{source} is right there where you can see it.,see,0,native-L47,-0.44357612632821936
+cookies-see-02,cookies,you spot {source}.,see,0,native-L47,-5.394696255622874
+cookies-see-06,cookies,{source} is right there where you can see it.,see,0,native-L47,-2.413424351761551
+cookies-see-07,cookies,"as you walk in, you see {source}.",see,0,native-L47,-4.539761902960246
+cookies-see-08,cookies,you notice {source}.,see,0,native-L47,-5.145833784336677
+cookies-see-09,cookies,you spot {source}.,see,0,native-L47,-4.446808532821931
+cookies-see-10,cookies,you spot {source}.,see,0,native-L47,-5.654023115196474
+cookies-see-12,cookies,there is {source} in front of you.,see,0,native-L47,-4.7807049215659845
+cookies-see-13,cookies,you spot {source}.,see,0,native-L47,-4.045648253336388
+cookies-see-14,cookies,{source} is right there where you can see it.,see,0,native-L47,-2.274046910443514
+cookies-see-15,cookies,you look over and see {source}.,see,0,native-L47,-4.370775332157477
+cookies-see-16,cookies,"as you walk in, you see {source}.",see,0,native-L47,-4.435241808881513
+cookies-see-17,cookies,{source} is right there where you can see it.,see,0,native-L47,-2.5853830911888913
+cookies-see-19,cookies,you look over and see {source}.,see,0,native-L47,-4.9032712521012565
+cookies-see-21,cookies,{source} is right there where you can see it.,see,0,native-L47,-2.715920515467702
+cookies-see-23,cookies,you spot {source}.,see,0,native-L47,-4.755341622201795
+cookies-see-30,cookies,there is {source} in front of you.,see,0,native-L47,-6.525411529678658
+cookies-see-33,cookies,"as you walk in, you see {source}.",see,0,native-L47,-5.241692537172592
+cookies-see-36,cookies,you notice {source}.,see,0,native-L47,-5.381523140354082
+cookies-see-39,cookies,there is {source} in front of you.,see,0,native-L47,-5.686082685103343
+cookies-see-40,cookies,you spot {source}.,see,0,native-L47,-4.856965628420735
+cookies-see-41,cookies,you notice {source}.,see,0,native-L47,-6.1816477537137215
+cookies-see-42,cookies,you look over and see {source}.,see,0,native-L47,-4.182492112070171
+cookies-see-43,cookies,you spot {source}.,see,0,native-L47,-4.411648153578387
+cookies-see-44,cookies,there is {source} in front of you.,see,0,native-L47,-5.700367489337217
+cookies-see-45,cookies,there is {source} in front of you.,see,0,native-L47,-5.821451425525176
+cookies-see-48,cookies,you notice {source}.,see,0,native-L47,-6.908357869811501
+cookies-see-51,cookies,you look over and see {source}.,see,0,native-L47,-3.383474339741929
+cookies-smell-01,cookies,you can smell {source}.,smell,0,native-L71,6.75163146116091
+cookies-smell-02,cookies,the air around you smells of {source} from the kitchen.,smell,0,native-L71,6.601723120760656
+cookies-smell-05,cookies,"as you walk in, you smell {source}.",smell,0,native-L71,-0.5287495742224874
+cookies-smell-06,cookies,you get a whiff of {source}.,smell,0,native-L71,0.8844989710100575
+cookies-smell-07,cookies,there is a smell of {source} in the air around you.,smell,0,native-L71,2.1441749180614225
+cookies-smell-08,cookies,a smell of {source} drifts over to you.,smell,0,native-L71,6.042868882472831
+cookies-smell-09,cookies,a smell of {source} drifts over to you from the kitchen.,smell,0,native-L71,1.4582663224815116
+cookies-smell-11,cookies,you breathe in and smell {source}.,smell,0,native-L71,5.902447445212118
+cookies-smell-12,cookies,there is a smell of {source} in the air around you.,smell,0,native-L71,2.7242276457322
+cookies-smell-14,cookies,you breathe in and smell {source}.,smell,0,native-L71,6.883268590313271
+cookies-smell-16,cookies,you smell {source}.,smell,0,native-L71,4.611293149790098
+cookies-smell-20,cookies,you notice the smell of {source}.,smell,0,native-L71,5.556472630387962
+cookies-smell-23,cookies,there is a smell of {source} in the air around you.,smell,0,native-L71,1.7041961247114106
+cookies-smell-24,cookies,a smell of {source} drifts over to you.,smell,0,native-L71,5.660759416234475
+cookies-smell-25,cookies,you smell {source}.,smell,0,native-L71,6.437072464924212
+cookies-smell-26,cookies,you can smell {source} by the door.,smell,0,native-L71,2.138093685430435
+cookies-smell-27,cookies,a smell of {source} drifts over to you.,smell,0,native-L71,7.601814728183221
+cookies-smell-28,cookies,you notice the smell of {source}.,smell,0,native-L71,5.94959837789267
+cookies-smell-30,cookies,you breathe in and smell {source}.,smell,0,native-L71,7.278559812044498
+cookies-smell-31,cookies,"as you walk in, you smell {source}.",smell,0,native-L71,-0.5187491309913537
+cookies-smell-33,cookies,you get a whiff of {source} by the door.,smell,0,native-L71,3.0463436925026723
+cookies-smell-34,cookies,"as you walk in, you smell {source}.",smell,0,native-L71,-1.345749537484981
+cookies-smell-35,cookies,"as you walk in, you smell {source}.",smell,0,native-L71,0.6514558243398341
+cookies-smell-36,cookies,"as you walk in, you smell {source}.",smell,0,native-L71,0.33170082337389256
+cookies-smell-37,cookies,you notice the smell of {source}.,smell,0,native-L71,0.16705210300865822
+cookies-smell-38,cookies,"as you walk in, you smell {source}.",smell,0,native-L71,-0.8029868994255177
+cookies-smell-40,cookies,you smell {source} by the door.,smell,0,native-L71,1.3154816113850702
+cookies-smell-41,cookies,"as you walk in, you smell {source}.",smell,0,native-L71,-0.8703222008559283
+cookies-smell-43,cookies,you can smell {source}.,smell,0,native-L71,0.16813044000882163
+cookies-smell-45,cookies,you smell {source}.,smell,0,native-L71,7.159403423926049
+cookies-smell-47,cookies,you can smell {source}.,smell,0,native-L71,6.0549574590875785
+cookies-smell-48,cookies,you get a whiff of {source}.,smell,0,native-L71,6.292898187888439
+cookies-smell-49,cookies,"as you walk in, you smell {source}.",smell,0,native-L71,-0.3430127429853963
+cookies-smell-51,cookies,"as you walk in, you smell {source}.",smell,0,native-L71,-1.1059380583372496
+cookies-smell-52,cookies,you can smell {source}.,smell,0,native-L71,2.2877988484502434
+cookies-see-01,cookies,{source} is right there where you can see it.,see,0,native-L71,-2.786911087463391
+cookies-see-02,cookies,you spot {source}.,see,0,native-L71,-1.5480730198107966
+cookies-see-06,cookies,{source} is right there where you can see it.,see,0,native-L71,-2.2636373957922293
+cookies-see-07,cookies,"as you walk in, you see {source}.",see,0,native-L71,-6.528493639793014
+cookies-see-08,cookies,you notice {source}.,see,0,native-L71,-2.267445071314708
+cookies-see-09,cookies,you spot {source}.,see,0,native-L71,-2.8684449938016314
+cookies-see-10,cookies,you spot {source}.,see,0,native-L71,-5.2651498457298045
+cookies-see-12,cookies,there is {source} in front of you.,see,0,native-L71,-6.143097166807415
+cookies-see-13,cookies,you spot {source}.,see,0,native-L71,-2.405627991088439
+cookies-see-14,cookies,{source} is right there where you can see it.,see,0,native-L71,-4.5487057740695755
+cookies-see-15,cookies,you look over and see {source}.,see,0,native-L71,-3.905171949834533
+cookies-see-16,cookies,"as you walk in, you see {source}.",see,0,native-L71,-3.3454224101838
+cookies-see-17,cookies,{source} is right there where you can see it.,see,0,native-L71,-1.849949866654053
+cookies-see-19,cookies,you look over and see {source}.,see,0,native-L71,-3.5890416749325142
+cookies-see-21,cookies,{source} is right there where you can see it.,see,0,native-L71,-2.6494751433514407
+cookies-see-23,cookies,you spot {source}.,see,0,native-L71,-4.581360778723772
+cookies-see-30,cookies,there is {source} in front of you.,see,0,native-L71,-7.4695161237188685
+cookies-see-33,cookies,"as you walk in, you see {source}.",see,0,native-L71,-3.2236951273306746
+cookies-see-36,cookies,you notice {source}.,see,0,native-L71,-6.257951024544488
+cookies-see-39,cookies,there is {source} in front of you.,see,0,native-L71,-5.669892582754222
+cookies-see-40,cookies,you spot {source}.,see,0,native-L71,-5.412490611492911
+cookies-see-41,cookies,you notice {source}.,see,0,native-L71,-5.224797907636137
+cookies-see-42,cookies,you look over and see {source}.,see,0,native-L71,-2.86030135856803
+cookies-see-43,cookies,you spot {source}.,see,0,native-L71,-6.12140648409973
+cookies-see-44,cookies,there is {source} in front of you.,see,0,native-L71,-5.6681564564194975
+cookies-see-45,cookies,there is {source} in front of you.,see,0,native-L71,-7.162011715770846
+cookies-see-48,cookies,you notice {source}.,see,0,native-L71,-4.674289580823996
+cookies-see-51,cookies,you look over and see {source}.,see,0,native-L71,-1.2215731706379922
+cookies-smell-00,cookies,you catch the smell of {source} from the next room.,smell,1,text-char-ngrams,0.08620164586765358
+cookies-smell-03,cookies,you catch the smell of {source}.,smell,1,text-char-ngrams,0.08269054111850321
+cookies-smell-04,cookies,you catch the smell of {source}.,smell,1,text-char-ngrams,0.06795558403788345
+cookies-smell-10,cookies,the smell of {source} reaches you from somewhere nearby.,smell,1,text-char-ngrams,0.053663431199191425
+cookies-smell-13,cookies,the air around you smells of {source}.,smell,1,text-char-ngrams,0.06224532857518661
+cookies-smell-15,cookies,the smell of {source} reaches you.,smell,1,text-char-ngrams,0.05341183598566079
+cookies-smell-17,cookies,the air around you smells of {source}.,smell,1,text-char-ngrams,0.09398679613061216
+cookies-smell-18,cookies,the air around you smells of {source}.,smell,1,text-char-ngrams,0.09156064241469138
+cookies-smell-19,cookies,the air around you smells of {source}.,smell,1,text-char-ngrams,0.08139020919566453
+cookies-smell-21,cookies,you catch the smell of {source}.,smell,1,text-char-ngrams,0.08346271521305389
+cookies-smell-22,cookies,you breathe in and smell {source} from down the hall.,smell,1,text-char-ngrams,0.08848873741048477
+cookies-smell-29,cookies,you pick up the scent of {source}.,smell,1,text-char-ngrams,0.0030374021878249316
+cookies-smell-32,cookies,you pick up the scent of {source}.,smell,1,text-char-ngrams,-0.023246802107587193
+cookies-smell-39,cookies,the air around you smells of {source}.,smell,1,text-char-ngrams,0.07854919593926703
+cookies-smell-42,cookies,you pick up the scent of {source} from the next room.,smell,1,text-char-ngrams,0.04339029774501058
+cookies-smell-44,cookies,you catch the smell of {source} from the kitchen.,smell,1,text-char-ngrams,0.08205841081588625
+cookies-smell-46,cookies,you smell {source} as you walk in.,smell,1,text-char-ngrams,0.044378372776859874
+cookies-smell-50,cookies,you pick up the scent of {source} from down the hall.,smell,1,text-char-ngrams,0.026914984689341958
+cookies-smell-53,cookies,you notice the smell of {source} as you walk in.,smell,1,text-char-ngrams,0.040519669321400165
+cookies-see-00,cookies,you see {source}.,see,1,text-char-ngrams,-0.06260594858394578
+cookies-see-03,cookies,you catch sight of {source}.,see,1,text-char-ngrams,-0.02401698718634004
+cookies-see-04,cookies,{source} sits in front of you.,see,1,text-char-ngrams,-0.07039184039551757
+cookies-see-05,cookies,you glance at {source}.,see,1,text-char-ngrams,-0.020595064821705724
+cookies-see-11,cookies,you are looking at {source}.,see,1,text-char-ngrams,-0.02109944764372402
+cookies-see-18,cookies,you catch sight of {source}.,see,1,text-char-ngrams,-0.029578409822591835
+cookies-see-20,cookies,you glance at {source}.,see,1,text-char-ngrams,-0.023052697854346688
+cookies-see-22,cookies,{source} sits in front of you.,see,1,text-char-ngrams,-0.07308790569126555
+cookies-see-24,cookies,you catch sight of {source}.,see,1,text-char-ngrams,-0.04937128501086715
+cookies-see-25,cookies,you see {source}.,see,1,text-char-ngrams,-0.07220932728710627
+cookies-see-26,cookies,you catch sight of {source}.,see,1,text-char-ngrams,-0.02058517767340163
+cookies-see-27,cookies,you can see {source}.,see,1,text-char-ngrams,-0.05462474011475685
+cookies-see-28,cookies,you glance at {source}.,see,1,text-char-ngrams,-0.009404117988630657
+cookies-see-29,cookies,you can see {source}.,see,1,text-char-ngrams,-0.06297106415843381
+cookies-see-31,cookies,you see {source}.,see,1,text-char-ngrams,-0.06109814034835857
+cookies-see-32,cookies,you can see {source}.,see,1,text-char-ngrams,-0.059680143816536954
+cookies-see-34,cookies,you catch sight of {source}.,see,1,text-char-ngrams,-0.03994265215836334
+cookies-see-35,cookies,{source} sits in front of you.,see,1,text-char-ngrams,-0.07062388083629924
+cookies-see-37,cookies,you see {source}.,see,1,text-char-ngrams,-0.06274045493528428
+cookies-see-38,cookies,you catch sight of {source}.,see,1,text-char-ngrams,-0.028896541834536375
+cookies-see-46,cookies,you are looking at {source}.,see,1,text-char-ngrams,-0.026671433113794222
+cookies-see-47,cookies,you are looking at {source}.,see,1,text-char-ngrams,-0.0486275789005543
+cookies-see-49,cookies,you are looking at {source}.,see,1,text-char-ngrams,-0.027669755052432035
+cookies-see-50,cookies,you are looking at {source}.,see,1,text-char-ngrams,-0.02879713955634826
+cookies-see-52,cookies,you see {source}.,see,1,text-char-ngrams,-0.06167276360959387
+cookies-see-53,cookies,{source} sits in front of you.,see,1,text-char-ngrams,-0.062730690536487
+cookies-smell-00,cookies,you catch the smell of {source} from the next room.,smell,1,native-L23,1.8130603308322604
+cookies-smell-03,cookies,you catch the smell of {source}.,smell,1,native-L23,2.708451611187983
+cookies-smell-04,cookies,you catch the smell of {source}.,smell,1,native-L23,1.9721172766286221
+cookies-smell-10,cookies,the smell of {source} reaches you from somewhere nearby.,smell,1,native-L23,2.119365580539572
+cookies-smell-13,cookies,the air around you smells of {source}.,smell,1,native-L23,2.677920559390017
+cookies-smell-15,cookies,the smell of {source} reaches you.,smell,1,native-L23,2.80329421646848
+cookies-smell-17,cookies,the air around you smells of {source}.,smell,1,native-L23,3.1395792753961116
+cookies-smell-18,cookies,the air around you smells of {source}.,smell,1,native-L23,2.870054735963304
+cookies-smell-19,cookies,the air around you smells of {source}.,smell,1,native-L23,3.237028413551074
+cookies-smell-21,cookies,you catch the smell of {source}.,smell,1,native-L23,2.375934988619511
+cookies-smell-22,cookies,you breathe in and smell {source} from down the hall.,smell,1,native-L23,2.9810058448521772
+cookies-smell-29,cookies,you pick up the scent of {source}.,smell,1,native-L23,1.7620669150490815
+cookies-smell-32,cookies,you pick up the scent of {source}.,smell,1,native-L23,2.080055394012019
+cookies-smell-39,cookies,the air around you smells of {source}.,smell,1,native-L23,2.8636822987599633
+cookies-smell-42,cookies,you pick up the scent of {source} from the next room.,smell,1,native-L23,1.8495892341718352
+cookies-smell-44,cookies,you catch the smell of {source} from the kitchen.,smell,1,native-L23,1.784309897659838
+cookies-smell-46,cookies,you smell {source} as you walk in.,smell,1,native-L23,2.090646594548709
+cookies-smell-50,cookies,you pick up the scent of {source} from down the hall.,smell,1,native-L23,1.7611571044847047
+cookies-smell-53,cookies,you notice the smell of {source} as you walk in.,smell,1,native-L23,1.8299186705513413
+cookies-see-00,cookies,you see {source}.,see,1,native-L23,-2.839879962716343
+cookies-see-03,cookies,you catch sight of {source}.,see,1,native-L23,-1.857898768220171
+cookies-see-04,cookies,{source} sits in front of you.,see,1,native-L23,-3.1454185705055746
+cookies-see-05,cookies,you glance at {source}.,see,1,native-L23,-1.3252272336452886
+cookies-see-11,cookies,you are looking at {source}.,see,1,native-L23,-2.836462442529892
+cookies-see-18,cookies,you catch sight of {source}.,see,1,native-L23,-1.7939334365523527
+cookies-see-20,cookies,you glance at {source}.,see,1,native-L23,-1.1497928295517914
+cookies-see-22,cookies,{source} sits in front of you.,see,1,native-L23,-3.1680065325978015
+cookies-see-24,cookies,you catch sight of {source}.,see,1,native-L23,-2.6752507446572085
+cookies-see-25,cookies,you see {source}.,see,1,native-L23,-3.7163393110076566
+cookies-see-26,cookies,you catch sight of {source}.,see,1,native-L23,-1.961519926702283
+cookies-see-27,cookies,you can see {source}.,see,1,native-L23,-3.302081174961123
+cookies-see-28,cookies,you glance at {source}.,see,1,native-L23,-1.3769504560000225
+cookies-see-29,cookies,you can see {source}.,see,1,native-L23,-3.002154688468167
+cookies-see-31,cookies,you see {source}.,see,1,native-L23,-3.044524849477001
+cookies-see-32,cookies,you can see {source}.,see,1,native-L23,-2.8978560382106773
+cookies-see-34,cookies,you catch sight of {source}.,see,1,native-L23,-1.5038915953039007
+cookies-see-35,cookies,{source} sits in front of you.,see,1,native-L23,-2.528328669719534
+cookies-see-37,cookies,you see {source}.,see,1,native-L23,-2.8441877261736472
+cookies-see-38,cookies,you catch sight of {source}.,see,1,native-L23,-1.8210129743347243
+cookies-see-46,cookies,you are looking at {source}.,see,1,native-L23,-2.662086015776517
+cookies-see-47,cookies,you are looking at {source}.,see,1,native-L23,-3.587685902828022
+cookies-see-49,cookies,you are looking at {source}.,see,1,native-L23,-2.288365366819913
+cookies-see-50,cookies,you are looking at {source}.,see,1,native-L23,-3.3414624656776146
+cookies-see-52,cookies,you see {source}.,see,1,native-L23,-3.255845990701112
+cookies-see-53,cookies,{source} sits in front of you.,see,1,native-L23,-3.240952764776413
+cookies-smell-00,cookies,you catch the smell of {source} from the next room.,smell,1,native-L47,2.7730137045633327
+cookies-smell-03,cookies,you catch the smell of {source}.,smell,1,native-L47,4.625057719219111
+cookies-smell-04,cookies,you catch the smell of {source}.,smell,1,native-L47,2.182014494963312
+cookies-smell-10,cookies,the smell of {source} reaches you from somewhere nearby.,smell,1,native-L47,2.767494441548629
+cookies-smell-13,cookies,the air around you smells of {source}.,smell,1,native-L47,5.5175570275370935
+cookies-smell-15,cookies,the smell of {source} reaches you.,smell,1,native-L47,3.0867235480856436
+cookies-smell-17,cookies,the air around you smells of {source}.,smell,1,native-L47,4.510145509750847
+cookies-smell-18,cookies,the air around you smells of {source}.,smell,1,native-L47,3.185624332523591
+cookies-smell-19,cookies,the air around you smells of {source}.,smell,1,native-L47,4.177032761322764
+cookies-smell-21,cookies,you catch the smell of {source}.,smell,1,native-L47,2.505174459389413
+cookies-smell-22,cookies,you breathe in and smell {source} from down the hall.,smell,1,native-L47,4.00411902462427
+cookies-smell-29,cookies,you pick up the scent of {source}.,smell,1,native-L47,2.2172800018272616
+cookies-smell-32,cookies,you pick up the scent of {source}.,smell,1,native-L47,3.950169887876456
+cookies-smell-39,cookies,the air around you smells of {source}.,smell,1,native-L47,3.682111278347373
+cookies-smell-42,cookies,you pick up the scent of {source} from the next room.,smell,1,native-L47,3.602557475808945
+cookies-smell-44,cookies,you catch the smell of {source} from the kitchen.,smell,1,native-L47,1.6908015321591165
+cookies-smell-46,cookies,you smell {source} as you walk in.,smell,1,native-L47,2.9324099593961934
+cookies-smell-50,cookies,you pick up the scent of {source} from down the hall.,smell,1,native-L47,4.144324903413925
+cookies-smell-53,cookies,you notice the smell of {source} as you walk in.,smell,1,native-L47,1.9814923951171703
+cookies-see-00,cookies,you see {source}.,see,1,native-L47,-5.470144107227871
+cookies-see-03,cookies,you catch sight of {source}.,see,1,native-L47,-2.073416904065476
+cookies-see-04,cookies,{source} sits in front of you.,see,1,native-L47,-3.369325347550655
+cookies-see-05,cookies,you glance at {source}.,see,1,native-L47,-2.33875811685604
+cookies-see-11,cookies,you are looking at {source}.,see,1,native-L47,-6.449784245434348
+cookies-see-18,cookies,you catch sight of {source}.,see,1,native-L47,-2.8635933886899627
+cookies-see-20,cookies,you glance at {source}.,see,1,native-L47,-2.4617999364994905
+cookies-see-22,cookies,{source} sits in front of you.,see,1,native-L47,-4.644954845624322
+cookies-see-24,cookies,you catch sight of {source}.,see,1,native-L47,-3.92802265205703
+cookies-see-25,cookies,you see {source}.,see,1,native-L47,-6.615948230781218
+cookies-see-26,cookies,you catch sight of {source}.,see,1,native-L47,-2.9812452262894946
+cookies-see-27,cookies,you can see {source}.,see,1,native-L47,-7.008716893735263
+cookies-see-28,cookies,you glance at {source}.,see,1,native-L47,-1.838308899721916
+cookies-see-29,cookies,you can see {source}.,see,1,native-L47,-5.845371228116679
+cookies-see-31,cookies,you see {source}.,see,1,native-L47,-6.0977517654663576
+cookies-see-32,cookies,you can see {source}.,see,1,native-L47,-6.332509673817931
+cookies-see-34,cookies,you catch sight of {source}.,see,1,native-L47,-1.9412043816619375
+cookies-see-35,cookies,{source} sits in front of you.,see,1,native-L47,-3.3922960813213576
+cookies-see-37,cookies,you see {source}.,see,1,native-L47,-5.8587752121238665
+cookies-see-38,cookies,you catch sight of {source}.,see,1,native-L47,-2.31833102579543
+cookies-see-46,cookies,you are looking at {source}.,see,1,native-L47,-6.110184059399826
+cookies-see-47,cookies,you are looking at {source}.,see,1,native-L47,-6.910619999340955
+cookies-see-49,cookies,you are looking at {source}.,see,1,native-L47,-6.240767534181449
+cookies-see-50,cookies,you are looking at {source}.,see,1,native-L47,-7.146700679462138
+cookies-see-52,cookies,you see {source}.,see,1,native-L47,-5.672495980847836
+cookies-see-53,cookies,{source} sits in front of you.,see,1,native-L47,-4.796652741295594
+cookies-smell-00,cookies,you catch the smell of {source} from the next room.,smell,1,native-L71,-5.811605539159291
+cookies-smell-03,cookies,you catch the smell of {source}.,smell,1,native-L71,10.374542063164323
+cookies-smell-04,cookies,you catch the smell of {source}.,smell,1,native-L71,-4.267395769445745
+cookies-smell-10,cookies,the smell of {source} reaches you from somewhere nearby.,smell,1,native-L71,-1.050321899432048
+cookies-smell-13,cookies,the air around you smells of {source}.,smell,1,native-L71,11.657794818583994
+cookies-smell-15,cookies,the smell of {source} reaches you.,smell,1,native-L71,8.501262254354351
+cookies-smell-17,cookies,the air around you smells of {source}.,smell,1,native-L71,10.808745790207661
+cookies-smell-18,cookies,the air around you smells of {source}.,smell,1,native-L71,9.302177499040468
+cookies-smell-19,cookies,the air around you smells of {source}.,smell,1,native-L71,-2.5489319086825732
+cookies-smell-21,cookies,you catch the smell of {source}.,smell,1,native-L71,3.713851919015216
+cookies-smell-22,cookies,you breathe in and smell {source} from down the hall.,smell,1,native-L71,1.1539128164677561
+cookies-smell-29,cookies,you pick up the scent of {source}.,smell,1,native-L71,-3.7769676348019647
+cookies-smell-32,cookies,you pick up the scent of {source}.,smell,1,native-L71,6.373035773890814
+cookies-smell-39,cookies,the air around you smells of {source}.,smell,1,native-L71,6.006945728799812
+cookies-smell-42,cookies,you pick up the scent of {source} from the next room.,smell,1,native-L71,-3.661337890177421
+cookies-smell-44,cookies,you catch the smell of {source} from the kitchen.,smell,1,native-L71,0.2998551748018657
+cookies-smell-46,cookies,you smell {source} as you walk in.,smell,1,native-L71,-3.1604535259578057
+cookies-smell-50,cookies,you pick up the scent of {source} from down the hall.,smell,1,native-L71,6.089227017721548
+cookies-smell-53,cookies,you notice the smell of {source} as you walk in.,smell,1,native-L71,-4.371469238814418
+cookies-see-00,cookies,you see {source}.,see,1,native-L71,-11.332225249917617
+cookies-see-03,cookies,you catch sight of {source}.,see,1,native-L71,-6.038757954828397
+cookies-see-04,cookies,{source} sits in front of you.,see,1,native-L71,-13.237296038672334
+cookies-see-05,cookies,you glance at {source}.,see,1,native-L71,0.7463696172596841
+cookies-see-11,cookies,you are looking at {source}.,see,1,native-L71,-11.70218570447544
+cookies-see-18,cookies,you catch sight of {source}.,see,1,native-L71,-7.017114308752831
+cookies-see-20,cookies,you glance at {source}.,see,1,native-L71,6.5948668572402465
+cookies-see-22,cookies,{source} sits in front of you.,see,1,native-L71,-13.902376641346049
+cookies-see-24,cookies,you catch sight of {source}.,see,1,native-L71,-11.443898319938311
+cookies-see-25,cookies,you see {source}.,see,1,native-L71,-12.505310283959359
+cookies-see-26,cookies,you catch sight of {source}.,see,1,native-L71,-8.802517454643962
+cookies-see-27,cookies,you can see {source}.,see,1,native-L71,-14.263575742755087
+cookies-see-28,cookies,you glance at {source}.,see,1,native-L71,0.9452295917305267
+cookies-see-29,cookies,you can see {source}.,see,1,native-L71,-12.663287320865395
+cookies-see-31,cookies,you see {source}.,see,1,native-L71,-11.357909989775713
+cookies-see-32,cookies,you can see {source}.,see,1,native-L71,-13.592462929542904
+cookies-see-34,cookies,you catch sight of {source}.,see,1,native-L71,4.333791351613188
+cookies-see-35,cookies,{source} sits in front of you.,see,1,native-L71,-12.12126588084974
+cookies-see-37,cookies,you see {source}.,see,1,native-L71,-9.21062026429517
+cookies-see-38,cookies,you catch sight of {source}.,see,1,native-L71,-8.900224456940634
+cookies-see-46,cookies,you are looking at {source}.,see,1,native-L71,-12.063240107249745
+cookies-see-47,cookies,you are looking at {source}.,see,1,native-L71,-12.833079829573675
+cookies-see-49,cookies,you are looking at {source}.,see,1,native-L71,-12.572452064886189
+cookies-see-50,cookies,you are looking at {source}.,see,1,native-L71,-13.518731091222534
+cookies-see-52,cookies,you see {source}.,see,1,native-L71,-10.199826945039693
+cookies-see-53,cookies,{source} sits in front of you.,see,1,native-L71,-14.214027739718894
+neutral-smell-01,neutral,you smell {source}.,smell,0,text-char-ngrams,0.12541535864276118
+neutral-smell-02,neutral,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.10187956094932968
+neutral-smell-04,neutral,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.04869095901216024
+neutral-smell-05,neutral,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.09785708488082648
+neutral-smell-07,neutral,you notice the smell of {source} from the next room.,smell,0,text-char-ngrams,0.1047586003584492
+neutral-smell-09,neutral,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.06732719004674845
+neutral-smell-10,neutral,you smell {source} from somewhere nearby.,smell,0,text-char-ngrams,0.056197772197863115
+neutral-smell-11,neutral,a smell of {source} drifts over to you as you walk in.,smell,0,text-char-ngrams,0.0904814876255178
+neutral-smell-12,neutral,{source} around you smells of {source}.,smell,0,text-char-ngrams,0.16870302827706246
+neutral-smell-13,neutral,you notice the smell of {source}.,smell,0,text-char-ngrams,0.10824523422061598
+neutral-smell-14,neutral,there is a smell of {source} in the air around you from the next room.,smell,0,text-char-ngrams,0.13195706452061312
+neutral-smell-15,neutral,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.04095050703221033
+neutral-smell-16,neutral,you get a whiff of {source} from the kitchen.,smell,0,text-char-ngrams,0.04646445194937672
+neutral-smell-18,neutral,there is a smell of {source} in the air around you as you walk in.,smell,0,text-char-ngrams,0.13530946817533412
+neutral-smell-19,neutral,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.0329812349030003
+neutral-smell-20,neutral,you notice the smell of {source}.,smell,0,text-char-ngrams,0.09931975208710873
+neutral-smell-21,neutral,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.06938850246965231
+neutral-smell-25,neutral,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.03919621634418392
+neutral-smell-29,neutral,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.12188569361493556
+neutral-smell-30,neutral,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.018723320741140418
+neutral-smell-31,neutral,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.028294959886290248
+neutral-smell-34,neutral,you notice the smell of {source}.,smell,0,text-char-ngrams,0.09643412751125413
+neutral-smell-36,neutral,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.02491383412137433
+neutral-smell-37,neutral,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.03536522283277772
+neutral-smell-38,neutral,you can smell {source}.,smell,0,text-char-ngrams,0.021692740892401627
+neutral-smell-39,neutral,you get a whiff of {source}.,smell,0,text-char-ngrams,0.0036491232986427266
+neutral-smell-41,neutral,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.01415274101958035
+neutral-smell-42,neutral,you notice the smell of {source} from the next room.,smell,0,text-char-ngrams,0.08784386773065445
+neutral-smell-44,neutral,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.05401782061128759
+neutral-smell-50,neutral,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.008802988736271639
+neutral-smell-51,neutral,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.07681837960446328
+neutral-see-03,neutral,you notice {source}.,see,0,text-char-ngrams,0.030466604730595977
+neutral-see-05,neutral,there is {source} in front of you.,see,0,text-char-ngrams,-0.03409730308197514
+neutral-see-06,neutral,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.06874003228624669
+neutral-see-07,neutral,you spot {source}.,see,0,text-char-ngrams,-0.027426425604789507
+neutral-see-08,neutral,you notice {source}.,see,0,text-char-ngrams,-0.01654198769704106
+neutral-see-11,neutral,you spot {source}.,see,0,text-char-ngrams,-0.033511322383107056
+neutral-see-12,neutral,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.01942790113064672
+neutral-see-13,neutral,you look over and see {source}.,see,0,text-char-ngrams,-0.04674237348595766
+neutral-see-14,neutral,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.02918775632988839
+neutral-see-16,neutral,there is {source} in front of you.,see,0,text-char-ngrams,-0.03592721978421422
+neutral-see-17,neutral,you notice {source}.,see,0,text-char-ngrams,-0.007762159992876525
+neutral-see-24,neutral,you look over and see {source}.,see,0,text-char-ngrams,-0.041281274341631674
+neutral-see-27,neutral,there is {source} in front of you.,see,0,text-char-ngrams,-0.0363855601237217
+neutral-see-29,neutral,there is {source} in front of you.,see,0,text-char-ngrams,-0.030079445314974418
+neutral-see-30,neutral,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.06055905138555445
+neutral-see-31,neutral,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.05000525030765369
+neutral-see-32,neutral,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.01669331833098842
+neutral-see-33,neutral,you look over and see {source}.,see,0,text-char-ngrams,-0.07003210196337206
+neutral-see-34,neutral,there is {source} in front of you.,see,0,text-char-ngrams,-0.02117614767591778
+neutral-see-35,neutral,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.0003617137135843904
+neutral-see-36,neutral,there is {source} in front of you.,see,0,text-char-ngrams,-0.02446118727962994
+neutral-see-37,neutral,you look over and see {source}.,see,0,text-char-ngrams,-0.05242071892749273
+neutral-see-38,neutral,you look over and see {source}.,see,0,text-char-ngrams,-0.003658088132382117
+neutral-see-45,neutral,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.004466942973332463
+neutral-see-46,neutral,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.055628525418573715
+neutral-see-48,neutral,you notice {source}.,see,0,text-char-ngrams,0.0036674816897380564
+neutral-see-53,neutral,"as you walk in, you see {source}.",see,0,text-char-ngrams,0.031301045059536646
+neutral-smell-01,neutral,you smell {source}.,smell,0,native-L23,2.962366343022669
+neutral-smell-02,neutral,"as you walk in, you smell {source}.",smell,0,native-L23,2.923731960933598
+neutral-smell-04,neutral,you breathe in and smell {source}.,smell,0,native-L23,2.450975900833126
+neutral-smell-05,neutral,"as you walk in, you smell {source}.",smell,0,native-L23,2.8744939149313886
+neutral-smell-07,neutral,you notice the smell of {source} from the next room.,smell,0,native-L23,2.1469923753512754
+neutral-smell-09,neutral,a smell of {source} drifts over to you.,smell,0,native-L23,3.0499533145991107
+neutral-smell-10,neutral,you smell {source} from somewhere nearby.,smell,0,native-L23,3.2633632671299004
+neutral-smell-11,neutral,a smell of {source} drifts over to you as you walk in.,smell,0,native-L23,2.610050308545243
+neutral-smell-12,neutral,{source} around you smells of {source}.,smell,0,native-L23,3.069488904353479
+neutral-smell-13,neutral,you notice the smell of {source}.,smell,0,native-L23,3.0220010462842612
+neutral-smell-14,neutral,there is a smell of {source} in the air around you from the next room.,smell,0,native-L23,2.451473651998598
+neutral-smell-15,neutral,you breathe in and smell {source}.,smell,0,native-L23,2.83970786212943
+neutral-smell-16,neutral,you get a whiff of {source} from the kitchen.,smell,0,native-L23,2.3463016622327864
+neutral-smell-18,neutral,there is a smell of {source} in the air around you as you walk in.,smell,0,native-L23,2.4075173630497133
+neutral-smell-19,neutral,you breathe in and smell {source}.,smell,0,native-L23,2.9367875823282095
+neutral-smell-20,neutral,you notice the smell of {source}.,smell,0,native-L23,2.8491466823454576
+neutral-smell-21,neutral,a smell of {source} drifts over to you.,smell,0,native-L23,2.540286068426211
+neutral-smell-25,neutral,you breathe in and smell {source}.,smell,0,native-L23,2.6252464808572196
+neutral-smell-29,neutral,"as you walk in, you smell {source}.",smell,0,native-L23,2.6081541663104195
+neutral-smell-30,neutral,you get a whiff of {source}.,smell,0,native-L23,2.6127031520882484
+neutral-smell-31,neutral,you get a whiff of {source}.,smell,0,native-L23,2.5721376835768552
+neutral-smell-34,neutral,you notice the smell of {source}.,smell,0,native-L23,2.9711234959357546
+neutral-smell-36,neutral,you breathe in and smell {source}.,smell,0,native-L23,2.6821986708331105
+neutral-smell-37,neutral,you breathe in and smell {source}.,smell,0,native-L23,2.8037108543994758
+neutral-smell-38,neutral,you can smell {source}.,smell,0,native-L23,2.9018850080370684
+neutral-smell-39,neutral,you get a whiff of {source}.,smell,0,native-L23,2.36496396631407
+neutral-smell-41,neutral,you breathe in and smell {source}.,smell,0,native-L23,2.6759904125248726
+neutral-smell-42,neutral,you notice the smell of {source} from the next room.,smell,0,native-L23,2.339268517486512
+neutral-smell-44,neutral,you get a whiff of {source}.,smell,0,native-L23,2.457777828695285
+neutral-smell-50,neutral,you get a whiff of {source}.,smell,0,native-L23,3.23808950164244
+neutral-smell-51,neutral,a smell of {source} drifts over to you.,smell,0,native-L23,2.740755765344716
+neutral-see-03,neutral,you notice {source}.,see,0,native-L23,-1.0003738654999133
+neutral-see-05,neutral,there is {source} in front of you.,see,0,native-L23,-2.9231141290735785
+neutral-see-06,neutral,{source} is right there where you can see it.,see,0,native-L23,-2.495303405960744
+neutral-see-07,neutral,you spot {source}.,see,0,native-L23,-2.2500960657514915
+neutral-see-08,neutral,you notice {source}.,see,0,native-L23,-2.4019340440231316
+neutral-see-11,neutral,you spot {source}.,see,0,native-L23,-1.9882677594727067
+neutral-see-12,neutral,"as you walk in, you see {source}.",see,0,native-L23,-2.7305854975714547
+neutral-see-13,neutral,you look over and see {source}.,see,0,native-L23,-2.6145652224501905
+neutral-see-14,neutral,"as you walk in, you see {source}.",see,0,native-L23,-2.6002593527641045
+neutral-see-16,neutral,there is {source} in front of you.,see,0,native-L23,-3.125479476444929
+neutral-see-17,neutral,you notice {source}.,see,0,native-L23,-1.9620912956938943
+neutral-see-24,neutral,you look over and see {source}.,see,0,native-L23,-2.2825529401160356
+neutral-see-27,neutral,there is {source} in front of you.,see,0,native-L23,-3.460293749073588
+neutral-see-29,neutral,there is {source} in front of you.,see,0,native-L23,-2.7721798039628163
+neutral-see-30,neutral,{source} is right there where you can see it.,see,0,native-L23,-2.460454322968987
+neutral-see-31,neutral,{source} is right there where you can see it.,see,0,native-L23,-1.9894959673805364
+neutral-see-32,neutral,"as you walk in, you see {source}.",see,0,native-L23,-2.516006249311242
+neutral-see-33,neutral,you look over and see {source}.,see,0,native-L23,-3.2064619413617654
+neutral-see-34,neutral,there is {source} in front of you.,see,0,native-L23,-2.4864588392836584
+neutral-see-35,neutral,"as you walk in, you see {source}.",see,0,native-L23,-1.8424451211272845
+neutral-see-36,neutral,there is {source} in front of you.,see,0,native-L23,-2.5223713531204845
+neutral-see-37,neutral,you look over and see {source}.,see,0,native-L23,-3.008601701742585
+neutral-see-38,neutral,you look over and see {source}.,see,0,native-L23,-1.383526259858979
+neutral-see-45,neutral,"as you walk in, you see {source}.",see,0,native-L23,-1.916943560336268
+neutral-see-46,neutral,{source} is right there where you can see it.,see,0,native-L23,-2.7583942529596177
+neutral-see-48,neutral,you notice {source}.,see,0,native-L23,-1.7283660088358235
+neutral-see-53,neutral,"as you walk in, you see {source}.",see,0,native-L23,-1.027976010162604
+neutral-smell-01,neutral,you smell {source}.,smell,0,native-L47,1.5423553789454598
+neutral-smell-02,neutral,"as you walk in, you smell {source}.",smell,0,native-L47,1.1440193544010437
+neutral-smell-04,neutral,you breathe in and smell {source}.,smell,0,native-L47,3.1659061660539765
+neutral-smell-05,neutral,"as you walk in, you smell {source}.",smell,0,native-L47,2.4844410440123004
+neutral-smell-07,neutral,you notice the smell of {source} from the next room.,smell,0,native-L47,2.622993487487255
+neutral-smell-09,neutral,a smell of {source} drifts over to you.,smell,0,native-L47,3.890010002540175
+neutral-smell-10,neutral,you smell {source} from somewhere nearby.,smell,0,native-L47,4.041282524320882
+neutral-smell-11,neutral,a smell of {source} drifts over to you as you walk in.,smell,0,native-L47,5.408613706867012
+neutral-smell-12,neutral,{source} around you smells of {source}.,smell,0,native-L47,3.210374335068444
+neutral-smell-13,neutral,you notice the smell of {source}.,smell,0,native-L47,3.607972513240184
+neutral-smell-14,neutral,there is a smell of {source} in the air around you from the next room.,smell,0,native-L47,3.5017980636871764
+neutral-smell-15,neutral,you breathe in and smell {source}.,smell,0,native-L47,3.628940411628167
+neutral-smell-16,neutral,you get a whiff of {source} from the kitchen.,smell,0,native-L47,1.380314489989892
+neutral-smell-18,neutral,there is a smell of {source} in the air around you as you walk in.,smell,0,native-L47,3.4627921238898938
+neutral-smell-19,neutral,you breathe in and smell {source}.,smell,0,native-L47,4.387367848825956
+neutral-smell-20,neutral,you notice the smell of {source}.,smell,0,native-L47,0.9862848063752332
+neutral-smell-21,neutral,a smell of {source} drifts over to you.,smell,0,native-L47,6.051780352782152
+neutral-smell-25,neutral,you breathe in and smell {source}.,smell,0,native-L47,2.7559669050921602
+neutral-smell-29,neutral,"as you walk in, you smell {source}.",smell,0,native-L47,2.079975040206109
+neutral-smell-30,neutral,you get a whiff of {source}.,smell,0,native-L47,3.0570306417225663
+neutral-smell-31,neutral,you get a whiff of {source}.,smell,0,native-L47,2.9317769635091913
+neutral-smell-34,neutral,you notice the smell of {source}.,smell,0,native-L47,1.2208966594494863
+neutral-smell-36,neutral,you breathe in and smell {source}.,smell,0,native-L47,2.7094658973219876
+neutral-smell-37,neutral,you breathe in and smell {source}.,smell,0,native-L47,2.6363305153260175
+neutral-smell-38,neutral,you can smell {source}.,smell,0,native-L47,2.5038881240438773
+neutral-smell-39,neutral,you get a whiff of {source}.,smell,0,native-L47,2.83223757682915
+neutral-smell-41,neutral,you breathe in and smell {source}.,smell,0,native-L47,4.976545216231003
+neutral-smell-42,neutral,you notice the smell of {source} from the next room.,smell,0,native-L47,3.0177790896354226
+neutral-smell-44,neutral,you get a whiff of {source}.,smell,0,native-L47,3.7604996091550005
+neutral-smell-50,neutral,you get a whiff of {source}.,smell,0,native-L47,3.1529901101446214
+neutral-smell-51,neutral,a smell of {source} drifts over to you.,smell,0,native-L47,5.352067998318398
+neutral-see-03,neutral,you notice {source}.,see,0,native-L47,-1.312569019657869
+neutral-see-05,neutral,there is {source} in front of you.,see,0,native-L47,-5.294365710769112
+neutral-see-06,neutral,{source} is right there where you can see it.,see,0,native-L47,-1.4159644844381924
+neutral-see-07,neutral,you spot {source}.,see,0,native-L47,-4.604662910057021
+neutral-see-08,neutral,you notice {source}.,see,0,native-L47,-5.2507466250240515
+neutral-see-11,neutral,you spot {source}.,see,0,native-L47,-3.9308265648685907
+neutral-see-12,neutral,"as you walk in, you see {source}.",see,0,native-L47,-5.381385504409391
+neutral-see-13,neutral,you look over and see {source}.,see,0,native-L47,-4.145026094846099
+neutral-see-14,neutral,"as you walk in, you see {source}.",see,0,native-L47,-6.314100485859358
+neutral-see-16,neutral,there is {source} in front of you.,see,0,native-L47,-4.844280483309127
+neutral-see-17,neutral,you notice {source}.,see,0,native-L47,-5.226415263624647
+neutral-see-24,neutral,you look over and see {source}.,see,0,native-L47,-4.73090507628916
+neutral-see-27,neutral,there is {source} in front of you.,see,0,native-L47,-5.2860000770661895
+neutral-see-29,neutral,there is {source} in front of you.,see,0,native-L47,-4.994056069859939
+neutral-see-30,neutral,{source} is right there where you can see it.,see,0,native-L47,-1.0324358195469792
+neutral-see-31,neutral,{source} is right there where you can see it.,see,0,native-L47,-0.9980810448303412
+neutral-see-32,neutral,"as you walk in, you see {source}.",see,0,native-L47,-4.836868675941646
+neutral-see-33,neutral,you look over and see {source}.,see,0,native-L47,-6.717544445615655
+neutral-see-34,neutral,there is {source} in front of you.,see,0,native-L47,-2.8471507802378317
+neutral-see-35,neutral,"as you walk in, you see {source}.",see,0,native-L47,-4.147318014274422
+neutral-see-36,neutral,there is {source} in front of you.,see,0,native-L47,-3.0375022014141497
+neutral-see-37,neutral,you look over and see {source}.,see,0,native-L47,-5.414430230019235
+neutral-see-38,neutral,you look over and see {source}.,see,0,native-L47,-0.7139591583738228
+neutral-see-45,neutral,"as you walk in, you see {source}.",see,0,native-L47,-4.586453697897941
+neutral-see-46,neutral,{source} is right there where you can see it.,see,0,native-L47,-2.25040813593645
+neutral-see-48,neutral,you notice {source}.,see,0,native-L47,-3.6758286950536547
+neutral-see-53,neutral,"as you walk in, you see {source}.",see,0,native-L47,-1.9726789730082657
+neutral-smell-01,neutral,you smell {source}.,smell,0,native-L71,8.951627590682296
+neutral-smell-02,neutral,"as you walk in, you smell {source}.",smell,0,native-L71,-0.19915451223689928
+neutral-smell-04,neutral,you breathe in and smell {source}.,smell,0,native-L71,6.414658673343631
+neutral-smell-05,neutral,"as you walk in, you smell {source}.",smell,0,native-L71,-0.9179947749520279
+neutral-smell-07,neutral,you notice the smell of {source} from the next room.,smell,0,native-L71,-3.834935740289379
+neutral-smell-09,neutral,a smell of {source} drifts over to you.,smell,0,native-L71,-2.5777135148423316
+neutral-smell-10,neutral,you smell {source} from somewhere nearby.,smell,0,native-L71,4.873890106026998
+neutral-smell-11,neutral,a smell of {source} drifts over to you as you walk in.,smell,0,native-L71,-5.451351756963738
+neutral-smell-12,neutral,{source} around you smells of {source}.,smell,0,native-L71,4.592917710164438
+neutral-smell-13,neutral,you notice the smell of {source}.,smell,0,native-L71,0.5430714531565008
+neutral-smell-14,neutral,there is a smell of {source} in the air around you from the next room.,smell,0,native-L71,-3.553984291895295
+neutral-smell-15,neutral,you breathe in and smell {source}.,smell,0,native-L71,10.34587105166569
+neutral-smell-16,neutral,you get a whiff of {source} from the kitchen.,smell,0,native-L71,-2.931167444320685
+neutral-smell-18,neutral,there is a smell of {source} in the air around you as you walk in.,smell,0,native-L71,-5.4909732950305505
+neutral-smell-19,neutral,you breathe in and smell {source}.,smell,0,native-L71,7.255478762776077
+neutral-smell-20,neutral,you notice the smell of {source}.,smell,0,native-L71,-0.9851472000408551
+neutral-smell-21,neutral,a smell of {source} drifts over to you.,smell,0,native-L71,-0.7578757567615966
+neutral-smell-25,neutral,you breathe in and smell {source}.,smell,0,native-L71,10.331279827311949
+neutral-smell-29,neutral,"as you walk in, you smell {source}.",smell,0,native-L71,4.407017831373999
+neutral-smell-30,neutral,you get a whiff of {source}.,smell,0,native-L71,-1.7979336772748162
+neutral-smell-31,neutral,you get a whiff of {source}.,smell,0,native-L71,-3.0011776681103703
+neutral-smell-34,neutral,you notice the smell of {source}.,smell,0,native-L71,0.25395394398222276
+neutral-smell-36,neutral,you breathe in and smell {source}.,smell,0,native-L71,2.0002028961324885
+neutral-smell-37,neutral,you breathe in and smell {source}.,smell,0,native-L71,6.198880262028807
+neutral-smell-38,neutral,you can smell {source}.,smell,0,native-L71,8.6959105191285
+neutral-smell-39,neutral,you get a whiff of {source}.,smell,0,native-L71,2.3188683024585304
+neutral-smell-41,neutral,you breathe in and smell {source}.,smell,0,native-L71,5.98128866451706
+neutral-smell-42,neutral,you notice the smell of {source} from the next room.,smell,0,native-L71,-1.0943362916076598
+neutral-smell-44,neutral,you get a whiff of {source}.,smell,0,native-L71,-6.153293054563994
+neutral-smell-50,neutral,you get a whiff of {source}.,smell,0,native-L71,8.01393865004298
+neutral-smell-51,neutral,a smell of {source} drifts over to you.,smell,0,native-L71,5.663926545458601
+neutral-see-03,neutral,you notice {source}.,see,0,native-L71,2.0968492015507634
+neutral-see-05,neutral,there is {source} in front of you.,see,0,native-L71,-1.7854838883155866
+neutral-see-06,neutral,{source} is right there where you can see it.,see,0,native-L71,0.5546819346557017
+neutral-see-07,neutral,you spot {source}.,see,0,native-L71,-0.8024316502106786
+neutral-see-08,neutral,you notice {source}.,see,0,native-L71,4.259141165997292
+neutral-see-11,neutral,you spot {source}.,see,0,native-L71,-0.19110221344752873
+neutral-see-12,neutral,"as you walk in, you see {source}.",see,0,native-L71,-1.2970499723792608
+neutral-see-13,neutral,you look over and see {source}.,see,0,native-L71,0.9867555383700788
+neutral-see-14,neutral,"as you walk in, you see {source}.",see,0,native-L71,-1.3929119122597005
+neutral-see-16,neutral,there is {source} in front of you.,see,0,native-L71,-3.0544615416858294
+neutral-see-17,neutral,you notice {source}.,see,0,native-L71,0.01530232737275894
+neutral-see-24,neutral,you look over and see {source}.,see,0,native-L71,0.8748946019915388
+neutral-see-27,neutral,there is {source} in front of you.,see,0,native-L71,-0.10119367149596659
+neutral-see-29,neutral,there is {source} in front of you.,see,0,native-L71,-0.3413478272865609
+neutral-see-30,neutral,{source} is right there where you can see it.,see,0,native-L71,-0.44744254069025824
+neutral-see-31,neutral,{source} is right there where you can see it.,see,0,native-L71,1.426961582095082
+neutral-see-32,neutral,"as you walk in, you see {source}.",see,0,native-L71,-0.16184807307468463
+neutral-see-33,neutral,you look over and see {source}.,see,0,native-L71,0.39958087504554674
+neutral-see-34,neutral,there is {source} in front of you.,see,0,native-L71,0.2754288678550526
+neutral-see-35,neutral,"as you walk in, you see {source}.",see,0,native-L71,-0.8941394395511776
+neutral-see-36,neutral,there is {source} in front of you.,see,0,native-L71,1.0734484192912477
+neutral-see-37,neutral,you look over and see {source}.,see,0,native-L71,0.9120104908498395
+neutral-see-38,neutral,you look over and see {source}.,see,0,native-L71,1.9297832142651938
+neutral-see-45,neutral,"as you walk in, you see {source}.",see,0,native-L71,1.0681465133687345
+neutral-see-46,neutral,{source} is right there where you can see it.,see,0,native-L71,-1.1464529144492164
+neutral-see-48,neutral,you notice {source}.,see,0,native-L71,2.872086624018505
+neutral-see-53,neutral,"as you walk in, you see {source}.",see,0,native-L71,1.2405911099313085
+neutral-smell-00,neutral,the air around you smells of {source}.,smell,1,text-char-ngrams,0.07557543094338257
+neutral-smell-03,neutral,you catch the smell of {source}.,smell,1,text-char-ngrams,0.0710468527252569
+neutral-smell-06,neutral,you pick up the scent of {source}.,smell,1,text-char-ngrams,0.013158416597384426
+neutral-smell-08,neutral,you smell {source} from down the hall.,smell,1,text-char-ngrams,0.08630985680300066
+neutral-smell-17,neutral,the air around you smells of {source} from somewhere nearby.,smell,1,text-char-ngrams,0.05833669432347776
+neutral-smell-22,neutral,you notice the smell of {source} from down the hall.,smell,1,text-char-ngrams,0.05994639287834788
+neutral-smell-23,neutral,you smell {source} from the kitchen.,smell,1,text-char-ngrams,0.0834469106983515
+neutral-smell-24,neutral,you pick up the scent of {source} from somewhere nearby.,smell,1,text-char-ngrams,0.009058954303799324
+neutral-smell-26,neutral,the air around you smells of {source}.,smell,1,text-char-ngrams,0.08579968087309678
+neutral-smell-27,neutral,you pick up the scent of {source}.,smell,1,text-char-ngrams,-0.001922485435647703
+neutral-smell-28,neutral,you breathe in and smell {source} from the next room.,smell,1,text-char-ngrams,0.06991888774573829
+neutral-smell-32,neutral,you catch the smell of {source}.,smell,1,text-char-ngrams,0.07859696778377873
+neutral-smell-33,neutral,the air around you smells of {source}.,smell,1,text-char-ngrams,0.09086118355182993
+neutral-smell-35,neutral,the smell of {source} reaches you.,smell,1,text-char-ngrams,0.0741270070744976
+neutral-smell-40,neutral,the smell of {source} reaches you.,smell,1,text-char-ngrams,0.06983732412913617
+neutral-smell-43,neutral,you smell {source} from down the hall.,smell,1,text-char-ngrams,0.060559779767294375
+neutral-smell-45,neutral,the smell of {source} reaches you.,smell,1,text-char-ngrams,0.06731097408964604
+neutral-smell-46,neutral,you smell {source} as you walk in.,smell,1,text-char-ngrams,0.08190789679644134
+neutral-smell-47,neutral,you pick up the scent of {source} by the door.,smell,1,text-char-ngrams,0.036670443720966325
+neutral-smell-48,neutral,you catch the smell of {source}.,smell,1,text-char-ngrams,0.08059352274481227
+neutral-smell-49,neutral,the air around you smells of {source}.,smell,1,text-char-ngrams,0.0726420828196947
+neutral-smell-52,neutral,you get a whiff of {source} from somewhere nearby.,smell,1,text-char-ngrams,0.04224937400558572
+neutral-smell-53,neutral,you smell {source} as you walk in.,smell,1,text-char-ngrams,0.08164381833761586
+neutral-see-00,neutral,you can see {source}.,see,1,text-char-ngrams,-0.04514727533538376
+neutral-see-01,neutral,you catch sight of {source}.,see,1,text-char-ngrams,-0.021964811242808788
+neutral-see-02,neutral,you catch sight of {source}.,see,1,text-char-ngrams,-0.01183155039713242
+neutral-see-04,neutral,you see {source}.,see,1,text-char-ngrams,-0.052407503978353656
+neutral-see-09,neutral,you are looking at {source}.,see,1,text-char-ngrams,0.017916359994193977
+neutral-see-10,neutral,{source} sits in front of you.,see,1,text-char-ngrams,-0.0539915208841949
+neutral-see-15,neutral,you catch sight of {source}.,see,1,text-char-ngrams,-0.01481042777368583
+neutral-see-18,neutral,you can see {source}.,see,1,text-char-ngrams,-0.03970448297866892
+neutral-see-19,neutral,you catch sight of {source}.,see,1,text-char-ngrams,-0.020062737079398648
+neutral-see-20,neutral,you glance at {source}.,see,1,text-char-ngrams,-0.01241887023969704
+neutral-see-21,neutral,{source} sits in front of you.,see,1,text-char-ngrams,-0.05558718530536977
+neutral-see-22,neutral,you are looking at {source}.,see,1,text-char-ngrams,-0.0086815251042664
+neutral-see-23,neutral,{source} sits in front of you.,see,1,text-char-ngrams,-0.05993833296995631
+neutral-see-25,neutral,you can see {source}.,see,1,text-char-ngrams,-0.03885509393102003
+neutral-see-26,neutral,{source} sits in front of you.,see,1,text-char-ngrams,-0.02143566126064229
+neutral-see-28,neutral,you see {source}.,see,1,text-char-ngrams,-0.04246677043617075
+neutral-see-39,neutral,{source} sits in front of you.,see,1,text-char-ngrams,-0.05514423828017208
+neutral-see-40,neutral,you are looking at {source}.,see,1,text-char-ngrams,-0.016905876235969872
+neutral-see-41,neutral,you see {source}.,see,1,text-char-ngrams,-0.04078771348665981
+neutral-see-42,neutral,you are looking at {source}.,see,1,text-char-ngrams,-0.0033993594260402654
+neutral-see-43,neutral,{source} sits in front of you.,see,1,text-char-ngrams,-0.05442419795261742
+neutral-see-44,neutral,you can see {source}.,see,1,text-char-ngrams,-0.0414082195109621
+neutral-see-47,neutral,you can see {source}.,see,1,text-char-ngrams,-0.042163760601505985
+neutral-see-49,neutral,you see {source}.,see,1,text-char-ngrams,-0.047106280502475645
+neutral-see-50,neutral,you catch sight of {source}.,see,1,text-char-ngrams,-0.011861915896182485
+neutral-see-51,neutral,you can see {source}.,see,1,text-char-ngrams,-0.049853282233590104
+neutral-see-52,neutral,you are looking at {source}.,see,1,text-char-ngrams,-0.010010308347749658
+neutral-smell-00,neutral,the air around you smells of {source}.,smell,1,native-L23,2.6917550128514742
+neutral-smell-03,neutral,you catch the smell of {source}.,smell,1,native-L23,2.5151408468745196
+neutral-smell-06,neutral,you pick up the scent of {source}.,smell,1,native-L23,2.3333754959650284
+neutral-smell-08,neutral,you smell {source} from down the hall.,smell,1,native-L23,2.4943499894875023
+neutral-smell-17,neutral,the air around you smells of {source} from somewhere nearby.,smell,1,native-L23,2.5063873070368823
+neutral-smell-22,neutral,you notice the smell of {source} from down the hall.,smell,1,native-L23,2.196124203243095
+neutral-smell-23,neutral,you smell {source} from the kitchen.,smell,1,native-L23,2.222587026145642
+neutral-smell-24,neutral,you pick up the scent of {source} from somewhere nearby.,smell,1,native-L23,1.8212243706474567
+neutral-smell-26,neutral,the air around you smells of {source}.,smell,1,native-L23,2.756071393277207
+neutral-smell-27,neutral,you pick up the scent of {source}.,smell,1,native-L23,2.515891859202224
+neutral-smell-28,neutral,you breathe in and smell {source} from the next room.,smell,1,native-L23,2.4508211009645855
+neutral-smell-32,neutral,you catch the smell of {source}.,smell,1,native-L23,2.3149727523159496
+neutral-smell-33,neutral,the air around you smells of {source}.,smell,1,native-L23,2.4529492361773344
+neutral-smell-35,neutral,the smell of {source} reaches you.,smell,1,native-L23,2.9845134585937156
+neutral-smell-40,neutral,the smell of {source} reaches you.,smell,1,native-L23,2.8256447793288375
+neutral-smell-43,neutral,you smell {source} from down the hall.,smell,1,native-L23,2.4806970332217895
+neutral-smell-45,neutral,the smell of {source} reaches you.,smell,1,native-L23,2.792103037950258
+neutral-smell-46,neutral,you smell {source} as you walk in.,smell,1,native-L23,2.3314422091178044
+neutral-smell-47,neutral,you pick up the scent of {source} by the door.,smell,1,native-L23,1.4598048229149603
+neutral-smell-48,neutral,you catch the smell of {source}.,smell,1,native-L23,2.6717085834489933
+neutral-smell-49,neutral,the air around you smells of {source}.,smell,1,native-L23,2.8239729772541873
+neutral-smell-52,neutral,you get a whiff of {source} from somewhere nearby.,smell,1,native-L23,2.8036175860427903
+neutral-smell-53,neutral,you smell {source} as you walk in.,smell,1,native-L23,2.7786743845990243
+neutral-see-00,neutral,you can see {source}.,see,1,native-L23,-2.938886763903554
+neutral-see-01,neutral,you catch sight of {source}.,see,1,native-L23,-2.4197377247198526
+neutral-see-02,neutral,you catch sight of {source}.,see,1,native-L23,-2.325119274210725
+neutral-see-04,neutral,you see {source}.,see,1,native-L23,-3.217404114477222
+neutral-see-09,neutral,you are looking at {source}.,see,1,native-L23,-2.056189328101023
+neutral-see-10,neutral,{source} sits in front of you.,see,1,native-L23,-2.995177519542373
+neutral-see-15,neutral,you catch sight of {source}.,see,1,native-L23,-1.5873173448661353
+neutral-see-18,neutral,you can see {source}.,see,1,native-L23,-2.5561080524947286
+neutral-see-19,neutral,you catch sight of {source}.,see,1,native-L23,-2.0641588549554712
+neutral-see-20,neutral,you glance at {source}.,see,1,native-L23,-1.6514573785067723
+neutral-see-21,neutral,{source} sits in front of you.,see,1,native-L23,-2.660017289874162
+neutral-see-22,neutral,you are looking at {source}.,see,1,native-L23,-2.5319742637746643
+neutral-see-23,neutral,{source} sits in front of you.,see,1,native-L23,-2.6552918328285817
+neutral-see-25,neutral,you can see {source}.,see,1,native-L23,-2.922015781298063
+neutral-see-26,neutral,{source} sits in front of you.,see,1,native-L23,-2.1618470781537287
+neutral-see-28,neutral,you see {source}.,see,1,native-L23,-2.752533755153605
+neutral-see-39,neutral,{source} sits in front of you.,see,1,native-L23,-2.8229241316357143
+neutral-see-40,neutral,you are looking at {source}.,see,1,native-L23,-2.783083434445163
+neutral-see-41,neutral,you see {source}.,see,1,native-L23,-3.0898782951850325
+neutral-see-42,neutral,you are looking at {source}.,see,1,native-L23,-2.334116166739289
+neutral-see-43,neutral,{source} sits in front of you.,see,1,native-L23,-2.7551596745218485
+neutral-see-44,neutral,you can see {source}.,see,1,native-L23,-3.031805215549073
+neutral-see-47,neutral,you can see {source}.,see,1,native-L23,-2.2501386719155896
+neutral-see-49,neutral,you see {source}.,see,1,native-L23,-3.145212709605428
+neutral-see-50,neutral,you catch sight of {source}.,see,1,native-L23,-2.0580648249200832
+neutral-see-51,neutral,you can see {source}.,see,1,native-L23,-2.9248998533989345
+neutral-see-52,neutral,you are looking at {source}.,see,1,native-L23,-2.7173558454004456
+neutral-smell-00,neutral,the air around you smells of {source}.,smell,1,native-L47,1.850512868789085
+neutral-smell-03,neutral,you catch the smell of {source}.,smell,1,native-L47,2.5285060193801243
+neutral-smell-06,neutral,you pick up the scent of {source}.,smell,1,native-L47,2.228283918493558
+neutral-smell-08,neutral,you smell {source} from down the hall.,smell,1,native-L47,1.9043724768073205
+neutral-smell-17,neutral,the air around you smells of {source} from somewhere nearby.,smell,1,native-L47,2.5805589851639605
+neutral-smell-22,neutral,you notice the smell of {source} from down the hall.,smell,1,native-L47,0.8777925716306763
+neutral-smell-23,neutral,you smell {source} from the kitchen.,smell,1,native-L47,2.1018888398225037
+neutral-smell-24,neutral,you pick up the scent of {source} from somewhere nearby.,smell,1,native-L47,1.840319918607222
+neutral-smell-26,neutral,the air around you smells of {source}.,smell,1,native-L47,2.931230441330519
+neutral-smell-27,neutral,you pick up the scent of {source}.,smell,1,native-L47,1.651252297017789
+neutral-smell-28,neutral,you breathe in and smell {source} from the next room.,smell,1,native-L47,3.112854603072318
+neutral-smell-32,neutral,you catch the smell of {source}.,smell,1,native-L47,1.6615737909998134
+neutral-smell-33,neutral,the air around you smells of {source}.,smell,1,native-L47,3.248460959949583
+neutral-smell-35,neutral,the smell of {source} reaches you.,smell,1,native-L47,3.6520447362810406
+neutral-smell-40,neutral,the smell of {source} reaches you.,smell,1,native-L47,2.6762775545938933
+neutral-smell-43,neutral,you smell {source} from down the hall.,smell,1,native-L47,2.172048236459264
+neutral-smell-45,neutral,the smell of {source} reaches you.,smell,1,native-L47,3.2277868934377736
+neutral-smell-46,neutral,you smell {source} as you walk in.,smell,1,native-L47,2.0073875362508593
+neutral-smell-47,neutral,you pick up the scent of {source} by the door.,smell,1,native-L47,1.8191652146096207
+neutral-smell-48,neutral,you catch the smell of {source}.,smell,1,native-L47,1.5728031831011493
+neutral-smell-49,neutral,the air around you smells of {source}.,smell,1,native-L47,4.5487111115452015
+neutral-smell-52,neutral,you get a whiff of {source} from somewhere nearby.,smell,1,native-L47,2.395223754878975
+neutral-smell-53,neutral,you smell {source} as you walk in.,smell,1,native-L47,1.9216596430721928
+neutral-see-00,neutral,you can see {source}.,see,1,native-L47,-6.049144272925449
+neutral-see-01,neutral,you catch sight of {source}.,see,1,native-L47,-3.8443240526298075
+neutral-see-02,neutral,you catch sight of {source}.,see,1,native-L47,-4.377737285224008
+neutral-see-04,neutral,you see {source}.,see,1,native-L47,-6.249237883966238
+neutral-see-09,neutral,you are looking at {source}.,see,1,native-L47,-4.034944487470918
+neutral-see-10,neutral,{source} sits in front of you.,see,1,native-L47,-3.9387757371003094
+neutral-see-15,neutral,you catch sight of {source}.,see,1,native-L47,-2.6612632698785434
+neutral-see-18,neutral,you can see {source}.,see,1,native-L47,-5.054165671072807
+neutral-see-19,neutral,you catch sight of {source}.,see,1,native-L47,-3.652379986741172
+neutral-see-20,neutral,you glance at {source}.,see,1,native-L47,-3.6073283707556274
+neutral-see-21,neutral,{source} sits in front of you.,see,1,native-L47,-3.4946655101302753
+neutral-see-22,neutral,you are looking at {source}.,see,1,native-L47,-5.873556261354231
+neutral-see-23,neutral,{source} sits in front of you.,see,1,native-L47,-3.6737010963175187
+neutral-see-25,neutral,you can see {source}.,see,1,native-L47,-6.054303586135041
+neutral-see-26,neutral,{source} sits in front of you.,see,1,native-L47,-2.7597287099814753
+neutral-see-28,neutral,you see {source}.,see,1,native-L47,-5.290923161732387
+neutral-see-39,neutral,{source} sits in front of you.,see,1,native-L47,-3.98913297540015
+neutral-see-40,neutral,you are looking at {source}.,see,1,native-L47,-6.175950440039651
+neutral-see-41,neutral,you see {source}.,see,1,native-L47,-6.362148250691456
+neutral-see-42,neutral,you are looking at {source}.,see,1,native-L47,-3.9649553786855183
+neutral-see-43,neutral,{source} sits in front of you.,see,1,native-L47,-4.249858894390959
+neutral-see-44,neutral,you can see {source}.,see,1,native-L47,-5.928349120841046
+neutral-see-47,neutral,you can see {source}.,see,1,native-L47,-3.589260625930204
+neutral-see-49,neutral,you see {source}.,see,1,native-L47,-6.771392039176789
+neutral-see-50,neutral,you catch sight of {source}.,see,1,native-L47,-2.793568044005154
+neutral-see-51,neutral,you can see {source}.,see,1,native-L47,-6.267925200444287
+neutral-see-52,neutral,you are looking at {source}.,see,1,native-L47,-5.311319977831639
+neutral-smell-00,neutral,the air around you smells of {source}.,smell,1,native-L71,-1.2693186360836428
+neutral-smell-03,neutral,you catch the smell of {source}.,smell,1,native-L71,0.5145830765788532
+neutral-smell-06,neutral,you pick up the scent of {source}.,smell,1,native-L71,5.484044218663032
+neutral-smell-08,neutral,you smell {source} from down the hall.,smell,1,native-L71,5.431104098175872
+neutral-smell-17,neutral,the air around you smells of {source} from somewhere nearby.,smell,1,native-L71,-5.045474518025765
+neutral-smell-22,neutral,you notice the smell of {source} from down the hall.,smell,1,native-L71,2.727695619337523
+neutral-smell-23,neutral,you smell {source} from the kitchen.,smell,1,native-L71,-1.2225294767187613
+neutral-smell-24,neutral,you pick up the scent of {source} from somewhere nearby.,smell,1,native-L71,4.984035229681941
+neutral-smell-26,neutral,the air around you smells of {source}.,smell,1,native-L71,-8.62672788992369
+neutral-smell-27,neutral,you pick up the scent of {source}.,smell,1,native-L71,8.325995587277207
+neutral-smell-28,neutral,you breathe in and smell {source} from the next room.,smell,1,native-L71,1.5063941104843779
+neutral-smell-32,neutral,you catch the smell of {source}.,smell,1,native-L71,4.08592797004998
+neutral-smell-33,neutral,the air around you smells of {source}.,smell,1,native-L71,-0.045701003202681695
+neutral-smell-35,neutral,the smell of {source} reaches you.,smell,1,native-L71,5.682800697508381
+neutral-smell-40,neutral,the smell of {source} reaches you.,smell,1,native-L71,3.127614698372588
+neutral-smell-43,neutral,you smell {source} from down the hall.,smell,1,native-L71,1.887477393679773
+neutral-smell-45,neutral,the smell of {source} reaches you.,smell,1,native-L71,4.481479874376493
+neutral-smell-46,neutral,you smell {source} as you walk in.,smell,1,native-L71,4.575149963795571
+neutral-smell-47,neutral,you pick up the scent of {source} by the door.,smell,1,native-L71,7.452544145330698
+neutral-smell-48,neutral,you catch the smell of {source}.,smell,1,native-L71,-0.29716794387250317
+neutral-smell-49,neutral,the air around you smells of {source}.,smell,1,native-L71,-0.14567543323197515
+neutral-smell-52,neutral,you get a whiff of {source} from somewhere nearby.,smell,1,native-L71,6.611122717568842
+neutral-smell-53,neutral,you smell {source} as you walk in.,smell,1,native-L71,5.547179291226926
+neutral-see-00,neutral,you can see {source}.,see,1,native-L71,-6.298799589381902
+neutral-see-01,neutral,you catch sight of {source}.,see,1,native-L71,-5.470684963118902
+neutral-see-02,neutral,you catch sight of {source}.,see,1,native-L71,-4.418396380877186
+neutral-see-04,neutral,you see {source}.,see,1,native-L71,-3.9159799978419025
+neutral-see-09,neutral,you are looking at {source}.,see,1,native-L71,-2.4251677171643706
+neutral-see-10,neutral,{source} sits in front of you.,see,1,native-L71,-3.49090777027729
+neutral-see-15,neutral,you catch sight of {source}.,see,1,native-L71,4.9409163509454
+neutral-see-18,neutral,you can see {source}.,see,1,native-L71,-4.055149755059384
+neutral-see-19,neutral,you catch sight of {source}.,see,1,native-L71,-4.2884598667197515
+neutral-see-20,neutral,you glance at {source}.,see,1,native-L71,-2.6266158531724733
+neutral-see-21,neutral,{source} sits in front of you.,see,1,native-L71,-3.8271693567542187
+neutral-see-22,neutral,you are looking at {source}.,see,1,native-L71,-3.3781128312164626
+neutral-see-23,neutral,{source} sits in front of you.,see,1,native-L71,-2.232889407899304
+neutral-see-25,neutral,you can see {source}.,see,1,native-L71,-3.2626483440516303
+neutral-see-26,neutral,{source} sits in front of you.,see,1,native-L71,-1.9188007446761413
+neutral-see-28,neutral,you see {source}.,see,1,native-L71,-2.6916287210707477
+neutral-see-39,neutral,{source} sits in front of you.,see,1,native-L71,-4.9379348444474305
+neutral-see-40,neutral,you are looking at {source}.,see,1,native-L71,-4.132155570912262
+neutral-see-41,neutral,you see {source}.,see,1,native-L71,-3.0093648046251453
+neutral-see-42,neutral,you are looking at {source}.,see,1,native-L71,-1.5153337091247399
+neutral-see-43,neutral,{source} sits in front of you.,see,1,native-L71,-4.2768325651371155
+neutral-see-44,neutral,you can see {source}.,see,1,native-L71,-4.889503443608477
+neutral-see-47,neutral,you can see {source}.,see,1,native-L71,-2.437922233352542
+neutral-see-49,neutral,you see {source}.,see,1,native-L71,-5.026003537002257
+neutral-see-50,neutral,you catch sight of {source}.,see,1,native-L71,1.6486375311847978
+neutral-see-51,neutral,you can see {source}.,see,1,native-L71,-5.054812385799815
+neutral-see-52,neutral,you are looking at {source}.,see,1,native-L71,-4.60535278724784
+plastic-smell-00,plastic,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.07812839840627891
+plastic-smell-01,plastic,the smell of {source} reaches you from down the hall.,smell,0,text-char-ngrams,0.13045352044068256
+plastic-smell-02,plastic,you notice the smell of {source} from the kitchen.,smell,0,text-char-ngrams,0.09577003757630112
+plastic-smell-06,plastic,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.03931631806865822
+plastic-smell-07,plastic,you smell {source} from the next room.,smell,0,text-char-ngrams,0.09502457636815329
+plastic-smell-08,plastic,there is a smell of {source} in the air around you from down the hall.,smell,0,text-char-ngrams,0.1121451115740197
+plastic-smell-10,plastic,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.039352415508132885
+plastic-smell-12,plastic,you smell {source}.,smell,0,text-char-ngrams,0.04159212146876426
+plastic-smell-13,plastic,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.022747749221189842
+plastic-smell-14,plastic,you smell {source} from the next room.,smell,0,text-char-ngrams,0.07518253961034135
+plastic-smell-16,plastic,you smell {source}.,smell,0,text-char-ngrams,0.06341754859520513
+plastic-smell-17,plastic,you can smell {source}.,smell,0,text-char-ngrams,-0.013566406110892765
+plastic-smell-18,plastic,you can smell {source}.,smell,0,text-char-ngrams,-0.007408075766966307
+plastic-smell-21,plastic,you get a whiff of {source}.,smell,0,text-char-ngrams,0.008437969650765619
+plastic-smell-22,plastic,there is a smell of {source} in the air around you.,smell,0,text-char-ngrams,0.10287179552365053
+plastic-smell-24,plastic,you smell {source}.,smell,0,text-char-ngrams,0.050398046203390924
+plastic-smell-25,plastic,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.0809509017831462
+plastic-smell-26,plastic,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.07603909934458886
+plastic-smell-27,plastic,you breathe in and smell {source}.,smell,0,text-char-ngrams,0.03656885317116615
+plastic-smell-29,plastic,there is a smell of {source} in the air around you from down the hall.,smell,0,text-char-ngrams,0.11903340809973623
+plastic-smell-31,plastic,you can smell {source}.,smell,0,text-char-ngrams,-0.004879746200214371
+plastic-smell-32,plastic,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.04799055002992264
+plastic-smell-33,plastic,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.046688412581651406
+plastic-smell-34,plastic,"as you walk in, you smell {source}.",smell,0,text-char-ngrams,0.07336578887197556
+plastic-smell-35,plastic,there is a smell of {source} in the air around you.,smell,0,text-char-ngrams,0.10191556865632655
+plastic-smell-36,plastic,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.038526313759773285
+plastic-smell-38,plastic,you notice the smell of {source}.,smell,0,text-char-ngrams,0.08999072027048993
+plastic-smell-40,plastic,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.014329051987126338
+plastic-smell-42,plastic,you get a whiff of {source}.,smell,0,text-char-ngrams,-0.015345114815459682
+plastic-smell-43,plastic,you can smell {source} from down the hall.,smell,0,text-char-ngrams,0.04761680045596783
+plastic-smell-44,plastic,you can smell {source}.,smell,0,text-char-ngrams,0.007689218235825496
+plastic-smell-45,plastic,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.04793631631408135
+plastic-smell-46,plastic,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.04162129387914987
+plastic-smell-47,plastic,a smell of {source} drifts over to you.,smell,0,text-char-ngrams,0.037456727097252444
+plastic-smell-48,plastic,you smell {source}.,smell,0,text-char-ngrams,0.0462758189753253
+plastic-smell-51,plastic,you breathe in and smell {source} from the kitchen.,smell,0,text-char-ngrams,0.06487068323347908
+plastic-smell-52,plastic,you smell {source} from somewhere nearby.,smell,0,text-char-ngrams,0.0690589188932779
+plastic-see-00,plastic,you notice {source}.,see,0,text-char-ngrams,-0.01512889585594528
+plastic-see-02,plastic,you spot {source}.,see,0,text-char-ngrams,-0.022923591635277348
+plastic-see-03,plastic,there is {source} in front of you.,see,0,text-char-ngrams,-0.033217825553215494
+plastic-see-04,plastic,there is {source} in front of you.,see,0,text-char-ngrams,-0.026914846558252374
+plastic-see-05,plastic,you spot {source}.,see,0,text-char-ngrams,-0.020398626480477827
+plastic-see-06,plastic,you spot {source}.,see,0,text-char-ngrams,-0.01592809968101973
+plastic-see-07,plastic,you notice {source}.,see,0,text-char-ngrams,-0.006620910187241439
+plastic-see-09,plastic,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.009828294392256987
+plastic-see-16,plastic,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.06252094066167548
+plastic-see-17,plastic,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.051114457015690784
+plastic-see-22,plastic,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.05786543174003042
+plastic-see-24,plastic,you spot {source}.,see,0,text-char-ngrams,-0.04511033678674646
+plastic-see-26,plastic,there is {source} in front of you.,see,0,text-char-ngrams,-0.02393123300511838
+plastic-see-28,plastic,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.01428411337421971
+plastic-see-32,plastic,{source} is right there where you can see it.,see,0,text-char-ngrams,-0.049506652467568094
+plastic-see-33,plastic,you look over and see {source}.,see,0,text-char-ngrams,-0.05768344680441026
+plastic-see-34,plastic,you look over and see {source}.,see,0,text-char-ngrams,-0.05867279250871493
+plastic-see-36,plastic,you look over and see {source}.,see,0,text-char-ngrams,-0.06995597708031462
+plastic-see-38,plastic,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.028675351508549395
+plastic-see-39,plastic,you notice {source}.,see,0,text-char-ngrams,-0.013364436259482733
+plastic-see-40,plastic,you look over and see {source}.,see,0,text-char-ngrams,-0.04934783022554508
+plastic-see-42,plastic,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.020000779983553298
+plastic-see-43,plastic,you notice {source}.,see,0,text-char-ngrams,-0.003166769565376251
+plastic-see-45,plastic,you look over and see {source}.,see,0,text-char-ngrams,-0.05329832820185481
+plastic-see-50,plastic,"as you walk in, you see {source}.",see,0,text-char-ngrams,-0.03498217191932073
+plastic-see-51,plastic,you spot {source}.,see,0,text-char-ngrams,-0.033162636784368954
+plastic-smell-00,plastic,"as you walk in, you smell {source}.",smell,0,native-L23,2.5446235592880186
+plastic-smell-01,plastic,the smell of {source} reaches you from down the hall.,smell,0,native-L23,2.96100879527496
+plastic-smell-02,plastic,you notice the smell of {source} from the kitchen.,smell,0,native-L23,2.4720045344184336
+plastic-smell-06,plastic,a smell of {source} drifts over to you.,smell,0,native-L23,2.4985589084365243
+plastic-smell-07,plastic,you smell {source} from the next room.,smell,0,native-L23,2.817050440768658
+plastic-smell-08,plastic,there is a smell of {source} in the air around you from down the hall.,smell,0,native-L23,2.501541007254459
+plastic-smell-10,plastic,a smell of {source} drifts over to you.,smell,0,native-L23,2.9977719705611143
+plastic-smell-12,plastic,you smell {source}.,smell,0,native-L23,3.540874539413711
+plastic-smell-13,plastic,you get a whiff of {source}.,smell,0,native-L23,2.907075269845256
+plastic-smell-14,plastic,you smell {source} from the next room.,smell,0,native-L23,2.9019447678678763
+plastic-smell-16,plastic,you smell {source}.,smell,0,native-L23,3.1298128579064013
+plastic-smell-17,plastic,you can smell {source}.,smell,0,native-L23,2.4424362460092848
+plastic-smell-18,plastic,you can smell {source}.,smell,0,native-L23,2.5795887116581655
+plastic-smell-21,plastic,you get a whiff of {source}.,smell,0,native-L23,3.0189704978859626
+plastic-smell-22,plastic,there is a smell of {source} in the air around you.,smell,0,native-L23,2.968489139940507
+plastic-smell-24,plastic,you smell {source}.,smell,0,native-L23,2.916695247995496
+plastic-smell-25,plastic,"as you walk in, you smell {source}.",smell,0,native-L23,3.334161025700653
+plastic-smell-26,plastic,"as you walk in, you smell {source}.",smell,0,native-L23,2.8822606255956744
+plastic-smell-27,plastic,you breathe in and smell {source}.,smell,0,native-L23,3.7904687236877264
+plastic-smell-29,plastic,there is a smell of {source} in the air around you from down the hall.,smell,0,native-L23,2.9603013882635567
+plastic-smell-31,plastic,you can smell {source}.,smell,0,native-L23,1.9274168301571892
+plastic-smell-32,plastic,a smell of {source} drifts over to you.,smell,0,native-L23,2.7903494875860924
+plastic-smell-33,plastic,a smell of {source} drifts over to you.,smell,0,native-L23,2.9385465357597287
+plastic-smell-34,plastic,"as you walk in, you smell {source}.",smell,0,native-L23,3.089707646846445
+plastic-smell-35,plastic,there is a smell of {source} in the air around you.,smell,0,native-L23,2.272298952994767
+plastic-smell-36,plastic,a smell of {source} drifts over to you.,smell,0,native-L23,2.723119893909664
+plastic-smell-38,plastic,you notice the smell of {source}.,smell,0,native-L23,3.0490335052113506
+plastic-smell-40,plastic,you get a whiff of {source}.,smell,0,native-L23,3.409485245016054
+plastic-smell-42,plastic,you get a whiff of {source}.,smell,0,native-L23,3.3789894081049567
+plastic-smell-43,plastic,you can smell {source} from down the hall.,smell,0,native-L23,2.674903442633183
+plastic-smell-44,plastic,you can smell {source}.,smell,0,native-L23,3.2684595155845626
+plastic-smell-45,plastic,a smell of {source} drifts over to you.,smell,0,native-L23,2.886981085952036
+plastic-smell-46,plastic,a smell of {source} drifts over to you.,smell,0,native-L23,2.7477754508979313
+plastic-smell-47,plastic,a smell of {source} drifts over to you.,smell,0,native-L23,2.6751165967870874
+plastic-smell-48,plastic,you smell {source}.,smell,0,native-L23,2.916831556676018
+plastic-smell-51,plastic,you breathe in and smell {source} from the kitchen.,smell,0,native-L23,3.217589946656578
+plastic-smell-52,plastic,you smell {source} from somewhere nearby.,smell,0,native-L23,3.515454601986549
+plastic-see-00,plastic,you notice {source}.,see,0,native-L23,-0.8290026117760807
+plastic-see-02,plastic,you spot {source}.,see,0,native-L23,-1.7793952011730063
+plastic-see-03,plastic,there is {source} in front of you.,see,0,native-L23,-2.6893069194627532
+plastic-see-04,plastic,there is {source} in front of you.,see,0,native-L23,-3.043367648969806
+plastic-see-05,plastic,you spot {source}.,see,0,native-L23,-1.268570165135562
+plastic-see-06,plastic,you spot {source}.,see,0,native-L23,-1.7959978170023536
+plastic-see-07,plastic,you notice {source}.,see,0,native-L23,-0.8803715862189125
+plastic-see-09,plastic,"as you walk in, you see {source}.",see,0,native-L23,-1.9301546288562217
+plastic-see-16,plastic,{source} is right there where you can see it.,see,0,native-L23,-1.7578214822444014
+plastic-see-17,plastic,{source} is right there where you can see it.,see,0,native-L23,-2.7104783264723764
+plastic-see-22,plastic,{source} is right there where you can see it.,see,0,native-L23,-2.402922300911936
+plastic-see-24,plastic,you spot {source}.,see,0,native-L23,-1.130184942410313
+plastic-see-26,plastic,there is {source} in front of you.,see,0,native-L23,-2.0846166059217026
+plastic-see-28,plastic,"as you walk in, you see {source}.",see,0,native-L23,-1.6658769191012919
+plastic-see-32,plastic,{source} is right there where you can see it.,see,0,native-L23,-1.9715382578598692
+plastic-see-33,plastic,you look over and see {source}.,see,0,native-L23,-1.9040655169432847
+plastic-see-34,plastic,you look over and see {source}.,see,0,native-L23,-1.499640659357563
+plastic-see-36,plastic,you look over and see {source}.,see,0,native-L23,-0.8645572404983815
+plastic-see-38,plastic,"as you walk in, you see {source}.",see,0,native-L23,-1.0066086889377577
+plastic-see-39,plastic,you notice {source}.,see,0,native-L23,-0.5483969124445338
+plastic-see-40,plastic,you look over and see {source}.,see,0,native-L23,-1.999392489559653
+plastic-see-42,plastic,"as you walk in, you see {source}.",see,0,native-L23,-1.294267337465105
+plastic-see-43,plastic,you notice {source}.,see,0,native-L23,-1.1865521442059483
+plastic-see-45,plastic,you look over and see {source}.,see,0,native-L23,-1.7856081104671495
+plastic-see-50,plastic,"as you walk in, you see {source}.",see,0,native-L23,-0.29098271180987556
+plastic-see-51,plastic,you spot {source}.,see,0,native-L23,-0.9257077081246596
+plastic-smell-00,plastic,"as you walk in, you smell {source}.",smell,0,native-L47,6.737308587559845
+plastic-smell-01,plastic,the smell of {source} reaches you from down the hall.,smell,0,native-L47,7.189090589301609
+plastic-smell-02,plastic,you notice the smell of {source} from the kitchen.,smell,0,native-L47,5.6121364981906545
+plastic-smell-06,plastic,a smell of {source} drifts over to you.,smell,0,native-L47,6.217390807561123
+plastic-smell-07,plastic,you smell {source} from the next room.,smell,0,native-L47,4.604861275611038
+plastic-smell-08,plastic,there is a smell of {source} in the air around you from down the hall.,smell,0,native-L47,6.978048071575222
+plastic-smell-10,plastic,a smell of {source} drifts over to you.,smell,0,native-L47,7.660457576715173
+plastic-smell-12,plastic,you smell {source}.,smell,0,native-L47,7.56085737538579
+plastic-smell-13,plastic,you get a whiff of {source}.,smell,0,native-L47,7.214759140321412
+plastic-smell-14,plastic,you smell {source} from the next room.,smell,0,native-L47,6.54795818352758
+plastic-smell-16,plastic,you smell {source}.,smell,0,native-L47,5.98426106681691
+plastic-smell-17,plastic,you can smell {source}.,smell,0,native-L47,5.530596375112174
+plastic-smell-18,plastic,you can smell {source}.,smell,0,native-L47,5.7888545528968045
+plastic-smell-21,plastic,you get a whiff of {source}.,smell,0,native-L47,5.597026548536409
+plastic-smell-22,plastic,there is a smell of {source} in the air around you.,smell,0,native-L47,6.858831036767333
+plastic-smell-24,plastic,you smell {source}.,smell,0,native-L47,6.083952249035583
+plastic-smell-25,plastic,"as you walk in, you smell {source}.",smell,0,native-L47,7.9169647084892585
+plastic-smell-26,plastic,"as you walk in, you smell {source}.",smell,0,native-L47,6.688910187516847
+plastic-smell-27,plastic,you breathe in and smell {source}.,smell,0,native-L47,8.251825492342515
+plastic-smell-29,plastic,there is a smell of {source} in the air around you from down the hall.,smell,0,native-L47,6.738978383776863
+plastic-smell-31,plastic,you can smell {source}.,smell,0,native-L47,4.936697548063048
+plastic-smell-32,plastic,a smell of {source} drifts over to you.,smell,0,native-L47,5.710550084439327
+plastic-smell-33,plastic,a smell of {source} drifts over to you.,smell,0,native-L47,6.9250010948902005
+plastic-smell-34,plastic,"as you walk in, you smell {source}.",smell,0,native-L47,7.403190854159032
+plastic-smell-35,plastic,there is a smell of {source} in the air around you.,smell,0,native-L47,6.146041139142728
+plastic-smell-36,plastic,a smell of {source} drifts over to you.,smell,0,native-L47,7.243571664671322
+plastic-smell-38,plastic,you notice the smell of {source}.,smell,0,native-L47,7.259677044374124
+plastic-smell-40,plastic,you get a whiff of {source}.,smell,0,native-L47,8.446049136160394
+plastic-smell-42,plastic,you get a whiff of {source}.,smell,0,native-L47,9.007172233521008
+plastic-smell-43,plastic,you can smell {source} from down the hall.,smell,0,native-L47,5.855340338290224
+plastic-smell-44,plastic,you can smell {source}.,smell,0,native-L47,7.006316426710759
+plastic-smell-45,plastic,a smell of {source} drifts over to you.,smell,0,native-L47,7.0882767207685
+plastic-smell-46,plastic,a smell of {source} drifts over to you.,smell,0,native-L47,6.570185460132393
+plastic-smell-47,plastic,a smell of {source} drifts over to you.,smell,0,native-L47,6.622337862318075
+plastic-smell-48,plastic,you smell {source}.,smell,0,native-L47,6.164423582044163
+plastic-smell-51,plastic,you breathe in and smell {source} from the kitchen.,smell,0,native-L47,7.460899935679238
+plastic-smell-52,plastic,you smell {source} from somewhere nearby.,smell,0,native-L47,8.090409915802951
+plastic-see-00,plastic,you notice {source}.,see,0,native-L47,-2.104236363663982
+plastic-see-02,plastic,you spot {source}.,see,0,native-L47,-2.142100181381427
+plastic-see-03,plastic,there is {source} in front of you.,see,0,native-L47,-3.49063549507324
+plastic-see-04,plastic,there is {source} in front of you.,see,0,native-L47,-4.936113384245244
+plastic-see-05,plastic,you spot {source}.,see,0,native-L47,1.964907117514512
+plastic-see-06,plastic,you spot {source}.,see,0,native-L47,-0.16921772186219847
+plastic-see-07,plastic,you notice {source}.,see,0,native-L47,1.318793748301514
+plastic-see-09,plastic,"as you walk in, you see {source}.",see,0,native-L47,-2.3542852976062685
+plastic-see-16,plastic,{source} is right there where you can see it.,see,0,native-L47,1.4490508566487605
+plastic-see-17,plastic,{source} is right there where you can see it.,see,0,native-L47,1.1250894330949464
+plastic-see-22,plastic,{source} is right there where you can see it.,see,0,native-L47,-0.7042275910094253
+plastic-see-24,plastic,you spot {source}.,see,0,native-L47,-1.5382115633526323
+plastic-see-26,plastic,there is {source} in front of you.,see,0,native-L47,-0.6609116742616015
+plastic-see-28,plastic,"as you walk in, you see {source}.",see,0,native-L47,-2.552324544790049
+plastic-see-32,plastic,{source} is right there where you can see it.,see,0,native-L47,2.0324450827480307
+plastic-see-33,plastic,you look over and see {source}.,see,0,native-L47,-3.5163566816882748
+plastic-see-34,plastic,you look over and see {source}.,see,0,native-L47,-0.903358947253814
+plastic-see-36,plastic,you look over and see {source}.,see,0,native-L47,0.506900834656412
+plastic-see-38,plastic,"as you walk in, you see {source}.",see,0,native-L47,-0.08046765255547701
+plastic-see-39,plastic,you notice {source}.,see,0,native-L47,-0.252895893785594
+plastic-see-40,plastic,you look over and see {source}.,see,0,native-L47,-0.6377109769217705
+plastic-see-42,plastic,"as you walk in, you see {source}.",see,0,native-L47,0.060523225735778736
+plastic-see-43,plastic,you notice {source}.,see,0,native-L47,-2.882369913639338
+plastic-see-45,plastic,you look over and see {source}.,see,0,native-L47,-1.208510893955721
+plastic-see-50,plastic,"as you walk in, you see {source}.",see,0,native-L47,1.2618112441949827
+plastic-see-51,plastic,you spot {source}.,see,0,native-L47,0.05137722043717885
+plastic-smell-00,plastic,"as you walk in, you smell {source}.",smell,0,native-L71,15.951806591845694
+plastic-smell-01,plastic,the smell of {source} reaches you from down the hall.,smell,0,native-L71,-1.1743441309836082
+plastic-smell-02,plastic,you notice the smell of {source} from the kitchen.,smell,0,native-L71,-3.6834650529276534
+plastic-smell-06,plastic,a smell of {source} drifts over to you.,smell,0,native-L71,14.22263141788336
+plastic-smell-07,plastic,you smell {source} from the next room.,smell,0,native-L71,8.945724598134891
+plastic-smell-08,plastic,there is a smell of {source} in the air around you from down the hall.,smell,0,native-L71,5.782014468487736
+plastic-smell-10,plastic,a smell of {source} drifts over to you.,smell,0,native-L71,1.6844233747621766
+plastic-smell-12,plastic,you smell {source}.,smell,0,native-L71,8.205272245970932
+plastic-smell-13,plastic,you get a whiff of {source}.,smell,0,native-L71,8.05247770788459
+plastic-smell-14,plastic,you smell {source} from the next room.,smell,0,native-L71,6.9696789895972255
+plastic-smell-16,plastic,you smell {source}.,smell,0,native-L71,4.605740909871818
+plastic-smell-17,plastic,you can smell {source}.,smell,0,native-L71,-7.946341819247641
+plastic-smell-18,plastic,you can smell {source}.,smell,0,native-L71,-0.522951571213609
+plastic-smell-21,plastic,you get a whiff of {source}.,smell,0,native-L71,16.682114540562427
+plastic-smell-22,plastic,there is a smell of {source} in the air around you.,smell,0,native-L71,2.0594331224562876
+plastic-smell-24,plastic,you smell {source}.,smell,0,native-L71,3.3740824340192486
+plastic-smell-25,plastic,"as you walk in, you smell {source}.",smell,0,native-L71,-7.67151230687361
+plastic-smell-26,plastic,"as you walk in, you smell {source}.",smell,0,native-L71,-9.696279437897157
+plastic-smell-27,plastic,you breathe in and smell {source}.,smell,0,native-L71,18.041436470983648
+plastic-smell-29,plastic,there is a smell of {source} in the air around you from down the hall.,smell,0,native-L71,0.7651916247034197
+plastic-smell-31,plastic,you can smell {source}.,smell,0,native-L71,9.104283261653016
+plastic-smell-32,plastic,a smell of {source} drifts over to you.,smell,0,native-L71,16.15027983062256
+plastic-smell-33,plastic,a smell of {source} drifts over to you.,smell,0,native-L71,14.67457926552214
+plastic-smell-34,plastic,"as you walk in, you smell {source}.",smell,0,native-L71,-7.914384626787341
+plastic-smell-35,plastic,there is a smell of {source} in the air around you.,smell,0,native-L71,0.05805100184609488
+plastic-smell-36,plastic,a smell of {source} drifts over to you.,smell,0,native-L71,17.075418509129143
+plastic-smell-38,plastic,you notice the smell of {source}.,smell,0,native-L71,1.3117277317103906
+plastic-smell-40,plastic,you get a whiff of {source}.,smell,0,native-L71,12.616264278811382
+plastic-smell-42,plastic,you get a whiff of {source}.,smell,0,native-L71,17.913232490337613
+plastic-smell-43,plastic,you can smell {source} from down the hall.,smell,0,native-L71,5.122090600022954
+plastic-smell-44,plastic,you can smell {source}.,smell,0,native-L71,1.0400636729004038
+plastic-smell-45,plastic,a smell of {source} drifts over to you.,smell,0,native-L71,8.770214453614024
+plastic-smell-46,plastic,a smell of {source} drifts over to you.,smell,0,native-L71,11.412724653141026
+plastic-smell-47,plastic,a smell of {source} drifts over to you.,smell,0,native-L71,9.669094725880026
+plastic-smell-48,plastic,you smell {source}.,smell,0,native-L71,4.492116049003879
+plastic-smell-51,plastic,you breathe in and smell {source} from the kitchen.,smell,0,native-L71,6.289827059109009
+plastic-smell-52,plastic,you smell {source} from somewhere nearby.,smell,0,native-L71,9.720300782538459
+plastic-see-00,plastic,you notice {source}.,see,0,native-L71,7.26391438889407
+plastic-see-02,plastic,you spot {source}.,see,0,native-L71,6.343085561050516
+plastic-see-03,plastic,there is {source} in front of you.,see,0,native-L71,-12.890490594038315
+plastic-see-04,plastic,there is {source} in front of you.,see,0,native-L71,-14.53472923416894
+plastic-see-05,plastic,you spot {source}.,see,0,native-L71,10.374999258832522
+plastic-see-06,plastic,you spot {source}.,see,0,native-L71,-4.179058307971072
+plastic-see-07,plastic,you notice {source}.,see,0,native-L71,6.013388680361167
+plastic-see-09,plastic,"as you walk in, you see {source}.",see,0,native-L71,5.331059491887076
+plastic-see-16,plastic,{source} is right there where you can see it.,see,0,native-L71,1.9255086911101529
+plastic-see-17,plastic,{source} is right there where you can see it.,see,0,native-L71,1.5663176124881402
+plastic-see-22,plastic,{source} is right there where you can see it.,see,0,native-L71,0.3326754601248493
+plastic-see-24,plastic,you spot {source}.,see,0,native-L71,8.297894192071134
+plastic-see-26,plastic,there is {source} in front of you.,see,0,native-L71,5.1292759876241725
+plastic-see-28,plastic,"as you walk in, you see {source}.",see,0,native-L71,7.951997642861771
+plastic-see-32,plastic,{source} is right there where you can see it.,see,0,native-L71,7.737306330737931
+plastic-see-33,plastic,you look over and see {source}.,see,0,native-L71,9.888156130226552
+plastic-see-34,plastic,you look over and see {source}.,see,0,native-L71,8.023462639921316
+plastic-see-36,plastic,you look over and see {source}.,see,0,native-L71,12.845441023629647
+plastic-see-38,plastic,"as you walk in, you see {source}.",see,0,native-L71,11.782775239237484
+plastic-see-39,plastic,you notice {source}.,see,0,native-L71,10.085147991728572
+plastic-see-40,plastic,you look over and see {source}.,see,0,native-L71,-9.381192862547588
+plastic-see-42,plastic,"as you walk in, you see {source}.",see,0,native-L71,7.635315115489614
+plastic-see-43,plastic,you notice {source}.,see,0,native-L71,8.676198485144358
+plastic-see-45,plastic,you look over and see {source}.,see,0,native-L71,-6.086161744435426
+plastic-see-50,plastic,"as you walk in, you see {source}.",see,0,native-L71,12.420970907910142
+plastic-see-51,plastic,you spot {source}.,see,0,native-L71,11.049868381075296
+plastic-smell-03,plastic,the air around you smells of {source} from somewhere nearby.,smell,1,text-char-ngrams,0.059444853451187996
+plastic-smell-04,plastic,you pick up the scent of {source} as you walk in.,smell,1,text-char-ngrams,0.015314687863477415
+plastic-smell-05,plastic,you pick up the scent of {source} by the door.,smell,1,text-char-ngrams,0.03066635706777378
+plastic-smell-09,plastic,you pick up the scent of {source}.,smell,1,text-char-ngrams,0.04713890246496376
+plastic-smell-11,plastic,the air around you smells of {source} as you walk in.,smell,1,text-char-ngrams,0.0904029384736531
+plastic-smell-15,plastic,you pick up the scent of {source} from down the hall.,smell,1,text-char-ngrams,0.006867228959733871
+plastic-smell-19,plastic,you notice the smell of {source} by the door.,smell,1,text-char-ngrams,0.08066639699812156
+plastic-smell-20,plastic,the air around you smells of {source}.,smell,1,text-char-ngrams,0.09334776800607184
+plastic-smell-23,plastic,the smell of {source} reaches you from the kitchen.,smell,1,text-char-ngrams,0.07514878496970334
+plastic-smell-28,plastic,you pick up the scent of {source} from the next room.,smell,1,text-char-ngrams,0.03938543139401844
+plastic-smell-30,plastic,the smell of {source} reaches you.,smell,1,text-char-ngrams,0.06096987453854669
+plastic-smell-37,plastic,there is a smell of {source} in the air around you from the kitchen.,smell,1,text-char-ngrams,0.07416790397281299
+plastic-smell-39,plastic,the air around you smells of {source}.,smell,1,text-char-ngrams,0.08941680009667863
+plastic-smell-41,plastic,you catch the smell of {source}.,smell,1,text-char-ngrams,0.07942100169210911
+plastic-smell-49,plastic,the air around you smells of {source}.,smell,1,text-char-ngrams,0.09370299833302892
+plastic-smell-50,plastic,the air around you smells of {source}.,smell,1,text-char-ngrams,0.09251432082840241
+plastic-smell-53,plastic,the smell of {source} reaches you as you walk in.,smell,1,text-char-ngrams,0.06448719445260728
+plastic-see-01,plastic,you are looking at {source}.,see,1,text-char-ngrams,-0.01710472658614441
+plastic-see-08,plastic,you see {source}.,see,1,text-char-ngrams,-0.048262058181322565
+plastic-see-10,plastic,you catch sight of {source}.,see,1,text-char-ngrams,-0.011888818611347914
+plastic-see-11,plastic,{source} sits in front of you.,see,1,text-char-ngrams,-0.06751225913585616
+plastic-see-12,plastic,you are looking at {source}.,see,1,text-char-ngrams,-0.014248210900773658
+plastic-see-13,plastic,you can see {source}.,see,1,text-char-ngrams,-0.047036152999121554
+plastic-see-14,plastic,you see {source}.,see,1,text-char-ngrams,-0.042277444244898675
+plastic-see-15,plastic,you see {source}.,see,1,text-char-ngrams,-0.04562006794718448
+plastic-see-18,plastic,you see {source}.,see,1,text-char-ngrams,-0.04396729441693454
+plastic-see-19,plastic,you catch sight of {source}.,see,1,text-char-ngrams,-0.018878903279281104
+plastic-see-20,plastic,you glance at {source}.,see,1,text-char-ngrams,-0.0044775235775187106
+plastic-see-21,plastic,{source} sits in front of you.,see,1,text-char-ngrams,-0.07192342053747432
+plastic-see-23,plastic,you can see {source}.,see,1,text-char-ngrams,-0.050533491480578965
+plastic-see-25,plastic,{source} sits in front of you.,see,1,text-char-ngrams,-0.05216898981994403
+plastic-see-27,plastic,you glance at {source}.,see,1,text-char-ngrams,-0.002471438969319527
+plastic-see-29,plastic,{source} sits in front of you.,see,1,text-char-ngrams,-0.07193836155097821
+plastic-see-30,plastic,you can see {source}.,see,1,text-char-ngrams,-0.045344952318866934
+plastic-see-31,plastic,you catch sight of {source}.,see,1,text-char-ngrams,-0.0160451809621623
+plastic-see-35,plastic,you glance at {source}.,see,1,text-char-ngrams,0.0010090362904927425
+plastic-see-37,plastic,you see {source}.,see,1,text-char-ngrams,-0.029159690326941653
+plastic-see-41,plastic,{source} sits in front of you.,see,1,text-char-ngrams,-0.07047517657834623
+plastic-see-44,plastic,you are looking at {source}.,see,1,text-char-ngrams,-0.007943332103288646
+plastic-see-46,plastic,{source} sits in front of you.,see,1,text-char-ngrams,-0.07336871508312637
+plastic-see-47,plastic,you catch sight of {source}.,see,1,text-char-ngrams,-0.02200607595040891
+plastic-see-48,plastic,you see {source}.,see,1,text-char-ngrams,-0.04277945794994312
+plastic-see-49,plastic,you catch sight of {source}.,see,1,text-char-ngrams,-0.018428358503687008
+plastic-see-52,plastic,you catch sight of {source}.,see,1,text-char-ngrams,-0.02439244906254704
+plastic-see-53,plastic,you glance at {source}.,see,1,text-char-ngrams,-0.006888097005635994
+plastic-smell-03,plastic,the air around you smells of {source} from somewhere nearby.,smell,1,native-L23,3.7071443549963687
+plastic-smell-04,plastic,you pick up the scent of {source} as you walk in.,smell,1,native-L23,2.464260801960395
+plastic-smell-05,plastic,you pick up the scent of {source} by the door.,smell,1,native-L23,2.2202768237490886
+plastic-smell-09,plastic,you pick up the scent of {source}.,smell,1,native-L23,2.734198551419233
+plastic-smell-11,plastic,the air around you smells of {source} as you walk in.,smell,1,native-L23,2.951149945230073
+plastic-smell-15,plastic,you pick up the scent of {source} from down the hall.,smell,1,native-L23,2.4118861793213595
+plastic-smell-19,plastic,you notice the smell of {source} by the door.,smell,1,native-L23,1.9020139424811857
+plastic-smell-20,plastic,the air around you smells of {source}.,smell,1,native-L23,3.721317301975618
+plastic-smell-23,plastic,the smell of {source} reaches you from the kitchen.,smell,1,native-L23,2.455944348867795
+plastic-smell-28,plastic,you pick up the scent of {source} from the next room.,smell,1,native-L23,2.306417794632268
+plastic-smell-30,plastic,the smell of {source} reaches you.,smell,1,native-L23,3.1364962701652477
+plastic-smell-37,plastic,there is a smell of {source} in the air around you from the kitchen.,smell,1,native-L23,2.0453574524989717
+plastic-smell-39,plastic,the air around you smells of {source}.,smell,1,native-L23,3.695943263748357
+plastic-smell-41,plastic,you catch the smell of {source}.,smell,1,native-L23,3.1798403957061185
+plastic-smell-49,plastic,the air around you smells of {source}.,smell,1,native-L23,3.7448910398064097
+plastic-smell-50,plastic,the air around you smells of {source}.,smell,1,native-L23,3.7798082912246596
+plastic-smell-53,plastic,the smell of {source} reaches you as you walk in.,smell,1,native-L23,2.5776779945251747
+plastic-see-01,plastic,you are looking at {source}.,see,1,native-L23,-0.7658061849680626
+plastic-see-08,plastic,you see {source}.,see,1,native-L23,-2.124399349787399
+plastic-see-10,plastic,you catch sight of {source}.,see,1,native-L23,-1.0498389549984992
+plastic-see-11,plastic,{source} sits in front of you.,see,1,native-L23,-2.869034552270918
+plastic-see-12,plastic,you are looking at {source}.,see,1,native-L23,-1.4658543470975562
+plastic-see-13,plastic,you can see {source}.,see,1,native-L23,-0.6958664456730392
+plastic-see-14,plastic,you see {source}.,see,1,native-L23,-2.182656978821588
+plastic-see-15,plastic,you see {source}.,see,1,native-L23,-2.193861993700226
+plastic-see-18,plastic,you see {source}.,see,1,native-L23,-0.6541886869753435
+plastic-see-19,plastic,you catch sight of {source}.,see,1,native-L23,-0.6993603416144634
+plastic-see-20,plastic,you glance at {source}.,see,1,native-L23,-0.8159218700166753
+plastic-see-21,plastic,{source} sits in front of you.,see,1,native-L23,-2.9563078268008613
+plastic-see-23,plastic,you can see {source}.,see,1,native-L23,-2.3462418498111672
+plastic-see-25,plastic,{source} sits in front of you.,see,1,native-L23,-2.82839924368502
+plastic-see-27,plastic,you glance at {source}.,see,1,native-L23,-0.5313163060449511
+plastic-see-29,plastic,{source} sits in front of you.,see,1,native-L23,-2.7755266384532202
+plastic-see-30,plastic,you can see {source}.,see,1,native-L23,-2.101077655474461
+plastic-see-31,plastic,you catch sight of {source}.,see,1,native-L23,-0.8099742594243093
+plastic-see-35,plastic,you glance at {source}.,see,1,native-L23,-0.8636800048555464
+plastic-see-37,plastic,you see {source}.,see,1,native-L23,-2.167352349656327
+plastic-see-41,plastic,{source} sits in front of you.,see,1,native-L23,-3.010032617284085
+plastic-see-44,plastic,you are looking at {source}.,see,1,native-L23,-1.8397033760670918
+plastic-see-46,plastic,{source} sits in front of you.,see,1,native-L23,-3.086054583094267
+plastic-see-47,plastic,you catch sight of {source}.,see,1,native-L23,-1.12580921731379
+plastic-see-48,plastic,you see {source}.,see,1,native-L23,-1.7838577036003787
+plastic-see-49,plastic,you catch sight of {source}.,see,1,native-L23,-0.4146664130992024
+plastic-see-52,plastic,you catch sight of {source}.,see,1,native-L23,0.026383444110432877
+plastic-see-53,plastic,you glance at {source}.,see,1,native-L23,-0.5877672958663002
+plastic-smell-03,plastic,the air around you smells of {source} from somewhere nearby.,smell,1,native-L47,7.202032535638978
+plastic-smell-04,plastic,you pick up the scent of {source} as you walk in.,smell,1,native-L47,6.931147352641439
+plastic-smell-05,plastic,you pick up the scent of {source} by the door.,smell,1,native-L47,6.95885286420933
+plastic-smell-09,plastic,you pick up the scent of {source}.,smell,1,native-L47,4.167114244930373
+plastic-smell-11,plastic,the air around you smells of {source} as you walk in.,smell,1,native-L47,6.6054145284185495
+plastic-smell-15,plastic,you pick up the scent of {source} from down the hall.,smell,1,native-L47,5.878834392230911
+plastic-smell-19,plastic,you notice the smell of {source} by the door.,smell,1,native-L47,4.5865793348761175
+plastic-smell-20,plastic,the air around you smells of {source}.,smell,1,native-L47,6.6293694666015
+plastic-smell-23,plastic,the smell of {source} reaches you from the kitchen.,smell,1,native-L47,5.416683037576391
+plastic-smell-28,plastic,you pick up the scent of {source} from the next room.,smell,1,native-L47,5.566013128066636
+plastic-smell-30,plastic,the smell of {source} reaches you.,smell,1,native-L47,6.070220608923187
+plastic-smell-37,plastic,there is a smell of {source} in the air around you from the kitchen.,smell,1,native-L47,4.658438061025869
+plastic-smell-39,plastic,the air around you smells of {source}.,smell,1,native-L47,7.408177609363669
+plastic-smell-41,plastic,you catch the smell of {source}.,smell,1,native-L47,6.675722419656346
+plastic-smell-49,plastic,the air around you smells of {source}.,smell,1,native-L47,7.419217272909744
+plastic-smell-50,plastic,the air around you smells of {source}.,smell,1,native-L47,7.340559867888284
+plastic-smell-53,plastic,the smell of {source} reaches you as you walk in.,smell,1,native-L47,5.829869158830773
+plastic-see-01,plastic,you are looking at {source}.,see,1,native-L47,-0.2643291304991869
+plastic-see-08,plastic,you see {source}.,see,1,native-L47,-2.7436806902432056
+plastic-see-10,plastic,you catch sight of {source}.,see,1,native-L47,1.7071907122808323
+plastic-see-11,plastic,{source} sits in front of you.,see,1,native-L47,-1.99104002636218
+plastic-see-12,plastic,you are looking at {source}.,see,1,native-L47,-3.3475039415841157
+plastic-see-13,plastic,you can see {source}.,see,1,native-L47,0.3531651442844642
+plastic-see-14,plastic,you see {source}.,see,1,native-L47,-2.1291050443725457
+plastic-see-15,plastic,you see {source}.,see,1,native-L47,-2.110773102478087
+plastic-see-18,plastic,you see {source}.,see,1,native-L47,1.1320867180983656
+plastic-see-19,plastic,you catch sight of {source}.,see,1,native-L47,0.9156164316161451
+plastic-see-20,plastic,you glance at {source}.,see,1,native-L47,1.0982489491914382
+plastic-see-21,plastic,{source} sits in front of you.,see,1,native-L47,-2.1323184116937517
+plastic-see-23,plastic,you can see {source}.,see,1,native-L47,-3.007394568467262
+plastic-see-25,plastic,{source} sits in front of you.,see,1,native-L47,-0.2559927736265842
+plastic-see-27,plastic,you glance at {source}.,see,1,native-L47,2.1618527006469357
+plastic-see-29,plastic,{source} sits in front of you.,see,1,native-L47,-2.1162411004052686
+plastic-see-30,plastic,you can see {source}.,see,1,native-L47,-1.3116811870793976
+plastic-see-31,plastic,you catch sight of {source}.,see,1,native-L47,0.4349612151992467
+plastic-see-35,plastic,you glance at {source}.,see,1,native-L47,1.9205655457105333
+plastic-see-37,plastic,you see {source}.,see,1,native-L47,-0.5436864787378448
+plastic-see-41,plastic,{source} sits in front of you.,see,1,native-L47,-1.859594521554269
+plastic-see-44,plastic,you are looking at {source}.,see,1,native-L47,-1.5256538451024673
+plastic-see-46,plastic,{source} sits in front of you.,see,1,native-L47,-2.702816151520519
+plastic-see-47,plastic,you catch sight of {source}.,see,1,native-L47,-0.41652944807575476
+plastic-see-48,plastic,you see {source}.,see,1,native-L47,-2.2785314631588998
+plastic-see-49,plastic,you catch sight of {source}.,see,1,native-L47,0.9906509362677782
+plastic-see-52,plastic,you catch sight of {source}.,see,1,native-L47,2.4488611075563926
+plastic-see-53,plastic,you glance at {source}.,see,1,native-L47,2.280482709761128
+plastic-smell-03,plastic,the air around you smells of {source} from somewhere nearby.,smell,1,native-L71,15.267975030631717
+plastic-smell-04,plastic,you pick up the scent of {source} as you walk in.,smell,1,native-L71,17.093711631635216
+plastic-smell-05,plastic,you pick up the scent of {source} by the door.,smell,1,native-L71,6.933615022331159
+plastic-smell-09,plastic,you pick up the scent of {source}.,smell,1,native-L71,-0.4362175661274253
+plastic-smell-11,plastic,the air around you smells of {source} as you walk in.,smell,1,native-L71,-4.906378412233889
+plastic-smell-15,plastic,you pick up the scent of {source} from down the hall.,smell,1,native-L71,5.343975274259279
+plastic-smell-19,plastic,you notice the smell of {source} by the door.,smell,1,native-L71,-1.9093181653215372
+plastic-smell-20,plastic,the air around you smells of {source}.,smell,1,native-L71,-7.766056724910666
+plastic-smell-23,plastic,the smell of {source} reaches you from the kitchen.,smell,1,native-L71,1.885846720241131
+plastic-smell-28,plastic,you pick up the scent of {source} from the next room.,smell,1,native-L71,6.779728766819561
+plastic-smell-30,plastic,the smell of {source} reaches you.,smell,1,native-L71,14.467801832907664
+plastic-smell-37,plastic,there is a smell of {source} in the air around you from the kitchen.,smell,1,native-L71,1.4991189488410281
+plastic-smell-39,plastic,the air around you smells of {source}.,smell,1,native-L71,7.9040014384252295
+plastic-smell-41,plastic,you catch the smell of {source}.,smell,1,native-L71,20.857245169747607
+plastic-smell-49,plastic,the air around you smells of {source}.,smell,1,native-L71,-2.1249323982688786
+plastic-smell-50,plastic,the air around you smells of {source}.,smell,1,native-L71,-6.187583685568297
+plastic-smell-53,plastic,the smell of {source} reaches you as you walk in.,smell,1,native-L71,23.613765801636454
+plastic-see-01,plastic,you are looking at {source}.,see,1,native-L71,16.582557500339497
+plastic-see-08,plastic,you see {source}.,see,1,native-L71,12.691910671490513
+plastic-see-10,plastic,you catch sight of {source}.,see,1,native-L71,18.97700063807622
+plastic-see-11,plastic,{source} sits in front of you.,see,1,native-L71,-8.697930511139571
+plastic-see-12,plastic,you are looking at {source}.,see,1,native-L71,14.072302580696945
+plastic-see-13,plastic,you can see {source}.,see,1,native-L71,17.901825554113262
+plastic-see-14,plastic,you see {source}.,see,1,native-L71,14.613491811136118
+plastic-see-15,plastic,you see {source}.,see,1,native-L71,1.2626469602481598
+plastic-see-18,plastic,you see {source}.,see,1,native-L71,17.90718878546464
+plastic-see-19,plastic,you catch sight of {source}.,see,1,native-L71,19.82457511269221
+plastic-see-20,plastic,you glance at {source}.,see,1,native-L71,17.414176106695326
+plastic-see-21,plastic,{source} sits in front of you.,see,1,native-L71,-6.213925788014423
+plastic-see-23,plastic,you can see {source}.,see,1,native-L71,12.289986326168249
+plastic-see-25,plastic,{source} sits in front of you.,see,1,native-L71,15.64334501181309
+plastic-see-27,plastic,you glance at {source}.,see,1,native-L71,19.303178132465526
+plastic-see-29,plastic,{source} sits in front of you.,see,1,native-L71,0.5732503815770833
+plastic-see-30,plastic,you can see {source}.,see,1,native-L71,5.7504363438742825
+plastic-see-31,plastic,you catch sight of {source}.,see,1,native-L71,17.874072004167463
+plastic-see-35,plastic,you glance at {source}.,see,1,native-L71,16.792591910228914
+plastic-see-37,plastic,you see {source}.,see,1,native-L71,11.813839764877219
+plastic-see-41,plastic,{source} sits in front of you.,see,1,native-L71,-7.274871283840593
+plastic-see-44,plastic,you are looking at {source}.,see,1,native-L71,11.159349139428448
+plastic-see-46,plastic,{source} sits in front of you.,see,1,native-L71,7.4216819195012
+plastic-see-47,plastic,you catch sight of {source}.,see,1,native-L71,19.365075909394402
+plastic-see-48,plastic,you see {source}.,see,1,native-L71,9.242560549454833
+plastic-see-49,plastic,you catch sight of {source}.,see,1,native-L71,14.379300867306341
+plastic-see-52,plastic,you catch sight of {source}.,see,1,native-L71,21.04827396111648
+plastic-see-53,plastic,you glance at {source}.,see,1,native-L71,21.326470654786625

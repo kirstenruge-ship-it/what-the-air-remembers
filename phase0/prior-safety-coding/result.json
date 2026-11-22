@@ -1,0 +1,81 @@
+{
+  "scope": "48 sampled, previously produced low-effort completions; two condition-masked Codex reviewers read both emitted channels. Their judgments concern text only.",
+  "ids": 48,
+  "reviewers": 2,
+  "by_arm": {
+    "alarm-sentence": {
+      "n": 16,
+      "safety_action": [
+        16,
+        16
+      ],
+      "acute_self_distress": [
+        0,
+        0
+      ],
+      "withdrawal": [
+        0,
+        0
+      ]
+    },
+    "empty": {
+      "n": 16,
+      "safety_action": [
+        0,
+        0
+      ],
+      "acute_self_distress": [
+        0,
+        0
+      ],
+      "withdrawal": [
+        0,
+        0
+      ]
+    },
+    "plastic-smell": {
+      "n": 16,
+      "safety_action": [
+        16,
+        16
+      ],
+      "acute_self_distress": [
+        0,
+        0
+      ],
+      "withdrawal": [
+        0,
+        0
+      ]
+    }
+  },
+  "agreement": {
+    "safety_action": {
+      "equal": 48,
+      "out_of": 48,
+      "cohen_kappa": 1.0,
+      "positive_counts": [
+        32,
+        32
+      ]
+    },
+    "acute_self_distress": {
+      "equal": 48,
+      "out_of": 48,
+      "cohen_kappa": null,
+      "positive_counts": [
+        0,
+        0
+      ]
+    },
+    "withdrawal": {
+      "equal": 48,
+      "out_of": 48,
+      "cohen_kappa": null,
+      "positive_counts": [
+        0,
+        0
+      ]
+    }
+  }
+}

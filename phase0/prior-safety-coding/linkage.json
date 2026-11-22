@@ -1,0 +1,242 @@
+{
+  "0022f72e1ba5d273": {
+    "stage": "cells-k2",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s13"
+  },
+  "04960c3bef411f8b": {
+    "stage": "cells-k1",
+    "arm": "empty",
+    "trial": "empty-s11"
+  },
+  "06313fc37a14c8b9": {
+    "stage": "cells-k2",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s03"
+  },
+  "08b0c3d6dab4e9a9": {
+    "stage": "cells-k2",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s14"
+  },
+  "0913382f50ae3a07": {
+    "stage": "cells-k1",
+    "arm": "empty",
+    "trial": "empty-s22"
+  },
+  "1a8a103019b82ad3": {
+    "stage": "cells-k2",
+    "arm": "empty",
+    "trial": "empty-s10"
+  },
+  "20e3df94699be1e2": {
+    "stage": "cells-k1",
+    "arm": "empty",
+    "trial": "empty-s29"
+  },
+  "24fd6cf64129c8c4": {
+    "stage": "cells-k1",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s07"
+  },
+  "2d8da86d439bf560": {
+    "stage": "cells-k2",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s11"
+  },
+  "2efa0b2e7678a10e": {
+    "stage": "cells-k2",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s20"
+  },
+  "3538cae62c1f2319": {
+    "stage": "cells-k1",
+    "arm": "empty",
+    "trial": "empty-s10"
+  },
+  "36aaf8e7c3dedb9c": {
+    "stage": "cells-k2",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s07"
+  },
+  "428ef8bfe0e2ef1e": {
+    "stage": "cells-k1",
+    "arm": "empty",
+    "trial": "empty-s25"
+  },
+  "446b92e1a7f51c43": {
+    "stage": "cells-k1",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s20"
+  },
+  "4855420293741574": {
+    "stage": "cells-k2",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s09"
+  },
+  "56667c68bee28ae1": {
+    "stage": "cells-k1",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s05"
+  },
+  "5a4049c95c74c884": {
+    "stage": "cells-k2",
+    "arm": "empty",
+    "trial": "empty-s12"
+  },
+  "5e86a27c0b4b9b0b": {
+    "stage": "cells-k2",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s18"
+  },
+  "63ad97bc09932d2a": {
+    "stage": "cells-k2",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s01"
+  },
+  "65e45eb67da1cd06": {
+    "stage": "cells-k1",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s04"
+  },
+  "6d3170a9f6737f2b": {
+    "stage": "cells-k2",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s10"
+  },
+  "6ed35ceff0b19d16": {
+    "stage": "cells-k2",
+    "arm": "empty",
+    "trial": "empty-s03"
+  },
+  "6ef144cc3be0a60f": {
+    "stage": "cells-k2",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s14"
+  },
+  "73af40c7c35adec6": {
+    "stage": "cells-k2",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s02"
+  },
+  "7b3a9ccb334871f4": {
+    "stage": "cells-k2",
+    "arm": "empty",
+    "trial": "empty-s02"
+  },
+  "7ddace553b41c1f9": {
+    "stage": "cells-k2",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s16"
+  },
+  "81b01ced3a87b339": {
+    "stage": "cells-k1",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s08"
+  },
+  "842d6770f201685c": {
+    "stage": "cells-k1",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s01"
+  },
+  "8c1dd0fe6e1f7299": {
+    "stage": "cells-k1",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s26"
+  },
+  "8d5051bfa3b9cae9": {
+    "stage": "cells-k2",
+    "arm": "empty",
+    "trial": "empty-s04"
+  },
+  "9121129ff3ca5253": {
+    "stage": "cells-k1",
+    "arm": "empty",
+    "trial": "empty-s30"
+  },
+  "9221bfaf53242c50": {
+    "stage": "cells-k1",
+    "arm": "empty",
+    "trial": "empty-s01"
+  },
+  "97f660e7216e4bb0": {
+    "stage": "cells-k1",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s14"
+  },
+  "a03601b15bbdeca3": {
+    "stage": "cells-k1",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s17"
+  },
+  "a3722e68c4dc4fda": {
+    "stage": "cells-k1",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s11"
+  },
+  "a890f9dd9cfbbe50": {
+    "stage": "cells-k1",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s27"
+  },
+  "b4c6f7a9ca523cb7": {
+    "stage": "cells-k2",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s13"
+  },
+  "bf0f808afcc933dd": {
+    "stage": "cells-k1",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s01"
+  },
+  "c98313881b2b22c5": {
+    "stage": "cells-k2",
+    "arm": "empty",
+    "trial": "empty-s06"
+  },
+  "d6ebf7038e8eec7e": {
+    "stage": "cells-k2",
+    "arm": "empty",
+    "trial": "empty-s20"
+  },
+  "db0ba128b593c148": {
+    "stage": "cells-k2",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s20"
+  },
+  "db72661b1daef602": {
+    "stage": "cells-k1",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s09"
+  },
+  "db853d66e139711b": {
+    "stage": "cells-k2",
+    "arm": "empty",
+    "trial": "empty-s07"
+  },
+  "e0da459da7a7fa55": {
+    "stage": "cells-k1",
+    "arm": "empty",
+    "trial": "empty-s17"
+  },
+  "e4d9798a7d18698d": {
+    "stage": "cells-k1",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s26"
+  },
+  "ed58ef890af9300c": {
+    "stage": "cells-k1",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s15"
+  },
+  "f85fc178c131da09": {
+    "stage": "cells-k2",
+    "arm": "plastic-smell",
+    "trial": "plastic-smell-s02"
+  },
+  "fd4fd8771614a195": {
+    "stage": "cells-k1",
+    "arm": "alarm-sentence",
+    "trial": "alarm-sentence-s23"
+  }
+}

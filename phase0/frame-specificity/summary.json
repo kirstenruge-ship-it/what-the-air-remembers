@@ -1,0 +1,45 @@
+{
+  "prompts": 432,
+  "objects": [
+    "celery",
+    "cookies",
+    "neutral",
+    "plastic"
+  ],
+  "distinct_normalized_templates": 68,
+  "feature_results": {
+    "native-L23": {
+      "macro_auc": 1.0,
+      "range_auc": [
+        1.0,
+        1.0
+      ],
+      "macro_accuracy": 0.9972222222222222
+    },
+    "native-L47": {
+      "macro_auc": 1.0,
+      "range_auc": [
+        1.0,
+        1.0
+      ],
+      "macro_accuracy": 0.9471521942110177
+    },
+    "native-L71": {
+      "macro_auc": 0.7575405650136708,
+      "range_auc": [
+        0.3172268907563025,
+        0.9989795918367347
+      ],
+      "macro_accuracy": 0.6671585827313381
+    },
+    "text-char-ngrams": {
+      "macro_auc": 0.9777242349384925,
+      "range_auc": [
+        0.927120669056153,
+        1.0
+      ],
+      "macro_accuracy": 0.9182498292723018
+    }
+  },
+  "scope": "Unmodified archival representations from explicitly worded odor/sight prompts; no new model calls."
+}
