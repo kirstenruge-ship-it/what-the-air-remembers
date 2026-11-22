@@ -1,0 +1,32 @@
+{
+  "utc": "2026-11-22T05:31:34+00:00",
+  "type": "live-harvest validator repair",
+  "reason": "Native Pydantic echo expands omitted capture flags to false; compare semantic values, fail on genuine request change. Existing saved generations reused; no replacement draw.",
+  "first_raw_responses": {
+    "primary": [
+      "h0-as-9307c56722d42e4d58e3-clean"
+    ],
+    "b": [
+      "h0-as-9307c56722d42e4d58e3-clean"
+    ],
+    "c": [
+      "h0-as-9307c56722d42e4d58e3-clean"
+    ]
+  },
+  "changed_source_files": {
+    "native.py": {
+      "before": "fc8dcab48896d7acc2124a5c30acd2825aa32d7ff357e8d3ca965b34983f02d5",
+      "after": "5bc56c86fa281b90d6cb09e2e68465ab31ad8c020a240da6d893b69458afd3f7"
+    },
+    "operations/native_h0.py": {
+      "before": "aeed443d8963828fdade815feb871e91046e72136fabbb4d285e60806737c42b",
+      "after": "e700730fe5fb011bb109c92f8e0b72aa06cd8b8a5039c2d34388ecc97cc34713"
+    },
+    "operations/retry.py": {
+      "before": "82c249c2b15b26e4d089efedd6f62f217507e909bd6596f38a4948828dcc366b",
+      "after": "35b1beb437a97c02d184f2611bacc04d28edb765caa38662f6bbaeb1e30cfaaf"
+    }
+  },
+  "new_test": "native_echo_test.py",
+  "test_count": 8
+}
